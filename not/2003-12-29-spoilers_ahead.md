@@ -1,0 +1,22 @@
+---
+title: Spoilers Ahead, Full Speed!
+slug: spoilers_ahead
+date_published: 2003-12-29T18:04:21.000Z
+date_updated: 2003-12-29T18:04:21.000Z
+tags: Best Of, random ha-ha, tech
+---
+
+The current bane of my existence? Spoiler queens. "Don’t tell meeeeee!" they shriek. You know you’ve got one, too, someone who *insists* that the world will end if they know the end of a movie or TV show or book or sporting event in advance of their consumption of the media product, sometimes even when it’s not a product they have any intention of consuming.
+
+Here’s a tip for all of you who go around with your eyes covered and your fingers in your ears, lashing out with unfettered vitriol against the normal conversations of people around you: You already know how the goddamn movie ends. Think you don’t? Well, we can provide a guide and perhaps you’ll develop the ability to extrapolate simple conclusions from extremely obvious setups.
+
+Is this an American film in broad release? Does it feature (1) actors whom you have heard of, (2) explosions, (3) breasts, (4) cars, or (5) music? Then, I hate to break it to you, but THE GOOD GUYS WIN. There, I fucking said it. THE GOOD GUYS WIN. That stupid [Honey](http://www.imdb.com/title/tt0322589/) movie with the hot chick who shouldn’t be dancing hip hop but somehow is and has to win the contest in order to save the orphanage or whatever? I have not seen this film, indeed I’m fairly sure I have the details wrong, but I can tell you this: She saves the goddamn orphans. Sure, her parents are against the fact that she’s parading her body around like a filthy whore, and the town doesn’t think she can scrape together the talent and focus to put on a show that’s good enough to raise the money, but hey whadaya know. The good guys win.
+[Cold Mountain](http://www.imdb.com/title/tt0159365/). Haven’t seen it, ain’t gonna see it. But it’s about the Civil War. And guess what? *The good guys win*. I don’t care how many Oscars they’re bucking for in that crapstravaganza, the South does *not* come out of this one alive. Sure, you lose some good people along the way, and somehow I think it’s supposed to be a love story, but I’ll tell you what, the Union wins and everyone goes home after the war.
+
+Haven’t seen the new Lord of the Rings movie yet? Well, here’s some details you already knew: There’s lots more running around and fighting, more goblins and trolls and unicorns and all that shit, and then the fucking good guys win. I know, I know, you’re thinking “You mean my 40 hours of loyal slobbering over bad dialogue isn’t rewarded by seeing a piece of jewelry destroy the entire fictious universe?" but alas, it is so. Don’t get me started on the fact that the "bad guys" are the brown people from the East who are riding elephants, carrying scimitars, and wearing turbans. The books were written by a British guy, let’s not forget.
+
+I can’t understand how people get into the denial mentality that gets them so fixated on spoilers. The new Star Wars movies were another good example; We’ve known what happens to Darth Vader for *twenty years* and people are still trying to make sure they don’t "find out". (Hint: Good guys win.) I think it relates to how people see life and death in general. I mean, it’s the ultimate spoiler: You, along with every person you know, and every person you’ve *ever* known, are going to die. I hate to be the one to break it to ya. At least I didn’t tell you *how* you were going to die.
+
+So there’s a question that always comes up in my mind. If these people can’t enjoy a book when they know how it turns out, how do they enjoy their lives? I mean, you’re going to end up donated in pieces to science or planted in the ground or burned to ashes. Me, I’m hoping for a little bit of each. But that’s not keeping me from liking the story along the way. In fact, it probably makes me enjoy it even more.
+
+Therefore, I insist that Spoiler Queens of the world officially get over it. Now. Stop nellying about with blinders on, pouting and bitching when the inevitable, hackneyed, predictable ending to your literature, your films, your life comes along. I hate having to keep ruining endings for people, ("They hit an iceberg, and the ship sinks and they die. Then dinosaurs come down on space ships and eat their corpses.") but it seems the only humane thing to do to these people. The rest of us are busy enjoying the trip despite the fact that we’ve seen all this bullshit before and we know how it turns out.

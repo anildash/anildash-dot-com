@@ -1,0 +1,16 @@
+---
+title: genetically modified crops
+slug: genetically_mod
+date_published: 1999-08-02T16:00:00.000Z
+date_updated: 1999-08-02T16:00:00.000Z
+---
+
+I’ve been thinking about **genetically modified crops**, or, as the Europeans call them, GM Products. And, for once, I think that the Europeans are right and we Americans are wrong. Basically, we’ve got crops (typically staples like corn, etc.) **bioengineered for resistance** to either pests or pesticides. It’s not usually done to increase yields because the plants are so hardy already.
+
+Now there are three main issues. First, the biological implications of this haven’t been studied very effectively. In fact, GM crops can even be sold as "organic" because the [FDA](http://www.fda.gov)**requires no additional notices or warnings** on them. Already, we have reports of significant effects on the Monarch butterfly population due to GM corn. Most of the reports on the safety and harmlessness of the GM crops were submitted to the FDA **by the agri-biz companies themselves**.
+
+Second, **GM crops are sterile**, as designed by the corporations who engineered them. This makes farmers dependent on the agri-business giants for seeds **every year**. While American farmers are very used to being enslaved to these companies, ([Monsanto](http://www.monsanto.co.uk/primer/question5.html) being chief among them.) other nations, particularly third-world and developing nations, have many legitimate reasons to be wary of this situation. Despite promises that they won’t encourage dependency, there is **little reason**, between the "safety checks" and "assurances of economic independence", to believe that Monsanto is **any more trustworthy than [Philip Morris](http://www.pmdocs.com)**.
+
+Third, there has been **almost no press coverage** here in the U.S. on this topic. Although the [Times](http://www.nytimes.com) (annoying registration required) has done an admirable job of trying to report on it, including a cover story in the Sunday Magazine this past spring, I have barely seen this story covered. The only exceptions seem to be a few mentions on TV, most of which report on **"Those Crazy Europeans and Their Overreactions"**, with the basis for their hysteria being blamed on leftover ill will from the [Mad Cow](http://www.madcow.com/) Scare.
+
+The articles that the Times has scared up are mostly in this vein, as these examples ([20 July, 1998](http://search.nytimes.com/auth/login?Tag=/&amp;URI=/search/daily/bin/fastweb%253Fgetdoc%252Bsite%252Bsite%252B32939%252B0%252BwAAA%252Bgenetic%25257Emodified%25257Ecrops&amp;); [14 July, 1999](http://search.nytimes.com/search/daily/bin/fastweb?getdoc+site+site+27311+1+wAAA+genetic%7Emodified%7Ecrops); [2 May, 1998](http://search.nytimes.com/search/daily/bin/fastweb?getdoc+site+site+74358+11+wAAA+genetic%7Emodified%7Ecrops)) show. The exceptions are getting more numerous, however, and the facts are startling how much GM food is actually out there. According [this article](http://search.nytimes.com/search/daily/bin/fastweb?getdoc+site+site+70987+3+wAAA+Genetically%7EModified%7EFood%7E), **one-third** of our corn and **38%** of our soybeans are genetically modified. **I hope people get educated on this stuff**.

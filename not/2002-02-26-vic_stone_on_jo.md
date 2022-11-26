@@ -1,0 +1,14 @@
+---
+title: vic stone on joel on software
+slug: vic_stone_on_jo
+date_published: 2002-02-26T19:11:32.000Z
+date_updated: 2002-02-26T19:11:32.000Z
+---
+
+Now comes [The Baggage Factor](http://fourstones.net/mail04.html) in which Victor Stone calls out [Joel “On Software” Spolsky](http://www.joelonsoftware.com/), but in doing so most reveals more about what he hates in his *own* career, not Joel’s. I’ve been reading Victor’s work since back when he was an [MSDN](http://msdn.microsoft.com)[columnist](http://msdn.microsoft.com/voices/stone.asp), and his ability to succinctly knife into the soft gut of bureaucratic software development processes in this way is precisely what made his pieces such compelling reading. But it ignores the fact that the process he maligns so vehemently resulted in products that are, by many measures, *successful*.
+
+Or, to put it another way, there are clearly evil or, worse, useless program managers. Perhaps even an overwhelming majority of the people in that position are. But it’s a *necessary* evil, especially in light of the marketing skills of most programmers. Savaging Joel’s experience in that realm doesn’t address the reality that the processes Joel documents are necessary parts of the software creation business. This is perhaps best evidenced by the half step backwards Victor takes in his sidebar, clearly the work of a temper slightly cooling.
+
+And Victor tips his hand right at the start: “My biggest problem with Joel is that he claims to have all the answers…” This is, as ever, an authority problem. And I can relate. But it’s a requisite in the world of business to speak with authority if you want your words to be heard. Claiming to have *half* an answer doesn’t build your reputation. It’s a manifestation of Joel’s orientation towards creating a great shipping product for which *there is actually demand*. This same tone of authority is innate in Victor’s utter dismissal of PMs. They’re on the same side on this, and I see in Victor’s writing the same unfortunate tendency that I have, of taking a person’s words as a starting point for an angry rant, and making it sound like it’s an essay railing against the *person*, instead of the idea.
+
+To phrase it in the metaphor of the essay itself, Joel’s words need to be taken in the context of a man whose baggage is having been an Excel PM. For someone in those shoes to write (and *act* in accordance with those writings!) like Joel does is remarkable, and it doesn’t serve either of these guys to create an antagonism between people with similar goals. [**Addendum:** Victor points out that I was conflating Product Unit Managers and Program Managers, an egregrious error considering Vic’s words on PUMs: “I have nothing but respect for those guys/girls.” Sorry ’bout that. This murks up my argument a bit, but I bet I’m softhearted enough I’d find a way to be an apologist for both positions anyway.]

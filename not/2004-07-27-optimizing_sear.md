@@ -1,0 +1,35 @@
+---
+title: Optimizing Search Engine Optimization
+slug: optimizing_sear
+date_published: 2004-07-27T15:38:11.000Z
+date_updated: 2004-07-27T15:38:11.000Z
+tags: Most Popular, tech
+---
+
+A few months ago, two companies in the search optimization space teamed up to start a [contest](http://www.darkblue.com/seochallenge/), based on a challenge to see who could be the first result for the gibberish phrase "Nigritude Ultramarine". Winning the contest consisted of being the top result on Google for that search either on June 7 (the "player" prize) or a month later, on July 7 (the "stayer" prize).
+
+I’ve had a fairly poor impression of the Search Engine Optimization Industry, so I entered the contest on June 4. My site became the number one search result late on June 8, so I missed winning the first round, but I held the position for the rest of the month (and my site is still the first result, as of this writing) and won the Stayer’s Prize.
+
+My prize was a [beautiful](http://www.anildash.com/photos/onthego2/anilblog_81.html)[Sony monitor](http://www.amazon.com/exec/obidos/ASIN/B0000918VX/2020-20/ref=nosim). Michael Robertson and the other folks involved with the contest were cordial and prompt, and the monitor arrived in the middle of last week. In fact, I’ve been in the middle of [moving](http://www.dashes.com/anil/2004/07/20/on_leaving_new_), and just after we’d settled in, the first ring at our doorbell was from UPS, bearing a big Sony box courtesy of Amazon. Now *that*‘s a housewarming gift.
+
+But more interesting to me has been the reaction people have had, first to my entry in the contest, second to my ranking in the search results (the term people seem to favor in email is "dominance" but that doesn’t sound very humble) and finally their response to my win of the second-stage prize.
+
+There are a significant number of really supportive emails, of course. People generously linked to my [original Nigritude Ultramarine post](http://www.dashes.com/anil/2004/06/04/nigritude_ultra), and I think they felt a sense of accomplishment in helping me win. There’s nothing the blogosphere loves more than [angry mob justice](http://www.dashes.com/anil/2004/06/27/learning_from_e), and I probably benefitted from tapping into a bit of angry mob antipathy towards the SEO industry. Though many, perhaps even most, people in the SEO industry behave ethically, the reality is that much of the SEO industry has treated the weblog medium with an attitude ranging from crass opportunism or exploitation to downright abuse, in the form of comment spam, referral spam, and fake, content-free blogs.
+
+So, as with all things in the blog world, we confuse an angry link with actual Fight The Power action, and this is one of the few cases where that link actually had some effect. Predictably, I got a decent number of emails from angry members of the SEO industry. The most legitimate were from people who use ethical and honorable ways of helping optimize their clients’ sites for search engines, and resented my insufficiently nuanced assessment of their industry.
+
+I do agree that there are people doing great work, encourage valid, semantically-rich markup, and well-targeted content that’s easy to link to. I would think, though, that the efforts of that group are better spent on either defining a code of ethics by which businesses can judge members of the SEO industry, or by working to repair the image of their chosen field. That the entire endeavor is regularly equated with spammers and referred to as "scum" isn’t the fault of those of us who talk about the business. Web communities are good at collaborative problem solving and ferreting out obscure information; couldn’t the legitimate SEO community band together to find out the identities of known SEO spammers and out them?
+
+There were even some [fairly detailed critiques](http://www.hunterhost.com/articles/nigritude-ultramarine-02.html) that said I shouldn’t have entered the contest because this isn’t my business. I can understand the resistance to an outsider entering any community’s contests, but I think that, though I did essentially enter the contest on a lark, it served to illustrate a larger point. MBA types like to say that the rail industry didn’t understand it was in the *transportation* business, not the train business, and so lost out to the development of the interstate highways and air travel. That’s an oversimplification, but the SEO industry does need to learn that its real business is in helping clients make information that’s compelling enough that potential customers *want* to find it. Once they’ve created that information, it behooves them to make it as accessible and sharable as possible, and to provide affordance for easily keeping it up to date.
+
+Publishing of interesting content that readers can share with each other, provide feedback on, and easily update? Hey, waitaminute… that *is* my business! And the comment that "Sadly, Dash put a cap on the amount of new information that this contest was going to generate." is just sad. A bunch of quitters are blaming me because they don’t want to keep trying?
+
+There’s a part of me that’s always felt that, if you’re a professional at a certain trade, and I can come in as an amateur and do better than you, then you probably suck. Generally, it’s an ethic that I’m reminded of when I see amateur hour at a comedy show or when I find myself in a low-end art gallery. "*I* could do better than this." If this is your trade and you can’t beat someone who came in at the last minute to enter a contest that’s gotten the attention of nearly everyone in your field, it’s time to rethink your strategy.
+
+My suggestions? Write good content. Develop an audience that cares about what you’re doing. Do something that’s relevant to people in your field.
+
+Finally, I got a whole bunch of people celebrating my win because I’m Indian. It’s fascinating to me, the kind of tribal rah-rah attitude that it reveals. But I wonder if part of the reason that people in India and in the diaspora are so supportive is because Indians have been pretty good networkers during the existence of the computer industry. I don’t belong to any Indian trade associations or anything like that, but I can see how people benefit from doing so.
+
+So thanks to everyone who said they were glad to see an Indian win the contest, but I probably don’t fit your definition of "Indian". And, as I mentioned above, this isn’t really my line of work anyway.
+
+The last fun part for me is in seeing the reactions. A lot of other bloggers felt a sense of shared accomplishment, which is appropriate given how many people generously linked to my post. "We won!" seemed to be a common sentiment. And as much as I liked seeing stuff like the [Wired News](http://wired.com/news/infostructure/0,1377,64130,00.html) story, the highlight for me was [getting to see my name in Hebrew](http://www.nrg.co.il/online/10/ART/753/769.html). "אניל דאש" would look pretty nice up there at the top of the page in purple, wouldn’t it?
