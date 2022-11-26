@@ -1,0 +1,21 @@
+---
+title: Brooklyn (pretty much) Rules
+slug: brooklyn_pretty
+date_published: 2004-04-21T17:38:02.000Z
+date_updated: 2004-04-21T17:38:02.000Z
+tags: Best Of, nyc, weblogs
+---
+
+[**Ed. Note:** Today I’m lucky enough to have Danyel Smith as my guest blogger. Danyel’s a former editor at large for Time Inc. and the former editor-in-chief of Vibe, and she’s visiting my site today to promote her book [More Like Wrestling](http://www.californiaauthors.com/essay_smith.shtml). Go [pick up a copy](http://www.amazon.com/exec/obidos/tg/detail/-/1400046440/2020-20/). And welcome, Danyel! –Anil]
+
+Ft. Greene, Brooklyn. Named for Revolutionary War General [Nathaniel Greene](http://www.cr.nps.gov/museum/treasures/html/P/inde14055.htm), and one of Brooklyn’s most diverse ‘hoods. I love it.
+
+I love [Oakland, California](http://www.oaklandnet.com/) more, but that’s another story. It’s the story of my first [novel](http://www.amazon.com/exec/obidos/tg/detail/-/0609809938/ref=lpr_g_1/102-4228714-9042531?v=glance&amp;s=books), [*More Like Wrestling*](http://www.californiaauthors.com/essay_smith.shtml).
+
+But Ft. Greene is the bomb. And the surrounding areas – North Flatbush, Brooklyn Heights, Park Slope, Prospect Heights, Cobble Hill, Boerum Hill – are interesting and seductive as well. I walk all over these streets. It all seems like one big neighborhood. There is no rhyme or reason to my travels – I just go.
+
+I live on Dekalb. Right across from lovely, hilly [Ft. Greene Park](http://www.fortgreenepark.org/pages/views6.htm). I’ve been in the same apartment since 1997. When I first moved here, I had to trek to [Brooklyn Heights](http://www.brooklynheights-ny.com/) for dog food. Now I can go to [Kiki’s](http://www.citimaps.com/brooklynpages/kiki.html), right on my block. I eat at [Mo-Bay](http://www.citimaps.com/brooklynpages/mobay.html) waaay too much. The oxtails are beyond the beyond. The cabbage (oniony and with carrots) and yams (like candy) are scrumptious. [LouLou](http://www.go-brooklyn.com/html/issues/_vol24/24_27/loulou.html) is on my block, too. Perfect little romantic place. The food is delish, and there’s a tiny garden patio in the back. On Saturdays, in the summertime? [Fulton Mall](http://www.citimaps.com/brooklynpages/fultonstreetmall.html) is the hot spot. Heavenly, teeming record stores (nose your way toward the not-so-legal mixtapes), awesome sneaker shops, every fast food restaurant you have a jones for, plus big jewelry, sidewalk vendors, sexy dresses in the windows, small appliances at good prices, ice cream trucks, and every family within a five-mile radius is out in full force. Crazy. Loud! Fun. The best. When I need to calm down afterward, I walk over to the [Brooklyn Botanic Garden](http://www.bbg.org/). Lush. Kaleidoscopic. Relatively quiet.
+
+Back toward Ft. Greene, I love [Madiba](http://www.citimaps.com/brooklynpages/madiba.html) for South African food and mojitos. Chez Oskar used to be good, but they’re always out of stuff that’s on the menu. I live right up the street from [Junior’s](http://www.citimaps.com/brooklynpages/juniors.html), but I’m not big on cheesecake. I will stop in for their huge brunch on a Saturday or Sunday, though. (Psssst: There’s a full bar in Junior’s, too.) [The River Cafe](http://www.therivercafe.com/) in Dumbo has a beautiful view of Manhattan, and fancy food, and gorgeous service. I go to the giant Pathmark in Ft. Greene when I need lotsa groceries, but [Blue Apron](http://www.citimaps.com/brooklynpages/blue_apron.html) on the slope is excellent for when you need that special bit of chorizo, or Sullivan Street Bakery bread. From Park Slope, I walk down to Fifth, to sit in the bigger [Ozzie’s ](http://www.ozziescoffee.com/about.html)to read and to write, and for coffee (I like [Gorilla Coffee](http://www.newyorkmetro.com/urban/guides/bestofny/food/04/coffee.htm), too), and then I stop into [Su Casa](http://www.citimaps.com/brooklynpages/su_casa.html) for whatever I can afford. I got my winter comforter from there last fall. Then it’s back to Ft. Greene for a little [hot yoga](http://www.yoga-people.com/fortgreene/index.html). Sigh. Yes. Then off to walk my well-fed dog in Ft. Greene Park.
+
+It ain’t [Oakland](http://www.northlakegroup.org/LakeMerritt.cfm), but Brooklyn will do, for sure.

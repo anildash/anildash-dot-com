@@ -1,0 +1,12 @@
+---
+title: Hee hee hee... Our resident
+slug: hee_hee_hee_our
+date_published: 2000-05-03T20:11:46.000Z
+date_updated: 2000-05-03T20:11:46.000Z
+---
+
+**Hee hee hee… ** Our resident creative genius had done a little bit of freelance work making art for some role-playing game company. Turns out some of his stuff was a little late in making it to them, so he apologized for missing the deadline. They responded, and here is his reply to their response:
+
+> Mr. Ferguson, >At this stage you were already substantially late and another day is a moot >point. Just do your best work. Xxx and I will be making final approvals on >your work. If you have any further questions or comments, please do not >contact me, forward them directly to Xxx as he selected you to >work on this project. I will notify Xxx when your art work arrives and at >that point I will review it for approval along with Mr. Xxxxxxxxx. yikes. i guess you got up on the wrong side of the bed today. I also have not heard from you since the initial phone call. (which was a strange call to say the least) both you and xxx seemed overly paranoid about shit like who I was and who I knew and why I was talking to you. xxx was having me answer questions about my past which he knew the answers to. at one point i belive he wanted me to take a lie detector test. (just joking) anyway. i talked to your wife (I'm assuming it's your wife although i can't be sure that she is your wife since I have never seen documentation to prove this fact) and she seemed very nice. i was calling you to apologize for my tardiness and while I had her on the line I asked her a few questions to make sure I wasn't screwing up your whole deadline (which a man as obviously businessmanlike as yourself would definitely have built in a little safety zone of a few weeks (another assumption)). i understand your anger so as a token of my appreciation for being allowed to contribute to your wonderful game why don't you keep $50 of the remaining $150 and get yourself some medication. >This is the following address that you need to FedEx and/or UPS insured. Xx >Xxxxx Xx., XX Xxxxxx Xxxxx, Xxxx Xxxxxxxxx, XX XXXXX I prefer to do things electronically. So I will email you the finals at this email address. c. brent ferguson p.s. I am copying my brother austin on this email since he finds you role playing people amusing. please cc him on any responses to save me the trouble of forwarding.
+
+Ba ha ha ha ha…. that kills me…

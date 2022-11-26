@@ -1,0 +1,25 @@
+---
+title: On not blogging
+slug: on_not_blogging
+date_published: 2004-01-01T21:31:52.000Z
+date_updated: 2004-01-01T21:31:52.000Z
+tags: nyc, weblogs
+---
+
+I guess the beginning of a new year is when you’re supposed to look back and be reflective. Looking at my weblog, the thing that’s most striking to me is that, especially as I’ve put more time and energy into doing my Daily Links, I’ve neglected writing the lengthier posts that usually make up the bulk of my weblog.
+
+I’m not the only one who’s migrated away from the daily habit of blogging; I see apologies for lack of posting on lots of sites, most recently [Dan Bricklin](http://danbricklin.com/log/2003_12_04.htm#newyear)‘s. But the ones that stand out more to me are [Ev](http://www.evhead.com/archives/2003_12_01_archive_default.asp#107213947393299068)‘s and [Joi](http://joi.ito.com/archives/2003/12/23/bloggers_block_collapsing_facets_and_the_number_150.html)‘s explanations of the decreasing frequency of their posts. Like Ev and Joi, I have a decided self interest in blogging and promoting the medium, but I find it harder to blog on a day-to-day basis.
+
+There are a number of reasons I don’t write as much of the inside-baseball weblog posts these days, talking about new technology or debating philosophical fundamentals of the weblog business. I suppose some of it has to do with wanting to leave the day job behind when it comes time to writing for my site, but mostly it’s a change in attitude about what I’m doing and how it relates to my audience.
+
+I’ve been thinking a lot recently about the phenomenon of those of us who are in the weblog business having largely abandoned our sites, and I wrote some of my thoughts about this in a [thread on Ask MetaFilter](http://ask.metafilter.com/mefi/3733#92081), where they were discussing the decay of the [Blogroots](http://www.blogroots.com) site. If I’d have had to guess, I would have thought that a community site about weblogs with that kind of pedigree would have been extremely popular given the success of weblogs in the past year, but sometimes these things are hard to predict.
+
+It may just be that we’re all more jaded overall. The other day, there was a story on the cover of USA Today regarding weblogs, and it even had a quote from [Ben](http://www.thetrott.com/). I suspect that a year ago, I’d have been jumping up and down with excitement, thinking about what great recognition that sort of press coverage represents. But I barely skimmed the article yesterday, noted a bunch of annoying inaccuracies, and bookmarked it for the future. I know that the grand theory of weblogs is that I could have Fact-Checked Their Asses™ but who cares? USA Today readers aren’t going to stumble across my site and find the true facts, the newspaper isn’t going to run a correction based on my blog post, and my readers already know the details of how weblogs work.
+
+That’s not to say there’s no point to this stuff. Indeed, I’m more excited about weblogs in general than I’ve ever been, because we’re *not* in exciting uncharted territory anymore. We’re in the process of making a new industry, but it would seem social software has taken the mantle of "Hot New Thing" from weblogs and that blogs themselves are just seen as an inevitable part of the media landscape. Losing one’s novelty value in exchange for credibility or acceptance is always a good thing.
+
+I was realizing it was about a quarter century ago when people first heard "Rapper’s Delight" on the radio and were excited at just the idea of hip hop being on the radio, whether they like the song or the Sugarhill Gang at all. I don’t listen to the radio, but I’m betting they’re not talking about blogs yet, and there’s still never been a song that’s charted with the word "blog" in it. Hell, blogs almost never even get mentioned on TV. But that’s not a bad sign; It’s only in the past few years that video games got mentioned anywhere other than print media, and it didn’it really happen until after the video game industry had exceeded the film industry in dollar volume. Someday soon we’ll have almost forgotten about the time period when we could [track media mentions](track media mentions) of weblogs, and when we’d revel in [early coverage](http://www.salon.com/tech/col/rose/1999/05/28/weblogs/index.html) as a sign of legitimacy.
+
+But I’m hoping that I can rediscover the fun of just writing for myself and a few friends like I have been doing for a few years now. I get very frustrated when comments on a post of mine go all akimbo or people seem more fixated on fighting than contributing, but just as often I’m pleasantly surprised at the creativity and broad background of experience and expertise that’s displayed by people who take the time to leave comments.
+
+So, I don’t make New Year’s resolutions, but I do try to take advantage of any odometer event to make adjustments and course corrections as needed. This year, I’m going to try to update my weblog a little less self-consciously. I hope everyone else who’s struggling with the professional/personal or public/private balance does the same.

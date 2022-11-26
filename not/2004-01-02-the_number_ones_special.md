@@ -1,0 +1,19 @@
+---
+title: the Number Ones special?
+slug: the_number_ones_special
+date_published: 2004-01-03T04:44:43.000Z
+date_updated: 2004-01-03T04:44:43.000Z
+tags: Television, Music, Film
+---
+
+CBS had planned to air their [Michael Jackson Number Ones](http://www.cbs.com/specials/2003_michael_jackson/) special earlier, but delayed the airing after his arrest and waited until he’d sat down with 60 Minutes. They finally got the show on the air tonight, and its format is more interesting than the content of the show itself.
+
+What they’ve done is adopted the "I Love the 80s" format of clips interspersed with obvious but still relatively interesting narration by those who remember the moments being shown. Instead of the decidedly b-list celebs featured on VH1, though, they’ve got a roster of people who are actually (1) popular or (2) talented. Just off the top of my head, I’ve seen Missy Elliott, Pharrell, Mya, Beyonce, Quincy Jones, George Clinton, and some other notables, and that’s not counting the filler like Shaggy. A fairly impressive turnout, and the individual contributions are better filmed and better lit than the vignettes that typify the VH1 staples.
+
+Each song from the greatest hits collection is covered in chronological order, and they clearly prompted each contributor to comment on each song, meaning that Dirty Diana gets the same narrative attention that Bilie Jean gets, though it’s hardly the same level of achievement. There’s also a disconcerting tendency for people to refer to Michael and his work in the past tense, making the man seem as dead as his musical career. This unfortunate tone is compounded by the repeated insistence that Jackson’s body of work is "still relevant" and "still having an impact today". Methinks the artists doth protest too much.
+
+But the additional context provided by these acts, along with their reminiscences of their initial reactions to these songs and videos are actually fairly compelling. Most of all, some genuinely rare footage of Michael performing with his brothers circa 1979, featuring live versions of many *Off the Wall* tracks, as performed with his pre-*Thriller* nose, sound terrific. The ideal special in honor of Jackson’s talent may have just been a straight showing of that footage from 25 years ago. That being unfeasible by today’s broadcast standards, this show was a compelling substitute, and a surprisingly contemporary and well-produced effort given the lackadaisical standards of Jackson’s recent work.
+
+The most unfortunate part of the relentless fixation on the past in everything Jackson does these days is not just the attention it draws to the weakness in his current projects, but in the egregious oversights of some of his least popular but most artistically satisfying work. It’s understandable that the video for the new single "One More Chance" didn’t air; Its filiming was interrupted by an unfortunate round of fingerprinting and handcuffs. But excellent videos and works like the spectacular video for "Who Is It", which has never been commercially aired in the U.S., are overlooked merely because they’re not one of the handful of songs anointed by MTV or Rolling Stone as Jackson’s "signature songs".
+
+Given the success this television show had in seeming contemporary and well-made while still honoring Jackson’s past, it would seem the best course of action would be for his musical efforts to attempt the same pattern of reflecting Jackson’s history while adopting contemporary trends. "I Love the 80s" is still the most popular show on VH1, while, "Behind the Music" was overdone and has ceased being a ratings driver for the music network. It would seem the people in charge of Jackson’s television career have learned the lesson to be extrapolated from these trends, and now the challenge remains the effort to keep Jackson’s musical career from becoming a "Behind the Music" episode in more ways than one.

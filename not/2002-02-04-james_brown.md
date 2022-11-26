@@ -1,0 +1,14 @@
+---
+title: James Brown
+slug: james_brown
+date_published: 2002-02-04T18:05:41.000Z
+date_updated: 2002-02-04T18:05:41.000Z
+---
+
+I love James Brown for the music, for the influence, for all the things he’s been to so many people. But part of his irresistible charm, to me, is his intrinsic affinity for schlock. He is not just the Godfather of Soul, but the uncontested heavyweight champion of cheese. Selected highlights for the cheesily-inclined: A funky-as-all-getout cover of "Who Let the Dogs Out?". An opposite-of-funky cover of Crystal Gayle’s “Don’t It Make My Brown Eyes Blue”. The couple in front of me making out to an oddly anachronistic, overly literal anti-Columbine jam entitled (I kid you not!) “Killin’s Out, School’s In!”. And the appearance of the Good Reverend [Al Sharpton](http://www.dashes.com/anil/index.php?blogarch/2000_11_01_archive.php#1486480), accompanied by shouts from the audience; the burly man to my left bellowing, “Get off the stage!” and the svelte woman to my right shouting, “Stay on stage!”.
+
+Oh, and the band and the music were pretty good, too. It’s a shame more people don’t know some of his less ubiquitous music, but it’s understandable given that there is probably no artist with a greater disparity between the quality of his live show and his recordings. There really aren’t *any* non-compilation James Brown albums that stand up the whole way through. The definitive compilation is the “[Star Time](http://www.amazon.com/exec/obidos/ASIN/B000001G1E/electronicfro-20)” box set, with liner notes that deservedly won Alan Leeds a Grammy. (Leeds also wrote the excellent, conversational liner notes to Prince’s “The Hits” box set.)
+
+“Star Time” was later pared down from its full four-disc glory to a one CD set of highlights which makes as a good an introduction to James’ career as you can get. The single CD is entitled “[20 All-Time Greatest Hits](http://www.amazon.com/exec/obidos/ASIN/B000001DUP/electronicfro-20)“, and its only weakness is the unattractive album art that it and “Star Time” suffer from. Given its subject’s own proclivity for excess at the expense of aesthetics, the artwork is forgiveable, though, and you can’t go wrong with studio versions of nearly every great James Brown song.
+
+But James Brown is about the live show, not the studio. And for the live show, you have to go to “[Love Power Peace](http://www.amazon.com/exec/obidos/ASIN/B000001DWX/electronicfro-20)“. Unlike the wildly overrated “Live at the Apollo”, this album is James Brown and his band the JBs at their prime, making it one of the best live albums ever recorded. The legend of this live show in Paris is that a woman at the show stripped down nude to dance during the show and no one moved to stop her. Having listened to this album countless times in the almost 10 years that I’ve had it, I can say that I absolutely believe the story is true, and I can’t blame her.
