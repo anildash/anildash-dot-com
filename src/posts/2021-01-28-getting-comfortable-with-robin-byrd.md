@@ -3,6 +3,7 @@ title: Getting Comfortable with Robin Byrd
 slug: getting-comfortable-with-robin-byrd
 date_published: 2021-01-28T09:02:08.000Z
 date_updated: 2021-08-02T02:50:52.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Robin-Byrd-show.jpeg?v=1669528407903
 ---
 
 It is almost impossibly difficult to explain [Robin Byrd](http://www.robinbyrd.com/) to anyone who was not an adult living in NYC toward the end of the last century, though everyone who recognizes the name immediately responds with unbridled enthusiasm. This comes up in conversation for me from time to time because I used to share a cubicle with her for a brief while about 20 years ago. Perhaps I should explain.
@@ -17,7 +18,6 @@ The show, of course, didn't last very long. Streaming "radio stations" in that e
 
 But Robin Byrd is unstoppable. Her website is [still chugging along](http://www.robinbyrd.com/robinbyrddotcom/main.html), her show is still airing every night, even in a world of YouTube and Netflix. And my merely briefly mentioning her name brought people out of the woodwork, whether New Yorkers past or present, to talk about how much she's entertained and titillated and amused them. 
 
-> Woah. Heavy street cred. 🔥
-> &mdash; natasha lyonne (@nlyonne) [January 27, 2021](https://twitter.com/nlyonne/status/1354268172308926464?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Woah. Heavy street cred. 🔥</p>&mdash; natasha lyonne (@nlyonne) <a href="https://twitter.com/nlyonne/status/1354268172308926464?ref_src=twsrc%5Etfw">January 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Indeed, until I offhandedly tweeted about Ms. Byrd, I had completely forgotten her signature refrain of "Lie back , get comfortable..." that kicked off every episode of her show, until I was reminded by so many people who could recite the catch phrase from memory. What greater legacy could one hope for than to be associated with that feeling? Robin, I doubt you remember me as some kid you worked around many years ago, but thank you for giving me a story to tell that always brings a smile to people's faces.

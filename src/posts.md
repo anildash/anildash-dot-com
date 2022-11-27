@@ -2,6 +2,6 @@
 layout: layouts/posts.njk
 ---
 
-## Posts
+##  A blog about making culture. Since 1999.
 
-Write some details about your post lists. Or don't, and remove this!
+Over two million words, published continuously since the last century, always for free, no advertising or surveillance.

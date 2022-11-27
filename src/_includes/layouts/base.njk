@@ -3,28 +3,10 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href={{ page.url | url | absoluteUrl(site.url) }}>
-
-    <meta name="description" content="Anil Dash: A blog about making culture. Since 1999." />
-    <link rel="stylesheet" type="text/css" href="/public/duo.css" />
+    <link rel="stylesheet" type="text/css" href="/public/style.css" />
     {% seo "" %}
-    
-<!--
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap" rel="stylesheet">
--->
-    
-    <title>
-      {{  title  | escape }}
-      {% if title %}
-         | {{ site.name }}
-      {% else %}
-        {{ site.name }}
-      {% endif %}
-    </title>
 
     <link rel="icon" type= "image/x-icon" href="/images/favicon.ico">
-    <link rel="icon" href="https://glitch.com/favicon.ico" />
 
     <meta property="og:title" content="{{  title or site.name | escape }}">
     <meta property="og:site_name" content="{{ site.name }}"/>
@@ -132,14 +114,6 @@
             {% endif %}
           </ul>
 
-          {% if site.showFooterAttribution %}
-            <p class="footer__attribution">
-          Created by
-      <a href="https://twitter.com/yinkakun" target="_blank" rel="noopener">Yinka,</a>
-       Powered by <a href="https://www.11ty.dev" target="_blank" rel="noopener">11ty,</a>
-        Checkout <a href="https://github.com/yinkakun/eleventy-duo" target="_blank" rel="noopener noreferrer">project's github repo </a>
-            </p>
-          {% endif %}
 
         </div>
       </div>

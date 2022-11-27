@@ -1,8 +1,9 @@
 ---
-title: Everything You Think Is True
+title: Everything U Think Is True
 slug: everything-u-think-is-true
 date_published: 2022-05-17T01:25:36.000Z
 date_updated: 2022-05-17T01:25:36.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/trophies.jpg?v=1669518643619
 ---
 
 The Webby Awards have [recognized Kevin McCoy and I with their Lifetime Achievement Award this year](https://winners.webbyawards.com/2022/specialachievement/301/anil-dash--kevin-mccoy), for "developing a blockchain powered way for artists to own and monetize digital work, which laid the groundwork for what would be known as Non-fungible tokens (NFTs)". I have a lot of complex feelings about this specific recognition, and about awards in general, and I wanted to share some thoughts that are a little more nuanced than just saying "thanks for the honor".  I’ll start with some fundamentals:
@@ -23,11 +24,15 @@ The question I'm asked most often is, "How do you feel about NFTs?" My answer is
 
 You can get a clear view of the original aims and context of our work by watching the original presentation that Kevin and I did at the New Museum back in 2014. Fortunately, it's captured on video:
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/96131398?h=f910951eb1&color=800080&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 I don’t honestly know how to fully reconcile the good with the bad here. I don’t think the criticisms will be strong enough on their own to completely stop the cultural forces (good and bad) that are driving participation, despite the validity of the criticism. I do think the fact that the criticisms *are* valid means that some corrective forces will come, especially as critics get more effective, organized and focused. The recent deflation of some of the speculative bubble around NFTs may only hasten that trend.
 
 I also don’t think the reductive takes on either the positive or negative aspects of NFTs tell the whole story. There are people who find real meaning and community in supporting the art and artists they find through this new technology. And there are genuine bad actors who would ignore extreme environmental impacts while lying to others simply to profiteer of off dishonest speculation. I don’t think either of these realities could not have been predicted 8 years ago when creating a crude prototype of these technologies; most of the forces that have shaped their current form are driven by far larger cultural trends than we can attribute to a few lines of code hacked together over a couple of hours.
 
 Back when I presented Vint Cerf with his Webby award recognizing 50 years of the Internet, I asked him how he felt about the fact that there had been both so much good and so much bad that happened as a result of his creation. His answer was echoed in the speech he offered onstage, where he exhorted us to do our best to create the good, and to amplify and acknowledge the good.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wAhXiPn9v_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## It's weird to win an award
 

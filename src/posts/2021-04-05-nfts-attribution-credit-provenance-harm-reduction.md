@@ -3,6 +3,7 @@ title: "Not For Tourists: Attribution,  Provenance and Harm Reduction"
 slug: nfts-attribution-credit-provenance-harm-reduction
 date_published: 2021-04-05T17:44:52.000Z
 date_updated: 2021-04-05T21:45:58.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tourists.jpeg?v=1669527246224
 ---
 
 Anytime a big new market pops up, people rush in to stake their claims and make their fortunes. Our culture loves creation myths, especially in technology. Fables about lone geniuses are ubiquitous in the tech industry, with their fundamental falsity doing nothing to undermine their utility for most people in positions of power.
@@ -17,10 +18,7 @@ I was not surprised that my having a fairly critical perspective on many parts o
 
 Instead, I think it's useful to complicate narratives about creation and the origin of things. To me, the antecedents of NFTs are grounded in the art world, in pioneers like the adoptables that were created within the furry community in the early 2000s, and other "digital originals" concepts that sprung up at the intersection of communities like DeviantArt and LiveJournal. In that [original Medium piece](https://medium.com/message/a-bitcoin-for-digital-art-8c7db719e495), I talked about influences ranging from Manuel Araoz's "Proof of Existence" to NeonMob's early work on provenance to Paddy Johnson's [great overview](https://news.artnet.com/market/can-tumblr-sensation-brad-troemel-find-viral-success-irl-5287) of Brad Troemel's work. The folks in today's NFT world who are most angry about critiques try to undermine by saying that I (or others) lack credibility since other people were working on color coins or other forms of blockchain signing of works. But that's *exactly the point* — these ideas were everywhere, and dismissing the art-focused pioneers in favor of those who only worked on the tech exacerbates the exact problem that so many of us were trying to solve at the start: We should be centering the needs of artists.
 
-> And the conversation between [@anildash](https://twitter.com/anildash?ref_src=twsrc%5Etfw) and [@mccoyspace](https://twitter.com/mccoyspace?ref_src=twsrc%5Etfw) introduced by [@michael_connor](https://twitter.com/michael_connor?ref_src=twsrc%5Etfw) — priceless fucking intro.  
-> 
-> 📺 the first NFT or the conversation that transformed Art and Technology at New Museum:  [https://t.co/Cii9r9ZqMN](https://t.co/Cii9r9ZqMN)[#monegraph](https://twitter.com/hashtag/monegraph?src=hash&amp;ref_src=twsrc%5Etfw)
-> &mdash; John Borthwick (@Borthwick) [April 4, 2021](https://twitter.com/Borthwick/status/1378753109506330624?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">And the conversation between <a href="https://twitter.com/anildash?ref_src=twsrc%5Etfw">@anildash</a> and <a href="https://twitter.com/mccoyspace?ref_src=twsrc%5Etfw">@mccoyspace</a> introduced by <a href="https://twitter.com/michael_connor?ref_src=twsrc%5Etfw">@michael_connor</a> — priceless fucking intro. <br><br>📺 the first NFT or the conversation that transformed Art and Technology at New Museum: <a href="https://t.co/Cii9r9ZqMN">https://t.co/Cii9r9ZqMN</a> <a href="https://twitter.com/hashtag/monegraph?src=hash&amp;ref_src=twsrc%5Etfw">#monegraph</a></p>&mdash; John Borthwick (@Borthwick) <a href="https://twitter.com/Borthwick/status/1378753109506330624?ref_src=twsrc%5Etfw">April 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

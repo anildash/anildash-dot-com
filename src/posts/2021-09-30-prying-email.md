@@ -3,6 +3,7 @@ title: Burners, Pollution,  Control & Privacy By A Thousand Cuts
 slug: prying-email
 date_published: 2021-09-30T07:00:42.000Z
 date_updated: 2021-09-30T07:00:42.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Alexander%20Andrews-broken-phone.jpeg?v=1669523043836
 ---
 
 The key to protecting people's privacy on the internet isn't in trying to stop users' data from being sent to different services, it's in poisoning the well by having user data be so inconsistent, disconnected, spurious or expensive to collect that today's surveillance infrastructures (often referred to as "ad tech" ) get flummoxed when trying to track you. The "wall" metaphor for keeping data in and companies out is the wrong way to think about it; instead you want to go for a "death by a thousand cuts" offense against powerful antagonists like the surveillance platforms, or to use the nicer phrasing of the tech security community, it's "defense in depth". 
@@ -37,10 +38,9 @@ In this week's New Yorker, Chris Hayes makes a strong argument about the ubiquit
 
 In both cases, we know there are harms associated with digital hyper-visibility. 
 
-> wowwww
-> &mdash; Chris Hayes (@chrislhayes) [September 27, 2021](https://twitter.com/chrislhayes/status/1442326721278054401?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="und" dir="ltr">wowwww</p>&mdash; Chris Hayes (@chrislhayes) <a href="https://twitter.com/chrislhayes/status/1442326721278054401?ref_src=twsrc%5Etfw">September 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-The answer lies in a drum that I, and many others, have been banging on for decades now: [privacy through identity control](__GHOST_URL__/2002/12/17/privacy_through/). Though some parts of that piece from 2002 haven't aged well (here's me wincing at the passing mention of fascist ghoul Rudy Giuliani), there are some core points that I think are more pertinent than ever:
+The answer lies in a drum that I, and many others, have been banging on for decades now: [privacy through identity control](/2002/12/17/privacy_through/). Though some parts of that piece from 2002 haven't aged well (here's me wincing at the passing mention of fascist ghoul Rudy Giuliani), there are some core points that I think are more pertinent than ever:
 
 > ****We’re all celebrities now****, in a sense. Everything that we say or do is on the record. ... Do we have to permanently filter our thoughts and expressions, lest they be thrown back at us at some inopportune moment in the future? What do we do until people are used to seeking out context, until meta is intrinsic? Well, you have to own your name. I own my name. I am the first, and definitive, source of information on me.
 

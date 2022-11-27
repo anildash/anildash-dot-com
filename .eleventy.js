@@ -58,8 +58,12 @@ module.exports = function (eleventyConfig) {
     if (n < 0) {
       return array.slice(n);
     }
-
     return array.slice(0, n);
+  });
+  
+  eleventyConfig.addFilter('excerpt', (post) => {
+    const content = post.replace(/(<([^>]+)>)/gi, '');
+    return content.substr(0, content.lastIndexOf(' ', 200)) + '...';
   });
 
   eleventyConfig.setBrowserSyncConfig({ ghostMode: false });

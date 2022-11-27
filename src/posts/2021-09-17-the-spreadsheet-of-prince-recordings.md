@@ -3,6 +3,7 @@ title: The Spreadsheet of Prince Recordings
 slug: the-spreadsheet-of-prince-recordings
 date_published: 2021-09-18T02:45:54.000Z
 date_updated: 2021-09-21T20:29:58.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-spreadsheet-web.jpeg?v=1669524612655
 ---
 
 Recently, a motivated Prince fan created a spreadsheet that attempts to catalog the entirety of Prince's *thousands* of recordings over the course of his career. Beginning in 1973 as a then-15-year-old Prince taped his first few tracks, and going through (so far) the end of the 80s, it's a remarkable document. The spreadsheet is valuable even though this information has been available in various places in the past because this comprehensive list, and its novel system for assigning ID numbers to each of these recordings, represent a big leap forward in making study and discussion of Prince's work more systematic and consistent. 
@@ -11,21 +12,36 @@ The spreadsheet itself was introduced as "[Prince Studio Recordings — A Spread
 
 But the first column of the spreadsheet is the one that jumped out to me. Here, the creator (known in the fan community as "VaultCurator") has created a song ID. In their words, the format is YYYYMMDDTV, wtih the first 6 characters being the date of recording as closely as it's known, and "T" representing which recording number it was on that day, and "V" indicating which version of the song. The format gets more complex for some of the later recordings:
 
-YYYYPXINTV
 
-YYYYYearPX
+<dl>
+<table cellspacing="0" cellpadding="0" dir="ltr" border="1" style="">
+    <tr>
+      <th colspan="2"><h3>YYYYPXINTV</h3></th>
+    </tr>
+    <tr>
+      <td><dt>YYYY</dt></td>
+      <td><dd>Year</dd></td>
+    </tr>
+    <tr>
+      <td><dt>PX</dt></td>
+      <td><dd>Project (PA = First project of the year, PB = second, etc.)</dd></td>
+    </tr>
+    <tr>
+      <td><dt>IN</dt></td>
+      <td ><dd>Project Initials. (GB = Graffiti Bridge. GC = George Clinton. Etc.)</dd></td>
+    </tr>
+    <tr>
+      <td><dt>T</dt></td>
+      <td><dd>Track (assuming more that one has been recorded this period)</dd></td>
+    </tr>
+    <tr>
+      <td><dt>V</dt></td>
+      <td><dd>Version</dd></td>
+    </tr>
+  </tbody>
+</table>
+</dl>
 
-Project (PA = First project of the year, PB = second, etc.)
-
-IN
-
-Project Initials. (GB = Graffiti Bridge. GC = George Clinton. Etc.)
-
-T
-
-Track (assuming more that one has been recorded this period)
-
-VVersion
 Now, this ID format is, to my tastes, not great. It's finicky, inconsistent, perhaps a little too subjective. But so what! It exists, and it's better than us not having ID numbers for the songs.
 
 ---
@@ -38,15 +54,15 @@ During the 80s and early 90s, Prince was fond of having press refer to him as a 
 
 In addition, these resources are now accompanied by the exceptional official Prince podcast, which has joined the many excellent long-running fan podcasts in taking Prince's catalog seriously, and not being afraid to push into many of the more challenging and complex topics he used his work to advance. To me this was epitomized by his smart, thoughtful, unexpectedly nuanced take on the impact of technology, social media, and algorithmic bias on artists and culture overall. I was honored to get to guest on a [recent episode](https://www.prince.com/article/w2apodcast_ep3) focused on the archival release of the *Welcome 2 America* album where we specifically discussed how Prince was both deeply critical of technology's impact *and* consistently an early adopter of technologies if he thought they could be empowering.
 
-### 2 Prince's Credit
+## 2 Prince's Credit
 
 From his public persona, one might imagine Prince was indifferent to things like maintaining accurate databases about his work. But after the November 2015 release of one of his final singles, "If I Could Get Your Attention", I noticed that the vocoder part at the end of the track didn't sound like his voice, so I asked him who was performing the part.
 
-> [@prince3eg](https://twitter.com/prince3eg?ref_src=twsrc%5Etfw) alright, so who is that on the vocoder? Doesn&#39;t sound like you!
-> &mdash; anildash (@anildash) [November 9, 2015](https://twitter.com/anildash/status/663790743035715584?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr"><a href="https://twitter.com/prince3eg?ref_src=twsrc%5Etfw">@prince3eg</a> alright, so who is that on the vocoder? Doesn&#39;t sound like you!</p>&mdash; anildash (@anildash) <a href="https://twitter.com/anildash/status/663790743035715584?ref_src=twsrc%5Etfw">November 9, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Three minutes later, Prince sent me the full credits of the performers on the song, knowing I'd share them with the team maintaining PrinceVault so they could update the [wiki page for the song](https://princevault.com/index.php?title=If_I_Could_Get_Your_Attention).
-![](__GHOST_URL__/content/images/2021/09/IMG_5724-1.PNG)remember that time Prince DMed me?
+![Prince DMing the credits for his song](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-dm-credits.PNG?v=1669525868205 "remember that time Prince DMed me?")
+
 It was a striking change from the way Prince played fast-and-loose with credits earlier in his career, some times out of just being too busy to be meticulous, some times in order to maintain the mystique or mystery around his role in different works, and sometimes due to changes in his relationships with the other artists around him. But those inaccuracies led, at times, to serious tensions and arguments with some of his closest musical collaborators.
 
 Seeing Prince caring about the credit being assigned to his collaborators, and knowing that fans would do the work to maintain an accurate record of his work, to me seemed consistent with the overall perspective and emotional maturity Prince showed in his final tour and much of his conversations around this time. He was opening up, being more honest, and disassembling some of the mystique he'd erected around himself. Ironically, a lot of that embrace came through the tools of social media and technology in general.
@@ -55,7 +71,7 @@ While Prince would never have publicly acknowledged a spreadsheet like the one w
 
 ---
 
-### Pop Life
+## Pop Life
 
 Ultimately, it's not about spreadsheets or technology at all. It's about seeing the work of a brilliant artist, and finding ways for us to have smarter, broader, deeper conversations about the work and what it means. Even being able to quantify things at a high level is extraordinary. For example, I've long pointed to 1986 as the period of Prince's greatest artistic flourishing, but it's *astonishing* to see a record of nearly 150 separate recordings being created in one year. Media coverage always blithely describes Prince as "prolific", but being able to show that (for example) he personally recorded and produced more songs in 2 years, while touring globally, than the Beatles did in their entire career is even more jaw-dropping when we can look at the data behind that assertion in a dispassionate format.
 

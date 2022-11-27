@@ -3,6 +3,7 @@ title: Cooperative Overlap
 slug: cooperative-overlap
 date_published: 2021-09-26T01:35:31.000Z
 date_updated: 2021-09-26T01:35:31.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Mika-Baumeister-speech-bubbles.jpeg?v=1669524180647
 ---
 
 One of the biggest sources of miscommunication is people having different *styles* of communication, or different norms about the right way to express emotion or context even if there's agreement on more straightforward aspects of verbal communication. Things like "[ask vs. guess](https://www.theatlantic.com/national/archive/2010/05/askers-vs-guessers/340891/)" cultures are one common manifestation of this, and I was delighted to discover the name for another such potential stumbling point: **cooperative overlap**.
@@ -13,19 +14,16 @@ This is a communication style that I grew up with, and have intuitively understo
 
 But I got a clear articulation of both those who feel the same way as me, as well as those who vehemently disagree, when I tweeted about the idea and quoted a (since-deleted) tweet that showed off a video explaining the idea. The tweet is here, and I've included the video below.
 
-> Ahhhh omg it feels so validating to hear this has a name! I really struggle with talking over people (I understand many experience this very negatively) but it’s an incredibly difficult pattern to change because it’s literally how I grew up communicating enthusiasm & support. [https://t.co/BXaJfdvQcx](https://t.co/BXaJfdvQcx)
-> &mdash; anildash (@anildash) [February 22, 2021](https://twitter.com/anildash/status/1363695752929828872?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Ahhhh omg it feels so validating to hear this has a name! I really struggle with talking over people (I understand many experience this very negatively) but it’s an incredibly difficult pattern to change because it’s literally how I grew up communicating enthusiasm &amp; support. <a href="https://t.co/BXaJfdvQcx">https://t.co/BXaJfdvQcx</a></p>&mdash; anildash (@anildash) <a href="https://twitter.com/anildash/status/1363695752929828872?ref_src=twsrc%5Etfw">February 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> [@gaydhdgoddess](https://www.tiktok.com/@gaydhdgoddess)
-> [#jewish](https://www.tiktok.com/tag/jewish) culture has its own style of [#communication](https://www.tiktok.com/tag/communication) — source in comments 😘[#assimilation](https://www.tiktok.com/tag/assimilation)[#interrupt](https://www.tiktok.com/tag/interrupt)[#linguistics](https://www.tiktok.com/tag/linguistics)[#judaism](https://www.tiktok.com/tag/judaism)[#jewtok](https://www.tiktok.com/tag/jewtok)[#berniesanders](https://www.tiktok.com/tag/berniesanders)[#yid](https://www.tiktok.com/tag/yid)
-> [♬ original sound - Sari Rachel](https://www.tiktok.com/music/original-sound-6931519114691218182)
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@gaydhdgoddess/video/6931518541917146374" data-video-id="6931518541917146374" style="max-width: 605px;min-width: 325px; border: none;" id="v97517854008592670">  <iframe name="__tt_embed__v97517854008592670" sandbox="allow-popups allow-popups-to-escape-sandbox allow-scripts allow-top-navigation allow-same-origin" src="https://www.tiktok.com/embed/v2/6931518541917146374?lang=en-US&amp;referrer=https%3A%2F%2Fanildash.com%2F2021%2F09%2F25%2Fcooperative-overlap%2F" style="width: 100%; height: 739px; display: block; visibility: unset;"></iframe></blockquote>
+<script async="" src="https://www.tiktok.com/embed.js" type="text/javascript"></script>
 
 Some of the responses were particularly insightful. A huge cohort of others (especially those of South Asian or Middle Eastern descent) had the same sense of relief and recognition I did, that incredibly validating feeling of a lived experience being named in a way that makes it legitimate. And there were, to be sure, people from other backgrounds who had the exact opposite response, articulating how this kind of interaction was stressful or off-putting to them. Some people who use the cooperative overlapping style of conversation said they felt embarrassed or ashamed about it, like they had been told they were doing something wrong but couldn't help that it felt like a positive or supportive way to communicate. That's not too surprising to me, because about half of the responses I got made very clear value judgements about cooperative overlap being "wrong" or "rude" or even describing it as akin to bullying; I didn't see any responses where those who *don't* speak with cooperative overlap were described with similar value judgments. 
 
 Ultimately, the strong consensus was that this is cultural and grounded in the conversational practices of each of our communities. I love finding common threads across cultures that speak to me, or discovering *why* certain folks just feel like we're on the same page when talking. It's also just interesting to observe these differences.
 
-> White people don’t have response culture
-> &mdash; Tressie McMillan Cottom (@tressiemcphd) [February 22, 2021](https://twitter.com/tressiemcphd/status/1363701960474570758?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">White people don’t have response culture</p>&mdash; Tressie McMillan Cottom (@tressiemcphd) <a href="https://twitter.com/tressiemcphd/status/1363701960474570758?ref_src=twsrc%5Etfw">February 22, 2021</a></blockquote>
 
 ## Putting it to work
 

@@ -3,6 +3,7 @@ title: Keeping Tabs on your Abstractions
 slug: keeping-tabs-on-your-abstractions
 date_published: 2021-01-03T09:48:45.000Z
 date_updated: 2021-01-03T14:20:46.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/file-folders.jpeg?v=1669529571342
 ---
 
 I was delighted to discover Omar Rizwan's [TabFS](https://omar.website/tabfs/), a brilliant hack that lets you see your browser tabs as folders and files on your computer, because it's incredibly clever on its own, but also opens a view into how a shift in metaphor  can totally change the way we see technologies that we use every day.
@@ -19,7 +20,9 @@ This is the power of good metaphors in technology. While many abstractions just 
 
 I'd seen this a bit in our work at [Glitch](https://glitch.com/), when we introduced [Rewind](https://medium.com/glitch/reinventing-version-control-with-glitch-rewind-914c350da442) as a new interface for version control. Put simply, we used the same timeline metaphor that you use to rewind a YouTube video or to scroll through a media clip in editing software, and applied it to git code commits that are typically displayed as a list. By refocusing the interface to focus on progress over time, instead of a list of actions in which any given item might be massive or trivial, we help communicate a completely different mental model than most people are used to facing with these kinds of collaboration. New metaphors are powerful; GitHub's homepage now uses the word "rewind" to describe their version control system even though it still features the same text-based list interface it always has. Even those who haven't adopted the improved user experince can reflexively see how the new mental model provided by this metaphor can help people understand a complex concept.
 
-    Sorry, your browser doesn't support embedded videos.
+<video controls width="100%">
+  <source src="https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/finder-contents.mp4?v=1669529658758" type="video/mp4">
+</video>
 
 And the same goes for TabFS. What it shows us is that tabs aren't *just* a tool for managing individual pages in a web browser app. As Rusty Foster shows us (hey, [Today in Tabs](https://www.todayintabs.com/) is back!), "tabs" can be a metaphor for the role that content plays in our lives, a shorthand way of saying media or content or hot takes. And what Omar's work shows us is that tabs are every bit as important to us as any individual app on our phones, or any particular document that we've created. Suddenly, we realize that not being able to actively manage and orchestrate tabs is an egregious shortcoming. How is it that the only thing we've been able to do with a tab is to file it away as a bookmark that we'll never revisit?
 

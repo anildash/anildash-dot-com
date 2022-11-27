@@ -3,6 +3,7 @@ title: On "inventing NFTs" and how we don't have any good way to talk about tech
 slug: i-didnt-invent-nfts-but-we-dont-really-have-any-other-way-to-talk-about-tech
 date_published: 2021-11-15T04:56:17.000Z
 date_updated: 2021-11-15T07:32:40.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/bady-abbas-lights.jpeg?v=1669522236867
 ---
 
 I've been blogging here for more than 20 years, and the only organizing principle behind what I write here, if anything, is a fascination about how we make culture, and especially how we make culture around, and with, technology. Nothing has exemplified the complexity of that conversation more than my attempts to engage with the current hype cycle around NFTs, or non-fungible tokens. 
@@ -21,18 +22,16 @@ I offer this exhaustive context because it's useful for parsing the reactions to
 
 You can see all of this explained in the moment, thanks to the fact that there's a video of that original demo.
 
-[Seven on Seven 2014: Kevin McCoy & Anil Dash](https://vimeo.com/96131398) from [Rhizome](https://vimeo.com/user365623) on [Vimeo](https://vimeo.com).
-
-> Presented by Rhizome, the Seven on Seven conference pairs seven leading artists with seven influential technologists in teams of two, and challenges them to develop something new&ndash;whatever they choose to imagine&mdash;over the course of a single day.
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/96131398?h=f910951eb1&color=800080&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## The Four Types of Reactions
 
 As the hype cycle around the NFTs started to crest this spring, I wrote a fairly expansive, and unabashedly criticial, look at the NFT ecosystem for [The Atlantic](https://www.theatlantic.com/ideas/archive/2021/04/nfts-werent-supposed-end-like/618488/). The reactions there (and in the months since) have run an interesting gamut:
 
-- Those who didn't know me, and already bought into the NFT ecosystem, felt I was wrong, and that my claims about participating in an early innovation in the space were spurious and self-inflated. Thus, my opinons could be safely discounted.
-- Those who didn't know me, and who reject the NFT ecosystem, felt I was credible, and the "proof" they needed of the whole thing being just a scam that could be dismissed. An interesting subset of this group was those who, upon looking further, found out that I'm an exec in the tech industry, and decided that I hadn't anticipated that there would be harms in this space, and was too short-sighted to see that in the early implementation.
-- Those who knew me, and don't like NFTs, saw this largely as validating their sense that I know what I'm talking about. Although this was the most amusing category, because of a handful of folks who said "There's no way he actually worked on this stuff, because there's no way Anil's ego would let him shut up about anything for seven years."
-- Then there were those who knew of me, and who already bought into NFTs, and these were the most vociferously angry responses. The reaction here ranged from disappointment to people who clearly felt that I'd betrayed them.
+1. Those who didn't know me, and already bought into the NFT ecosystem, felt I was wrong, and that my claims about participating in an early innovation in the space were spurious and self-inflated. Thus, my opinons could be safely discounted.
+2. Those who didn't know me, and who reject the NFT ecosystem, felt I was credible, and the "proof" they needed of the whole thing being just a scam that could be dismissed. An interesting subset of this group was those who, upon looking further, found out that I'm an exec in the tech industry, and decided that I hadn't anticipated that there would be harms in this space, and was too short-sighted to see that in the early implementation.
+3. Those who knew me, and don't like NFTs, saw this largely as validating their sense that I know what I'm talking about. Although this was the most amusing category, because of a handful of folks who said "There's no way he actually worked on this stuff, because there's no way Anil's ego would let him shut up about anything for seven years."
+4. Then there were those who knew of me, and who already bought into NFTs, and these were the most vociferously angry responses. The reaction here ranged from disappointment to people who clearly felt that I'd betrayed them.
 
 But one of the most common through-lines amongst all of these cohorts is a skepticism about any claims to authority or invention. And that's great! Nobody invents anything, ideas are always floating around in communities, and we should always be deeply skeptical of any claims to authoirty in this way. Everything is a remix.
 

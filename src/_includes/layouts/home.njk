@@ -10,21 +10,6 @@ templateClass: tmpl-home
       {{ content | safe }}
     </div>
 
-    {% if site.socialLinks %}
-      <ul class="hero__social-links">
-        {% for item in site.socialLinks %}
-          {% set externalAttribute = '' %}
-
-          {% if item.external %}
-            {% set externalAttribute = 'target="_blank" rel="noopener noreferrer"' %}
-          {% endif %}
-
-          <li>
-            <a href="{{ item.url | url }}" {{ externalAttribute | safe }}>{{ item.text }}</a>
-          </li>
-        {% endfor %}
-      </ul>
-    {% endif %}
   </div>
 
 </header>
@@ -37,25 +22,5 @@ templateClass: tmpl-home
 
 </section>
 
-<a class="all-posts-link" href="{{ '/blog/' | url }}">View All Posts</a>
+<a class="all-posts-link" href="{{ '/posts/' | url }}">View All Posts</a>
 
-<!--
-
-
-{# The Home page uses this template–it extends the base template #}
-
-<div class="wrapper home">
-  <div class="content">
-    {{ content | safe }}
-    
-    {# After the the content defined in index.md, list the blog posts in the collection #}
-    <ul>
-      {%- for post in collections.posts -%}
-        <li{% if page.url == post.url %} aria-current="page"{% endif %}>{{ post.data.page.date | htmlDateString }} — <a href='{{ post.url }}'>{{ post.data.title }}</a></li>
-      {%- endfor -%}
-      <li><a href="/posts">View all posts</a></li>
-    </ul>
-  </div>
-</div>
-
--->
