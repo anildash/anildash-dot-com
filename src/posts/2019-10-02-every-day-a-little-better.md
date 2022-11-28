@@ -3,15 +3,19 @@ title: Every Day, A Little Better
 slug: every-day-a-little-better
 date_published: 2019-10-02T18:41:51.000Z
 date_updated: 2019-10-03T04:23:00.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fire-escapes.jpeg?v=1669585474348
 ---
 
 [*CW: mental illness, self-harm*]
 
-### When my depression was at its worst, it felt almost like a constant, physical pain. Getting away from that crushing weight felt as urgent as pulling my hand away from a hot stove, but I couldn’t do it. I couldn’t even imagine a respite or a pause in the misery, let alone conceive of a day when I wouldn’t have to think about it, when just lifting that weight off my chest wasn’t the singular concern of my every waking hour.
+When my depression was at its worst, it felt almost like a constant, physical pain. Getting away from that crushing weight felt as urgent as pulling my hand away from a hot stove, but I couldn’t do it. I couldn’t even imagine a respite or a pause in the misery, let alone conceive of a day when I wouldn’t have to think about it, when just lifting that weight off my chest wasn’t the singular concern of my every waking hour.
 
 But I’m getting ahead of myself. First, to start: I’m an incredibly fortunate person, with a wonderful family, a thriving career, and a platform that lets me speak my mind to the world. I’m thankful every day for these blessings, and try to be worthy of the gifts I’ve been given. What’s more, I am privileged enough to have some stability and kindness in my life, granting me a resiliency I am deeply grateful for. I want to start by reciting how appreciative I am for my life now because it’s the thing I most wish I could tell my younger self as I was struggling.
 
 For most of my teens and twenties, I wrestled with depression as either a specter that lingered over everything, threatening to yank away any joy or peace that I found, or worse as a predator that stalked me and actively fought me finding any happiness or comfort. In reading other people’s stories, I find that the details of my experience are maybe a little different, but the high level pain of feeling overwhelmed and exhausted seems very similar to what so many have endured.
+
+<iframe frameBorder="0" height="300" scrolling="no" src="https://playlist.megaphone.fm/?e=VMP8311560082"
+width="100%"></iframe>
 
 ---
 
@@ -27,7 +31,7 @@ They’re going to say I’m crazy. They’re going to say I’m a hypocrite. Th
 
 ---
 
-### Building Something New
+## Building Something New
 
 So today, I‘ve [spoken about my experiences more directly and more publicly](https://glitch.com/culture/function-episode-13/) than I have in decades. I of course want everybody to reach out for help and support if needed, but I also want to tell the story of how it’s possible to make a new life where you’re thriving and joyous, not just enduring the pain. Not everybody gets there, and no two people follow the same path, but it absolutely *can* happen. I’m living proof.
 

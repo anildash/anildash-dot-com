@@ -3,6 +3,7 @@ title: After the Rhythm Nation
 slug: after-the-rhythm-nation
 date_published: 2019-01-03T20:29:05.000Z
 date_updated: 2021-08-02T03:11:36.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/janet-jackson-1100-1.jpg?v=1669611620127
 ---
 
 With Janet Jackson's (woefully belated) acceptance into the Rock and Roll Hall of Fame, it's well past time for a broader reckoning with her place in popular culture, and especially the way she's challenged narratives in pop music. To me, her evolution, and unique place in culture, can be summed up with just one verse.
@@ -21,6 +22,8 @@ What Janet said made me rethink how pop music talks about narratives of race, an
 
 Janet's *Unbreakable* album has been unfairly overlooked, perhaps because she couldn't do a full-on promotional push at the time of its launch as she was going through a complicated pregnancy and a lot of change in her personal life. But as an album, it stands tall amongst the other formidable standouts in her catalog, and is perhaps her best complete album since 1998's *Velvet Rope*. "Shoulda Known Better" shows exactly why it's her strongest release in years.
 
+<iframe width="720" height="405" src="https://www.youtube.com/embed/JIfa-QuDhbY" title="Janet Jackson Shoulda Known Better" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## A Vision of Blindness
 
 The pop music tradition, especially the global superstar tier of pop music where Janet resides, has had a fairly consistent narrative for a few decades now. Just as the rhythms and arrangements of contemporary pop music can often find its roots in the funk and disco of the 70s, the lyrical grounding of most "issue oriented" pop music was defined in the simple, sometimes reductive, utopianism of the 60s.
@@ -30,7 +33,7 @@ Motown struggled famously with reacting to the political moment it found itself 
 This expectation of pop music's conversation about race persisted for decades. By the end of the 80s, Janet was pushing forward the boundaries of pop music with *Rhythm Nation 1814*, with many of its songs explicitly articulating a vision of color-blindness. Even its title track, an all-time classic, opens with a spoken incantation:
 
 > We are a nation with no geographic boundaries
-> 
+>
 > Bound together through our beliefs
 > 
 > We are like-minded individuals

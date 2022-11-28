@@ -3,6 +3,7 @@ title: A Federal Blue Checkmark, and Not Learning Lessons
 slug: a-federal-blue-checkmark-wont-solve-online-speech-obviously
 date_published: 2020-07-21T19:51:01.000Z
 date_updated: 2020-07-21T19:51:01.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/passport.jpeg?v=1669582414085
 ---
 
 People are wrong on the Internet every day; generally I don’t try to fuss about that too much. But when Sam Lessin, a former VP of Product Management at Facebook, publishes a [wildly wrong recommendation](https://www.theinformation.com/articles/the-simple-and-practical-steps-the-federal-government-should-take-to-fix-online-speech) about online identity in a credible media outlet, it’s worth correcting because others may take these ideas as credible and cause actual harm. I was frankly surprised by how absolutely broken this suggestion was because I've read other things from Sam that show him to be a smart person who understands a lot about product and out industry.

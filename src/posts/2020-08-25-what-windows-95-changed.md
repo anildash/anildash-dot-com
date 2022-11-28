@@ -3,6 +3,7 @@ title: What Windows 95 Changed
 slug: what-windows-95-changed
 date_published: 2020-08-25T19:29:46.000Z
 date_updated: 2020-12-14T20:37:49.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/windows-95-future.jpeg?v=1669582109489
 ---
 
 Twenty five years ago today, Microsoft released Windows 95. It was undoubtedly a technical leap forward, but its biggest, most lasting impacts are about how it changed popular culture's relationship to technology.
@@ -16,6 +17,8 @@ The broader business world had started paying a lot more attention to tech just 
 Into that world, Microsoft did a mass consumer launch of… an operating system. A computer's operating system is software that lets *other* software do interesting things. It's perhaps most abstract product possible. And Microsoft famously put some real money into it — they did a big launch event in Redmond and got Jay Leno to host it, and even licensed the Rolling Stones’ “Start Me Up” as a theme song, tied to the operating system's signature Start button feature. A lot of retrospective views of Windows 95 tend to focus on the kitsch value of Jennifer Aniston and Matthew Perry doing a VHS training video about the product, but the truth is, *Friends* was not yet a huge hit (let alone a cultural phenomenon) and the video was a fairly obscure release at the time.
 
 But splashy, big-budget ads for Windows 95 *were* ubiquitous in primetime TV in that era when everyone was still watching TV with ads. And as Brad Silverberg (then the SVP in charge of the Windows 95 launch) [notes](https://twitter.com/bradsilverberg/status/1298086999174205440), "The Stones tv ad was so great because it was a kickass song, completely on message (Start), and showed everyday people around the world doing everyday things with the Win95 PCs."
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/BNzWyQPIpVg" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Wildly, Microsoft's effort worked. For the first time ever, lots of consumer enthusiasts lined up to buy software at stores as it released at midnight. Before that milestone launch, widespread anticipatory consumer enthusiasm had been limited to album releases and movie openings. Now, technology was part of the new world of fan culture. That fan enthusiasm had been slowly building for almost 2 years by the time of launch. Trade magazines had been writing breathlessly about “Chicago”, the codename for the product, for months and geeks tried out the early public betas of the operating system — helping popularize the idea of a “beta” as a pre-final version of something in common usage.
 

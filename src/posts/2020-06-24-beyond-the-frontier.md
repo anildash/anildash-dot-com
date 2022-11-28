@@ -3,6 +3,7 @@ title: Beyond the Frontier
 slug: beyond-the-frontier
 date_published: 2020-06-24T19:40:28.000Z
 date_updated: 2020-06-24T21:19:16.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/surveillance-camera.jpeg?v=1669582586845
 ---
 
 I almost can’t remember a time when I wasn’t aware of the work the [Electronic Frontier Foundation](https://eff.org/) was doing on behalf of all of us who care about the impact technology has on society and culture. They describe their work as protecting digital privacy, free speech, and innovation, but I always saw EFF as an organization that existed because our laws, policies, and cultural practices were all created from a set of assumptions that were radically changed by the ubiquity of computing technology. They’re accelerating the rate at which our institutions adapt to the modern world while protecting our rights.
@@ -11,9 +12,11 @@ So I’m really honored today to get the chance to [join the board of the EFF](h
 
 Naturally, this had to do with Prince.
 
-### Let’s Go Crazy
+## Let’s Go Crazy
 
 Back in 2007, Stephanie Lenz posted a short clip of her toddler dancing while Prince’s “Let’s Go Crazy” played in the background. Not long before, Prince had begun pushing for Universal (which then represented Prince’s interests for the copyright of his song) to remove any use of his music in social media platforms, and so they issued a takedown request to YouTube. Hijinks ensued, and by a decade later, it had become a Supreme Court case.
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/N1KfJHFWlhQ" title="Let's Go Crazy #1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Now legally, the case seems pretty straightforward to me as a lay person; it’s clearly fair use to have a couple seconds of a song in the background of a video of your kid. But the conversation rapidly shifted into the context of when corporations can send takedown notices to each other and what constitutes legitimate action there.
 
@@ -25,7 +28,7 @@ That’s how we’ve ended up in a situation where copyright trolling seemed lik
 
 ---
 
-### Thinking Bigger
+## Thinking Bigger
 
 Debates over a song in a home video are small potatoes compared to what’s at stake today, though. Digital surveillance and data exploitation follow the same pattern as these behaviors in the physical world: they victimize the most vulnerable more profoundly. The very institutions of civil society and fundamental human rights are being threatened, in the United States and around the world. Though the stakes are much, much higher, the the reasons are similar to why we end up with absurd copyright cases: our systems aren’t designed toward accountability for institutions and empowerment for individuals. Our laws and regulations aren’t centered in the needs of the most marginalized and vulnerable people.
 

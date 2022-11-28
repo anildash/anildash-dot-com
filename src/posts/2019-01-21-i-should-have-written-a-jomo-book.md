@@ -3,6 +3,7 @@ title: I Should Have Written a JOMO Book.
 slug: i-should-have-written-a-jomo-book
 date_published: 2019-01-21T09:55:26.000Z
 date_updated: 2019-01-21T09:58:46.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/crowd-jomo.jpeg?v=1669611496124
 ---
 
 About seven years ago, inspired by Caterina Fake's seminal essay about [fear of missing out](https://caterina.net/2011/03/15/fomo-and-social-media/), I wrote a bit about the [*Joy* of Missing Out](__GHOST_URL__/2012/07/19/jomo/), and for a little while, JOMO became a thing.
@@ -33,8 +34,7 @@ It's been largely overlooked that FOMO was coined by Caterina Fake, a cofounder 
 
 Years have passed, and now FOMO (and to a lesser extent, JOMO) are just part of culture. I was walking through the Union Square subway stop not too long ago, and saw this Spotify ad, huge and unmissable.
 
-> [@Caterina](https://twitter.com/Caterina?ref_src=twsrc%5Etfw) it’s wild that this is a subway ad in Union Sq. [pic.twitter.com/xb8Hhpqgt6](https://t.co/xb8Hhpqgt6)
-> &mdash; Anil Dash 🥭 (@anildash) [December 21, 2018](https://twitter.com/anildash/status/1076255984329388037?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr"><a href="https://twitter.com/Caterina?ref_src=twsrc%5Etfw">@Caterina</a> it’s wild that this is a subway ad in Union Sq. <a href="https://t.co/xb8Hhpqgt6">pic.twitter.com/xb8Hhpqgt6</a></p>&mdash; anildash (@anildash) <a href="https://twitter.com/anildash/status/1076255984329388037?ref_src=twsrc%5Etfw">December 21, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 And the broader principles of intentionality around consumption are an even bigger phenomenon. Marie Kondo is quickly graduating from being the author of a book that became a phenomenon into being a full-fledged global media tycoon. It's only a matter of time until she has a deal with a retailer to sell branded Konmari boxes for you to store your things in. (Maybe one of them will be a lead box that you can put your phone in so you don't look at it?) But interestingly, the fundamental framing of her entire approach to improving your life is to start with what brings you joy. That make a hell of a lot of sense.
 

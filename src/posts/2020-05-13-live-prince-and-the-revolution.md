@@ -3,7 +3,10 @@ title: "Prince & The Revolution: The COVID-19 Solidarity Response Fund Livestrea
 slug: live-prince-and-the-revolution
 date_published: 2020-05-14T03:57:00.000Z
 date_updated: 2020-05-15T04:02:40.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/purple-skies.jpeg?v=1669582695971
 ---
+
+<iframe width="720" height="540" src="https://www.youtube.com/embed/KRa8ZH_iOXo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -12,11 +15,13 @@ Dearly beloved, we are gathered here today to watch the most definitive record o
 It's to raise funds for the COVID-19 Solidarity Response Fund for WHO — and you can [donate right here](https://covid19responsefund.org/)!
 
 (Before we start: if you somehow don't already have your own copy of this album or concert, you should *absolutely* get the [Deluxe Expanded version of *Purple Rain*](﻿https://amzn.to/2yOnjbK) for your collection.) The Syracuse concert was near the end of the Purple Rain tour, the *94th show* of a run that had been scheduled for 99 shows, and that had already been sold *1.6 million tickets* in 27 cities, and would go on to gross $72 million in today’s dollars — *not* counting merchandise or, you know, the twenty million movie tickets that had been sold for the Purple Rain film over the prior year, or the actual *Purple Rain* album, which had already sold over 9 million copies just in the United States on its way to eventually selling over 25 million around the world.
-![ticket stub from the show](https://cdn.glitch.com/f0e649a1-3610-45f3-885a-217df0379e77%2F1985-03-30-sp8w.png?v=1589439854837)
+
+![ticket stub from the show](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/purple-rain-tour-ticket.png?v=1669582861697 "Ticket stub from the show")
+
 *(Image by [Thomas de Bruin](http://unused-prince-tickets.com/1984-1985.html) from unused-prince-tickets.com)*
 
 There are so many more huge numbers associated with the Purple Rain tour: There were 40,000 people in the crowd in Syracuse! The crew consisted of 105 people who traveled on twelve buses! But at its heart, this was a Prince show, and so ultimately it was still all about the *music*.
-![Prince's greeting from the tour book for the Purple Rain tour](https://cdn.glitch.com/f0e649a1-3610-45f3-885a-217df0379e77%2FPurple_Rain_Page_03.jpg?v=1589431706111)
+![Prince's greeting from the tour book for the Purple Rain tour](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/purple-rain-tourbook-page-3.jpg?v=1669582861467 "Prince's handwritten greeting from the Purple Rain souvenir tour book")
 *Prince's handwritten greeting from the Purple Rain tour book.*
 
 ---
@@ -24,9 +29,11 @@ There are so many more huge numbers associated with the Purple Rain tour: There 
 ## Let’s Go Crazy
 
 The show starts as the album starts as the movie starts: With the inimitable organ chords that kick of Prince's sermon to open "Let's Go Crazy". As those chords begin, we see writing scrawled across the screen:
-![On March 30th, 198FIVE the WORLd witnessed:](https://cdn.glitch.com/f0e649a1-3610-45f3-885a-217df0379e77%2FScreenshot%202020-05-13%2023.50.12.png?v=1589428556827)
+![On March 30th, 198FIVE the WORLd witnessed:](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/purple-rain-tour-screen-title.png?v=1669582861155 "On March 30th, 198FIVE the WORLd witnessed")
+
 It's Prince's handwriting. Though we've seen that his script was as elegant, loopy and sensuous as the man himself, Prince would occasionally drop into his messier printed handwriting when he was going for a fun and casual vibe, as on his hand-scrawled cover art for the surprise club single of "Gett Off" that he released on his birthday in 1991.
-![Gett Off Damn Near 10 Minutes promo](https://cdn.glitch.com/f0e649a1-3610-45f3-885a-217df0379e77%2Fgett-off-damn-near-10-minutes.jpg?v=1589431939779)
+![Gett Off Damn Near 10 Minutes promo](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/gett-off-damn-near-10-minutes.jpg?v=1669582860833 "Gett Off Damn Near 10 Minutes promo vinyl")
+
 But the music! This time, Prince starts "Let's Go Crazy" with, "Hello, Syracuse and the world. My name is Prince, and I have come 2 play with u." Prince gives a shout to "...and the world" here because this concert was broadcast all across the world, including a live simulcast in Germany — reflecting how he was now becoming a global superstar.
 
 The band rips through "Let's Go Crazy" in record time here, and we can see what a well-oiled machine the Revolution are by this point in the tour. Note how every single note and move includes full choreography for the entire band. This was a technique Prince had drilled into all his bands, including side projects like The Time. It's almost impossible to overstate the difficulty of pulling off complex choreography while singing and playing instruments at a level worthy of Prince's famous perfectionism.
@@ -35,8 +42,9 @@ Revolution guitarist Wendy Melvoin summarized it in Rolling Stone's [oral histor
 
 > I had boots on, tons of jewelry, and my instrument and I had to sing and  do choreography. It was literally the Olympics. We were like  synchronized swimmers. If someone screwed up that thing, there’s not  even a bronze medal. You’re just off the team. This was high stakes.
 
-![The Revolution spins](https://cdn.glitch.com/f0e649a1-3610-45f3-885a-217df0379e77%2Frevolution-spin.gif?v=1589430013191)
-Finally, we come to Prince's scorching final guitar coda to "Let's Go Crazy" where he brings out his entire palette of Guitar Face expressions, from playful smirk to full Mustachioed Telecaster Orgasm. That final look may have been one of the inspirations for the creepy faces that Billy Crystal made in his impersonation of Prince that aired as the [cold open for Saturday Night Live](https://www.dailymotion.com/video/x48rz8w)**the same night as this concert**. Riffing on Prince's decision to decline participating in the recording of "We Are The World" (then the number one song in the country), Crystal donned blackface, a not-infrequent trope in his career, and inflicted a cringe-inducing Prince parody on the world, complete with Julia-Louis Dreyfuss as The Revolution's Lisa Coleman. But I digress.
+![The Revolution spins](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/the-revolution-spins.gif?v=1669582860627 "The Revolution revolves")
+
+Finally, we come to Prince's scorching final guitar coda to "Let's Go Crazy" where he brings out his entire palette of Guitar Face expressions, from playful smirk to full Mustachioed Telecaster Orgasm. That final look may have been one of the inspirations for the creepy faces that Billy Crystal made in his impersonation of Prince that aired as the [cold open for Saturday Night Live](https://www.dailymotion.com/video/x48rz8w) **the same night as this concert**. Riffing on Prince's decision to decline participating in the recording of "We Are The World" (then the number one song in the country), Crystal donned blackface, a not-infrequent trope in his career, and inflicted a cringe-inducing Prince parody on the world, complete with Julia-Louis Dreyfuss as The Revolution's Lisa Coleman. But I digress.
 
 ---
 
@@ -47,9 +55,16 @@ The fiery finale to "Let's Go Crazy" leads with almost no break straight into "D
 As we start the song, Prince tears his shirt open wide and unapologetically swivels his hips, instantly upgrading the world from using Elvis as the reference for how to drive a crowd into a sexual frenzy based on a classic rockabilly groove. The somewhat odd early-80s resurgence of rockabilly was a repeated inspiration for Prince in this era, as on 1981's "Jack U Off" (off of *Controversy*), and "Horny Toad", which was the b-side to the "Delirious" single.
 
 This arrangement of "Delirious" also shows how "Let's Go Crazy" had sections that evolved from earlier jams on "Delirious", including a surprising dissonant middle section that would eventually see release on the 12" extended version of "Let's Crazy", but that fits seamlessly into either song in a live context.
-Isolated drum machine, vocals and piano of "Let's Go Crazy" extended breakdown
+
+<figure style="margin-left: auto; margin-right: auto;">
+    <figcaption style="visibility: visible !important; font-size: x-small; text-align: center; font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif;">Isolated drum machine, vocals and piano of "Let's Go Crazy" extended breakdown</figcaption>
+    <audio
+        controls
+        src="https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/del-lgc-middle-section.mp3?v=1669583190595">
             Your browser does not support the
-            `audio` element.
+            <code>audio</code> element.
+    </audio>
+</figure>
     
 When Prince calls out "somebody call me a doctor!" as the song becomes a jam, it's a reference to keyboardist Matt Fink's stage name of "Dr. Fink", and here Fink ably takes over keyboard duties on the standout piano riff for the jazzy musical breakdown in the song. 
 
@@ -74,7 +89,9 @@ A little fist pumping and guitar wankery, and we're on to Little Red Corvette, f
 The staging here again almost exactly mirrors the familiar music video, from lighting to the band's positions on the stage to even many of the smallest steps of Prince's choreography. Though the performance is undeniably charismatic (Prince's cute little breakdance move elicits screams as if it were his own moonwalk), it's easy to see why Prince would later characterize this tour as a bit too locked-down in format, not leaving much room for improvisation. This is an artist, after all, who would later do entire tours where he never played the same setlist twice, and even lengthy runs of shows where no individual *songs *were repeated.
 
 Throughout the performance, we get surprisingly interesting synth textures and different voicings from the album version of the song, reflecting the increasing influence of Revolution keyboardist Lisa Coleman's broader musical palettes. Here she is, looking like an elfin creature in the tourbook for the show.
-![Lisa Coleman](https://cdn.glitch.com/f0e649a1-3610-45f3-885a-217df0379e77%2Flisa.jpg?v=1589500040928)
+
+![Lisa Coleman](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Lisa-coleman.jpg?v=1669582859005 "Lisa Coleman in the Purple Rain tourbook")
+
 ---
 
 ## Take Me With U
@@ -83,7 +100,7 @@ The Revolution has often said that "Take Me With U" was one of their favorite so
 
 Fortunately, the Revolution came to groove on the song, and they funk it up in a way that the album version's string-laden romance had never even hinted at. Prince hypes up the crowd and coaxes as much of a funky roar as one can get out of central new York. This version of "Take Me With U" is fun, and the crowd work is terrific, but the best live recording of the song from this tour was turned into its actual music video.
 
-As I'd said in [Every Single Video Prince Ever Made](__GHOST_URL__/2018/11/28/every-single-video-prince-ever-made/),
+As I'd said in [Every Single Video Prince Ever Made](/2018/11/28/every-single-video-prince-ever-made/),
 
 > Another scorching live performance, Take Me With U finds Prince and  the Revolution at the height of their fame, during the Purple Rain tour,  when they broke records selling out every seat in The Summit in Houston  5 times in one week.
 > In lieu of Apollonia's duet vocals as on the recorded song, the song  becomes a rocking jam session with Prince's searing guitar solo  rocketing into another gear with an interpolation of his own  "Controversy" at the 3-minute mark. Add in some weird but fun special  effects that make you feel like you're flying through the air while  Prince shreds on his guitar, and it's hard not to love this one.
@@ -94,7 +111,7 @@ After this, it's finally time to slow things down a bit. And it's worth remember
 
 ## Interlude
 
-Prince brings back his weird nods to Americana with a synth-driven version of "Yankee Doodle", featuring synth textures that deeply evoke the sound of the *Around The World in a Day *album which would be released just a few weeks later. All this crypto-jingoism acts as something of a reminder that this is a tour which began the same week that Ronald Reagan was re-elected.
+Prince brings back his weird nods to Americana with a synth-driven version of "Yankee Doodle", featuring synth textures that deeply evoke the sound of the *Around The World in a Day* album which would be released just a few weeks later. All this crypto-jingoism acts as something of a reminder that this is a tour which began the same week that Ronald Reagan was re-elected.
 
 We also see Prince and Wendy moving offstage to watch a laser light show, a move which seems to presage the central conceit of his 1987 Sign O' The Times tour, in which Prince and dancer Cat Glover repeatedly focus on watching a "crystal ball" (the plasma globe lights which were popular in the 80s). In retrospect, there's an odd aspect of straightwashing to Prince and Wendy's interactions here, but the digression passses quickly enough.
 
@@ -136,6 +153,8 @@ This is another song that would have been an incredible challenge for the audien
 
 If you've ever heard the song before, do yourself a favor and take a moment to hear this alternate take of the song, released for the first time recently as part of the Deluxe Edition re-release of *1999*.
 
+<iframe width="720" height="540" src="https://www.youtube.com/embed/b4Rv3cJP4DY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Even though much of the crowd may not have known the song, Prince's performance is spellbinding, especially as he becomes the first male pop star to ever ask a crowd of tens of thousands to appreciate his lace-clad ass while cooing at them in a piercing falsetto.
 
 The length with which Prince extends some of these vignettes onstage (along with his earlier spoken asides) seems in retrospect to indicate that he was using these unstructured parts of the concert to express himself as the rest of the setlist and performances became bound by much more rote choreography. No surprise, then, that the song ends with Prince talking about "Temptation" — a standout track from the *Around the World In a Day *album that would be released just a few weeks later, and which clearly had already captured Prince's attention.
@@ -164,9 +183,10 @@ But Prince's passion here is evidently sincere, and Prince works the crowd into 
 
 It's also apropos of the cultural moment — other major artists, like the then-nascent Madonna would mine the same territory to similarly massive cultural effect. In fact, just a month earlier on the Purple Rain tour, in Inglewood, CA, the closing encore of Prince's show featured **both Bruce Springsteen and Madonna** joining Prince and the Revolution on stage. It's a moment that seems almost impossible to rival in popular culture, and Wendy Melvoin summarized the surreality of the evening in the oral history of the tour:
 
-> Madonna came backstage and was in our dressing room, mine and Lisa’s,  and wanted to use the bathroom. It was this true girl moment. We were  each in our stalls peeing at the same time and she goes, “You guys are  such badasses!” That was my first introduction to Madonna.
+> Madonna came backstage and was in our dressing room, mine and Lisa’s,  and wanted to use the bathroom. It was this true girl moment. We were  each in our stalls peeing at the same time and she goes, “You guys are such badasses!” That was my first introduction to Madonna.
 
-![Wendy Melvoin](https://cdn.glitch.com/f0e649a1-3610-45f3-885a-217df0379e77%2Fwendy.jpg?v=1589500040442)
+![Wendy Melvoin](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/wendy-melvoin-purple-rain-tourbook.jpg?v=1669582858693 "Wendy Melvoin pictured in the Purple Rain tourbook")
+
 ---
 
 ## Computer Blue
@@ -182,7 +202,8 @@ One fun bit to watch for here after Prince's guitar solo: He tosses his guitar f
 Another faithful performance of a standout *Purple Rain *track, "Darling Nikki" is absolutely relentlessly powerful onstage, and all the more amazing when we realize the *album* version of this song has every single instrument played by Prince.
 
 But here, Wendy tears up the stage on *her* performance of Prince's guitar solo, more than holding her own on the track, and building on the incredible, intense energy of the track. The sheer power of this kind of performance makes it obvious why, more than another other single song in history, this song is the reason these stickers exist in culture.
-![Parental Advisory](https://cdn.glitch.com/f0e649a1-3610-45f3-885a-217df0379e77%2F1200px-Parental_Advisory_label.svg.png?v=1589498923437)
+
+![Parental Advisory](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Parental_Advisory_label.png?v=1669582857501 "The Parental Advisory warning label")
 ---
 
 ## The Beautiful Ones
@@ -203,7 +224,7 @@ In this performance, we also see the dominance of MTV in culture, as the screen-
 
 As is befitting a pop star at the peak of his popularity, Prince focuses on the dancing and showmanship here, but it's a shame as, on record, "When Doves Cry" features some of the best vocal ad-libs of his entire career. Instead, though, we get an undeniable onstage passion. And watch carefully — toward the end, when Prince drops his handkerchief, that's a *cue to the band*. The entire Revolution was expected to hit their musical cues based on when the hankie hit the stage. Here's how Lisa Colman put it:
 
-> You’d have to watch pretty darn closely. Every once in a while, to cue  the end of a song, he’d throw a hankie into the air, and when the hankie  hit the ground, that’s when we would stop. So you had to be able to see  the ground, and if you’re backed up on a riser behind keyboards and  cymbals, sometimes it was hard to see, like, “Oh no! The hankie  disappeared!”
+> You’d have to watch pretty darn closely. Every once in a while, to cue the end of a song, he’d throw a hankie into the air, and when the hankie  hit the ground, that’s when we would stop. So you had to be able to see the ground, and if you’re backed up on a riser behind keyboards and  cymbals, sometimes it was hard to see, like, “Oh no! The hankie  disappeared!”
 
 ---
 
@@ -214,6 +235,8 @@ This live version of "I Would Die 4 U", paired with its sibling song to follow, 
 By late in the tour, the cohort onstage reached points of absurdity that sound like a parody of the 80s. Here are some folks in leotards! There's a chubby kid breakdancing! Over there is a mime! But fortunately, in this show, the material is the focus, and the entire funk army onstage is determined to display what a well-oiled machine they were by this poitn in the tour.
 
 These performances of I Would Die 4 U were legendary workouts for The Revolution. The extended version of the song, as commercially released, was over ten minutes long, recorded at a soundcheck for the tour in an arrangement very close to what we hear in this performance. But even *that* release was edited down — from an original take that lasted [over *half an hour*](https://soundcloud.com/djc-53/7-06-i-would-die-4-u-extended-version), and was only cut off because the recording machine ran out of tape.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6OLkCiGr9U5fofZoGFq1UY?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
 

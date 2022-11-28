@@ -3,6 +3,7 @@ title: I’m Asking My Friends on the Left to Vote for Joe Biden
 slug: im-asking-my-friends-on-the-left-to-vote-for-joe-biden
 date_published: 2020-08-21T08:26:41.000Z
 date_updated: 2020-09-02T19:22:04.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fraying-knots.jpeg?v=1669582261896
 ---
 
 With authoritarianism at our door, the policies that progressives are driving for will be dependent on whether the fundamental institutions of democracy are protected at all. 
@@ -33,8 +34,7 @@ The comfortable boomers do not understand that this threat to democracy is an ac
 
 Interestingly, in this year's Democratic convention, Bernie said it straight out. (Notably, so did Obama.) We're at risk of an unabashedly authoritarian government in America. They’re right. And the bulwark is you, and your energy and organizing and engagement.
 
-## 
-It's only a first step
+## It's only a first step
 
 I'm  not under any illusion that authoritarianism can be stopped solely with a ballot. It certainly is not enough. But if we want to have the space and stability to *fight* that threat, we need to slow the stampede to fascism. 
 

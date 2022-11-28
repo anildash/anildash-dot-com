@@ -3,6 +3,7 @@ title: The American Death Cult
 slug: the-american-death-cult
 date_published: 2020-07-12T01:26:00.000Z
 date_updated: 2020-07-21T01:28:29.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fading-flowers.jpeg?v=1669582504422
 tags: Best Of
 ---
 
@@ -18,7 +19,7 @@ Why can’t we provide universal healthcare? Why can’t we reduce pollution and
 
 I get a lot of criticism when I call this death cult a death cult. I understand why; it seems thoughtless or cruel. Many times we want to ascribe this pathology to a lack of education on people’s part, or a lack of access to critical services or support that might convince them otherwise. I’m generally sympathetic to that point of view, but it’s hard to reconcile that as a fundamental cause when these beliefs are also held by many of the most powerful, wealthy and (conventionally) educated people in the country. 
 
-But it's worth noting, even those *raised in these cultures*[call it a cult themselves](https://medium.com/@johnmark/the-evangelicals-will-kill-us-all-241723ad2d1b).
+But it's worth noting, even those *raised in these cultures* [call it a cult themselves](https://medium.com/@johnmark/the-evangelicals-will-kill-us-all-241723ad2d1b).
 
 ---
 

@@ -1,52 +1,42 @@
 ---
-title: Nineteen is When They Forgot
-slug: nineteen-is-when-they-forgot
-date_published: 2020-09-11T17:29:55.000Z
-date_updated: 2021-08-02T02:54:54.000Z
-tags: nyc
+title: Eighteen is History
+slug: eighteen-is-history
+date_published: 2019-09-11T09:17:39.000Z
+date_updated: 2019-09-11T21:49:43.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/towers-of-light.jpeg?v=1669585604529
 ---
 
-The slogan, for people who weren’t in Manhattan that day, is “Never Forget”. The people who were not here, who were never here, call it “9/11”. But the people I still check in with, the friends who trudged home covered in ash, never call it that. It’s always euphemism or elision or metonymy. “That Tuesday morning”, or “when I was downtown” or, maybe, “after the second plane”.
+There are kids now who are old enough to go fight in wars that were justified back when they still had their umbilical cords attached. For them, the attacks are only history; that's all they ever were.
 
-I want to remember the truth of those actually here, and those actually lost, because now we have proof that all those who claimed We Are All New Yorkers have definitively forgotten us, less than two decades after they promised exactly the opposite.
+I can sort of understand it. I was born after Vietnam, after Watergate. But my whole childhood, these were the points of reference, the milestones used to justify choices or underpin arguments. They were totems, symbols, history. *Only* history, not something real.
 
-We’ve had a tragedy now that’s worse than that day, tenfold. Inflicted on us by a virus, yes, but by contemptuous and contemptible leaders at every level, too. By the fundamental unwillingness to show the same spirit of connection, camaraderie, neighborliness, and yes, love that defines New York City.
+And these days I spend a lot of time with people for whom 9/11 is only history. Someone who is as old today as I was that day would probably have been shielded from knowing too much at the time. They'd have been as young as my son is today, and I still shield him from the full weight of my memories of that day.
 
-Instead of a show of support from afar, my neighbors, my community, pulled each other through it this time. There was no other choice. It was the same openhearted expression of compassion for strangers that I first learned existed 19 years ago. This spring, every night at seven o’clock when our neighborhood rang out in a clamor to celebrate those sacrificing to save our fellow New Yorkers, it felt like a crowd at one of our ballparks, celebrating the capability of people to love and help complete strangers. You couldn’t help but be inspired.
-
-And as the unimaginable, searing grief added up day after day, as it continues to right now in a quieter form, all we asked during this tragedy was the exact same thing we asked during that last epochal tragedy. Listen to those who lost so much, listen quietly to our community’s grief, and honor this senseless, needless loss by taking care of each other, dammit. Show the love for each other that the bravest of New Yorkers have used to pull each other through.
-
-But this time it was immediately obvious that much of this country, far too many of its people, have nothing but contempt for New York and the way the best of this city is resilient and loving and unfathomably self-sacrificing. They have already forgotten us this time, without even the pretense of briefly standing with us. To be fair, some of the reason for the lack of solidarity is that they’re suffering at the hands of a tragedy we desperately wanted to warn them to avoid.
+Frankly, that's hard for me to process. We still ground so much of our social and political rhetoric in that day, so it's easy for me to forget that for many (for *most*?), it's only a signifier, with none of the visceral evocations of memory. I remember how 9/11 smelled. I remember how my city smelled, for months. I can still look up at a clear blue sky with the slightest breeze in the air and imagine that morning, and remember when the wind shifted and the plume came over our neighborhood.
 
 ---
 
-## Seeing Echoes
+So, it's up to me to let it go. To let it become history. I don't mind that younger people don't have the same reverence for the moment. Maybe I'm kind of glad they don't. I can see now what I couldn't see then. Those of us who witnessed that day, even if only in a small way, will fade from the cultural conversation. When I was young, you would still hear people talk about D Day, or Pearl Harbor. Being young and insolent, I never had much patience for listening to the stories. Young people don't have reverence for these moments.
 
-It’s clear now that America doesn’t see New Yorkers’ deaths or pain as real. That realization is too deep a failure of humanity for me to reflect on for too long. But I find hope, and more than a little redemption of my belief in people, from what I have seen in this past few months in my beloved city.
+I guess we said we'd never forget. But the consensus around grief, around memorial, around observance — that fragile fiction faded by the time the smell dissipated. We didn't get around to deciding what it was, exactly, that we were Never Forgetting.
 
-Just as I despaired so deeply 19 years ago, but was able to rise back up due to the inspiration of my neighbors and my city, New York can show us something greater than we imagined. Where then, people stood by the mosque in my neighborhood to show support for those who might be victimized, today I see loving handwritten signs decrying the potential for racist ranting about the origins of this pandemic. The same eerie calm of a city where the skies were cleared of any jets overhead was echoed in the silence of our streets in a spring where there were no taxis screeching by. The “I Love New York” signs with a blemished red heart reflecting a city scarred hung in every storefront where now they have a streetscape marked by people reclaiming the block for food and drink and conversation and life. The workers who wore face masks then to fend off the risks of asbestos and anthrax are every bit as thoughtful to wear those masks and protect others today. Those who marched in the streets to fight the rush to war then, march in the streets to fight systematic injustice now.
+And so, we ended up with this legacy. There are ritualized remembrances, largely led by those who weren't there, those who mostly hate the values that New York City embodies. The sharpest memories are of the goals of those who masterminded the attacks. It's easy enough to remember what they wanted, since they accomplished all their objectives and we live in the world they sought to create. The empire has been permanently diminished. Never Forget.
 
-For all that’s changed, this is still the city I love. I thought that my adulthood would only be marked by one devastating tragedy that bound me to this city, but unfathomably, I was naive to hope so. I’m not a Pollyanna about the resiliency of this city; our metaphorical immune system was already compromised before this latest egregious insult. It will take an act of extraordinary collective will for New York to recover as much as we are able.
+But I still maintain a little bit of hope. Because just as a new generation doesn't revere the memories of those of us okd enough to bear witness, they are also not despairing over the failures of our follow-up. This is the world they've always lived in, the starting point they were always given. So there was never anything other than moving forward from that day.
 
-But I do have the experience of having seen this city bounce back from unimaginable pain before. I have seen us respond to attacks on our public life by rebuilding and reimagining public space. I have seen us grieve our losses and rally behind those who cared for those injured, and preserve space in our cultural memory for their pain and sacrifice. By no means have we done enough for all those lost, but it is absolutely true that we can rebuild. We’ve done it before.
+### In Past Years
 
----
+Each year I write about the attacks on this anniversary, to reflect both on that day and where I'm at right now. I also deeply appreciate the conversation that ensues with those who check in with me every year.
 
-Each year I write a reminiscence or an observation of where I am on this day, and how I'm seeing a moment that's moved from visceral personal experience to faded cultural memory. Here's what I've written in years past.
-
-Last year, [Eighteen is History](__GHOST_URL__/2019/09/11/eighteen-is-history/)
-
-> There are ritualized remembrances, largely led by those who weren't  there, those who mostly hate the values that New York City embodies. The  sharpest memories are of the goals of those who masterminded the  attacks. It's easy enough to remember what they wanted, since they  accomplished all their objectives and we live in the world they sought  to create. The empire has been permanently diminished. Never Forget.
-
-Two years ago, [Seventeen is (Almost) Just Another Day](__GHOST_URL__/2018/09/11/seventeen-is-almost-just-another-day/)
+Last year, [Seventeen is (Almost) Just Another Day](__GHOST_URL__/2018/09/11/seventeen-is-almost-just-another-day/)
 
 > I spent so many years thinking “I can’t go there” that it caught me completely off guard to realize that going there is now routine. Maybe the most charitable way to look at it is resiliency, or that I’m seeing things through the eyes of my child who’s never known any reality but the present one. I'd spent a lot of time wishing that we hadn't been so overwhelmed with response to that day, so much that I hadn''t considered what it would be like when the day passed for so many people with barely a notice at all.
 
-Three years ago, [Sixteen is Letting Go Again](__GHOST_URL__/2017/09/11/sixteen_is_letting_go_again/)
+Two years ago, [Sixteen is Letting Go Again](__GHOST_URL__/2017/09/11/sixteen_is_letting_go_again/)
 
 > So, like ten years ago, I’m letting go. Trying not to project my feelings onto this anniversary, just quietly remembering that morning and how it felt. My son asked me a couple of months ago, “I heard there was another World Trade Center before this one?” and I had to find a version of the story that I could share with him. In this telling, losing those towers was unimaginably sad and showed that there are incredibly hurtful people in the world, but there are still so many good people, and they can make wonderful things together.
 
-Four years ago, [Fifteen is the Past](__GHOST_URL__/2016/09/11/fifteen_is_the_past/):
+Three years ago, [Fifteen is the Past](__GHOST_URL__/2016/09/11/fifteen_is_the_past/):
 
 > I don’t dismiss or deny that so much has gone so wrong in the response and the reaction that our culture has had since the attacks, but I will not forget or diminish the pure openheartedness I witnessed that day. And I will not let the cynicism or paranoia of others draw me in to join them.
 > 

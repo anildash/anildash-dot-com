@@ -3,6 +3,7 @@ title: When Every App Crashes
 slug: when-everything-crashes
 date_published: 2020-05-07T07:34:42.000Z
 date_updated: 2020-05-07T07:36:54.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/lego-flats.jpeg?v=1669583630904
 ---
 
 Today, for about half an hour in the afternoon, pretty much every app that you might try on your iPhone would likely have crashed upon opening it. It's probably worth understanding why, but more importantly, worth understanding what that reality *means*. And here, I'm addressing people who aren't coders, aren't engineers, aren't programmers — just regular users of apps.
@@ -39,4 +40,13 @@ This is an architecture of accountability. It's just one part of a broader ecosy
 
 ---
 
-*virtual exhibition 004 by Naoto Hieda*
+<div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
+  <iframe
+    src="https://glitch.com/embed/#!/embed/glitter-nails?path=README.md&previewSize=100"
+    title="glitter-nails on Glitch"
+    allow="geolocation; microphone; camera; midi; vr; encrypted-media"
+    style="height: 100%; width: 100%; border: 0;">
+  </iframe>
+</div>
+
+*glitter nails by Naoto Hieda*
