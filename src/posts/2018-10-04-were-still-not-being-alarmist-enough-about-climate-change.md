@@ -3,6 +3,7 @@ title: We’re (still) not being alarmist enough about climate change
 slug: were-still-not-being-alarmist-enough-about-climate-change
 date_published: 2018-10-04T07:56:02.000Z
 date_updated: 2021-08-02T03:16:45.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/flooding.jpeg?v=1669624048650
 ---
 
 What if we had another 9/11, and nothing happened?
@@ -34,7 +35,8 @@ In the past, we at least were able to treat galvanizing moments of obvious threa
 ---
 
 This time, though, we had a catastrophe with a far higher death toll, and far higher economic toll, than 9/11, and the regime in power decided to act as if *nothing had happened*. Puerto Rico's awful fate under Maria was rendered even more horrific by a political response that began with indifference and then degenerated into overt denial. We can almost imagine Trump staring at the smouldering piles of rubble where the Twin Towers had stood, and not merely crowing about how his buildings had moved up in the list of tallest skyscrapers, but actively denying that anyone had died in the World Trade Center at all. Now imagine the rest of us, knowing there was going to be another 9/11 every few years, pretending that it wasn't going to be us who gets targeted next.
-![](__GHOST_URL__/content/images/2021/08/Screenshot-2018-10-04-00.27.49.png)NYC Flood Plain in the 2020s
+![NYC Flood Plain in the 2020s](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/nyc-flood-zones.png?v=1669624105027 "NYC Flood Plain in the 2020s")
+
 Source: [NYC Flood Hazard Mapper](http://dcp.maps.arcgis.com/apps/webappviewer/index.html?id=1c37d271fba14163bbb520517153d6d5)
 
 ## Beyond Despair

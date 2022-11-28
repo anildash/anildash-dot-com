@@ -3,6 +3,7 @@ title: A Much Faster Way to Charge your iPhone
 slug: a-much-faster-way-to-charge-your-iphone-x
 date_published: 2018-08-03T18:11:02.000Z
 date_updated: 2021-08-02T03:40:36.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/usb-c-lightning-thermal.jpg?v=1669624310335
 tags: iphone, tech, apple
 ---
 
@@ -11,7 +12,29 @@ Forgive me, for I am about to commit gadget blogging. I've been using an iPhone 
 **The short version**: The iPhone X (and iPhone 8) supports a fast-charging mode. If you spend a little bit of money on a higher-wattage charger, you can fill up your battery much faster, especially when it's really low.
 
 Here's what the results look like with the fast-charging setup that I've got now, starting from a phone that was down to only 2% battery charge:
-Time (minutes)04207590120Charge2%10%37%83%91%97%
+
+<table>
+    <tr>
+        <th>Time (minutes)</th>
+        <th>0</th>
+        <th>4</th>
+        <th>20</th>
+        <th>75</th>
+        <th>90</th>
+        <th>120</th>
+    </tr>
+    <tr>
+        <th>Charge</th>
+        <td>2%</td>
+        <td>10%</td>
+        <td>37%</td>
+        <td>83%</td>
+        <td>91%</td>
+        <td>97%</td>
+    </tr>
+
+</table>
+
 ---
 
 ## Underpowered
@@ -37,4 +60,5 @@ That's it. Plug in your pricey new USB-C to Lightning cable, and you'll be toppi
 I've also used a number of the popular wireless charging (Qi) devices that the iPhone X and iPhone 8 support, and while they certainly work, they're *really* slow. I much prefer the speed of having my battery fill faster to the convenience of not having to plug in a cable, unless I'm at a public/shared charge point like at a coffee shop or airport.
 
 The rumors are that Apple is going to include the USB-C to Lightning cable along with the next generation of iPhones, and they certainly should. The default experience for people buying a top-of-the-line phone ought to be the fastest charging experience possible.
-![](__GHOST_URL__/content/images/2021/08/MNF82_AV2_GEO_US.jpg)The wildly-overpowered 87W USB-C Monster
+
+![The wildly-overpowered 87W USB-C Monster](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/MNF82_AV2_GEO_US.jpg?v=1669624372987 "The wildly-overpowered 87W USB-C Monster")

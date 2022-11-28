@@ -3,13 +3,23 @@ title: Unfollowing Everybody
 slug: unfollowing-everybody
 date_published: 2018-07-13T19:41:09.000Z
 date_updated: 2021-08-02T03:43:43.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anil-dash-unfollow.png?v=1669624499447
 ---
 
 At this point, there's nothing novel about noticing that social media is often toxic and stressful. But even aside from those concerns, our social networks are not things we generally think of as requiring maintenance or upkeep, even though we routinely do regular updates on all the other aspects of our digital lives.
 
 Keeping in mind that spirit of doing necessary maintenance, I recently did something I'd thought about doing for years: I unfollowed everyone on Twitter. Now, these kinds of decisions are oddly fraught; a lot of people see their following relationships on social media as a form of status, not merely an indication of where information is flowing between people. But I decided to assume that the people I'm connected to know that me unfollowing everyone isn't personal, but really just a response to the overwhelming noise of having more than 5000 accounts sharing info with me on a single network.
 
-**Update: **Julius Tarng made an enormously popular, and really charming, Glitch app called [Tokimeki Unfollow](https://tokimeki-unfollow.glitch.me/) that helps you clean up your timeline, and makes it easy to unfollow any accounts that don't bring you joy. Definitely use this if you don't want to do a bunch of tech stuff!
+**Update:** Julius Tarng made an enormously popular, and really charming, Glitch app called [Tokimeki Unfollow](https://tokimeki-unfollow.glitch.me/) that helps you clean up your timeline, and makes it easy to unfollow any accounts that don't bring you joy. Definitely use this if you don't want to do a bunch of tech stuff!
+
+<div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
+  <iframe
+    src="https://glitch.com/embed/#!/embed/tokimeki-unfollow?path=README.md&previewSize=100"
+    title="tokimeki-unfollow on Glitch"
+    allow="geolocation; microphone; camera; midi; vr; encrypted-media"
+    style="height: 100%; width: 100%; border: 0;">
+  </iframe>
+</div>
 
 ---
 
@@ -33,9 +43,9 @@ As it turns out, each of these steps is pretty easy.
 
 ### Copying all your follows to a List
 
-If you want to back up all of your followers, you only need to make a list and then populate it. You can make lists in most regular Twitter apps, but to do it at the command line it's simple: type in `t list create following-`date "+%Y-%m-%d"`` to make a list named after the current date, so you can easily remember this was a list of who you were following as of today. You can pretty easily understand the `t` syntax here — commands like `list create` are pretty self-explanatory.
+If you want to back up all of your followers, you only need to make a list and then populate it. You can make lists in most regular Twitter apps, but to do it at the command line it's simple: type in <code>t list create following-\`date "+%Y-%m-%d"\`</code> to make a list named after the current date, so you can easily remember this was a list of who you were following as of today. You can pretty easily understand the `t` syntax here — commands like `list create` are pretty self-explanatory.
 
-Next, we have a slightly more elaborate command to copy all of your followers to the new list; you'll dump out a list of everyone you follow, and then pipe that into another `t` command to add them to your new list. It works like so: `t followings | xargs t list add following-`date "+%Y-%m-%d"``. (If you're like me, you'll be doing all this stuff around midnight, and the date will change in the middle of it, and you should just type in the current date instead of using `date` variables.)
+Next, we have a slightly more elaborate command to copy all of your followers to the new list; you'll dump out a list of everyone you follow, and then pipe that into another `t` command to add them to your new list. It works like so: <code>t followings | xargs t list add following-\`date "+%Y-%m-%d"\`</code>. (If you're like me, you'll be doing all this stuff around midnight, and the date will change in the middle of it, and you should just type in the current date instead of using `date` variables.)
 
 That's it! Now you've got a list of all your followers, and if you browse that list in your Twitter client app, you should see the exact same thing as your regular timeline. Do note, though, that Twitter lists don't function well with more than a few thousand followers. It took hours for all 5,000+ of my followers to show up on the list, and in the interim the counts of how many people belonged to the list were often incorrect.
 
@@ -44,7 +54,9 @@ That's it! Now you've got a list of all your followers, and if you browse that l
 This one is just a fun thing to do in general, if you like to slice and dice data about your social network. `t` supports exporting a pretty broad set of data about your followers, not just their names and Twitter handles, by allowing for a "long format" export with complete data. You get stuff like how many favorites (likes) they have on Twitter, when their account was created, and how many people they follow or are followed by. Frustratingly, Twitter no longer makes it easy for this data export to include whether that person follows *you* or not; that requires an additional query.
 
 You'll use CSV (comma-separated values) as the format for exporting your data into a spreadsheet. And good news! `t` supports that natively. So your command will look like this: `t followings -l --csv > followings.csv` which basically says "Export my followings, in long format, to a CSV file named 'followings.csv'." Once you do that, you can open it up in Excel or Google Sheets in a few clicks, and you're all set.
-![](__GHOST_URL__/content/images/2021/08/Screenshot-2018-07-13-11.01.18.png)spreadsheet of people I used to follow on Twitter
+
+![spreadsheet of people I used to follow on Twitter](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/followings-spreadsheet.png?v=1669624499116 "spreadsheet of people I used to follow on Twitter")
+
 After all the people I followed were in a spreadsheet, I was able to sort by how many followers or followings they had, and also their last update, and I found friends who'd passed away whose accounts had been dormant for years, or joke accounts whose relevance had expired, or quiet voices with small networks that had been drowned out amongst the cacophany of the many other voices I was hearing each day. I found this part to be a really worthwhile exercise, and definitely decided to follow fewer people with huge networks and lots of reach.
 
 ### Actually unfollowing!
@@ -57,7 +69,7 @@ But with a more reasonable network, the command to unfollow everyone is extremel
 
 It'll chug away for a few minutes, and then that's it! You're not following anybody anymore. Except it might still *look* like you are.
 
-> A number of people are noticing that my follower count says something other than 5, or that you see incorrect lists of who I follow. This is an artifact of a design called “eventual consistency”, which Twitter & other distributed systems use to help scale. [https://t.co/FGzQ9qR0SG](https://t.co/FGzQ9qR0SG)[July 5, 2018](https://twitter.com/anildash/status/1014695768903413760?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">A number of people are noticing that my follower count says something other than 5, or that you see incorrect lists of who I follow. This is an artifact of a design called “eventual consistency”, which Twitter &amp; other distributed systems use to help scale. <a href="https://t.co/FGzQ9qR0SG">https://t.co/FGzQ9qR0SG</a></p>&mdash; anildash (@anildash) <a href="https://twitter.com/anildash/status/1014695768903413760?ref_src=twsrc%5Etfw">July 5, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 In my case, my follower count was wrong for *days*, and kept showing wildly inaccurate information like insisting that I was following one of Mike Pence's official accounts. (Needless to say, that was never the case.) All of this is due to a architectural decision called [eventual consistency](https://en.wikipedia.org/wiki/Eventual_consistency), which helps enable Twitter to scale to its massive size, but doesn't do as good a job of handling unusual circumstances like being able to immediately see the correct list of followers for someone who has just unfollowed thousands of accounts.
 

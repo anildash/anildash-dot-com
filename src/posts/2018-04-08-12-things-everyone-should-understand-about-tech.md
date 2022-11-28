@@ -3,72 +3,73 @@ title: 12 Things Everyone Should Understand About Tech
 slug: 12-things-everyone-should-understand-about-tech
 date_published: 2018-04-08T04:19:34.000Z
 date_updated: 2021-08-02T04:06:40.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/cassette.jpeg?v=1669625301567
 tags: tech, Best Of
 ---
 
 Tech is more important than ever, deeply affecting culture, politics and society. Given all the time we spend with our gadgets and apps, it’s essential to understand the principles that determine how tech affects our lives.
 
-### Understanding technology today
+## Understanding technology today
 
 Technology isn’t an industry, it’s a method of transforming the culture and economics of existing systems and institutions. That can be a little bit hard to understand if we only judge tech as a set of consumer products that we purchase. But tech goes a lot deeper than the phones in our hands, and we must understand some fundamental shifts in society if we’re going to make good decisions about the way tech companies shape our lives—and especially if we want to influence the people who actually make technology.
 
 Even those of us who have been deeply immersed in the tech world for a long time can miss the driving forces that shape its impact. So here, we’ll identify some key principles that can help us understand technology’s place in culture.
 
-## What you need to know:
+# What you need to know:
 
-### 1. Tech is not neutral.
+## 1. Tech is not neutral.
 
 One of the most important things everybody should know about the apps and services they use is that the values of technology creators are deeply ingrained in every button, every link, and every glowing icon that we see. Choices that software developers make about design, technical architecture or business model can have profound impacts on our privacy, security and even civil rights as users. When software encourages us to take photos that are square instead of rectangular, or to put an always-on microphone in our living rooms, or to be reachable by our bosses at any moment, it changes our behaviors, and it changes our lives.
 
 All of the changes in our lives that happen when we use new technologies do so according to the priorities and preferences of those who create those technologies.
 
-### 2. Tech is not inevitable.
+## 2. Tech is not inevitable.
 
 Popular culture presents consumer technology as a never-ending upward progression that continuously makes things better for everybody. In reality, new tech products usually involve a set of tradeoffs where improvements in areas like usability or design come along with weaknesses in areas like privacy & security. Sometimes new tech is better for one community while making things worse for others. Most importantly, just because a particular technology is “better” in some way doesn’t guarantee it will be widely adopted, or that it will cause other, more popular technologies to improve.
 
 In reality, technological advances are a lot like evolution in the biological world: there are all kinds of dead-ends or regressions or uneven tradeoffs along the way, even if we see broad progress over time.
 
-### 3. Most people in tech sincerely want to do good.
+## 3. Most people in tech sincerely want to do good.
 
 We can be thoughtfully skeptical and critical of modern tech products and companies without having to believe that most people who create tech are “bad”. Having met tens of thousands of people around the world who create hardware and software, I can attest that the cliché that they want to change the world for the better is a sincere one. Tech creators are very earnest about wanting to have a positive impact. At the same time, it’s important for those who make tech to understand that good intentions don’t absolve them from being responsible for the negative consequences of their work, no matter how well-intentioned.
 
 It’s useful to acknowledge the good intentions of most people in tech because it lets us follow through on those intentions and reduce the influence of those who don’t have good intentions, and to make sure the stereotype of the thoughtless tech bro doesn’t overshadow the impact that the majority of thoughtful, conscientious people can have. It’s also essential to believe that there is good intention underlying most tech efforts if we’re going to effectively hold everyone accountable for the tech they create.
 
-![corded telephone](https://cdn.glitch.com/f0e649a1-3610-45f3-885a-217df0379e77%2Fcorded-phone.jpeg?1523161801476)
+![corded telephone](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/corded-phone.jpeg?v=1669625301261 "a corded telephone")
 
-### 4. Tech history is poorly documented and poorly understood.
+## 4. Tech history is poorly documented and poorly understood.
 
 People who learn to create tech can usually find out every intimate detail of how their favorite programming language or device was created, but it’s often near impossible to know why certain technologies flourished, or what happened to the ones that didn’t. While we’re still early enough in the computing revolution that many of its pioneers are still alive and working to create technology today, it’s common to find that tech history as recent as a few years ago has already been erased. Why did your favorite app succeed when others didn’t? What failed attempts were made to create such apps before? What problems did those apps encounter — or what problems did they cause? Which creators or innovators got erased from the stories when we created the myths around today’s biggest tech titans?
 
 All of those questions get glossed over, silenced, or sometimes deliberately answered incorrectly, in favor of building a story of sleek, seamless, inevitable progress in the tech world. Now, that’s hardly unique to technology — nearly every industry can point to similar issues. But that ahistorical view of the tech world can have serious consequences when today’s tech creators are unable to learn from those who came before them, even if they want to.
 
-### 5. Most tech education doesn’t include ethical training.
+## 5. Most tech education doesn’t include ethical training.
 
 In mature disciplines like law or medicine, we often see centuries of learning incorporated into the professional curriculum, with explicit requirements for ethical education. Now, that hardly stops ethical transgressions from happening—we can see deeply unethical people in positions of power today who went to top business schools that proudly tout their vaunted ethics programs. But that basic level of familiarity with ethical concerns gives those fields a broad fluency in the concepts of ethics so they can have informed conversations. And more importantly, it ensures that those who want to do the right thing and do their jobs in an ethical way have a firm foundation to build on.
 
 But until the very recent backlash against some of the worst excesses of the tech world, there had been little progress in increasing the expectation of ethical education being incorporated into technical training. There are still very few programs aimed at upgrading the ethical knowledge of those who are already in the workforce; continuing education is largely focused on acquiring new technical skills rather than social ones. There’s no silver-bullet solution to this issue; it’s overly simplistic to think that simply bringing computer scientists into closer collaboration with liberal arts majors will significantly address these ethics concerns. But it is clear that technologists will have to rapidly become fluent in ethical concerns if they want to continue to have the widespread public support that they currently enjoy.
 
-### 6. Tech is often built with surprising ignorance about its users.
+## 6. Tech is often built with surprising ignorance about its users.
 
 Over the last few decades, society has greatly increased in its respect for the tech industry, but this has often resulted in treating the people who create tech as infallible. Tech creators now regularly get treated as authorities in a wide range of fields like media, labor, transportation, infrastructure and political policy — even if they have no background in those areas. But knowing how to make an iPhone app doesn’t mean you understand an industry you’ve never worked in!
 
 The best, most thoughtful tech creators engage deeply and sincerely with the communities that they want to help, to ensure they address actual needs rather than indiscriminately “disrupting” the way established systems work. But sometimes, new technologies run roughshod over these communities, and the people making those technologies have enough financial and social resources that the shortcomings of their approaches don’t keep them from disrupting the balance of an ecosystem. Often times, tech creators have enough money funding them that they don’t even notice the negative effects of the flaws in their designs, especially if they’re isolated from the people affected by those flaws. Making all of this worse are the problems with inclusion in the tech industry, which mean that many of the most vulnerable communities will have little or no representation amongst the teams that create new tech, preventing those teams from being aware of concerns that might be of particular importance to those on the margins.
 
-![Camera](https://cdn.glitch.com/f0e649a1-3610-45f3-885a-217df0379e77%2Fcamera.jpeg?1523161703371)
+![Camera](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/camera.jpeg?v=1669625300967 "old school camera")
 
-### 7. There is never just one single genius creator of technology.
+## 7. There is never just one single genius creator of technology.
 
 One of the most popular representations of technology innovation in popular culture is the genius in a dorm room or garage, coming up with a breakthrough innovation as a “Eureka!” moment. It feeds the common myth-making around people like Steve Jobs, where one individual gets credit for “inventing the iPhone” when it was the work of thousands of people. In reality, tech is always informed by the insights and values of the community where its creators are based, and nearly every breakthrough moment is preceded by years or decades of others trying to create similar products.
 
 The “lone creator” myth is particularly destructive because it exacerbates the exclusion problems which plague the tech industry overall; those lone geniuses that are portrayed in media are seldom from backgrounds as diverse as people in real communities. While media outlets may benefit from being able to give awards or recognition to individuals, or educational institutions may be motivated to build up the mythology of individuals in order to bask in their reflected glory, the real creation stories are complicated and involve many people. We should be powerfully skeptical of any narratives that indicate otherwise.
 
-### 8. Most tech isn’t from startups or by startups.
+## 8. Most tech isn’t from startups or by startups.
 
 Only about 15% of programmers work at startups, and in many big tech companies, most of the staff aren’t even programmers anyway. So the focus on defining tech by the habits or culture of programmers that work at big-name startups deeply distorts the way that tech is seen in society. Instead, we should consider that the majority of people who create technology work in organizations or institutions that we don’t think of as “tech” at all.
 
 What’s more, there are lots of independent tech companies — little indie shops or mom-and-pop businesses that make websites, apps, or custom software, and a lot of the most talented programmers prefer the culture or challenges of those organizations over the more famous tech titans. We shouldn’t erase the fact that startups are only a tiny part of tech, and we shouldn’t let the extreme culture of many startups distort the way we think about technology overall.
 
-### 9. Most big tech companies make money in just one of three ways.
+## 9. Most big tech companies make money in just one of three ways.
 
 It’s important to understand how tech companies make money if you want to understand why tech works the way that it does.
 
@@ -78,9 +79,9 @@ It’s important to understand how tech companies make money if you want to unde
 
 That’s it. Pretty much every company in tech is trying to do one of those three things, and you can understand why they make their choices by seeing how it connects to these three business models
 
-![USB Plug](https://cdn.glitch.com/f0e649a1-3610-45f3-885a-217df0379e77%2Fusb-plug.jpeg?1523161535941)
+![USB Plug](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/usb-plug.jpeg?v=1669625300721)
 
-### 10. The economic model of big companies skews all of tech.
+## 10. The economic model of big companies skews all of tech.
 
 Today’s biggest tech companies follow a simple formula:
 
@@ -96,13 +97,13 @@ The pervasiveness of this kind of business plan can make competition almost impo
 
 And the biggest cost for these big new tech companies? Hiring coders. They pump the vast majority of their investment money into hiring and retaining the programmers who’ll build their new tech platforms. Precious little of these enormous piles of money are put into things that will serve a community or build equity for anyone other than the founders or investors in the company. There is no aspiration that making a hugely valuable company should also imply creating lots of jobs for lots of different kinds of people.
 
-### 11. Tech is as much about fashion as function.
+## 11. Tech is as much about fashion as function.
 
 To outsiders, creating apps or devices is presented as a hyper-rational process where engineers choose technologies based on which are the most advanced and appropriate to the task. In reality, the choice of things like programming languages or toolkits can be subject to the whims of particular coders or managers, or to whatever’s simply in fashion. Just as often, the process or methodology by which tech is created can follow fads or trends that are in fashion, affecting everything from how meetings are run to how products are developed.
 
 Sometimes the people creating technology seek novelty, sometimes they want to go back to the staples of their technological wardrobe, but these choices are swayed by social factors in addition to an objective assessment of technical merit. And a more complex technology doesn’t always equal a more valuable end product, so while many companies like to tout how ambitious or cutting-edge their new technologies are, that’s no guarantee that they provide more value for regular users, especially when new technologies inevitably come with new bugs and unexpected side-effects.
 
-### 12. No institution has the power to rein in tech’s abuses.
+## 12. No institution has the power to rein in tech’s abuses.
 
 In most industries, if companies start doing something wrong or exploiting consumers, they’ll be reined in by journalists who will investigate and criticize their actions. Then, if the abuses continue and become serious enough, the companies can be sanctioned by lawmakers at the local, state, governmental or international level.
 
@@ -126,4 +127,4 @@ If we understand that most in tech mean well, but lack the historic or cultural 
 
 So many of us who create technology, or who love the ways it empowers us and improves our lives, are struggling with the many negative effects that some of these same technologies are having on society. But perhaps if we start from a set of common principles that help us understand how tech truly works, we can start to tackle technology’s biggest problems.
 
-![A vinyl record](https://cdn.glitch.com/f0e649a1-3610-45f3-885a-217df0379e77%2Frecord.jpeg?1523161536384)
+![A vinyl record](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/record.jpeg?v=1669625300439 "A vinyl record")
