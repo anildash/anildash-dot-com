@@ -1,51 +1,130 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    
-    {# This is the base template for the site–other templates extend this one #}
-    
-    <meta charset="utf-8" />
-    <link rel="icon" href="https://glitch.com/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="Your new 11ty blog" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="/public/style.css" />
     {% seo "" %}
+
+    <link rel="icon" type= "image/x-icon" href="/images/favicon.ico">
+
+    <meta property="og:title" content="{{  title or site.name | escape }}">
+    <meta property="og:site_name" content="{{ site.name }}"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="{{ site.url + page.url }}"/>
+    <meta name="twitter:card" content="summary_large_image">
+
+    {% if site.author.twitterHandle %}
+      <meta name="twitter:creator" content="@{{ site.author.twitterHandle | replace('@', '') }}"/>
+    {% endif %}
+
+    {% set desc = description %}
+    {% if not desc %}
+      {% set desc = content | striptags | truncate(140) %}
+    {% endif %}
+    {% if desc %}
+      <meta name="description" content="{{ desc | escape  }}">
+      <meta property="og:description" content="{{ desc | escape }}">
+      <meta name="description" content="{{ desc | escape }}"/>
+    {% endif %}
+
+    {% if not socialImage %}
+      {% set socialImage = site.defaultSocialImage %}
+    {% endif %}
+    {% if socialImage %}
+      <meta property="og:image" content="{{ socialImage | url | absoluteUrl(site.url) }}"/>
+      <meta name="twitter:image" content="{{ socialImage | url | absoluteUrl(site.url) }}"/>
+    {% endif %}
+
+
   </head>
   <body>
-  <main>
-    
+    <div class="layout-wrapper">
 
       <header class="header">
-        <div class="links">
-          <a href="/">Home</a>
-          <span class="divider">|</span>
-          <a href="/about">About</a>
-          <span class="divider">|</span>
-          <a href="https://twitter.com/anildash">@anildash.com</a>
-          <span class="divider">|</span>
-          <a href="https://mastodon.cloud/@anildash" rel="me">@anildash@mastodon.cloud</a>
+        <div class="header__content">
+          <h1 class="site-title">
+            <a href={{ "/" | url }}>
+              {{site.name}}
+            </a>
+          </h1>
+
+          {% if site.headerLinks %}
+            <nav class="nav">
+              <ul class="nav__list">
+                {% for item in site.headerLinks %}
+                  {% set currentAttribute = '' %}
+                  {% set externalAttribute = '' %}
+
+                  {% if item.external %}
+                    {% set externalAttribute = 'target="_blank" rel="noopener noreferrer"' %}
+                  {% endif %}
+
+                  {% if page.url == item.url %}
+                    {% set currentAttribute = 'aria-current="page"' %}
+                  {% endif %}
+
+                  <li class="nav-item">
+                    <a href="{{ item.url | url }}" {{ currentAttribute | safe }} {{ externalAttribute | safe }}>{{ item.text }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </nav>
+
+          {% endif %}
+
         </div>
       </header>
-    
-    {# Page or post content will appear here #}
-  
-    {{ content | safe }}
+
+      <main class="main">
+        {{ content | safe }}
+      </main>
 
       <footer class="footer">
-        <div class="links">
-          <a href="/">Home</a>
-          <span class="divider">|</span>
-          <a href="/posts">Posts</a>
-          <span class="divider">|</span>
-          <a href="/about">About</a>
+        <div class="footer__content">
+
+          <ul class="hero__social-links">
+            {% if site.socialLinks %}
+              {% for item in site.socialLinks %}
+                {% set externalAttribute = '' %}
+
+                {% if item.external %}
+                  {% set externalAttribute = 'target="_blank" rel="noopener noreferrer"' %}
+                {% endif %}
+
+                <li>
+                  <a href="{{ item.url | url }}" {{ externalAttribute | safe }} >{{ item.text }}</a>
+                </li>
+              {% endfor %}
+            {% endif %}
+
+            {% if site.footerLinks %}
+
+              {% for item in site.footerLinks %}
+                {% set externalAttribute = '' %}
+
+                {% if item.external %}
+                  {% set externalAttribute = 'target="_blank" rel="noopener noreferrer"' %}
+                {% endif %}
+
+                <li>
+                  <a href="{{ item.url | url }}" {{ externalAttribute | safe }} >{{ item.text }}</a>
+                </li>
+              {% endfor %}
+            {% endif %}
+          </ul>
+
+
         </div>
+      </div>
+
+    </footer>
+
+  </body>
+</html>
+<!--
         <a class="btn--remix" target="_top" href="https://glitch.com/edit/#!/remix/glitch-hello-eleventy">
         <img src="https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2FLogo_Color.svg?v=1618199565140" alt="" /> 
         Remix on Glitch
         </a>
-      </footer>
-    
-  </main>
-   
-  </body>
-</html>
+-->

@@ -3,6 +3,7 @@ title: You have to start with the principle.
 slug: you-have-to-start-with-the-principle
 date_published: 2022-01-31T12:01:55.000Z
 date_updated: 2022-03-23T17:49:11.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Nick-Fewings-arrow.jpeg?v=1669519763737
 ---
 
 ## You can't win unless you know what you're fighting for.

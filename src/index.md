@@ -2,16 +2,14 @@
 layout: layouts/home.njk
 ---
 
-<!--
-<div class="illo-container">
-  <img src="https://cdn.glitch.com/cad20829-cd7f-405a-95e8-5e17b206a304%2Fillustration.svg?v=1618198438357" class="illustration" style="align: right" alt="Eleventy!">
-</div>
--->
 
+  
 # Hi, I'm Anil Dash
 
-I’m a tech entrepreneur and writer trying to make the technology world a little more thoughtful, creative and humane. Having created Internet technologies for two decades, I’m focused on the way technology can transform society, media, the arts, government and culture. You can read more [about me here](/about).
+  <figure class="profile-pic">
+  <img src="https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anildash-2022.png?v=1669512851303" class="illustration" style="" alt="Anil Dash">
+  </figure>
+  
+I’m a tech entrepreneur and writer trying to make the technology world more thoughtful, creative and humane. This is a blog about how culture is made, continuously updated since 1999.
 
-This blog is about how culture is made, and has been continuously updated since 1999.
-
-### Posts
+You can read more [about me here](/about).

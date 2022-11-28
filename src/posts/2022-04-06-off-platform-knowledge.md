@@ -3,6 +3,7 @@ title: Community Safety and Ignoring the World
 slug: off-platform-knowledge
 date_published: 2022-04-06T08:52:42.000Z
 date_updated: 2022-04-07T04:44:14.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/%20David-Taffet-dog.jpeg?v=1669519663487
 ---
 
 Security reports from other sites are welcome. Why aren’t safety reports?
@@ -49,7 +50,7 @@ What we end up with is a process where, most of the time, people can be brought 
 
 ## We need to do it
 
-The current default model of waiting until someone is repeatedly, irredeemably awful, and then banning them so they get passed off to whatever website is still allowing people to be jerks to each other simply isn't working. Almost a dozen years ago I said ["If your website is full of assholes, it's your fault](__GHOST_URL__/2011/07/20/if_your_websites_full_of_assholes_its_your_fault-2/)", and it's still as true today as it was then.
+The current default model of waiting until someone is repeatedly, irredeemably awful, and then banning them so they get passed off to whatever website is still allowing people to be jerks to each other simply isn't working. Almost a dozen years ago I said ["If your website is full of assholes, it's your fault](/2011/07/20/if_your_websites_full_of_assholes_its_your_fault-2/)", and it's still as true today as it was then.
 
 This is an approach that, plain and simple, **requires more investment in people and resources than the default model**. This costs more money. It is worth it, because it yields a sustainably better result. But it is an investment, and should be treated as such. It will also likely be new and unfamiliar to your lawyers and policy people; they should be excited about the chance to learn the newest, most modern way to manage a community online, but if they're not, have them reach out to me and together we'll teach them how to do better. (Someone will come up with a catchy name for all of this, and it'll be a super marketable skill!)
 

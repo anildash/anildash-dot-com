@@ -3,20 +3,24 @@ layout: layouts/base.njk
 templateClass: tmpl-home
 ---
 
-{# The Home page uses this template–it extends the base template #}
 
-<div class="wrapper home">
-  <div class="content">
-    {{ content | safe }}
-    
-    {# After the the content defined in index.md, list the blog posts in the collection #}
-    <ul>
-      {%- for post in collections.posts -%}
-        <li{% if page.url == post.url %} aria-current="page"{% endif %}>{{ post.data.page.date | htmlDateString }} — <a href='{{ post.url }}'>{{ post.data.title }}</a></li>
-      {%- endfor -%}
-      <li><a href="/posts">View all posts</a></li>
-    </ul>
+<header class="hero">
+  <div class="hero-content">
+    <div class="intro">
+      {{ content | safe }}
+    </div>
+
   </div>
-</div>
 
+</header>
+
+<section class="post-list__wrapper">
+  <h2 class="post-list__heading">Recent Posts</h2>
+
+  {% set postslist = collections.posts | head(-10) %}
+  {% include "posts-list.njk" %}
+
+</section>
+
+<a class="all-posts-link" href="{{ '/posts/' | url }}">View All Posts</a>
 

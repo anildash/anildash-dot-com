@@ -1,0 +1,43 @@
+{
+  "name": "Anil Dash",
+  "description": "A blog about making culture. Since 1999.",
+  "url": "https://calm-chisel-waiter.glitch.me/",
+  "author": {
+    "name": "Anil Dash",
+    "email": "a@anildash.com",
+    "twitterHandle": "anildash"
+  },
+  "defaultSocialImage": "/images/default-social-image.png",
+  "headerLinks": [
+    {
+      "text": "@anildash",
+      "url": "https://twitter.com/anildash",
+      "external": true
+    },
+    {
+      "text": "About",
+      "url": "/about",
+      "external": false
+    }
+  ],
+  "socialLinks": [
+    {
+      "text": "Remix on 🎏Glitch",
+      "url": "https://glitch.com/edit/#!/remix/glitch-hello-eleventy",
+      "external": true
+    },
+    {
+      "text": "@anildash@mastodon.cloud",
+      "url": "https://mastodon.cloud/@anildash",
+      "external": true
+    }
+  ],
+  "footerLinks": [
+    {
+      "text": "RSS",
+      "url": "/feed.xml",
+      "external": true
+    }
+  ],
+  "showFooterAttribution": false
+}
