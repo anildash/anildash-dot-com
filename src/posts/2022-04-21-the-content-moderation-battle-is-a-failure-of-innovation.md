@@ -4,6 +4,7 @@ slug: the-content-moderation-battle-is-a-failure-of-innovation
 date_published: 2022-04-22T00:46:42.000Z
 date_updated: 2022-04-22T00:47:33.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/light-field.jpeg?v=1669519480985
+tags: [twitter, policy, tech, culture]
 ---
 
 If a company is debating whether a user's account should be suspended, they've already failed to build a modern platform that follows best practices. Why are today's billionaires competing for control of tech that’s broken by design?

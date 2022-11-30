@@ -4,6 +4,7 @@ slug: every-day-is-a-follow-friday
 date_published: 2021-01-02T09:48:13.000Z
 date_updated: 2021-01-02T09:48:13.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/ducks-following.jpeg?v=1669529893324
+tags: [twitter, web]
 ---
 
 In the early days of Twitter, there was a pleasingly low-tech tradition called "follow friday" (which people later denoted with the #FF hashtag), wherein people listed other accounts that they suggested you might follow. It did a good job of providing a manually-curated form of discover on the platform until Twitter itself started suggesting accounts to follow, thus causing a whole host of massively negative unintended consequences.

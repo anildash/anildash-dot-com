@@ -4,7 +4,7 @@ slug: the-american-death-cult
 date_published: 2020-07-12T01:26:00.000Z
 date_updated: 2020-07-21T01:28:29.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fading-flowers.jpeg?v=1669582504422
-tags: Best Of
+tags: [Best Of, culture]
 ---
 
 A significant percentage of conservative culture in America defines “freedom” as death. This is causing a lot more problems right now than even its usual horrible effects.

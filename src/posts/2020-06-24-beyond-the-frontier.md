@@ -4,6 +4,7 @@ slug: beyond-the-frontier
 date_published: 2020-06-24T19:40:28.000Z
 date_updated: 2020-06-24T21:19:16.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/surveillance-camera.jpeg?v=1669582586845
+tags: [EFF, tech, culture]
 ---
 
 I almost can’t remember a time when I wasn’t aware of the work the [Electronic Frontier Foundation](https://eff.org/) was doing on behalf of all of us who care about the impact technology has on society and culture. They describe their work as protecting digital privacy, free speech, and innovation, but I always saw EFF as an organization that existed because our laws, policies, and cultural practices were all created from a set of assumptions that were radically changed by the ubiquity of computing technology. They’re accelerating the rate at which our institutions adapt to the modern world while protecting our rights.

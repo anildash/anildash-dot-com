@@ -184,15 +184,30 @@ video {
   margin-top: 1rem;
 }
 
-figure.profile-pic img {
-  float:right;
+figure.feature-pic {
+  float:left;
   max-width: 33%;
   padding: 1rem;
 }
 
-dt, dd {
-
+figure.feature-pic .feature-pic-image {
+  min-width: 10rem;
+  height: 10rem;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: var(--accent);
 }
+
+figure.heroimage {
+  margin-top: 1rem;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: auto;
+  min-height: 22rem;
+}
+
 dt {
   font-weight: 600;
   text-align: right;
@@ -460,6 +475,7 @@ h6 {
 h1 {
   font-weight: 700;
   font-size: var(--text-4xl);
+  color: var(--accent);
 }
 
 h2 {
@@ -520,11 +536,9 @@ main ol li, main ul li {
 }
 
 .post-list__item {
-  display: flex;
-  flex-direction: column;
   padding-bottom: 3rem;
   padding-top: 3rem;
-  border-bottom: 1px solid #e6e6e6;
+  border-top: 1px solid #e6e6e6;
 }
 
 .post-list__link {
@@ -537,7 +551,7 @@ main ol li, main ul li {
 
 .post-list__title {
   font-size: var(--text-2xl);
-  margin-top: 0.5rem;
+  margin-top: 0.65rem;
   font-weight: 600;
   text-decoration: none;
   color: #292929;
@@ -550,7 +564,7 @@ main ol li, main ul li {
 
 .post-list__meta {
   font-size: var(--text-sm);
-  margin-top: 1rem;
+  margin-top: .15rem;
   color: #757575;
 }
 
@@ -559,6 +573,7 @@ main ol li, main ul li {
 }
 
 .post-list__tags {
+  display: inline;
   text-decoration: none;
   font-size: var(--text-sm);
   margin-top: 0.5rem;
@@ -787,6 +802,11 @@ main ol li, main ul li {
 .post__tags {
   opacity: 0.8;
   font-size: var(--text-sm);
+  display: inline;
+}
+
+.post__tags a {
+  text-decoration: none;
 }
 
 .post__tags * + * {

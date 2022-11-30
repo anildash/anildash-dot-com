@@ -4,6 +4,7 @@ slug: cook-these-two-things
 date_published: 2022-11-15T06:00:47.000Z
 date_updated: 2022-11-15T06:09:48.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/pickled-onions.png?v=1669517076392
+tags: [personal, food]
 ---
 
 You should absolutely keep some ketchup around the house. And soy sauce, and Sriracha, and a good BBQ sauce. And some honey. But if you *really* want to add flavor to all kinds of dishes (I don't mean fancy stuff, but like, if you want to punch up a sandwich or a salad or make some dinnertime staple seem more *cuisine*) then I have a suggestion of two key things you should keep around at all times: roasted garlic and pickled onions.

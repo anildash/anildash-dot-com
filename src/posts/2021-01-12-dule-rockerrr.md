@@ -4,6 +4,7 @@ slug: dule-rockerrr
 date_published: 2021-01-12T08:58:19.000Z
 date_updated: 2021-08-02T02:51:18.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/dule-rocker.jpg?v=1669528611352
+tags: [culture, music]
 ---
 
 Duleshwar Tandi, better known these days as Rapper Dule Rocker, is one of the most successful and influential rappers to have ever come out of the Kalahandi district in Odisha, where my family is from. I jumped into his catalog of videos this weekend and was blown away not just by the success of an artist from such a remote part of India, but by his deep focus on the rights of Dalits, migrant workers, farmers, and others who are being overlooked.

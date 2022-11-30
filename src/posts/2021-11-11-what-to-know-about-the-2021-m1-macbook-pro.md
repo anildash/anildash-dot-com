@@ -4,6 +4,7 @@ slug: what-to-know-about-the-2021-m1-macbook-pro
 date_published: 2021-11-11T11:13:10.000Z
 date_updated: 2021-11-11T21:01:47.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Jeremy-Bezanger-macbook-pro.jpeg?v=1669522353112
+tags: [tech, apple]
 ---
 
 I've spent a couple weeks using a new [14" Apple MacBook Pro](https://amzn.to/30lvtWH) daily (as a replacement for my last machine, which was a similar, but rather terrible, 2016 MacBook Pro) and thought it might be valuable to share a few observations that might help you assess whether it's a useful upgrade for you. I'm not usually prone to reviewing devices on this blog, but this is more a contextual overview than a proper review.

@@ -4,7 +4,7 @@ slug: every-single-video-prince-ever-made
 date_published: 2018-11-28T12:47:55.000Z
 date_updated: 2022-02-19T23:37:25.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-greatest-romance.gif?v=1669612285494
-tags: Best Of, Most Popular, prince, music
+tags: [Best Of, Most Popular, Prince, music]
 ---
 
 Prince was an astoundingly prolific artist, releasing nearly 40 albums under his own name(s), and thousands of songs for himself and others. His concerts were legendary, spellbinding from arenas to intimate clubs, flooring audiences around the world.

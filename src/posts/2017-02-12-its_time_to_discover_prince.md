@@ -3,7 +3,8 @@ title: It's time to discover Prince
 slug: its_time_to_discover_prince
 date_published: 2017-02-12T16:53:20.000Z
 date_updated: 2021-08-09T07:00:41.000Z
-tags: Most Popular, music, Best Of, prince
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-herb-ritts.jpg?v=1669786811539
+tags: [Most Popular, music, Best Of, prince]
 ---
 
 With the recent availability of nearly all of Prince’s catalog on the most popular streaming services, it’s a great time to (re?)discover the breadth of Prince’s incredible body of work.
@@ -41,6 +42,8 @@ If you want to hear Prince at his experimental best, this is almost every hardco
 ---
 
 My own curated playlist of the most quintessentially Prince-like tracks.
+
+<iframe allowtransparency="true" frameborder="0" height="380" src="https://embed.spotify.com/?uri=spotify%3Auser%3Aanildash%3Aplaylist%3A3XvSGxgkq6eurtTma7rYAO" width="300"></iframe>
 
 ## The greatest hits
 

@@ -4,6 +4,7 @@ slug: twenty-is-myth
 date_published: 2021-09-11T21:11:27.000Z
 date_updated: 2021-09-11T21:11:27.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Austin-Scherbarth-wtc-myth.jpeg?v=1669526104727
+tags: [nyc]
 ---
 
 Every year, for twenty years now, I've written an observance of this day. Sometimes it's for myself, sometimes it's for the small cohort of folks who've checked back in with me on this day every year since then, a group which has shrunk a bit over the years. But this was the first year I thought, "maybe I shouldn't do this anymore". Because the events of that day are not remembered in society, or honored by our culture, in a way that resembles the feelings that I, and so many others, had in the moment. It's degenerated fully into myth, some parts good, most of it pretty awful, and even taking part in the observances feels like amplifying this larger, destructive myth that's been constructed.

@@ -4,6 +4,7 @@ slug: seventeen-is-almost-just-another-day
 date_published: 2018-09-11T23:29:22.000Z
 date_updated: 2021-08-02T03:37:44.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/wtc-the-vantage-point-741917.jpeg?v=1669624247284
+tags: [nyc]
 ---
 
 For the first decade after the attacks, I basically didn’t go anywhere near that part of downtown. A business meeting would take me a few blocks away, and I’d feel that tightness in my chest, that presence, and I’d just keep moving.

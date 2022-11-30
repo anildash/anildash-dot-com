@@ -4,6 +4,7 @@ slug: cooperative-overlap
 date_published: 2021-09-26T01:35:31.000Z
 date_updated: 2021-09-26T01:35:31.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Mika-Baumeister-speech-bubbles.jpeg?v=1669524180647
+tags: [culture]
 ---
 
 One of the biggest sources of miscommunication is people having different *styles* of communication, or different norms about the right way to express emotion or context even if there's agreement on more straightforward aspects of verbal communication. Things like "[ask vs. guess](https://www.theatlantic.com/national/archive/2010/05/askers-vs-guessers/340891/)" cultures are one common manifestation of this, and I was delighted to discover the name for another such potential stumbling point: **cooperative overlap**.

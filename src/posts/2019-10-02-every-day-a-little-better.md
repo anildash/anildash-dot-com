@@ -4,6 +4,7 @@ slug: every-day-a-little-better
 date_published: 2019-10-02T18:41:51.000Z
 date_updated: 2019-10-03T04:23:00.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fire-escapes.jpeg?v=1669585474348
+tags: [personal, podcasts]
 ---
 
 [*CW: mental illness, self-harm*]

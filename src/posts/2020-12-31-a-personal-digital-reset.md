@@ -4,6 +4,7 @@ slug: a-personal-digital-reset
 date_published: 2020-12-31T23:32:07.000Z
 date_updated: 2021-01-01T04:50:05.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/keyboard-closeup.jpeg?v=1669581887215
+tags: [twitter, tech, culture, software, Most Popular]
 ---
 
 About once a year, I do a little digital reset to help make my online life a little more pleasant. I’m *not* advocating that anybody do the same as me, but I hope that sharing some of what I do might help inspire you to manage the technology in your life in a way that reduces stress or distractions, and makes your time in front of the screen more fun.

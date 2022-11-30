@@ -4,7 +4,7 @@ slug: link-in-bio-is-how-they-tried-to-kill-the-web
 date_published: 2019-12-10T19:29:56.000Z
 date_updated: 2020-03-21T22:43:39.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/slow-knife.jpeg?v=1669584763145
-tags: Best Of
+tags: [Best Of, Most Popular, web, culture, tech, design]
 ---
 
 We don’t even notice it anymore — “link in bio”. It’s a pithy phrase, usually found on Instagram, which directs an audience to be aware that a pertinent web link can be found on that user’s profile. Its presence is so subtle, and so pervasive, that we barely even noticed it was an attempt to kill the web.

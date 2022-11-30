@@ -4,7 +4,7 @@ slug: a-much-faster-way-to-charge-your-iphone-x
 date_published: 2018-08-03T18:11:02.000Z
 date_updated: 2021-08-02T03:40:36.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/usb-c-lightning-thermal.jpg?v=1669624310335
-tags: iphone, tech, apple
+tags: [iphone, tech, apple]
 ---
 
 Forgive me, for I am about to commit gadget blogging. I've been using an iPhone X since they came out, and almost from the start my battery has charged between two and three time the default speed of most people's phones. All you need is one new cable to do it.

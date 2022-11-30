@@ -4,6 +4,7 @@ slug: my-thinking-on-covid-19
 date_published: 2020-03-11T13:59:00.000Z
 date_updated: 2020-07-30T18:20:10.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/dark-clouds.jpeg?v=1669584026331
+tags: [culture, Best Of]
 ---
 
 (Warning: this will be upsetting; you will not want to read this if you are already stressed.)
