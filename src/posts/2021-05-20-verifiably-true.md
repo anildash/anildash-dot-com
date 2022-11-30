@@ -4,6 +4,7 @@ slug: verifiably-true
 date_published: 2021-05-21T01:19:51.000Z
 date_updated: 2021-08-02T01:39:01.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/verified.jpg?v=1669526964731
+tags: [twitter, culture, tech]
 ---
 
 After a pause of a few years, Twitter announced today that they're going to resume [allowing any user to request](https://www.theverge.com/2021/5/20/22435770/twitter-public-verification-program-launch-2021-pronouns-profile) the blue verification checkmark for their account. The social and technical dynamics around Twitter verification remain as fraught and fascinating as they were in the earliest days of the service, but the process and critically, the *meaning*, of verification remain as opaque as ever.

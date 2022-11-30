@@ -4,6 +4,7 @@ slug: there-is-nothing-to-remember
 date_published: 2022-09-12T05:25:09.000Z
 date_updated: 2022-09-12T05:25:09.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tomas-martinez-wtc.jpeg?v=1669518151801
+tags: [nyc]
 ---
 
 The only time someone remembered September 11, 2001 to me in the last year was when a stranger mentioned it as part of the reason he was [trying to assault me](/2022/07/18/i-went-to-a-coffee-shop/). So it's clear that the events of that day have fully passed into myth, useful only as rhetoric in a culture war, or as justifications for violence. Nothing epitomizes this more than the fact that, while the memory has faded in culture broadly, it's only brought to the fore in situations like those where most New Yorkers would be targeted.

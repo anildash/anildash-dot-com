@@ -4,6 +4,7 @@ slug: keeping-tabs-on-your-abstractions
 date_published: 2021-01-03T09:48:45.000Z
 date_updated: 2021-01-03T14:20:46.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/file-folders.jpeg?v=1669529571342
+tags: [software, tech, web]
 ---
 
 I was delighted to discover Omar Rizwan's [TabFS](https://omar.website/tabfs/), a brilliant hack that lets you see your browser tabs as folders and files on your computer, because it's incredibly clever on its own, but also opens a view into how a shift in metaphor  can totally change the way we see technologies that we use every day.

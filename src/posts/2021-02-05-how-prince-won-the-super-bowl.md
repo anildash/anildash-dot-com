@@ -3,8 +3,8 @@ title: How Prince won the Super Bowl
 slug: how-prince-won-the-super-bowl
 date_published: 2021-02-05T08:02:31.000Z
 date_updated: 2021-08-02T02:49:37.000Z
-tags: prince, music, Best Of
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Prince-Jonathan-Daniel_o.jpg?v=1669527682646
+tags: [Prince, music, Best Of, culture]
 ---
 
 On this day in 2007, Prince won Super Bowl XLI with a soaring halftime performance that climaxed with the skies opening up to honor his guitar solo. It is not just the best-regarded halftime show ever, but was to that point the most-viewed musical performance in American history.

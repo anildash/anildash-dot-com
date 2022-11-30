@@ -4,6 +4,7 @@ slug: the-design-of-breath-of-the-wild
 date_published: 2021-02-25T10:02:43.000Z
 date_updated: 2021-02-27T23:25:51.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/zelda-window.jpeg?v=1669527405633
+tags: [gaming, culture, design]
 ---
 
 The Legend of Zelda: Breath of the Wild is one of the greatest games ever made, and one of the breakout hits of the Nintendo Switch platform, which is on its way to becoming one of the 10 most popular video game consoles of all time. But now, years after its release (and with a sequel on the way), one of the greatest offshoots of Breath of the Wild's  popularity is the abundance of deep and insightful analyses of the design choices Nintendo made in creating the game.

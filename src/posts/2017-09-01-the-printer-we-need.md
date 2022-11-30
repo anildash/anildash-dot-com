@@ -3,12 +3,11 @@ title: The Printer We Need
 slug: the-printer-we-need
 date_published: 2017-09-01T17:58:00.000Z
 date_updated: 2022-01-14T05:42:32.000Z
-tags: tech
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/office-space-printer.jpeg?v=1669784248477
+tags: [tech]
 ---
 
 Printers: They don’t work. Here’s my wishlist for one that might.
-
-*I am really enjoying my work at [Fog Creek Software](https://fogcreek.com/), so I don’t have time to start a company right now, but I do have an idea for a great little product and I hope you’ll make it happen.*
 
 If you’ve followed my work for any time, you know I’m fond of pointing out that printers don’t work. This is because printers don’t work. But what if they did?
 
@@ -17,7 +16,7 @@ If you’ve followed my work for any time, you know I’m fond of pointing out t
 
 ---
 
-### PC Load Letter
+## PC Load Letter
 
 Printers are, generally, the worst. Manufacturers make terrible unreliable products, sell them at an unsustainable price, and then try to prop up their business model by being extortionate about proprietary consumables like inkjet ink. And their user interfaces and software drivers are absolutely abysmal.
 
@@ -32,6 +31,7 @@ Next we want this printers to be **as dumb as possible**. There should be the fe
 And yep, that means no paper tray or paper feeding mechanism. It’s easy to throw in the few sheets of paper that are needed for a small print job, and those sheets could ideally go straight through the machine on simple rollers, so there’s nothing to jam up. This is a device for people to use in their homes from time to time, not a high-output office machine that needs to print 100-page contracts.
 
 ![The Ideal Printer](https://cdn.glitch.com/f0e649a1-3610-45f3-885a-217df0379e77%2Fideal-printer.jpeg?1523973397262)
+
 *Some existing printers have mostly gotten the form-factor right, they just screw up the rest of the experience.*
 
 ---

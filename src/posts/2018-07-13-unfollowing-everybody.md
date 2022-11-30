@@ -4,6 +4,7 @@ slug: unfollowing-everybody
 date_published: 2018-07-13T19:41:09.000Z
 date_updated: 2021-08-02T03:43:43.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anil-dash-unfollow.png?v=1669624499447
+tags: [twitter]
 ---
 
 At this point, there's nothing novel about noticing that social media is often toxic and stressful. But even aside from those concerns, our social networks are not things we generally think of as requiring maintenance or upkeep, even though we routinely do regular updates on all the other aspects of our digital lives.

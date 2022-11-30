@@ -4,6 +4,7 @@ slug: moynihan-station
 date_published: 2021-01-05T04:37:00.000Z
 date_updated: 2021-08-02T02:52:47.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/moynihan.JPG?v=1669529079506
+tags: [nyc, transit]
 ---
 
 Over the weekend, we had the chance to explore the newly-opened Moynihan Station, the massive new expansion to Penn Station that's been in the works for decades. Though it ostensibly serves as a welcoming and modern new facility for Amtrak and Long Island Railroad passengers, it's very clearly also meant to undo some of the psychic scarring the city has endured since the old Penn Station was torn down in 1963.

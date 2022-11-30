@@ -3,29 +3,36 @@ title: Tech and the Fake Market tactic
 slug: tech_and_the_fake_market_tactic
 date_published: 2017-03-01T17:33:44.000Z
 date_updated: 2021-10-25T22:23:14.000Z
-tags: Best Of, Most Popular, tech
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/smashed-monitor.jpeg?v=1669786278771
+tags: [Best Of, Most Popular, tech]
 ---
 
 In one generation, the Internet went from opening up new free markets to creating a series of Fake Markets that exploit society, without most media or politicians even noticing.
 
-### 1. The open internet markets
+## 1. The open internet markets
 
 American culture loves to use the ideal of competitive free markets as the solution to all kinds of social problems. Though the vaunted Free Market has no incentives to, say, take care of babies with cancer, a well-functioning market can definitely be a great way to see which provider offers the cheapest price for a roll of toilet paper or a bushel of apples.
 
 Given that cultural predilection, some of the first things people made in the early days of the web were new markets. Perhaps the canonical example was eBay; anybody (well, almost anybody) could list their ceramic figurines for sale on eBay and participate in a relatively fair market. On one side, a gaggle of figurine aficionados, enthusiastically searching for the best deals. On the other, a bunch of figurine vendors, competing on price, quality and service. In the middle, a neutral market that just helps connect buyers and sellers through instantly updated information. Everybody’s happy!
-![](__GHOST_URL__/content/images/2021/08/fake-markets-1-1.png)
+
+![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fake-markets-1.png?v=1669786367175)
+
 Later, a seller could buy preferred positioning for their products in eBay’s search results, and some product categories started to be dominated by wholesale suppliers, but it still remained a relatively open system. Everybody’s mostly happy!
 
 Not long after eBay started, Google launched, as a sort of market of content, with its PageRank system choosing which pages show up in our search results, ranked by the number of inbound links. On one side were readers, and on the other side we had publishers, and in between was Google using a mysterious but still kind of comprehensible algorithm to create a market where almost everybody felt like they could participate.
 
 But before long, those rankings started to be tainted by spammers, due to the fact that higher ranking in those listings suddenly had monetary value, and making spam links was cheaper than paying for Google’s advertising products. What was an open market to do?
-![](__GHOST_URL__/content/images/2021/08/fake-markets-2.png)Fake Markets: Skewed
+
+![Fake Markets: Skewed](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fake-markets-2.png?v=1669786367639 "Fake Markets: Skewed")
+
 ## 2. The rise of rigged markets
 
 The inevitable automated gaming of the early open digital markets inadvertently catalyzed the start of the next era: rigged markets. Google got concerned about nefarious search engine optimization tricks, and kept changing their algorithm, meaning that pretty soon the only web publishers that could thrive were those who could afford to keep tweaking their technology to keep up in this new arms race. After just a few years, this became a rich-get-richer economy, and incentivized every smaller publisher to standardize on one of a few publishing tools in order to keep up with Google’s demands. Only the biggest content providers could afford to build their own tools while simultaneously following the demands of Google’s ever-changing algorithm.
 
 The problem inevitably became most pronounced in the most valuable markets. Eventually, in lucrative vertical markets like travel, Google started showing its own flight booking tools ahead of the third-party results from travel booking sites, based on the idea that their experience was better for consumers than the confusing and inconsistent results from third parties. This was true, but it was also pretty damn convenient for Google, which now started to make more money on those links.
-![](__GHOST_URL__/content/images/2021/08/fake-markets-2-1.png)
+
+![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fake-markets-3.png?v=1669786367957)
+
 This was the start of a subtle but critically important pattern on the web: A short-term improvement in user experience helped a single dominant tech company to take over a legacy market in the long term.
 
 Amazon went through a similar process, when it started putting its thumb on the scale, showing its own products first when doing a product search, even if they [weren’t the cheapest](https://www.propublica.org/article/amazon-says-it-puts-customers-first-but-its-pricing-algorithm-doesnt). We saw a rapid shift where the companies hosting formerly-open markets started to give themselves unfair advantages that couldn’t be countered by the other sellers in the market.
@@ -45,7 +52,9 @@ This has been the status quo for most of the last decade. But the next rising wa
 Uber‘s promise is simple: you use their app to hail a car, and one driver from a pool of independent drivers agrees to pick you up, and everybody’s happy. In their formulation, they’re a neutral marketplace connecting customers and service providers — kinda like eBay!
 
 But unlike competitive sellers on eBay, Uber drivers can’t set their prices. In fact, prices can be (and regularly have been) changed unilaterally by Uber. And passengers can’t make informed choices about selecting a driver: The algorithm by which a passenger and driver are matched is opaque—to both the passenger and driver. In fact, as Data & Society’s research has shown, Uber has at times deliberately misrepresented the market of available cars by [showing “ghost” cars](http://motherboard.vice.com/read/ubers-phantom-cabs) to users in the Uber app.
-![](__GHOST_URL__/content/images/2021/08/fake-markets-3-2.png)
+
+![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fake-markets-4.png?v=1669786368205)
+
 ****It seems this “market” has some awfully weird traits.****
 
 1. Consumers can’t trust the information they’re being provided to make a purchasing decision.
@@ -56,7 +65,9 @@ But unlike competitive sellers on eBay, Uber drivers can’t set their prices. I
 This is, by any reasonable definition, **no market at all**. One might even call Uber a “Fake Market”. Yet, by carefully describing drivers in their system as “entrepreneurs” and appropriating the language of true markets, Uber has been welcomed by communities and policymakers as if they were creating a new marketplace. That has serious implications for policy, regulation and even civil rights. For example, we can sincerely laud Uber for making it easier for African American passengers to reliably hail a car when they need a ride, but if persistent patterns of bias from drivers arise again in the Uber era, we’ll have a harder time regulating those abuses because Uber doesn’t usually follow the same policies as licensed taxis.
 
 These pseudo-market patterns also mask patterns of subsidy, like the fact that Uber’s current operations are [subsidized by investors](http://www.nakedcapitalism.com/2016/11/can-uber-ever-deliver-part-one-understanding-ubers-bleak-operating-economics.html) to the tune of **$2 billion per year**. That’s a cost that will be immediately passed along to consumers as soon as Uber succeeds in displacing conventional taxis.
-![](__GHOST_URL__/content/images/2021/08/fake-markets-chart.png)
+
+![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fake-markets-chart.png?v=1669786368694 "Chart of Uber's finances")
+
 The Financial Times states the [implications of this economic arrangement](https://ftalphaville.ft.com/2016/12/01/2180647/the-taxi-unicorns-new-clothes/) very clearly:
 
 > [A]ll this equates to is an economic transfer from the working class over to urban metropolitan elites, which benefits one particular corporation over others. This is plainly crazy.
@@ -85,7 +96,9 @@ But wait, it gets worse. Next we replace the sellers in the market.
 What we have in ride sharing or content publishing is a rapid move to locked-down systems controlled by one, or at most two, privately-held corporate players. But even in these fake markets, there are currently multiple providers offering their services within the ecosystem. The providers are those Uber drivers or Facebook publishers being lauded as independent entrepreneurs thriving on the platform.
 
 But Uber has already plainly announced its roadmap: Self-driving cars. The much-lauded independent driver-entrepreneurs will be replaced by completely automated service providers as quickly as possible, and not only will those new self-driving cars not have drivers who need to be paid, they will all be owned by Uber itself. When this transition happens over the next decade, we’ll have entire markets of independent contractors displaced by the transition, precisely at the point when the social safety net is being dismantled. In the meantime, politicians across the political spectrum have been presenting these “gig economy” non-jobs as the future of work.
-![](__GHOST_URL__/content/images/2021/08/fake-markets-4.png)
+
+![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fake-markets-5.png?v=1669786368462)
+
 Self-driving cars are hard, though. Making a robot that can navigate through a city and deliver a passenger safely and reliably to their destination is an incredibly hard problem that will take a long time to get exactly right.
 
 By contrast, what are the barriers to self-driving news? We’ve already seen that a lot of news consumers aren’t interested in being safely and reliably delivered to accurate news. Success in this case will be much easier: A robotic publisher only has to deliver content that’s emotionally engaging enough to earn a person’s readership for a few moments. That’s even easier to do if the publisher or distributor of the content doesn’t care if the story is true or not. Peter Thiel is on Facebook’s board of directors.
@@ -103,4 +116,4 @@ Worse, we’ve lost the ability to discern that a short-term benefit for some us
 It’s essential we develop a vocabulary for talking about these issues, and perhaps the single most effective action we can take is to educate our elected officials about the changes that are happening. This stuff is complex, and it’s going to take time to teach all our representatives about why all the changes wrought by these new high-tech apps aren’t necessarily the best thing for our communities in the long term.
 
 But there’s still time to get it right. It’s not inevitable that we have to give over our open markets to new Fake Markets dominated by one or two giant tech companies. And perhaps the single biggest thing we can do is both the hardest and the easiest: ****We can change our own behaviors****. Look at the apps on your phone right now. Are you sure you are comfortable with what’s going to happen when everyone’s running the same apps that you are?
-![](__GHOST_URL__/content/images/2021/08/fake-markets-5.png)
+

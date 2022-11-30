@@ -4,6 +4,7 @@ slug: the-price-of-relevance-is-fluency
 date_published: 2018-09-13T22:13:03.000Z
 date_updated: 2018-12-28T10:23:13.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/pencils.jpeg?v=1669624196943
+tags: [culture]
 ---
 
 “You can’t say anything anymore! You can’t even make jokes!”

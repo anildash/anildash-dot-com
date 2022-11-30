@@ -4,6 +4,7 @@ slug: the-sound-of-your-voice
 date_published: 2019-11-12T02:39:42.000Z
 date_updated: 2019-11-12T02:50:36.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/mixing-board.jpeg?v=1669585118919
+tags: [web, culture, Prince, music, tech, podcasts]
 ---
 
 Even though I watched the medium of podcasting being created since its inception, I'd always resisted a little bit participating myself. I think I just felt more at home in this format, blogging, as that's where I'd found my voice.

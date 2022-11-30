@@ -1,23 +1,38 @@
+
 <ul class="post-list">
   {% for post in postslist | reverse %}
     <li class="post-list__item">
-      <a href="{{ post.url }}" class="post-list__link">
-      <div>
-        <div class="post-list__meta">
-          <time datetime="{{ post.date | htmlDateString }}">
-            {{ post.date | readableDate }}
-          </time>
-        </div>
-
-      </div>
-
+    
+      <figure class="feature-pic">
+        <a href="{{ post.url }}" class="post-list__link">
+        <div class="feature-pic-image" style="background-image: url({{ post.data.heroimage }});"> </div>
+        </a>
+      </figure>
+              
       <h3 class="post-list__title">
-        {{ post.data.title }}
+        <a href="{{ post.url }}" class="post-list__link">{{ post.data.title }}</a>
       </h3>
 
+      <div class="post-list__meta">
+        <time datetime="{{ post.date | htmlDateString }}">
+        {{ post.date | readableDate }}
+        </time>
+        <div class="post-list__tags">
+        {% for tag in post.data.tags %}
+          {%- if collections.tagList.indexOf(tag) != -1 -%}
+          {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+            <a href="{{ tagUrl | url }}">{{ tag }}</a>
+          {%- endif -%}
+        {% endfor %}
+        </div>
+      </div>
+
+      <a href="{{ post.url }}" class="post-list__link">
+        
       <p class="post-list__excerpt">{{ post.templateContent | excerpt | safe  }}</p>
 
       </a>
+
     </li>
   {% endfor %}
 </ul>

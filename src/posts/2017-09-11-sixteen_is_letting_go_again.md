@@ -3,7 +3,8 @@ title: Sixteen is Letting Go Again
 slug: sixteen_is_letting_go_again
 date_published: 2017-09-11T13:07:05.000Z
 date_updated: 2018-09-11T22:31:50.000Z
-tags: nyc
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/oculus-roof.jpeg?v=1669784171416
+tags: [nyc]
 ---
 
 A couple of times a week, I end up walking by the World Trade Center, either the new train station at the site, or one of the new malls that’s sprung up flanking the memorial. It’s a normal part of my day now, not a tentative and fraught moment that forces me to catch my breath. It’s just part of my day.
@@ -14,7 +15,9 @@ So, like [ten years ago](__GHOST_URL__/2007/09/six-is-letting-go.html), I’m le
 
 It’s an oversimplification, of course, but not a false one. I’m trying to let go and accept that that only stories we’ll ever have of that day will be our flawed, incomplete perspectives. But at least we can push back against the myth-making by people who never saw the character of New York City firsthand on that day.
 
-### In Past Years
+---
+
+## In Past Years
 
 Each year I write about the attacks on this anniversary, as a means of recording for myself where I am compared to that day. I don’t think I’m saying much that’s profound or original, but it’s a ritual that’s helped me fit those events into my life.
 

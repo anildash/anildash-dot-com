@@ -4,7 +4,7 @@ slug: 12-things-everyone-should-understand-about-tech
 date_published: 2018-04-08T04:19:34.000Z
 date_updated: 2021-08-02T04:06:40.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/cassette.jpeg?v=1669625301567
-tags: tech, Best Of
+tags: [tech, Best Of, Most Popular]
 ---
 
 Tech is more important than ever, deeply affecting culture, politics and society. Given all the time we spend with our gadgets and apps, it’s essential to understand the principles that determine how tech affects our lives.

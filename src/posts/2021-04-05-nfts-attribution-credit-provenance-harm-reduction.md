@@ -4,6 +4,7 @@ slug: nfts-attribution-credit-provenance-harm-reduction
 date_published: 2021-04-05T17:44:52.000Z
 date_updated: 2021-04-05T21:45:58.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tourists.jpeg?v=1669527246224
+tags: [tech, culture, nfts, Best Of]
 ---
 
 Anytime a big new market pops up, people rush in to stake their claims and make their fortunes. Our culture loves creation myths, especially in technology. Fables about lone geniuses are ubiquitous in the tech industry, with their fundamental falsity doing nothing to undermine their utility for most people in positions of power.

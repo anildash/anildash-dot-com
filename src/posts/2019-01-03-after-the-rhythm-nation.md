@@ -4,6 +4,7 @@ slug: after-the-rhythm-nation
 date_published: 2019-01-03T20:29:05.000Z
 date_updated: 2021-08-02T03:11:36.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/janet-jackson-1100-1.jpg?v=1669611620127
+tags: [music, Janet Jackson, culture]
 ---
 
 With Janet Jackson's (woefully belated) acceptance into the Rock and Roll Hall of Fame, it's well past time for a broader reckoning with her place in popular culture, and especially the way she's challenged narratives in pop music. To me, her evolution, and unique place in culture, can be summed up with just one verse.

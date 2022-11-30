@@ -4,6 +4,7 @@ slug: a-web-renaissance
 date_published: 2022-04-13T18:35:44.000Z
 date_updated: 2022-04-14T17:22:29.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/%20Greg-Rosenke-bricks.jpeg?v=1669519589433
+tags: [tech, web, culture, gaming]
 ---
 
 Thanks to the mistrust of big tech, the creation of better tools for developers, and the weird and wonderful creativity of ordinary people, we’re seeing an incredibly unlikely comeback: the web is thriving again.

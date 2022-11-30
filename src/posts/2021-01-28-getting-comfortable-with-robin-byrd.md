@@ -4,6 +4,7 @@ slug: getting-comfortable-with-robin-byrd
 date_published: 2021-01-28T09:02:08.000Z
 date_updated: 2021-08-02T02:50:52.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Robin-Byrd-show.jpeg?v=1669528407903
+tags: [nyc, culture]
 ---
 
 It is almost impossibly difficult to explain [Robin Byrd](http://www.robinbyrd.com/) to anyone who was not an adult living in NYC toward the end of the last century, though everyone who recognizes the name immediately responds with unbridled enthusiasm. This comes up in conversation for me from time to time because I used to share a cubicle with her for a brief while about 20 years ago. Perhaps I should explain.

@@ -3,7 +3,6 @@ layout: layouts/base.njk
 templateClass: tmpl-home
 ---
 
-
 <article class="post">
   <header class="post__header">
     <h1>{{ title }}</h1>
@@ -11,11 +10,17 @@ templateClass: tmpl-home
       <time datetime="{{ page.date | htmlDateString }}">
         {{ page.date | readableDate }}
       </time>
+      <div class="post__tags">
+      {% for tag in tags | pageTags %}
+        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+        <a href="{{ tagUrl | url }}">{{ tag }}</a>
+      {% endfor %}
+      </div>
     </div>
-    
+
     {% if heroimage %}
-    <figure class="heroimage">
-      <img src="{{heroimage}}" alt="{{title}}" />
+    <figure class="heroimage" style="background-image: url({{heroimage}});">
+      
     </figure>
     {% endif %}
   </header>

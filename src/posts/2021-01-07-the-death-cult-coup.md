@@ -4,6 +4,7 @@ slug: the-death-cult-coup
 date_published: 2021-01-07T07:11:00.000Z
 date_updated: 2021-01-07T11:52:22.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/capitol-lights.jpeg?v=1669528860078
+tags: [culture, policy]
 ---
 
 A while back, when I wrote out in plain words that we have a politically dominant [death cult ruling America](/2020/07/11/the-american-death-cult/) right now, I worried about the risks of saying my opinion so straightforwardly. As you might expect, I did get a good number of people saying I was exaggerating, or being too extreme and polarizing. Tonight, as we pause and try to recover from the emotional impact of a violent coup attempt that culminated in seditionists storming the U.S. Capitol during the midst of  the certification of the results of our Presidential election, it seems all of our voices weren't loud and extreme enough.

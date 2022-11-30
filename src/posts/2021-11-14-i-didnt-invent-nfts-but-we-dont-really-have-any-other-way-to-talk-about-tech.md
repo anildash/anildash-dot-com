@@ -4,6 +4,7 @@ slug: i-didnt-invent-nfts-but-we-dont-really-have-any-other-way-to-talk-about-te
 date_published: 2021-11-15T04:56:17.000Z
 date_updated: 2021-11-15T07:32:40.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/bady-abbas-lights.jpeg?v=1669522236867
+tags: [tech, nfts, culture]
 ---
 
 I've been blogging here for more than 20 years, and the only organizing principle behind what I write here, if anything, is a fascination about how we make culture, and especially how we make culture around, and with, technology. Nothing has exemplified the complexity of that conversation more than my attempts to engage with the current hype cycle around NFTs, or non-fungible tokens. 

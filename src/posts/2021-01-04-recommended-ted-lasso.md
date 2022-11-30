@@ -4,6 +4,7 @@ slug: recommended-ted-lasso
 date_published: 2021-01-04T07:41:35.000Z
 date_updated: 2021-08-02T02:53:32.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/grass-net.jpeg?v=1669529510414
+tags: [culture]
 ---
 
 Ted Lasso, the standout series of Apple's new Apple TV+ streaming service, rightfully earned a place on many people's lists of the most-recommended new shows of 2020. But what's best about it is what makes it so different from most other highly-acclaimed shows, especially "prestige" TV.

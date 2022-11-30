@@ -4,6 +4,7 @@ slug: the-war-on-cars
 date_published: 2021-01-16T03:33:15.000Z
 date_updated: 2021-01-16T03:33:15.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/safer-streets.jpeg?v=1669528499617
+tags: [culture, transit, podcasts]
 ---
 
 I love any kind of advocacy for safer, more humane streets, so it was a real joy to get to guest on the wonderful [The War on Cars](https://thewaroncars.org) podcast. Doug Gordon went deep, really pushing into the connections and surprising resonances between what makes communities safe and healthy in both our built environments and in our online life.

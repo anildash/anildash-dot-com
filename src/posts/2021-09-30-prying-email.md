@@ -4,6 +4,7 @@ slug: prying-email
 date_published: 2021-09-30T07:00:42.000Z
 date_updated: 2021-09-30T07:00:42.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Alexander%20Andrews-broken-phone.jpeg?v=1669523043836
+tags: [tech, software, culture]
 ---
 
 The key to protecting people's privacy on the internet isn't in trying to stop users' data from being sent to different services, it's in poisoning the well by having user data be so inconsistent, disconnected, spurious or expensive to collect that today's surveillance infrastructures (often referred to as "ad tech" ) get flummoxed when trying to track you. The "wall" metaphor for keeping data in and companies out is the wrong way to think about it; instead you want to go for a "death by a thousand cuts" offense against powerful antagonists like the surveillance platforms, or to use the nicer phrasing of the tech security community, it's "defense in depth". 

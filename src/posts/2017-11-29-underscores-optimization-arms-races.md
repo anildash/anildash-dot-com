@@ -3,17 +3,20 @@ title: Underscores, Optimization & Arms Races
 slug: underscores-optimization-arms-races
 date_published: 2017-11-29T21:29:00.000Z
 date_updated: 2021-08-02T04:12:14.000Z
-tags: web, google, search
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/type-curve-1.jpeg?v=1669782582770
+tags: [web, google, search, tech]
 ---
 
 A dozen years ago, the web started to reshape itself around major companies like Google. We can understand the genesis of today’s algorithmic arms race against the tech titans just by looking at a single character.
-![](__GHOST_URL__/content/images/2021/08/typewriter-keys.jpeg)
-This is all ancient tech history now, but content management systems used to be one of those competitive markets that tech people watched avidly. (CMSes are the tools people use to publish stuff on the Internet — Medium, where you’re reading right now, is one, and some of the big ones people use today are WordPress or Drupal.)
+![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/typewriter-keys.jpeg?v=1669782631717)
+This is all ancient tech history now, but content management systems used to be one of those competitive markets that tech people watched avidly. (CMSes are the tools people use to publish stuff on the Internet — Medium, where I originally wrote this, is one, and some of the big ones people use today are WordPress or Drupal.)
 
 Back in the early 2000s, I helped create two then-popular CMS tools, Movable Type and TypePad; pretty soon, WordPress and Drupal and other tools came onto the scene solving a similar set of problems. All of these apps basically did the same thing they do today: You type in a box, and hit publish, and it makes a nice-looking web page with whatever you wrote. At first they were used by individual bloggers to keep personal sites, but they quickly took over publishing for almost every media outlet on the web. It was a booming market, and the people working on these tools were some of the first wave of high-profile social media startup founders.
 
 Friendster was around then, and MySpace was growing in prominence. (Facebook didn’t come around until a little later, and was still just for Ivy League kids for a long time.) But the biggest player on the rise in that era was Google. They’d bought Blogger, one of the earliest popular social media tools, in early 2003 and then launched their AdSense advertising platform a few months later. All of a sudden, Google was massively influencing content and monetization in the new world of social media.
-![](__GHOST_URL__/content/images/2021/08/type-keys.jpeg)
+
+![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/type-keys.jpeg?v=1669782630996)
+
 ## Drawing a line
 
 Just as we see Instagram and Snapchat going back and forth today one-upping each other’s features, in the early 2000s, people were constantly making new features for publishing in the then-new format of blogging. Todays social apps might distinguish themselves based on who has the best photo filters, but the technological distinctions between content management systems were a lot nerdier, like really esoteric and detailed technical controls over the design of your website.
@@ -29,14 +32,16 @@ But here’s the thing: web addresses can’t have spaces in them. To include a 
 The end result? Anybody who used our tools could write a a blog post entitled “My Great Cookie Recipe” and it would live at an address that looked like `example.com/2005/04/my_great_cookie_recipe.html`. By contrast, the WordPress team thought that hyphens looked better, so blog posts published on their tool would look more like `example.com/2005/04/my-great-cookie-recipe`. Sure, these different tools made slightly different choices about which character to use, but such a subtle distinction couldn’t be meaningful, right?
 
 As it would turn out, we’d stumbled across a harbinger of how the entire web was about to change.
-![](__GHOST_URL__/content/images/2021/08/type-closeup.jpeg)
+
+![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/type-closeup.jpeg?v=1669782582297)
+
 ## The rise of SEO
 
 Just as the social media era of the web was taking off, Google’s rapidly-growing platform radically changed the nature of content and sharing on the web. Anybody with a website was starting to understand that ranking highly on Google was immensely valuable, and as Google’s ad platform boomed, seeing those paid results alongside “organic” search results made it even clearer that a high ranking had monetary value.
 
 Initially, information of how to rank better on Google was exchanged almost as folk knowledge—half urban legends or myth, half insights that were gleaned through painful experience but not documented anywhere. Soon, the dark arts of earning Google’s favor came to be known as “search engine optimization”, and what began as informal sharing of guesses about Google’s function started to grow into what became a multi-billion-dollar industry.
 
-### Everybody Loves Dashes
+## Everybody Loves Dashes
 
 Even as SEO matured and formalized, Google had very little documentation and no designated ombudsman to handle questions about how to be in their search engine’s good graces. Eventually, early Googler [Matt Cutts](https://www.mattcutts.com/blog/) took up the mantle of representing the company to the community as advocate for best practices in search optimization, using his personal blog to explain company policies that had heretofore been opaque or inscrutable. There was a feel of Kremlinology to the way his minor public utterances would be parsed for any hints that outsiders could glean about Google’s inner workings. But just as often, Cutts would make clear pronouncements of What To Do, and these were received by the SEO community almost as religious edicts.
 
@@ -49,8 +54,10 @@ There was a lot of nuance in Matt’s post, but pretty soon the perception for a
 But once you’ve trained a community that they constantly need to guess at the secret machinations of your algorithm, they’re not going to stop doing so just because you’ve made a public pronouncement.
 
 For years, despite Cutts’ clear statement, the choice of punctuation remained such a point of contention and debate that [countless](http://www.ecreativeim.com/blog/2011/03/seo-basics-hyphen-or-underscore-for-seo-urls/)[stories](https://www.seomechanic.com/seo-101-hyphens-underscores-_-urls/) were [written](https://searchengineland.com/9-seo-quirks-you-should-be-aware-of-146465) about how best to appease the fickle Googlebot. Eventually, discussion around hyphens and underscores in web addresses became so fraught and so persistent that *six years after* that initial blog post, Cutts made [an entire YouTube video just about punctuation in web addresses](https://www.youtube.com/watch?v=AQcSFsQyct8) on one of Google’s official channels. About 125,000 people have watched the whole video.
-![](__GHOST_URL__/content/images/2021/08/type-keys-line.jpeg)
-### Indexing the web, as it is
+
+![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/type-keys-line.jpeg?v=1669782630628)
+
+## Indexing the web, as it is
 
 While the burgeoning SEO community was debating how best to please Google, amongst our team of people building a content management system, we were having a completely different philosophical debate: should we be trying to appease Google?
 
@@ -60,13 +67,15 @@ But what if, due to the market pressure of the increasing value of ranking in Go
 
 We found ourselves resistant to what felt like a coercive effect of Google’s rising domination, especially since Google’s own Blogger platform was a competitor of ours. Our expression of that frustration was expressed by a debate over a single character: We were using _ because we thought it looked nicer, so why should we change to - just because Google liked it better? Weren’t they supposed to adapt to what we published on the web?
 
-### Holding the line
+## Holding the line
 
 For a while, the team I was working on resisted changing our software to use dashes instead of underscores. My rationale was simple — Google has tons of money, why should we change the design of our tools for free, just to make things easier for a big company like Google? The WordPress community made a more pragmatic call, figuring (quite reasonably!) that users wanted to rank well in Google, they made sure their tool’s default was to use the punctuation that the search engine preferred.
 
 At a literal level, the technical differences here were trivial. But the different choices of punctuation reflected very different philosophies about how the web should work. Dashes vs underscores represented a profound question: **Would we change our apps and our content to suit big companies like Google, or should those big companies accommodate us?**
-![](__GHOST_URL__/content/images/2021/08/type-punctuation.png)
-### Caving In
+
+![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/type-punctuation.png?v=1669782631376)
+
+## Caving In
 
 Eventually, most people who were publishing on the web said they didn’t want to do anything to risk diminishing their Google ranking, and our team had pretty much no choice but to switch to letting people publish web addresses using dashes. I genuinely felt like we had caved in. Caring so much about a single punctuation mark was, of course, an absurd hill to die on, but having Google coerce us into changing our software, and our aesthetics, felt like the first step toward a slippery slope of further concessions.
 
@@ -78,7 +87,7 @@ A few years later, Google [changed their mind](https://www.cnet.com/news/undersc
 
 ---
 
-### Finally, the algorithmic arms race
+## Finally, the algorithmic arms race
 
 In that old era of the social web, the community’s shared knowledge of how to game algorithms was mostly used for harmless things. People would try to get more readers for their personal blogs, or pull off silly stunts like “Google bombing”, which was essentially just playing with getting a certain site to rank high in Google’s results for a particular term. It’s no wonder we thought it was no big deal if we changed our apps to make content that suited Google’s arbitrary rules. None of this stuff mattered *that* much, right?
 
@@ -93,4 +102,5 @@ By the time we realized that we’d gotten suckered into a neverending two-front
 Now, the challenge is to reform these systems so that we can hold the big platforms accountable for the impacts of their algorithms. We’ve got to encourage today’s newer creative communities in media and tech and culture to not constrain what they’re doing to conform to the dictates of an opaque, unknowable algorithm. We have to talk about the choices we made in those early days, even at risk of embarrassing ourselves by showing how naive we were about the influence these algorithms would have over culture.
 
 And ultimately, we have to use the chance we’ve got now to underscore the lessons that we learned from the earliest days of the social web, that still resonate on billions of screens today. So much can come from a decision about just one character on the screen.
-![](__GHOST_URL__/content/images/2021/08/type-curve-2.jpeg)
+
+![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/type-curve-2.jpeg?v=1669782583099)
