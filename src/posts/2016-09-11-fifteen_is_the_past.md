@@ -3,7 +3,8 @@ title: Fifteen is the past
 slug: fifteen_is_the_past
 date_published: 2016-09-11T13:55:06.000Z
 date_updated: 2018-09-11T22:32:53.000Z
-tags: nyc
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/one-wtc.jpeg?v=1669865495158
+tags: [nyc]
 ---
 
 We’ve been saying “never forget” for so long that we don’t even know why we’re saying it. At JFK airport, panic over… nothing. On the other side of the country, at LAX, panic over… nothing. As it turns out, if you tell people to be afraid all the time for long enough, it will work. Meanwhile, as always, the greatest danger to Americans, by several orders of magnitude, is each other.

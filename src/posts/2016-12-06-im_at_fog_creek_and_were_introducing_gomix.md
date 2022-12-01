@@ -3,7 +3,8 @@ title: I'm at Fog Creek. And we're introducing Glitch!
 slug: im_at_fog_creek_and_were_introducing_gomix
 date_published: 2016-12-06T13:27:01.000Z
 date_updated: 2018-04-17T17:42:12.000Z
-tags: tech
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fog-creek-product-history.png?v=1669862394565
+tags: [tech, software, glitch]
 ---
 
 Okay, here’s the story: **I’m the new CEO of [Fog Creek Software](https://fogcreek.com/)!** And we have an awesome new tool called Glitch that just launched today, and you should go try it out and build the app of your dreams in a few minutes.
@@ -39,6 +40,8 @@ I realized that I wanted to fully engage myself with a single, all-encompassing 
 Which brings me to our next chapter: **[Glitch](https://glitch.com/).** Many geeks of my cohort came of age building things on the desktop using HyperCard or Visual Basic, or by using View Source in their browser to tweak HTML pages that they uploaded to Geocities. The web’s gotten a lot more mature and a lot more powerful, but the immediacy of that kind of creation has been lost. Today, even if you’re a skilled developer, the starting point you’re working from is usually a pile of unassembled parts.
 
 Glitch lets you start from a working app (or bot, or site, or whatever) and then remix it into exactly the app of your dreams. If you just want to change a button from blue to green, or add your logo, you can be running instantly. See a fun or smart Alexa skill or Slack bot? You can jump in, edit the responses to be the text you want, and have your own version running in just a few minutes.
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/DVIG9QEv68Y" title="What is Glitch?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 For the past several years, I found that the overhead of provisioning servers, or trying to maintain a dev environment, or wrangling with version control took all the fun out of coding for me, to the point where I don’t just hack on things for fun anymore. I can’t imagine how much more intimidating it would be if I hadn’t spent many years coding.
 

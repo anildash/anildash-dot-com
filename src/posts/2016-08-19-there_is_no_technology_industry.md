@@ -3,7 +3,8 @@ title: There is no "technology industry"
 slug: there_is_no_technology_industry
 date_published: 2016-08-19T17:07:44.000Z
 date_updated: 2022-01-14T05:38:38.000Z
-tags: Best Of, tech
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/honeycomb.jpg?v=1669865590169
+tags: [Best Of, tech]
 ---
 
 The label’s become too big to be useful, and tech could suffer for it.
@@ -17,7 +18,9 @@ That’s an impossible task, and a bad way to think about technology’s role in
 Once upon a time, it made perfect sense to talk about “the high tech industry” in America — pioneering companies like Intel or Fairchild Semiconductor or IBM or Hewlett Packard made computer processors and related hardware, and most of the companies in Silicon Valley dealt with actual silicon from time to time. These companies offered competing products that shared a market, a set of customers, and sometimes even had employees in common when talent would move from one company to another.
 
 But today, the major players in what’s called the “tech industry” are enormous conglomerates that regularly encompass everything from semiconductor factories to high-end retail stores to Hollywood-style production studios. The upstarts of the business can work on anything from cleaning your laundry to creating drones. There’s no way to put all these different kinds of products and services into any one coherent bucket now that they encompass the entire world of business.
-![](__GHOST_URL__/content/images/2022/01/bookwave.jpeg)
+
+![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/bookwave.jpeg?v=1669865589846 "A book with a photo of a wave")
+
 It’s no wonder that those who most closely follow the challenges of today’s media environment feel that “coverage of the tech sector presents one of the most profound accountability challenges in modern journalism” — what journalist could credibly switch from covering Apple’s water consumption at its newest data center to evaluating whether fashionistas will embrace the latest Hermès-branded Apple Watch accessory?
 
 The danger isn’t simply that some blogger won’t know how to review the latest gadgets. Put simply, every industry and every sector of society is powered by technology today, and being transformed by the choices made by technologists. Marc Andreessen famously said that “software is eating the world”, but it’s far more accurate to say that the neoliberal values of software tycoons are eating the world. Peter Thiel is all-in for Donald Trump, who publicly suggested replacing our military’s digital communications with human couriers carrying paper missives—clearly this techie’s top priority is not feeding the planet to the all-consuming software beast.

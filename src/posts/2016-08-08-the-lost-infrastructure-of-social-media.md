@@ -3,7 +3,8 @@ title: The lost infrastructure of social media.
 slug: the-lost-infrastructure-of-social-media
 date_published: 2016-08-08T21:51:00.000Z
 date_updated: 2022-11-17T06:43:38.000Z
-tags: blogging, search, social media
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tiles.jpeg?v=1669865733893
+tags: [blogging, search, social media, twitter, tech]
 ---
 
 ### More than a decade ago, the earliest era of blogging provided a set of separate but related technologies that helped the nascent form thrive. Today, most have faded away and been forgotten, but new incarnations of these features could still be valuable.
@@ -19,7 +20,113 @@ The core capabilities in the early era of blogging acted as open features for an
 **Below is a table offering a quick survey of these features.** Note: The companies and products listed in each column are illustrative and are not intended to be comprehensive; there were many competitive services in the early era of blogging, and the few services that still exist generally live on as zombie services with almost no users today.
 
 These features are still valuable, which is why closed networks like Medium, Tumblr and WordPress.com offer analogous features such as the ability to follow other users. These sites also typically provide “reader” features for seeing updates from friends. In the table below, * indicates capabilities that are no longer available across sites but may be provided within closed networks.
-**Then****Now****Publishing**Blogger, Movable TypeWordPress, Medium, Tumblr**Search**Technorati*n/a***Comments**Haloscan, coCommentDisqus, LiveFire, Civil**Responses**TrackBack, PingBack*n/a****Likes, Favorites***n/a**n/a****Updates**Weblogs.com, PingomaticFacebook, Twitter**Friend Lists**Blogrolling, MyBlogLog*n/a***Following***n/a**n/a****Syndication**RSS, AtomAMP, Instant Articles, RSS, Apple News**API**Metaweblog, Atom*n/a****Metadata**RDFSchema.org, Open Graph, Twitter Cards**Discovery & Tagging**Blogdex, Technorati*n/a****Analytics**Measure Map, FeedBurnerGoogle Analytics**Advertising**BlogAds, Google AdSenseGoogle AdSense **Aggregation**Google News, BloglinesFacebook**Time Shifting & Reading**Instapaper, ReadabilityFacebook, Pocket, Instapaper, Apple News
+
+
+<table>
+  <tr>
+     <th></th>
+     <th><strong>Then</strong></th>
+     <th><strong>Now</strong></th>
+  </tr> 
+
+  <tr>
+     <td><strong>Publishing</strong></td>
+     <td>Blogger, Movable Type</td>
+     <td>WordPress, Medium, Tumblr</td>
+  </tr> 
+
+  <tr>
+     <td><strong>Search</strong></td>
+     <td>Technorati</td>
+     <td><em>n/a</em></td>
+  </tr> 
+
+  <tr>
+     <td><strong>Comments</strong></td>
+     <td>Haloscan, coComment</td>
+     <td>Disqus, LiveFire, Civil</td>
+  </tr> 
+
+  <tr>
+     <td><strong>Responses</strong></td>
+     <td>TrackBack, PingBack</td>
+     <td><em>n/a</em>*</td>
+  </tr> 
+
+  <tr>
+     <td><strong>Likes, Favorites</strong></td>
+     <td><em>n/a</em></td>
+     <td><em>n/a</em>*</td>
+  </tr> 
+
+  <tr>
+     <td><strong>Updates</strong></td>
+     <td>Weblogs.com, Pingomatic</td>
+     <td>Facebook, Twitter</td>
+  </tr> 
+
+  <tr>
+     <td><strong>Friend Lists</strong></td>
+     <td>Blogrolling, MyBlogLog</td>
+     <td><em>n/a</em></td>
+  </tr> 
+
+  <tr>
+     <td><strong>Following</strong></td>
+     <td><em>n/a</em></td>
+     <td><em>n/a</em>*</td>
+  </tr> 
+
+  <tr>
+     <td><strong>Syndication</strong></td>
+     <td>RSS, Atom</td>
+     <td>AMP, Instant Articles, RSS, Apple News</td>
+  </tr> 
+
+  <tr>
+     <td><strong>API</strong></td>
+     <td>Metaweblog, Atom</td>
+     <td><em>n/a</em>*</td>
+  </tr> 
+
+  <tr>
+     <td><strong>Metadata</strong></td>
+     <td>RDF</td>
+     <td>Schema.org, Open Graph, Twitter Cards</td>
+  </tr> 
+
+  <tr>
+     <td><strong>Discovery &amp; Tagging</strong></td>
+     <td>Blogdex, Technorati</td>
+     <td><em>n/a</em>*</td>
+  </tr> 
+
+  <tr>
+     <td><strong>Analytics</strong></td>
+     <td>Measure Map, FeedBurner</td>
+     <td>Google Analytics</td>
+  </tr> 
+
+  <tr>
+     <td><strong>Advertising</strong></td>
+     <td>BlogAds, Google AdSense</td>
+     <td>Google AdSense </td>
+  </tr> 
+
+  <tr>
+     <td><strong>Aggregation</strong></td>
+     <td>Google News, Bloglines</td>
+     <td>Facebook</td>
+  </tr> 
+
+  <tr>
+     <td><strong>Time Shifting &amp; Reading</strong></td>
+     <td>Instapaper, Readability</td>
+     <td>Facebook, Pocket, Instapaper, Apple News</td>
+  </tr>
+</table>
+
+
 ## What could these features do?
 
 ### Publishing

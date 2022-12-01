@@ -3,9 +3,10 @@ title: Coloring Books
 slug: red-book-yellow-book-green-book
 date_published: 2016-07-11T20:59:00.000Z
 date_updated: 2018-04-15T09:17:55.000Z
-tags: music, highways, transportation, race
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/color-books.jpeg?v=1669866330863
+tags: [music, highways, transportation, race, policy]
 ---
-
+ 
 ## Red Book, Yellow Book, Green Book
 
 Stay within the lines.
@@ -18,7 +19,9 @@ There’s a specification that Phillips [published in 1981](http://www.philips-h
 
 The cover of the book containing the specifications was red, so the format soon came to be known as *Red Book*. Once additional extensions to the standard came along, each was published in its own color book. CD-i, the interactive format was enumerated in the *Green Book*, but it didn’t find much success on the market despite enormous hype. CD-ROM had a brief moment of popularity after it was described in the *Yellow Book* in the late 80s.
 
-Philips diagram describing the reading of data from a CD.
+![Philips diagram describing the reading of data from a CD.](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/cd-laser.webp?v=1669867612400 "Philips diagram describing the reading of data from a CD.")
+
+_Philips diagram describing the reading of data from a CD._
 
 Eventually, the collection of all the various optical disc formats came to be known as the Rainbow Books. Later, hybrid formats emerged, letting creators combine Red Book audio with Yellow Book CD-ROM data.
 
@@ -30,13 +33,17 @@ In the middle of the last century, troops returning from World War II had been i
 
 While there had been similar efforts proposed in the past, the first full plan for our current national highway system was mapped out in 1955, in a publication entitled *General Location of National System of Interstate Highways*. It was, in many ways, a connect-the-dots between the biggest cities in the country.
 
-1965 status map showing progress on following the 1955 highway plan
+![1965 status map showing progress on following the 1955 highway plan](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/1965-highway-status.gif?v=1669867612039 "1965 status map showing progress on following the 1955 highway plan")
+
+_1965 status map showing progress on following the 1955 highway plan_
 
 The cover of the *General Location* book was yellow. Soon, the publication and the plan it proposed came to be known as the *Yellow Book*. Though it was known for the lines between cities, it contained sketches outlining the route that highways would take *through* cities.
 
 In the manner of many such planning efforts, examples intended to be illustrative soon came to be considered normative by those responsible for picking the location for the new highways. The destruction of minority and marginalized neighborhoods during the construction of the federal highway system can in many cases be traced back to simple line drawings in the *Yellow Book* that passed, nearly unchanged, into the final location of enormous multi-lane divided highways.
 
-Close-up of highway plan for Minneapolis-St. Paul in the 1955 edition of the Yellow Book
+![Close-up of highway plan for Minneapolis-St. Paul in the 1955 edition of the Yellow Book](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/minneapolis-highways.webp?v=1669867611747 "Close-up of highway plan for Minneapolis-St. Paul in the 1955 edition of the Yellow Book")
+
+_Close-up of highway plan for Minneapolis-St. Paul in the 1955 edition of the Yellow Book_
 
 ---
 
@@ -44,7 +51,9 @@ Close-up of highway plan for Minneapolis-St. Paul in the 1955 edition of the Yel
 
 Victor H. Green was a mailman in Hackensack, New Jersey in the 1930s when he realized the need to document places where African Americans could safely travel, eat and find accommodations while in unfamiliar parts of the country. Playing off of his name, Green published *The Negro Motorist Green Book* starting in 1936, with the cover of the book reflecting both its name and its author’s name. Though that first edition only covered the New York City area, it rapidly expanded to cover the entire country, limited only by the meager resources available to Green as a self-published author.
 
-Green Book covers from 1937, 1945, 1956 and 1961. (Via 99% Invisible)
+![Green Book covers from 1937, 1945, 1956 and 1961. (Via 99% Invisible)](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/green-books.webp?v=1669867611433 "Green Book covers from 1937, 1945, 1956 and 1961. Via 99% Invisible")
+
+_Green Book covers from 1937, 1945, 1956 and 1961. (Via 99% Invisible)_
 
 The *Green Book*, as it was popularly known, stayed in publication through 1966, tending to the needs of its audience until the legal (though not social) end of the Jim Crow era.
 
