@@ -3,7 +3,8 @@ title: New York-Style Tech
 slug: new_york-style_tech
 date_published: 2016-07-15T20:00:29.000Z
 date_updated: 2018-04-08T08:23:24.000Z
-tags: tech, nyc
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/nypl-room.jpeg?v=1669865990954
+tags: [tech, nyc]
 ---
 
 ## A technology community driven by values, not just profits.
@@ -14,7 +15,7 @@ The other day, I was looking at Matt Turck’s analysis of the New York City tec
 
 **Put simply: New York City is unique in that its tech community is grounded in principles of social and civic responsibility.** It’s an important distinction, one that we’ve got to work hard to protect and nurture. And just like New York-style pizza, I’m hoping lots of people in other cities think that what we’re making here is good enough that they try to emulate it in their own communities.
 
-![Computing at the Astor Cube](https://cdn.glitch.com/f0e649a1-3610-45f3-885a-217df0379e77%2Fastor-cube.jpeg?1523161284047)
+![Computing at the Astor Cube](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/astor-cube.jpeg?v=1669865991439 "Computing at the Astor Cube")
 
 What do I mean by a civic-minded tech community? We see a few consistent traits that jump out:
 

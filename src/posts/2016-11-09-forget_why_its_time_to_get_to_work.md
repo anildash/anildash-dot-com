@@ -3,7 +3,8 @@ title: Forget "Why?", it's time to get to work.
 slug: forget_why_its_time_to_get_to_work
 date_published: 2016-11-09T14:15:06.000Z
 date_updated: 2022-11-17T07:20:16.000Z
-tags: Best Of, Most Popular
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/growth.jpeg?v=1669862931067
+tags: [Best Of, Most Popular, policy, culture]
 ---
 
 There are going to be endless think-pieces and armchair analyses about why America elected Donald Trump as its next President. But you already know why.
@@ -35,9 +36,10 @@ There are a few key steps we’ll all need to follow to prevent the gradual acce
 - **If you can’t lead, then support those who do.** Once President Obama’s term in office has ended, we’ll be blessed with getting back one of the most effective and respected community organizers who’s ever lived. But his work alone won’t be enough — we’ll need a thousand more leaders like him. Find the people in your community who are leading the charge, and ask them what they need. Nobody can do it alone, and not everybody has the time or interest to be the face in front of the crowd, but we can support those who do choose to stand up.
 - **Pursue a strategy of containment as we make progress.** There are a few narrow areas where Trump’s stated policies aren’t inherently destructive, such as his promise to rebuild American infrastructure. While we have to be hypervigilant for traditional inequities like redlining and destructive “urban renewal”, we can work to direct his efforts in such areas towards productive ends, so that the momentum and attention of Trump and his supporters is channeled toward the least dangerous goals possible. This strategy will also benefit from Trump’s illiteracy or incompetence in other areas of policy, which might draw him to focus on initiatives related to construction and infrastructure, where he is least weak. This doesn’t diminish his danger overall, but offers a possible productive outlet for what he’ll clearly see as a mandate to act.
 
-> [This is what happens now.](https://www.facebook.com/illdoctrine/videos/1131268586909980/)
-> This is what happens now.
-> Posted by [Ill Doctrine](https://www.facebook.com/illdoctrine/) on Wednesday, November 9, 2016
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v15.0&appId=62701753217&autoLogAppEvents=1" nonce="ULY7VPYL"></script>
+
+<div class="fb-video" data-href="https://www.facebook.com/illdoctrine/videos/1131268586909980/" data-width="800" data-show-text="false"><blockquote cite="https://www.facebook.com/illdoctrine/videos/1131268586909980/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/illdoctrine/videos/1131268586909980/">This is what happens now.</a><p>This is what happens now.</p>Posted by <a href="https://facebook.com/illdoctrine">Ill Doctrine</a> on Wednesday, November 9, 2016</blockquote></div>
 
 ## 3. Take care of yourself and others.
 

@@ -2,15 +2,16 @@
 layout: layouts/page.njk
 ---
 
-## About Anil Dash
+# About Anil Dash
 
-  <figure class="profile-pic">
-  <img src="https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anildash-2022.png?v=1669512851303" class="illustration" style="" alt="Anil Dash">
+  <figure class="feature-pic" style="float:right;">
+  <div class="feature-pic-image" style="background-image: url(https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anildash-2022.png?v=1669512851303);"> </div>
   </figure>
 
-Having created Internet technologies for two decades, I’m focused on the way technology can transform society, media, the arts, government and culture.
 
-My work is focused on ensuring that tech serves those who are most vulnerable and that it enables the most people to express themselves. This means that, while my work is grounded in tech, it is deeply connected to policy, culture, art, urbanism, social justice and other domains that tech has historically overlooked. I also try to be fairly accessible, especially to people who don't have access to these systems, so you can reach me at [a@anildash.com](mailto:a@anildash.com).
+Hi, I'm Anil Dash. I’m a tech entrepreneur and writer, and someone who's trying to make technology more responsible. I've been creating Internet technologies for two decades, and writing on my blog here for just as long, focused on ensuring that technology's transformative impact on society, media, the arts, labor, government and culture is one that's positive instead of being destructive.
+
+While my work is grounded in tech, it is deeply connected to policy, culture, art, urbanism, social justice and other domains that tech has historically overlooked. You'll also find plenty of digressions into policy, popular culture and media here on this blog as well. You can reach me at [a@anildash.com](mailto:a@anildash.com).
 
 ## Full Bio
 

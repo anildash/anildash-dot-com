@@ -3,14 +3,17 @@ title: It's more than just "teach kids to code"
 slug: its_more_than_just_teach_kids_to_code
 date_published: 2016-09-14T13:32:04.000Z
 date_updated: 2022-11-20T07:17:58.000Z
-tags: Best Of, tech
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/notebook-notebook.jpeg?v=1669865122148
+tags: [Best Of, tech, policy]
 ---
 
 I’m skeptical about “teach the kids to code!” as a panacea for all of society’s ills. Yet today, I’m at the White House to participate in a summit on Computer Science for All. Why would a skeptic still think it’s important to make computer science part of everyone’s education?
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hiZLuHfvvYI?start=970" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 It’s almost impossible to overstate the breadth of cultural enthusiasm for the idea of teaching kids about computer science and computing. No matter where they sit on the political spectrum, leaders will proudly tout America’s high tech companies as the future of innovation and high tech companies as the future of opportunity and employment. Tech has become something of a secular religion in America, and as a result there’s been a rush toward enthusiastically advocating for technology education, without as much substantive and nuanced critique as the idea deserves.
 
-### The Myth of Perfect Tech Jobs
+## The Myth of Perfect Tech Jobs
 
 As someone who’s been making software and Internet technologies for 20 years, I’m skeptical about the enthusiasm that so many in the policy-making world have for saying, “let’s teach kids to code!” To start with the obvious elephant in the room, many of the people advocating for these programs aren’t particularly knowledgeable about technology, or the economics of today’s tech startups, in the first place. (Most people making policy haven’t yet realized that there is no “technology industry”.) And most of the technologists advocating for these programs aren’t particularly literate in how today’s educational systems work, or what constraints they face.
 
@@ -22,7 +25,9 @@ Many tech companies are still terrible at inclusion in their hiring, a weakness 
 
 And at a more philosophical level, a proper public education, paid for by taxpayers, shouldn’t be oriented toward simply providing workers for a group of some of the wealthiest, most powerful companies to have ever existed.
 
-That’s a pretty damning case against teaching kids to code? So why would somebody still favor the massive investment and cultural shift required to pull it off? Well, it’s the oldest excuse in the political realm, but we have to think about the children.### Going beyond CS
+That’s a pretty damning case against teaching kids to code? So why would somebody still favor the massive investment and cultural shift required to pull it off? Well, it’s the oldest excuse in the political realm, but we have to think about the children.
+
+## Going beyond CS
 
 There’s a much more powerful vision of “computer science for all” that can address all of the concerns raised by the current state of technology and tech companies. **Technology literacy, and a strong basis in computer science, can be a powerful way to empower the most marginalized, most needy people in society.**
 

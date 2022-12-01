@@ -3,7 +3,8 @@ title: "Set Adrift: Beneath the Surface of P.M. Dawn"
 slug: set_adrift_beneath_the_surface_of_pm_dawn
 date_published: 2016-06-19T00:06:55.000Z
 date_updated: 2022-01-14T05:29:05.000Z
-tags: music, Best Of
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-be-silhouette.png?v=1669868759248
+tags: [music, Best Of, PM Dawn]
 ---
 
 Today, P.M. Dawn exists as a faded memory for most music fans, if they’re remembered at all. But Attrell Cordes made songs like nothing that came before. Beautiful, sweeping melodies paired with lyrics of regret, remorse, heartache and profound loss. And then there were those surreal, recurring images of water.
@@ -28,8 +29,7 @@ The answer to P.M. Dawn may lie beneath the surface.
 
 ## 1. Making Waves
 
-> *Baby you send me, baby you send me*
-> *Set adrift on memory bliss of you*
+> Baby you send me, baby you send me <br> Set adrift on memory bliss of you
 
 Though they billed themselves as a group, P.M. Dawn was barely even a duo — Attrell was always the creative force behind the work, the lead voice on every song. Those songs typically matched samples of very white, very pop artists to thick layers of Beach Boys harmonies. More than half a decade before the artist intermittently known as Puff Daddy would become one of the biggest stars in pop (and earn the ire of hip-hop purists) with tracks built entirely around top 40 hits, P.M. Dawn was riding a Spandau Ballet song to the top of the charts. Indeed, when SoundScan was first used to calculate music sales in 1991, the very first song to be certified #1 in sales was “Set Adrift On Memory Bliss.”
 
@@ -41,10 +41,7 @@ The structure of the song exemplifies Attrell’s hit formula during the rise an
 
 In their signature hit, like all their songs, P.M. Dawn’s lyrics are vivid, evocative, inscrutable.
 
-> *The camera pans to a cocktail glass*
-> *Behind a blind of plastic plants*
-> *I find a lady with a fat diamond ring*
-> *And then you know I can’t remember a damn thing*
+> The camera pans to a cocktail glass <br> Behind a blind of plastic plants <br> I find a lady with a fat diamond ring <br> And then you know I can’t remember a damn thing
 
 The scene described is hard to place, but it does seem to loosely fit one scenario: The words can be read as a recapitulation of the opening moments of Prince’s 1986 cinematic flop, *Under the Cherry Moon*. Ordinarily, it’d be absurd to think the lyrics to a Top 10 pop hit include a Prince reference so obscure that Questlove would struggle to recall it, but this is from *Of the Heart, of the Soul and of the Cross: The Utopian Experience*, an album where one of the other songs (“Reality Used To Be A Friend Of Mine”) actually samples dialogue from the movie Under the Cherry Moon. Similarly obscure cultural references continue throughout the song, with almost deliberately inaccessible moments like the Tribe Called Quest-meets-Married With Children nod, “Christina Applegate, you gotta put me on.”
 
@@ -64,9 +61,7 @@ But at the dawn of the 90s, P.M. Dawn enjoyed a brief moment where they captured
 
 ## 2. Got Me Floating
 
-> *I drift along in a sea of compulsion*
-> *Whether or not I’m dead*
-> *I have no idea*
+> I drift along in a sea of compulsion <br> Whether or not I’m dead <br> I have no idea
 
 Those lyrics pop up in the middle of “The Beautiful”, a standout on the first P.M. Dawn album, which evolves a brief segment of the Beatles’ “Baby You’re a Rich Man” into a full-fledged song, ethereal and funky and appropriately titled. It’s striking that even when starting from a Beatles hook, Prince Be finds himself afloat.
 
@@ -74,11 +69,7 @@ When it came time to create their followup album, though, Prince Be began with t
 
 The only familiar element for fans to hold on to in “Patient Eyes” was Prince Be’s omnipresent obsession with water imagery in the lyrics.
 
-> *Oil and water, lust and sympathy*
-> *I life and death my way through the sun*
-> *Where originates all the pain*
-> *That leaves my memory a traumatic sponge*
-> *And sings to you*
+> Oil and water, lust and sympathy <br> I life and death my way through the sun <br> Where originates all the pain <br> That leaves my memory a traumatic sponge <br> And sings to you
 
 Though that first single from *The Bliss Album…?* followed a familiar formula, the rest of the album challenged listeners at almost every opportunity. As Tom Breihan put it when [revisiting the album](http://www.stereogum.com/1296662/the-bliss-album-turns-20/franchises/the-anniversary/) a few years ago,
 
@@ -94,8 +85,7 @@ The song? “[You Got Me Floating](https://www.youtube.com/watch?v=JidF1T-U5Sw)�
 
 P.M. Dawn soon became popular enough to actually work with artists they admired. One of those artists was Boy George, who duetted with Prince Be on *The Bliss Album…?*’s “More Than Likely.” It was George who got the standout lyric in the first verse.
 
-> *What’s the use in floating if all it does is tell*
-> *You someone’s under you*
+> What’s the use in floating if all it does is tell <br> You someone’s under you
 
 That duet with Boy George was followed a few months later by a duet with Elton John on his Duets album. Prince Be was saying, as clearly as possible, that he cared a lot more about his musical influences than his hip-hop credibility.
 
@@ -103,22 +93,30 @@ That duet with Boy George was followed a few months later by a duet with Elton J
 
 ## 3. A Sea of Doubt
 
-> *I can understand that the stakes are high*
-> *But I’d really like to know what I’ve done and why*
-> *I’m floating in a sea of doubt when it comes to that*
+> I can understand that the stakes are high <br> But I’d really like to know what I’ve done and why <br> I’m floating in a sea of doubt when it comes to that
 
 Like so many of P.M. Dawn’s songs, “Even After I Die” covers Prince Be’s insecurities and self-loathing in a context that’s deeply mortal. He seems to be reckoning with his legacy, a fixation that only increased after the birth of his children.
 
 One part of that legacy was unfortunately too clear. Even people who know nothing else about P.M. Dawn know that KRS-One bum-rushed them onstage at one of their shows. The context was deeply stupid, even in the lengthy annals of stupid hip-hop beefs. Prince Be, while doing an interview for Details in January 1991 to promote The Utopian Experience, started to ramble about not believing in reality. It wasn’t a particularly effective or clear way to argue his point, but context makes clear that he was riffing on not wanting to obey conventional social labels. From that interview:
-![](__GHOST_URL__/content/images/2022/01/pm-dawn-interview.jpeg)
+
+![PM Dawn interview in January 1991 issue of 'Details'](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/pm-dawn-interview.jpeg?v=1669869328121 "He claims to know nothing about world affairs. Like, say, the collapse of the Communist system? 'I don't know shit about it and I couldn't care less.' Like, say, black politics?
+'I don't like black people, actually,' Prince Be says quietly.
+Sorry?
+'I don't like black people.' he repeats. 'I don't like white people. I don't like that kind of thing. Once you consider yourself black or white, you're stupid. The prejudice thing is so stupid. If you are prejudiced, you are stupid,' he giggles. 'Public Enemy and people like that-they just make mountains out of molehills. KRS One wants to be a teacher, but a teacher of what? N.W.A just don't do anything at all.'
+BACK AT THE HOTEL, BE IS EATING POTATO chips. An incessant snacker, he claims the first word he ever spoke was 'eat.' His younger brother backs him up. 'What I say is black could be purple to you.' He is on his back, hanging his head up side down from the bed in his London hotel room, explaining the Prince Be system of unreality and how he uses it to protect himself from the world.")
+
 With years of hindsight, it reads as a particularly poor form of album promotion, but given that these were the words of an obscure and introverted 20-year-old artist who was dealing with press for the first time, it’s not that egregious. A few days after the article came out KRS revealed his great offense to Prince Be’s slight (and demonstrated the full hypocrisy of his “Stop The Violence” movement) by throwing Prince Be from the stage of an MTV concert at the Factory in New York.
 
 Legendary hip-hop journalist and critic Bill Adler [wrote up the full story](http://www.crazyhood.com/diggin-files-krs-one-bill-adler/) at length on his site, but context makes clear that KRS had been embarrassed by attacks from rappers like Ice Cube and decided to prove his toughness by…going after the softest rapper in the game.
 
 It’s hard to overstate how huge the reaction was. At at time when hip-hop was too scary for most of mainstream media, USA Today put the story on the front cover of their Life section.
-![](__GHOST_URL__/content/images/2022/01/pm-dawn-usa-today.jpeg)
+
+![USA Today on the attack on PM Dawn](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/pm-dawn-usa-today.jpeg?v=1669869327783 "RAP RUCKUS: Rapper KRS-One, angered by remark by PM Dawn's Prince Be in a Details magazine interview, bodily pushed the rap group off the stage while it was performing Monday at New York's Sound Factory. KRS-One, a leader of rap's Stop the Violence movement, also was on the bill. Friday, KRS-One apologized, saying. 'I let my temper get the better of me.' The cryptic remark that set him off: 'KRS-One wants to be a teacher, but a teacher of what?' KRS-One's next bum is called Sex and Violence.")
+
 But while traditional media condemned KRS for his attack, the response from the hip-hop community was nearly unanimous. *The Source* (then at the peak of its credibility and authority in hip-hop) convened a panel of attendees of the show to discuss the attack, and T-Money got the last word on P.M. Dawn.
-![](__GHOST_URL__/content/images/2022/01/pm-dawn-krs-one.jpeg)
+
+![KRS One responding to PM Dawn](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/pm-dawn-krs-one.jpeg?v=1669869327304 "T-MONEY: PM Dawn... they're not hip-hop. Are they entertainers? Yeah, they're entertainers, they entertain a crowd. But, I don't think they're hip-hop, that's not what hip-hop was built on. Have we gone that far away from the base? Groups like PM Dawn have to understand something which is very, very important, if they don't get the respect from their peers... it's like they build a house on sticks, it's bound to fall.")
+
 Chris Wilder, then the managing editor of *The Source*, revisited the attack a year later, summarizing his reaction to KRS taking the stage: “The whole Bronx was on stage and all of Brooklyn and Uptown was on the floor screaming, ‘Go! Go! Go!’ and jumping as high as I’ve ever jumped at a party.”
 
 ---
@@ -129,10 +127,7 @@ In a 1996 interview for *Addicted To Noise*, Prince Be discussed why he had move
 
 ## 4. Raining Cats and Dogs
 
-> *So when it’s raining cats and dogs*
-> *I won’t complain and I won’t mind*
-> *When it’s raining cats and dogs*
-> *I’ll understand the reasons why…*
+> So when it’s raining cats and dogs <br> I won’t complain and I won’t mind <br> When it’s raining cats and dogs <br> I’ll understand the reasons why…
 
 From the start, P.M. Dawn was presented as a duo. But what was clear was that Attrell, as Prince Be, was the driving creative force behind P.M. Dawn; Jarrett, as DJ Minutemix, seemed to be a junior partner, whose onstage role was primarily as a hype man and backup singer. Prince Be also determined their strategy for reaching fans.
 
@@ -140,18 +135,18 @@ Despite a series of massive hits, P.M. Dawn had taken a blow from both the KRS-O
 
 The *Jesus Wept* album had strong material, but getting alternative outlets to embrace the lead single “Downtown Venus” was a leap. The effort didn’t quite work. In an online chat for MTV a week after the third album’s release, Prince Be was morose even by his own typically pessimistic standards, as these excerpts show.
 
-> **VIIdeadsi:** When did you first realize that your music made a strong impact on the current generations?
-> **PRlNCE BE:** When I realized that there was an immense amount of people that hate me. People either really love P.M. Dawn or really hate P.M. Dawn
-> **JZito1364:** Do you like being a role model for thousands of young people?
-> **PRlNCE BE:** It depends. What is a role model? You tell me JZi. Is it someone that people can look up to? Or is it someone that is continuously crucified? Knows it, likes it, and takes it.
-> **Editor8:** How do you expect your record sales from “JESUS WEPT” to compare to your previous records?
+> **VIIdeadsi:** When did you first realize that your music made a strong impact on the current generations?<br>
+> **PRlNCE BE:** When I realized that there was an immense amount of people that hate me. People either really love P.M. Dawn or really hate P.M. Dawn<br>
+> **JZito1364:** Do you like being a role model for thousands of young people?<br>
+> **PRlNCE BE:** It depends. What is a role model? You tell me JZi. Is it someone that people can look up to? Or is it someone that is continuously crucified? Knows it, likes it, and takes it.<br>
+> **Editor8:** How do you expect your record sales from “JESUS WEPT” to compare to your previous records?<br>
 > **PRlNCE BE:** I don’t expect anyone to buy it. Which is pretty much what’s happening.
 
 The chat continued in that vein, culminating in openly hostile questions making it past the moderators.
 
-> **Jayj43:** do you enjoy living as a sellout to other rappers?
-> **PRlNCE BE:** Very much so, I mean… What’s your definition of a sell-out? A sellout is someone who does music that they hate and music that they can’t feel simply for the purposes of making money. As I’ve been saying all nightk, I’m too emotional of a person not to be in my music. I love my music, if I were making hardcore hip-hop, then I would really be a sellout, a-hole.
-> **Micdawg:** So what do you want to have achieved when it’s all said and done?
+> **Jayj43:** do you enjoy living as a sellout to other rappers?<br>
+> **PRlNCE BE:** Very much so, I mean… What’s your definition of a sell-out? A sellout is someone who does music that they hate and music that they can’t feel simply for the purposes of making money. As I’ve been saying all nightk, I’m too emotional of a person not to be in my music. I love my music, if I were making hardcore hip-hop, then I would really be a sellout, a-hole.<br>
+> **Micdawg:** So what do you want to have achieved when it’s all said and done?<br>
 > **PRlNCE BE:** I don’t know, and that’s the chicken shit answer. But it’s the truth. I’m in this game because I don’t know what else to do with my emotions. With my spirituality. And with my passion for escapism. I love you all because I hate you all because I love you all because I hate you all. Because I love you all because I hate you all. See what I mean? I don’t know diddly. When someone finds out what existence is, please let me know. I’m at the end of my rope. Peace.
 
 The cause for Prince Be’s despair was dramatic: His brother Jarrett, who should have been participating in these promotional activities and performances for the new album, was nowhere to be seen.
@@ -162,7 +157,7 @@ Prince Be was characteristically cryptic in commenting on the situation, and did
 
 But the damage was done. P.M. Dawn’s attempt to redefine its sound and maintain its relevance was completely derailed by the charges against Jarrett. The charges were later dropped, but by then Jarrett had been quietly dismissed from the group. No subsequent P.M. Dawn album received any real attention from radio or retail.
 
-### 5. Comatose
+## 5. Comatose
 
 > *Maybe it’s the undertow of what the tide took*
 > *The put together scenes*
@@ -188,7 +183,9 @@ In 2002, Brandy and Ray J [covered](https://open.spotify.com/track/1ahSMiTBdEJII
 
 A new generation of artists had declared their appreciation for P.M. Dawn, and started to undo nearly two decades of disrespect.
 
-### 6. Now I’m Underwater
+---
+
+## 6. Now I’m Underwater
 
 > Oh, I apologize for all the things I’ve done
 > But now, I’m underwater and I’m drowning
@@ -212,7 +209,11 @@ So who are all these love songs written to?
 Certainly Attrell Cordes loved god, as he understood gods and religions to work, and it’s clear a few of his songs were about loving god. Some of P.M. Dawn’s work seems to be directed to the memory of Prince Be’s father, who is said to have died of pneumonia when the boys were very young.
 
 But then there’s the sad footnote that shows up in many of the earliest interviews with Prince Be. He recounts a story of having watched his younger brother Duncan Cordes drown when Duncan was only two years old. Understandably, most interviewers of the time didn’t press too hard on the subject when simply trying to write a story about a new album release, so little was said about how the incident happened. The only hint of something deeper lay in an Associated Press story that came across the wire on May 10, 1978.
-![](__GHOST_URL__/content/images/2022/01/pm-dawn-news-article.png)
+
+![1978 news article about the passing of Duncan Cordes](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/pm-dawn-news-article.png?v=1669869327017 "Child's Drowning Believed Part Of Bizarre Religious Ritual
+JERSEY CITY, N.J. A man has been charged with drowning his girlfriend's 2-year-old son in what police believe may have been part of a bizarre religious rite. The suspect, Norman Longe Jr., 31, was standing in a bathtub holding the naked body of the infant, Duncan Cordes, when police arrived Tuesday at. the flat he shared with Janice Cordes, police said. Police said that across the hall from the bathroom, they found three candles glittering on the corners of a chalk triangle drawn in front of a crude altar.
+ON THE ALTAR lay an open Bible. Inside the triangle were containers with water, clamshells and various household items, police said. Police were called to the scene after the child's brother ran from the house and told a passerby about the incident.")
+
 ---
 
 Attrell Cordes is survived by his wife Mary, and their three children: Christian, Mia and Brandon.

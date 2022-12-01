@@ -3,7 +3,8 @@ title: How do we reform tech?
 slug: how_do_we_reform_tech
 date_published: 2016-10-06T16:59:53.000Z
 date_updated: 2022-01-14T05:35:23.000Z
-tags: tech, Best Of
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/screen-of-code.jpeg?v=1669864782607
+tags: [tech, Best Of]
 ---
 
 In the past, popular movements have forced major industries to confront their need for ethical reform. But today‘s media, policymakers and activists don’t yet seem prepared to fix the tech sector’s problems. So how will reform happen?
@@ -26,11 +27,11 @@ Which issues matter most? Let’s look at three key issues that have the broades
 
 To summarize these three points: **Tech companies are making people worry about their jobs and feel creeped out, without offering the chance to benefit and profit from tech success.** That doesn’t mean people hate consumer technology like smartphones and apps — we love them! But the fact that we are investing enormous amounts of time and money in using these products makes it more likely that people will resent when those companies betray their trust.
 
-### Is it too late?
+## Is it too late?
 
 It’s important to acknowledge another perspective, people who do believe tech has overstepped its bounds, but who think it’s too late, and that the forces behind today’s tech companies are too powerful to fight. While the concern is understandable, we should assume that the same factors that let tech companies capture so much power so also quickly make them vulnerable to smart reform efforts. And I’m an optimist, so I’m not willing to give up without trying.
 
-![classic-tv.jpeg](https://cdn.glitch.com/f0e649a1-3610-45f3-885a-217df0379e77%2F455-classic-tv.jpeg?1524017139950)
+![classic-tv.jpeg](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/classic-tv.jpeg?v=1669864844940 "A classic TV")
 
 ## Can we just write new laws?
 
@@ -54,7 +55,7 @@ Typically, social movements lean on product boycotts and direct consumer purchas
 
 Indeed, the marginalized people most victimized by tech’s excesses are also the ones who most need the opportunities that tech like smartphones or social networks can provide. We can’t just tell people “dont’ buy it” or “don’t use it” when it comes to tech that has negative impacts because it also cuts off opportunity to learn essential job skills and to make vital professional connections. There’s too much baby in the bathwater.
 
-![tech-tools.jpeg](https://cdn.glitch.com/f0e649a1-3610-45f3-885a-217df0379e77%2F456-tech-tools.jpeg?1524017173234)
+![tech-tools.jpeg](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/jumbled-tools.jpeg?v=1669864893559 "A jumble of tools")
 
 ## Direct, networked action
 
@@ -68,7 +69,7 @@ Similarly, we look at regulatory reforms that have had significant impact on oth
 
 But in contrast to prior industry reforms, many of these activist and policy efforts will happen without an organizing entity, or a political action committee, or a lobbying group. Learning from modern movements like #BlackLivesMatter and #FightFor15, we can provide a way for individuals to act and to coordinate without necessarily being official members of an organization. This will be especially critical as we’ll need participation from people who are currently working within the major tech companies, and most will be understandably wary of visibly participating in such efforts.
 
-### What about media?
+## What about media?
 
 Perhaps the biggest wildcard in an effort to reform tech is the shifting role of media. Most major media organizations have journalists who are willing to be critical of tech on the grounds of being insufficiently diverse, violating privacy, or threatening people’s jobs. But the chilling effect of tech titans like Peter Thiel working to destroy a media outlet can’t be overstated — media outlets are going to be far less likely to be critical of the Uber-wealthy leaders of the sector.
 
