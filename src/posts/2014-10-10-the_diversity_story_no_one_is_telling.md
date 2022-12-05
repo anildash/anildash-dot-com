@@ -3,6 +3,7 @@ title: The diversity story no one is telling.
 slug: the_diversity_story_no_one_is_telling
 date_published: 2014-10-10T18:00:46.000Z
 date_updated: 2018-08-12T05:42:49.000Z
+tags: [culture]
 ---
 
 In my [my latest piece](/2014/10/10/its_time_to_stop_being_the_model_minority/), I wrote about an issue that’s been bugging me for a long time: Asian American men in tech don’t do enough to speak up about inclusion in our industry.

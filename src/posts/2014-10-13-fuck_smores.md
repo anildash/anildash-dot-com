@@ -4,7 +4,7 @@ slug: fuck_smores
 date_published: 2014-10-13T20:15:28.000Z
 date_updated: 2019-11-19T09:31:07.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/regis-hari-bouchard-QzivCWSYEug-unsplash.jpg?v=1670107622304
-tags: [absurdity]
+tags: [absurdity, food]
 ---
 
 Graham Crackers were created to stifle the libido. Marshmallows are a sickly-sweet, cloying blob that, when properly heated, becomes a sort of confectionery napalm, a substance suitable at first for administering serious burns and then cooling into the world’s most maddeningly effective adhesive.

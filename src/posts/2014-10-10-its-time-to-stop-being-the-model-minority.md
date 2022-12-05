@@ -1,7 +1,7 @@
 ---
 title: It’s time for Asian American men to stop being the “Model Minority” in tech.
 slug: its_time_to_stop_being_the_model_minority
-date_published: 2014-10-10T18:00:46.000Z
+date_published: 2014-10-10T12:00:46.000Z
 date_updated: 2018-08-12T05:42:49.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/green-switches.jpeg?v=1670197419105
 tags: [tech, culture, Best Of]

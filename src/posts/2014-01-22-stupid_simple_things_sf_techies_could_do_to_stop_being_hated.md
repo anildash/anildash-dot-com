@@ -3,7 +3,7 @@ title: Stupid Simple Things SF Techies Could Do To Stop Being Hated
 slug: stupid_simple_things_sf_techies_could_do_to_stop_being_hated
 date_published: 2014-01-23T01:37:37.000Z
 date_updated: 2014-01-23T01:37:37.000Z
-tags: tech
+tags: [tech, policy]
 ---
 
 I’ve seen a lot of hand-wringing from techies in San Francisco and Silicon Valley saying “Why are we so hated?” now that there’s been a more vocal contingent of people being critical of their lack of civic responsibility. Is it true that corruption and NIMBYism have kept affordable housing from being built? Sure. Is it true that members of the tech industry do contribute tax dollars to the city? Absolutely. But does that mean techies have done enough? Nope.

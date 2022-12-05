@@ -2,7 +2,6 @@
 layout: layouts/home.njk
 ---
 
-
   <div class="intro-text">
     
 # Hi, I'm Anil Dash

@@ -3,7 +3,7 @@ title: Thirteen is Understanding
 slug: thirteen_is_understanding
 date_published: 2014-09-11T13:30:58.000Z
 date_updated: 2018-09-11T22:39:33.000Z
-tags: Best Of, nyc
+tags: [Best Of, nyc]
 ---
 
 They say the best way to see if you really understand something is to try to explain it to another person. I’ll never *really* understand what happened to my beloved city thirteen years ago today, of course, but I’ve had in mind that my young son is now old enough that I’ll soon have to answer *some* question about 9/11. Already, he’s been downtown and we’ve looked at the new World Trade Center tower and admired the sleek new skyscraper. It won’t be too many more visits until he asks why they built this new skyscraper, or what was here before, or what those big reflecting pools are for.

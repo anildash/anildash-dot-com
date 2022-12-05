@@ -3,6 +3,7 @@ title: Real Web History
 slug: real_web_history
 date_published: 2014-11-04T17:19:07.000Z
 date_updated: 2014-11-04T17:19:07.000Z
+tags: [web, blogs]
 ---
 
 There’s been precious little documentation of the real cultural impact that the social web has had, particularly in its earliest years. So it’s exciting when people in academia who are researching those topics share their findings.
