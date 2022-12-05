@@ -259,8 +259,8 @@ main ul li {
   display: flex;
   padding-bottom: 4rem;
   flex-direction: column;
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
   min-width: 0;
   max-width: 60rem;
   margin-left: auto;
@@ -277,7 +277,6 @@ main ul li {
   display: grid;
   grid-gap: 3vmin;
   grid-template-columns: 2fr 1fr;
-  padding: 3vmin 0;
 }
 
 @media (max-width: 1000px) {
@@ -302,7 +301,7 @@ main ul li {
   background-size: cover;
   word-break: break-word;
   border-radius: 0.5rem;
-  margin: 1.5rem;
+  margin-right: 1.5rem;
 }
 
 figure.feature-pic {
@@ -501,7 +500,7 @@ figure.heroimage {
 .post-card {
   background-size: cover;
   word-break: break-word;
-  border: 1px solid #eeeeee;
+  border: 1px solid var(--secondary);
   border-radius: 0.5rem;
   margin-top: 1.5rem;
 }
@@ -548,9 +547,7 @@ figure.heroimage {
 .header {
   max-width: none;
   width: 100%;
-  text-transform: capitalize;
-  text-transform: uppercase;
-  margin-bottom: 4rem;
+  margin-bottom: 2rem;
 }
 
 .header__content {
@@ -561,7 +558,7 @@ figure.heroimage {
   margin-left: auto;
   margin-right: auto;
   max-width: 60rem;
-  padding: 1rem;
+  padding: 0 2.5rem 0 2.5rem;
   margin-top: 1rem;
   border-bottom: 1px solid #e6e6e6;
 }

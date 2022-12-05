@@ -46,7 +46,9 @@ Dash is based in New York City, where he lives with his wife Alaina Browne and t
 <div class="content">
 
 
-### Requisite disclaimer:
+<hr>
+  
+### Requisite disclaimer
   
 None of the organizations mentioned here are responsible for anything you see on this site. As this site has been published continuously for over two decades, many pieces included here may not reflect my current views or the ways I would communicate today.
 
