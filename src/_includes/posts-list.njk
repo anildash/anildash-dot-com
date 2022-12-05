@@ -1,38 +1,35 @@
 
-<ul class="post-list">
-  {% for post in postslist | reverse %}
-    <li class="post-list__item">
-    
-      <figure class="feature-pic">
-        <a href="{{ post.url }}" class="post-list__link">
-        <div class="feature-pic-image" style="background-image: url({{ post.data.heroimage }});"> </div>
-        </a>
-      </figure>
-              
-      <h3 class="post-list__title">
-        <a href="{{ post.url }}" class="post-list__link">{{ post.data.title }}</a>
-      </h3>
-
-      <div class="post-list__meta">
-        <time datetime="{{ post.date | htmlDateString }}">
-        {{ post.date | readableDate }}
-        </time>
-        <div class="post-list__tags">
-        {% for tag in post.data.tags %}
-          {%- if collections.tagList.indexOf(tag) != -1 -%}
-          {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-            <a href="{{ tagUrl | url }}">{{ tag }}</a>
-          {%- endif -%}
-        {% endfor %}
-        </div>
+<div class="post-feed">
+  
+{% for post in postslist | reverse %}
+<article class="post-card post">
+  <a class="post-card-image-link" href="{{ post.url }}">
+    <img class="post-card-image" src="{{ post.data.heroimage }}" alt="{{ post.data.title }}" loading="lazy">
+  </a>
+  <div class="post-card-content">
+    <a class="post-card-content-link" href="{{ post.url }}">
+      <header class="post-card-header">
+        <h2 class="post-card-title">{{ post.data.title }}</h2>
+      </header>
+      <section class="post-card-excerpt">
+        <p>{{ post.templateContent | excerpt | safe  }}</p>
+      </section>
+    </a>
+    <footer class="post-card-meta">
+      <div class="">
+        <span class="post-list__meta"><time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time> <span class="bull">•</span>
+          <span class="post-list__tags">
+          {% for tag in post.data.tags %}
+            {%- if collections.tagList.indexOf(tag) != -1 -%}
+            {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+              <a href="{{ tagUrl | url }}">{{ tag }}</a>
+            {%- endif -%}
+          {% endfor %}
+          </span>
+        </span>
       </div>
-
-      <a href="{{ post.url }}" class="post-list__link">
-        
-      <p class="post-list__excerpt">{{ post.templateContent | excerpt | safe  }}</p>
-
-      </a>
-
-    </li>
-  {% endfor %}
-</ul>
+    </footer>
+  </div>
+</article>
+{% endfor %}
+</div>

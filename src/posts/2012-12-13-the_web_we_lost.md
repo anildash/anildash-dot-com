@@ -1,0 +1,56 @@
+---
+title: The Web We Lost
+slug: the_web_we_lost
+date_published: 2012-12-13T19:24:09.000Z
+date_updated: 2022-01-13T18:59:32.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anil-dash-berkman-crop.jpg?v=1670196932302
+tags: [Best Of, Most Popular, tech, culture]
+---
+
+**Update:** A few months after this piece was published, I was invited by Harvard’s Berkman Center to speak about this topic in more detail. Though the final talk is an hour long, it offers much more insight into the topic, and I hope you’ll give it a look.
+
+<iframe width="840" height="473" src="https://www.youtube.com/embed/9KKMnoTTHJk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+The tech industry and its press have treated the rise of billion-scale social networks and ubiquitous smartphone apps as an unadulterated win for regular people, a triumph of usability and empowerment. They seldom talk about what we’ve lost along the way in this transition, and I find that younger folks may not even know how the web used to be.
+
+So here’s a few glimpses of a web that’s mostly faded away:
+
+- Five years ago, most social photos were uploaded to Flickr, where they could be tagged by humans or even by apps and services, using [machine tags](http://www.flickr.com/groups/api/discuss/72157594497877875/). Images were easily discoverable on the public web using simple RSS feeds. And the photos people uploaded could easily be licensed under permissive licenses like those provided by Creative Commons, allowing remixing and reuse in all manner of creative ways by artists, businesses, and individuals.
+
+- A decade ago, Technorati let you search most of the social web in real-time (though the search tended to be awful slow in presenting results), with tags that worked as hashtags do on Twitter today. You could find the sites that had linked to your content with a simple search, and find out who was talking about a topic regardless of what tools or platforms they were using to publish their thoughts. At the time, this was so exciting that when Technorati failed to keep up with the growth of the blogosphere, people were so disappointed that even the usually-circumspect Jason Kottke [flamed the site](http://kottke.org/05/08/so-long-technorati) for letting him down. At the first blush of its early success, though, Technorati elicited [effusive praise](http://daringfireball.net/2003/06/take_your_trackbacks_and_dangle) from the likes of John Gruber:
+
+> [Y]ou could, in theory, write software to examine the source code of a few hundred thousand weblogs, and create a database of the links between these weblogs. If your software was clever enough, it could refresh its information every few hours, adding new links to the database nearly in real time.
+> 
+> This is, in fact, exactly what Dave Sifry has created with his amazing Technorati. At this writing, Technorati is watching over 375,000 weblogs, and has tracked over 38 million links. If you haven’t played with Technorati, you’re missing out.
+
+- Ten years ago, you could allow people to post links on your site, or to show a list of links which were driving inbound traffic to your site. Because Google hadn’t yet broadly introduced AdWords and AdSense, links weren’t about generating revenue, they were just a tool for expression or editorializing. The web was an interesting and different place before links got monetized, but by 2007 [it was clear](/2007/12/google-and-theory-of-mind.html) that Google had changed the web forever, and for the worse, by corrupting links.
+
+- In 2003, if you introduced a single-sign-in service that was run by a company, even if you documented the protocol and encouraged others to clone the service, you’d be described as introducing a tracking system [worthy of the PATRIOT act](http://web-beta.archive.org/web/20051119153505/http://weblog.burningbird.net/archives/2004/03/20/typekey-the-patriot-act-of-weblogging). There was such distrust of consistent authentication services that even Microsoft had to give up on their attempts to create such a sign-in. Though their user experience was not as simple as today’s ubiquitous ability to sign in with Facebook or Twitter, the TypeKey service introduced then had much more restrictive terms of service about sharing data. And almost every system which provided identity to users allowed for pseudonyms, respecting the need that people have to not always use their legal names.
+
+- In the early part of this century, if you made a service that let users create or share content, the expectation was that they could easily download a full-fidelity copy of their data, or import that data into other competitive services, with no restrictions. Vendors spent years working on interoperability around data exchange purely for the benefit of their users, despite theoretically lowering the barrier to entry for competitors.
+
+- In the early days of the social web, there was a broad expectation that regular people might own their own identities by having their own websites, instead of being dependent on a few big sites to host their online identity. In this vision, you would own your own domain name and have complete control over its contents, rather than having a handle tacked on to the end of [a huge company’s site](/2009/06/the-future-of-facebook-usernames.html). This was a sensible reaction to the realization that big sites rise and fall in popularity, but that regular people need an identity that persists longer than those sites do.
+
+- Five years ago, if you wanted to show content from one site or app on your own site or app, you could use a [simple, documented format](http://readwrite.com/2008/05/09/oembed_open_format) to do so, without requiring a business-development deal or contractual agreement between the sites. Thus, user experiences weren’t subject to the vagaries of the political battles between different companies, but instead were consistently based on the extensible architecture of the web itself.
+
+- A dozen years ago, when people wanted to support publishing tools that epitomized all of these traits, they’d [crowd-fund the costs](http://www.wired.com/techbiz/media/news/2001/01/40979) of the servers and technology needed to support them, even though things cost a lot more in that era before cloud computing and cheap bandwidth. Their peers in the technology world, though ostensibly competitors, would even contribute to those efforts.
+
+This isn’t our web today. We’ve lost key features that we used to rely on, and worse, we’ve abandoned core values that used to be fundamental to the web world. To the credit of today’s social networks, they’ve brought in hundreds of millions of new participants to these networks, and they’ve certainly made a small number of people rich.
+
+But they haven’t shown *the web itself* the respect and care it deserves, as a medium which has enabled them to succeed. And they’ve now narrowed the possibilites of the web for an entire generation of users who don’t realize how much more innovative and meaningful their experience could be.
+
+## Back To The Future
+
+When you see interesting data mash-ups today, they are often still using Flickr photos because Instagram’s meager metadata sucks, and the app is only reluctantly on the web at all. We get excuses about why we can’t search for old tweets or our own relevant Facebook content, though we got more comprehensive results from a Technorati search that was cobbled together on the feeble software platforms of its era. We get bullshit turf battles like Tumblr not being able to find your Twitter friends or Facebook not letting Instagram photos show up on Twitter because of giant companies pursuing their agendas instead of collaborating in a way that would serve users. And we get a generation of entrepreneurs encouraged to make more narrow-minded, web-hostile products like these because it continues to make a small number of wealthy people even more wealthy, instead of letting lots of people build innovative new opportunities for themselves on top of the web itself.
+
+We’ll fix these things; I don’t worry about that. The technology industry, like all industries, follows cycles, and the pendulum is swinging back to the broad, empowering philosophies that underpinned the early social web. But we’re going to face a big challenge with re-educating a billion people about what the web *means*, akin to the years we spent as everyone moved off of AOL a decade ago, teaching them that there was so much more to the experience of the Internet than what they know.
+
+This isn’t some standard polemic about “those stupid walled-garden networks are bad!” I know that Facebook and Twitter and Pinterest and LinkedIn and the rest are *great* sites, and they give their users a lot of value. They’re amazing achievements, from a pure software perspective. But they’re based on a few assumptions that aren’t necessarily correct. The primary fallacy that underpins many of their mistakes is that user flexibility and control necessarily lead to a user experience complexity that hurts growth. And the second, more grave fallacy, is the thinking that exerting extreme control over users is the best way to maximize the profitability and sustainability of their networks.
+
+The first step to disabusing them of this notion is for the people creating the next generation of social applications to learn a little bit of history, to *know your shit*, whether that’s about [Twitter’s business model](/2010/04/ten-years-of-twitter-ads.html) or [Google’s social features](/2012/04/why-you-cant-trust-tech-press-to-teach-you-about-the-tech-industry.html) or anything else. We have to know what’s been tried and failed, what good ideas were simply ahead of their time, and what opportunities have been lost in the current generation of dominant social networks.
+
+So what did I miss? What else have we lost on the social web?
+
+**A follow-up:** How we [rebuild the web we lost](/2012/12/18/rebuilding_the_web_we_lost/).

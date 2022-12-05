@@ -16,6 +16,7 @@ templateClass: tmpl-home
         <a href="{{ tagUrl | url }}">{{ tag }}</a>
       {% endfor %}
       </div>
+      <button id="share-link" aria-label="share"></button>
     </div>
 
     {% if heroimage %}
@@ -56,39 +57,19 @@ templateClass: tmpl-home
 
 </article>
 
-<!--
-{# This is the template for individual blog posts–it builds the front matter properties into the page #}
+  <script>
+    const shareData = {
+      title: '{{  title or site.name | escape }}',
+      url: '{{ site.url + page.url }}'
+    }
 
-<div class="wrapper post">
-  <div class="content">
-  
-  <div>
-    {# The post front matter includes the title property #}
-    <h1 class="postTitle">{{title}}</h1>
-    {% if heroimage %}
-    <figure class="heroimage">
-      <img src="{{heroimage}}" alt="{{title}}" />
-    </figure>
-    {% endif %}
+    const btn = document.querySelector('#share-link');
 
-    {# Content from the body of the post markdown appears here #}
-    {{ content | safe }}
-    <div class="controls">
-    {# The previous and next post data is added in .eleventy.js #}
-    {% if prevPost.url %}
-      <p>
-        <strong>Previous post</strong>: 
-        <a class="previous" href="{{ prevPost.url }}">{{ prevPost.data.title }}</a>
-      </p>
-    {% endif %}
-    {% if nextPost.url %}
-      <p>
-        <strong>Next post</strong>: 
-        <a class="next" href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>
-      </p>
-    {% endif %}
-    </div>
-  </div>
-  </div>
-</div>
--->
+    // Share must be triggered by "user activation"
+    btn.addEventListener('click', async () => {
+      try {
+        await navigator.share(shareData);
+      } catch (err) {
+      }
+    });  
+  </script>

@@ -14,9 +14,13 @@ templateClass: tmpl-home
 
 </header>
 
+<h2>
+  Recent posts
+</h2>
+
 <section class="post-list__wrapper">
 
-  {% set postslist = collections.posts | head(-10) %}
+  {% set postslist = collections.posts | head(-12) %}
   {% include "posts-list.njk" %}
 
 </section>
