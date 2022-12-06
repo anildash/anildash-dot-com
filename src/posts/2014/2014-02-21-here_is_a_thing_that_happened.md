@@ -3,6 +3,7 @@ title: Here is a thing that happened.
 slug: here_is_a_thing_that_happened
 date_published: 2014-02-21T18:02:40.000Z
 date_updated: 2014-02-21T18:02:40.000Z
+tags: [tech, policy]
 ---
 
 We have very nice lawyers! The team over at [Wilmer Hale](http://www.wilmerhale.com/) have been very helpful to us, and it’s been nothing but a pleasant experience for us.
@@ -29,9 +30,7 @@ In conclusion, I love my country and like our lawyers and hate our bank, like al
 
 This is an interesting anecdote from Twitter about others who’ve possibly had issues with this phrase.
 
-> [@anildash](https://twitter.com/anildash) My kids’ daycare has the words “Blue Skies” in its name; about a year ago all parents who autopay had our checks go missing.
-> 
-> — Travis Ogdon シ (@togdon) [February 21, 2014](https://twitter.com/togdon/statuses/436937160294273024)
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr"><a href="https://twitter.com/anildash?ref_src=twsrc%5Etfw">@anildash</a> My kids&#39; daycare has the words &quot;Blue Skies&quot; in its name; about a year ago all parents who autopay had our checks go missing.</p>&mdash; Travis Ogdon シ (@togdon) <a href="https://twitter.com/togdon/status/436937160294273024?ref_src=twsrc%5Etfw">February 21, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Also, there’s a surprisingly interesting [discussion on Hacker News](https://news.ycombinator.com/item?id=7283629) about this post, with speculation about why this phrase may be problematic. I should be clear that I’m not criticizing the Treasury Department for imperfect solutions to a very tough challenge that they’re facing, but am sharing this story in the hopes that it helps them improve, as I assume they’re not interested in false positives, either. I also hope that Chase can develop a better process for handling these sorts of situations, as they’ll likely only become *more* common.
 

@@ -3,7 +3,8 @@ title: Being Less of a Jerk About Faith
 slug: being_less_of_a_jerk_about_faith
 date_published: 2014-04-09T21:28:45.000Z
 date_updated: 2014-04-09T21:28:45.000Z
-tags: Best Of
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/gadiel-lazcano-5udmhGcRWV0-unsplash.jpg?v=1670294524178
+tags: [Best Of, personal]
 ---
 
 One of my recurrent ruminations of the last decade or so is a bit of reflection on my relationship with religion. To be clear: I don’t have one. I know there are no gods, that the supernatural does not exist, and that we should not base morality on mythology.
@@ -26,5 +27,6 @@ The tension between my desire to in keeping with values of kindness toward other
 
 It was a great event, very well run, and I was relatively happy with how my talk came out. But the best talk of the event happened the first night, when Father Gregory Boyle of [Homeboy Industries](http://www.homeboyindustries.org/) paid quiet witness to his work with gang members in Los Angeles.
   
- Father Gregory epitomizes the best of belief, a nearly unfathomable well of goodwill toward others. And he spoke earnestly, honestly and uncompromisingly about kinship. I experience these ideas in the context of citizenship rather than faith, but that seems a silly and trivial distinction to focus on. And none of this is peculiar or unique to me; I can see friends who are also non-believers [reckon with the same ideas](http://kottke.org/14/04/the-prayer-of-saint-francis) as well.  
- What, then is my conclusion? I don’t yet know. If faith is about comfort in the face of unanswerable questions, then I should at least be comfortable with questions that are merely difficult to answer. Until I know how to be better about my shortcomings here, I’m settling for a placeholder that at least acknowledges I haven’t met my expectations for myself. Yet.
+Father Gregory epitomizes the best of belief, a nearly unfathomable well of goodwill toward others. And he spoke earnestly, honestly and uncompromisingly about kinship. I experience these ideas in the context of citizenship rather than faith, but that seems a silly and trivial distinction to focus on. And none of this is peculiar or unique to me; I can see friends who are also non-believers [reckon with the same ideas](http://kottke.org/14/04/the-prayer-of-saint-francis) as well.  
+
+What, then is my conclusion? I don’t yet know. If faith is about comfort in the face of unanswerable questions, then I should at least be comfortable with questions that are merely difficult to answer. Until I know how to be better about my shortcomings here, I’m settling for a placeholder that at least acknowledges I haven’t met my expectations for myself. Yet.

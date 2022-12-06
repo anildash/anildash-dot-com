@@ -3,7 +3,7 @@ title: A checklist of stupid things men will say when they find out I only retwe
 slug: a_checklist_of_stupid_things_men_will_say_when_they_find_out_i_only_retweet_women
 date_published: 2014-02-12T22:52:28.000Z
 date_updated: 2014-02-12T22:52:28.000Z
-tags: tech
+tags: [tech, twitter]
 ---
 
 I wrote a bit about [why I only retweet women](https://medium.com/p/79403a7eade1). As an exercise, let’s guess what stupid things I’ll hear in response! If we check off all these items, then we’ve won Internet Sexism Bingo. And by “won”, I mean “lost”.

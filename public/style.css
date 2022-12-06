@@ -371,7 +371,7 @@ figure.heroimage {
 
 .post-feed {
   display: block;
-  max-width: 60rem;
+  max-width: 80vw;
 }
 
 @media (max-width: 1000px) {
@@ -427,7 +427,7 @@ figure.heroimage {
 }
 
 .post-list__wrapper {
-  max-width: 60rem;
+  max-width: 90vw;
   margin-top: 1.5rem;
 }
 
