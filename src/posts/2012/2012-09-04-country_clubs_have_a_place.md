@@ -3,10 +3,10 @@ title: Country Clubs and Deliberate Design
 slug: country_clubs_have_a_place
 date_published: 2012-09-04T15:53:11.000Z
 date_updated: 2012-09-04T15:53:11.000Z
-tags: tech
+tags: [tech]
 ---
 
-I was very happy to see this morning that [Fred Wilson had shared his thoughts on inclusivity](http://www.avc.com/a_vc/2012/09/inclusivity.html), building off of my earlier post [You Can’t Start the Revolution From a Country Club](http://dashes.com/anil/2012/08/you-cant-start-the-revolution-from-the-country-club.html).
+I was very happy to see this morning that [Fred Wilson had shared his thoughts on inclusivity](http://www.avc.com/a_vc/2012/09/inclusivity.html), building off of my earlier post [You Can’t Start the Revolution From a Country Club](/2012/08/you-cant-start-the-revolution-from-the-country-club).
 
 Fred gets to the heart of the matter:
 
@@ -20,9 +20,7 @@ Issues of inclusion and identity can be really difficult for some communities to
 
 Even though I put it in the headline of my earlier piece, people seem to forget that I was only criticizing country clubs in the context of fomenting revolution. As Ginny Rometty can attest, few country clubs are even close to aspiring to revolution. Obviously, my strong bias is towards technology being radical enough to change established inequitable cultural hierarchies, but if you think things are fine and fair, or you just want to build an app that’s not focused on solving those problems, there’s no reason to have any particular objection to my focus. Except, when faced with data of what the reality of such design choices look like, some people *do* take exception.
 
-> This is one of the most stupid things ever published: [buzzfeed.com/benjaminj4/how…](http://t.co/7zKJ6k2A)
-> 
-> — dustin curtis (@dcurtis) [August 29, 2012](https://twitter.com/dcurtis/status/240917768025821184)
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">This is one of the most stupid things ever published: <a href="http://t.co/7zKJ6k2A">http://t.co/7zKJ6k2A</a></p>&mdash; dustin curtis (@dcurtis) <a href="https://twitter.com/dcurtis/status/240917768025821184?ref_src=twsrc%5Etfw">August 29, 2012</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 That’s the response to [Benjamin Jackson’s piece on Buzzfeed](http://www.buzzfeed.com/benjaminj4/how-white-is-the-new-internet) exploring the demographics of Svbtle. Again, I don’t attribute any malice or ill will to Dustin Curtis; I think he’s just trying to make a cool site. And to be fair, lots of people who are not versed in conversations about privilege, access and inclusion can have a difficult time when they’re brought into one without expecting it.
 
@@ -40,6 +38,6 @@ It’s fine to design for a particular audience; I’m spending my time working 
 
 it’s gratifying to me to see someone like Fred Wilson, who has a disproportionately loud voice and a powerful set of resources to make an impact, articulate these ideas so well. I talk about these issues because I care, and because I want to move the conversation forward, not to beat people up. I talk about them because I am fortunate enough to be able to do so, and because defensiveness or burying our heads in the sand don’t actually fix big problems.
 
-But I talk about them because these are *some of the most interesting problems in creating technology today*. They’re very difficult bugs to fix! What kind of geeks would we be if we shied away from complex problems without trying to hack on them? If [racist culture is a factory defect](http://dashes.com/anil/2012/06/racist-culture-is-a-factory-defect.html), then exclusionary technology platforms have baked-in bugs that need fixing. We need a test suite for cultural assumptions, or a validator for design patterns that exclude.
+But I talk about them because these are *some of the most interesting problems in creating technology today*. They’re very difficult bugs to fix! What kind of geeks would we be if we shied away from complex problems without trying to hack on them? If [racist culture is a factory defect](/2012/06/racist-culture-is-a-factory-defect.html), then exclusionary technology platforms have baked-in bugs that need fixing. We need a test suite for cultural assumptions, or a validator for design patterns that exclude.
 
 It’s that intersection of big, interesting problems and truly new perspectives on applying technology that seem more interesting to me than just reinventing the wheel, and focusing on inclusion just incidentally happens to require innovation in those areas. Not every app has to aspire to thinking about big problems in society. I just don’t have any interest in spending too much time on the ones that don’t.

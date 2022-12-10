@@ -3,10 +3,10 @@ title: What Twitter's API Announcement Could Have Said
 slug: what_twitters_api_announcement_could_have_said
 date_published: 2012-08-17T02:48:24.000Z
 date_updated: 2012-08-17T02:48:24.000Z
-tags: tech
+tags: [tech, twitter]
 ---
 
-A few years ago, I wrote about the [Law of Fail](http://dashes.com/anil/2009/06/the-end-of-fail.html): Once a web community has decided to dislike a person, topic, or idea, the conversation will shift from criticizing the idea to become a competition about who can be most scathing in their condemnation.
+A few years ago, I wrote about the [Law of Fail](/2009/06/the-end-of-fail): Once a web community has decided to dislike a person, topic, or idea, the conversation will shift from criticizing the idea to become a competition about who can be most scathing in their condemnation.
 
 This is relevant today because Twitter announced some [upcoming API changes](https://dev.twitter.com/blog/changes-coming-to-twitter-api). From my standpoint, these are mostly pretty reasonable, and in fact should have almost no impact on any normal Twitter user. Naturally, super-geeky developers are incensed. And of course, the people who most eagerly participate in the pile-on usually have the least skin in the game — they just want to complain.
 
@@ -14,7 +14,7 @@ But to be fair, a valid annoyance for developers is that the communication from 
 
 So, as an exercise in radical institutional empathy and the real-time exploration of alternate histories of the tech industry, I wrote *my own* version of the Twitter API 1.1 announcement.
 
-My goal is to communicate the exact same points, but with the clarity that would inspire the least amount of [user-generated discontent](http://dashes.com/anil/2007/08/inspirational.html) possible. It’s also shorter by about 500 words and omits the 2×2 grid of API clients. Edits, corrections or criticisms are welcome!
+My goal is to communicate the exact same points, but with the clarity that would inspire the least amount of [user-generated discontent](/2007/08/inspirational) possible. It’s also shorter by about 500 words and omits the 2×2 grid of API clients. Edits, corrections or criticisms are welcome!
 
 ---
 

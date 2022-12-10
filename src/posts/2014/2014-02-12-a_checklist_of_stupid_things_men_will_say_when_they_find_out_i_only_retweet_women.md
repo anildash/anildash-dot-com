@@ -12,8 +12,8 @@ I wrote a bit about [why I only retweet women](https://medium.com/p/79403a7eade1
 - “This is reverse sexism!” No, if I were calling for a few centuries of you being treated as property and said you shouldn’t be able to vote, that would be reverse sexism.
 - “You’re just doing this to get laid.” Oh, son. You know what I do to get laid? I treat women as humans while being super smart and attractive. This is a trick that works *really* well, so I’ve kept doing it solely for my wife’s benefit.
 - “This is political correctness gone amok!” I get it, you miss being able to use racial and gendered slurs, and feel censored. So be free: Please publish the denigrating slurs you love so much on your LinkedIn profile.
-- “You don’t deserve all of those Twitter followers!” Yeah, I know. I wrote about that [four years ago](http://dashes.com/anil/2010/01/nobody-has-a-million-twitter-followers.html). Now you have some idea of what it might feel like to not have male privilege, except it applies in realms such as physical safety and equal pay, instead of just meaningless follower counts.
-- “Can you get me a verified checkmark?” No, man. No. I don’t know how, and it doesn’t mean anything anyway. But you can [read a bit about what happens](http://dashes.com/anil/2010/01/nobody-has-a-million-twitter-followers.html) when you’re chosen to be verified, if you want.
+- “You don’t deserve all of those Twitter followers!” Yeah, I know. I wrote about that [four years ago](/2010/01/nobody-has-a-million-twitter-followers). Now you have some idea of what it might feel like to not have male privilege, except it applies in realms such as physical safety and equal pay, instead of just meaningless follower counts.
+- “Can you get me a verified checkmark?” No, man. No. I don’t know how, and it doesn’t mean anything anyway. But you can [read a bit about what happens](/2010/01/nobody-has-a-million-twitter-followers) when you’re chosen to be verified, if you want.
 - “Are you going to start retweeting men again?” Probably not? I don’t feel like I’ve missed out on anything.
 - “This is censorship!” You are a dumb person who doesn’t know what that word means.
 

@@ -3,15 +3,14 @@ title: More on Streams vs. Pages
 slug: more_on_streams_vs_pages
 date_published: 2012-08-15T18:20:56.000Z
 date_updated: 2012-08-15T18:20:56.000Z
+tags: [tech, media]
 ---
 
-Lots of nice responses to my plea to [stop publishing web pages](http://dashes.com/anil/2012/08/stop-publishing-web-pages.html) yesterday! Here’s some highlights:
+Lots of nice responses to my plea to [stop publishing web pages](/2012/08/14/stop_publishing_web_pages/) yesterday! Here’s some highlights:
 
 - Dave Winer said I should credit him for a lot of the ideas in the post. I’m eager to grant his point, so please do know: Dave articulated a lot of the ideas like the river of news and other concepts that I mentioned well before anyone else. I care more about the ideas succeeding than whose name is attached to them, but I never want to deny people the credit they desire.
 
-> [@**anildash**](https://twitter.com/anildash) [@**tofias**](https://twitter.com/tofias) — that’s so lame. You’ve been doing this forever Anil. Everyone in your clique thinks its ok, it’s not ok.
-> 
-> — Dave Winer ☮ (@davewiner) [August 15, 2012](https://twitter.com/davewiner/status/235682593557852162)
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr"><a href="https://twitter.com/anildash?ref_src=twsrc%5Etfw">@anildash</a> <a href="https://twitter.com/tofias?ref_src=twsrc%5Etfw">@tofias</a> -- that&#39;s so lame. You&#39;ve been doing this forever Anil. Everyone in your clique thinks its ok, it&#39;s not ok.</p>&mdash; Dave Winer (@davewiner) <a href="https://twitter.com/davewiner/status/235682593557852162?ref_src=twsrc%5Etfw">August 15, 2012</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 (For reference, it’s easier for me to give you credit if you don’t block me on Twitter while simultaneously insulting my friends.)  
  * [Hacker News](http://news.ycombinator.com/item?id=4383674) had a skeptical but overall pretty thoughtful conversation about the piece. I really liked it!  

@@ -3,6 +3,7 @@ title: Stop Publishing Web Pages
 slug: stop_publishing_web_pages
 date_published: 2012-08-14T21:03:26.000Z
 date_updated: 2018-04-21T08:20:10.000Z
+tags: [media, tech]
 ---
 
 Most users on the web spend most of their time in apps. The most popular of those apps, like Facebook, Twitter, Gmail, Tumblr and others, are primarily focused on a single, simple stream that offers a river of news which users can easily scroll through, skim over, and click on to read in more depth.

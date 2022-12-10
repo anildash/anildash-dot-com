@@ -5,7 +5,28 @@ permalink: /404.html
 eleventyExcludeFromCollections: true
 ---
 
+<script>
+  
+var encodedpath = encodeURIComponent(window.location.href);
+
+function loadImage(src, img) {
+  return new Promise((resolve, reject) => {
+    var tmp = new Image();
+
+    tmp.onload = () => {
+      img.src = src;
+      resolve();
+    };
+    tmp.onerror = reject;
+    tmp.src = src;
+  });
+}
+
+loadImage('https://anil-404s.glitch.me/counter.png?fallback=' + encodedpath + '&color=black', document.getElementById('404'));
+</script>
+
 <div class="not-found">
   <h1>404</h1>
   <p>Oops. Page not Found,  <a href="{{ '/' | url }}">Go home</a>.</p>
+  <img id="404" alt="" style="max-width: 1.5rem;" aria-hidden="true">
 </div>

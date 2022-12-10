@@ -3,21 +3,21 @@ title: Tech Now Has Its Own RIAA. Meesa Scared!
 slug: tech_now_has_its_own_riaa
 date_published: 2012-09-20T22:18:32.000Z
 date_updated: 2012-09-20T22:18:32.000Z
-tags: tech
+tags: [tech]
 ---
 
 Today marks the launch of [The Internet Association](http://internetassociation.org/), a laudable effort from a number of prominent Internet technology companies to address our industry’s historic lack of engagement with the policy world by creating a lobbying group with a coherent platform and formidable backing.
 
 I’m happy to see such as serious effort from companies like Google, Facebook, LinkedIn, Yahoo, Amazon, Ebay and AOL to address our industry’s concerns through direct engagement with lawmakers. As Clay Johnson so wonderfully said, [Dear Internet, It’s No Longer Ok to Not Know How Congress Works](http://www.informationdiet.com/blog/read/dear-internet-its-no-longer-ok-to-not-know-how-congress-works-), and it would seem from the Internet Association’s existence that at least some major companies on the Internet agree. It’s especially relevant to me because, by tech standards, the amount of investment it takes to create industry-friendly policy is so *small*; The total lobbying dollars that the entertainment industry spent advocating for SOPA and PIPA was somewhere around [$94 million in 2011](http://thehill.com/blogs/congress-blog/technology/198693-the-copyright-lobby-comeuppance). That’s roughly how much profit Microsoft Office makes in a week, or how much profit Apple as a company makes every day.
 
-Yes, I hate the pernicious effect of money influencing policy for our major industries. But If Apple could spend a single day’s profit and out-lobby the entire legacy entertainment industry, it seems like it’d be a good investment. Then we can move on to [fixing the broken business of government](http://dashes.com/anil/2012/02/politics-is-a-business-a-big-broken-one.html) and think about the [future of web protest](http://dashes.com/anil/2012/01/the-history-and-future-of-web-protest.html).
+Yes, I hate the pernicious effect of money influencing policy for our major industries. But If Apple could spend a single day’s profit and out-lobby the entire legacy entertainment industry, it seems like it’d be a good investment. Then we can move on to [fixing the broken business of government](/2012/02/politics-is-a-business-a-big-broken-one) and think about the [future of web protest](/2012/01/the-history-and-future-of-web-protest).
 
 So, I’m in favor of the tech industry getting more organized in talking to policy makers. But part of me is scared shitless about the Internet Association. Because industry associations that start out with benevolent intentions to protect the freedoms of innovative young industries often become instruments of [regulatory capture](http://en.wikipedia.org/wiki/Regulatory_capture) and innovation bullying as those industries mature. To understand how a well-intentioned effort like the Internet Association can evolve into the unrecognizable form that the RIAA and MPAA have taken for the music and film industries, we should spend some time with our old friend Jar Jar Binks.
 
 ### Where Weesa Going?
 
 The convention is to hate Jar Jar Binks for his role as a buffoonish Stepin-Fetchit-meets-mincing-nelly stereotype, or for representing George Lucas’ insistence on CGI taking the place of plot development, or for demonstrating that a ham fist is able to wield a sledge hammer when it comes to hitting you over the head with infantile punchlines. The more evolved amongst us hate him for doing the impossible and making fart and poop jokes unfunny.
-![jar-jar-senate.jpeg](http://dashes.com/anil/images/jar-jar-senate.jpeg)
+![jar-jar-senate.jpeg](/images/jar-jar-senate.jpeg)
 
 But I quibble with Jar Jar on grounds of policy and governance. It’s often overlooked, but Jar Jar Binks created the Empire.
 

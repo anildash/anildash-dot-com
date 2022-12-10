@@ -9,7 +9,7 @@ tags: [tech, nyc]
 
 In today’s Wall Street Journal there’s a [detailed look at how New York City’s tech industry is looking to influence politics in the city](http://online.wsj.com/article/SB10001424127887324624404578255752537705008.html?mod=googlenews_wsj). I’m happy to be quoted in the story, but wanted to offer more context about some of my comments.
 
-When I [ran for the NY Tech Meetup board](http://dashes.com/anil/2010/12/im-running-for-the-new-york-tech-meetup-board.html) just over two years ago, I had a few simple goals:
+When I [ran for the NY Tech Meetup board](/2010/12/im-running-for-the-new-york-tech-meetup-board) just over two years ago, I had a few simple goals:
 
 - Make the NYTM community reflect NYC, in all its diversity of gender, ethnicity, identity and economics.
 - Recognize we’re in competition with other cities, especially in San Francisco and Silicon Valley, for talent and innovation.
