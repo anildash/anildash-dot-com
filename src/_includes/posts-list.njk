@@ -4,7 +4,10 @@
 {% for post in postslist | reverse %}
 <article class="post-card post">
   <a class="post-card-image-link" href="{{ post.url }}">
-    <img class="post-card-image" src="{{ post.data.heroimage }}" alt="{{ post.data.title }}" loading="lazy">
+    
+    {% if post.data.heroimage %}
+    <img class="post-card-image" src="{{ post.data.heroimage }}" alt="{{ post.data.title }}" loading="lazy" />
+    {% endif %}
   </a>
   <div class="post-card-content">
     <a class="post-card-content-link" href="{{ post.url }}">
