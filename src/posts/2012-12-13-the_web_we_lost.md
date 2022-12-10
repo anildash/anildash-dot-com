@@ -4,7 +4,7 @@ slug: the_web_we_lost
 date_published: 2012-12-13T19:24:09.000Z
 date_updated: 2022-01-13T18:59:32.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anil-dash-berkman-crop.jpg?v=1670196932302
-tags: [Best Of, Most Popular, tech, culture]
+tags: [Best Of, Most Popular, tech, culture, web]
 ---
 
 **Update:** A few months after this piece was published, I was invited by Harvard’s Berkman Center to speak about this topic in more detail. Though the final talk is an hour long, it offers much more insight into the topic, and I hope you’ll give it a look.

@@ -1,30 +1,30 @@
 ---
-title: Thirteen is Understanding
-slug: thirteen_is_understanding
-date_published: 2014-09-11T13:30:58.000Z
-date_updated: 2018-09-11T22:39:33.000Z
+title: Twelve is Trying
+slug: twelve_is_trying
+date_published: 2013-09-12T01:04:33.000Z
+date_updated: 2018-09-11T22:42:33.000Z
 tags: [nyc]
 ---
 
-They say the best way to see if you really understand something is to try to explain it to another person. I’ll never *really* understand what happened to my beloved city thirteen years ago today, of course, but I’ve had in mind that my young son is now old enough that I’ll soon have to answer *some* question about 9/11. Already, he’s been downtown and we’ve looked at the new World Trade Center tower and admired the sleek new skyscraper. It won’t be too many more visits until he asks why they built this new skyscraper, or what was here before, or what those big reflecting pools are for.
+For a dozen years, I’ve been trying to document where I am relative to where I was, but this year I’m tired. I’m finding the weaponized grievances and the commercialized grief to be increasingly trying.
 
-There’s no part of that day that one should ever have to explain to a child, but I realized for the first time this year that, when the time comes, I’ll be ready. Enough time has passed that I could recite the facts, without simply dissolving into a puddle of my own unresolved questions. I look back at past years, at my own observances of this anniversary, and see how I veered from crushingly sad to fiercely angry to tentatively optimistic, and in each of those moments I was living in one part of what I felt. Maybe I’m ready to see this thing in a bigger picture, or at least from a perspective outside of just myself.
+I thought in 2001 that some beautiful things could come out of that worst of days, and sure enough, that optimism has often been rewarded. There are boundless examples of kindness and generosity in the worst of circumstances that justify the hope I had for people’s basic decency back then, even if initially my hope was based only on faith and not fact.
 
-At a darker level, there’s also the understanding that horrible things will happen again. I’ve accepted that the events of 9/11 did not catalyze enough change to meaningfully alter our path as a culture. We can promise to Never Forget all that we want, but that won’t stop people from being in pain, from suffering, from attacking or being attacked. We can bemoan surveillance culture and compromises in our civil liberties, but even these wrongs have not substantially changed who we are. It does not diminish the memory of that day to remind ourselves that this kind of horror is not unique. And truly taking that belief to heart is, to me, the first sign that I’ve contextualized the events of 9/11 into my own life with perhaps some of the perspective that others have been able to arrive at more quickly.
+But there is also fatigue. The inevitable fading of outrage and emotional devastation into an overworked rhetorical reference point leaves me exhausted. The decay of a brief, profound moment of unity and reflection into a cheap device to be used to prop up arguments about the ordinary, the everyday and the mundane makes me weary. I’m tired from the effort to protect the fragile memory of something horrific and hopeful that taught me about people at their very best and at their very, very worst.
 
-And with that little bit of perspective comes a renewed sense of obligation. Even though I may understand a bit more about the world than I did 13 years ago, I still share every bit of the resolve that I found on that day, a conviction that I have a fundamental, unyielding duty to be more kind, more forgiving, more neighborly in serving my city, more thoughtful to my family and friends, and more courageous in speaking up about injustice. I have so much work to do to even approach any of those goals, but I find a great deal of comfort in realizing that understanding more has brought me to the same conclusions about what matters.
+I’m not fetishizing the wrenching facts of that day, or trying to cling to my grief. The tears in my eyes at the coffee shop this morning were the first time I’ve truly let myself be moved by the enormity of those attacks since my observance a year ago. I do not pretend that I remember every day, let alone that I “Never Forget”. Love help me if I really did never forget; I am *glad* to be able to mostly forget for 364 days a year. I was even able to go to a meeting at 7 World Trade Center a few weeks ago, take in a deep breath at the view of those two memorial pools down below, and then exhale the loss away enough to get down to work. There are some small kindnesses to being able to let go a little.
 
-### In Past Years
+With that letting go, though, comes the slipping away of the urgency. This is the work I need to focus on now. How do I remember to be as profoundly forgiving as I had hoped to become a dozen years ago? How do I try to maintain the motivation to do the most important things every day, instead of being distracted by the trivial? How do I prioritize fighting injustice and practicing compassion with the same fervor that I promised all those years ago when I was a different man, without the purpose or the perfectly valid excuses of a husband or father?
 
-Each year I’ve written about this anniversary, in hopes of recording for myself where I am and what I’ve felt. These are personal observations, not speaking to any of the larger issues raised by 9/11, but I hope others find something of value in the observances.
+So yes, I’m tired this year. I have the luxury of saying so. I just have the obligation not to be stopped by it. I have to do the work of trying to be a better man and make a better world, with all the earnest idealism of the man I was a dozen years ago. I swear, I’m trying.
 
-Last year I wrote [Twelve is Trying](__GHOST_URL__/2013/09/11/twelve_is_trying/):
+### Looking Back
 
-> I thought in 2001 that some beautiful things could come out of that worst of days, and sure enough, that optimism has often been rewarded. There are boundless examples of kindness and generosity in the worst of circumstances that justify the hope I had for people’s basic decency back then, even if initially my hope was based only on faith and not fact.
-> 
-> But there is also fatigue. The inevitable fading of outrage and emotional devastation into an overworked rhetorical reference point leaves me exhausted. The decay of a brief, profound moment of unity and reflection into a cheap device to be used to prop up arguments about the ordinary, the everyday and the mundane makes me weary. I’m tired from the effort to protect the fragile memory of something horrific and hopeful that taught me about people at their very best and at their very, very worst.
+Each of the last twelve years, I’ve observed the anniversary of 9/11. While there’s no shortage of maudlin media observances of the date, and a disturbingly large number of commercial exploitations of it, my remembrances exist as a record of my own changing perspectives on that time and that place. It’s for me, but I’m happy to share it with you.
 
-In 2012, [Eleven is What We Make](http://dashes.com/anil/2012/09/eleven-is-what-we-make.html):
+Some brief glimpses at years past, including [my experience on the day of the attacks](http://dashes.com/anil/2001/09/thank-you.html), having been in New York City, starting backwards from last year’s anniversary :
+
+Last year, [Eleven is What We Make](http://dashes.com/anil/2012/09/eleven-is-what-we-make.html):
 
 > These are the gifts our children, or all children, give us every day in a million different ways. But they’re also the gifts we give ourselves when we make something meaningful and beautiful. The new World Trade Center buildings are beautiful, in a way that the old ones never were, and in a way that’ll make our fretting over their exorbitant cost seem short-sighted in the decades to come. More importantly, they exist. We made them, together. We raised them in the past eleven years just as surely as we’ve raised our children, with squabbles and mistakes and false starts and slow, inexorable progress toward something beautiful.
 

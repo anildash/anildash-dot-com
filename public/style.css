@@ -85,11 +85,15 @@ a:hover {
 }
 
 ol {
-  list-style-position: outside;
+  list-style-position: inside;
 }
 
 ol ol {
   list-style-type: lower-alpha;
+}
+
+ol > li::marker {
+  font-weight: bold;
 }
 
 ul {
@@ -409,6 +413,7 @@ figure.heroimage {
 }
 
 .post__content {
+  margin-top: 1rem;
   word-wrap: break-word;
 }
 

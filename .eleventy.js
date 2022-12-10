@@ -33,7 +33,7 @@ module.exports = function (eleventyConfig) {
   }
   eleventyConfig.addPlugin(pluginSEO, seo);
   eleventyConfig.addPlugin(pluginRss);
-
+  
   // Filters let you modify the content https://www.11ty.dev/docs/filters/
   eleventyConfig.addFilter("htmlDateString", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
