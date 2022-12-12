@@ -39,7 +39,7 @@ Here’s Prince anointing Janelle’s album onstage after they played together i
   
 **[10:25pm]** And we’re off! We’ve got the setup, based on Prince’s manager almost running over our heroines and making it up to them by inviting them to a party at Prince’s house. This is plausible; Prince has a few young women who manages some of his affairs, like [Kiran Sharma](https://twitter.com/KIKITkiran). No word from her yet if she’s ever nearly run over Zooey Deschanel.  
   
-**[10:00pm]** Prince was of course chosen to star in this post-Super Bowl episode of New Girl due to his performance in Super Bowl XLI being the greatest halftime show of all time. I wrote a [brief introduction](http://dashes.com/anil/2007/02/prince-superbowl-primer.html) to that performance before it aired.  
+**[10:00pm]** Prince was of course chosen to star in this post-Super Bowl episode of New Girl due to his performance in Super Bowl XLI being the greatest halftime show of all time. I wrote a [brief introduction](/2007/02/prince-superbowl-primer) to that performance before it aired.  
 
 Prince tends to optimize his entire career around maintaining control, which regularly puts him in the position of shutting down videos and streams of his work online. As a result, there’s no high-quality version of his Super Bowl performance online. \[You can read the full story of how Prince won the Super Bowl [here](https://anildash.com/2021/02/05/how-prince-won-the-super-bowl/). \]  
   
@@ -62,7 +62,7 @@ Stay tuned here at approximately 10:00pm to 10:30pm Eastern Time, when the speci
 
 ### Related Reading
 
-- [Heaven, Hell, Marvin, Prince and the Party](http://dashes.com/anil/2013/01/heaven-hell-marvin-prince-and-the-pious-party.html): A rumination on the role that Marvin Gaye and Prince’s fathers played in their spirituality and work ethic, and how this is reflected in the way they partied on some of their signature records.
-- [A Golden Era of Prince Scholarship](/2012/03/a-golden-era-of-prince-scholarship.html): There’s been a renaissance (a Revolution?) in taking Prince’s work seriously in recent years; Here’s a brief glimpse at the wonderful results of that flowering of research.
+- [Heaven, Hell, Marvin, Prince and the Party](/2013/01/04/heaven-hell-marvin-prince-and-the-pious-party): A rumination on the role that Marvin Gaye and Prince’s fathers played in their spirituality and work ethic, and how this is reflected in the way they partied on some of their signature records.
+- [A Golden Era of Prince Scholarship](/2012/03/a-golden-era-of-prince-scholarship): There’s been a renaissance (a Revolution?) in taking Prince’s work seriously in recent years; Here’s a brief glimpse at the wonderful results of that flowering of research.
 - Toure’s [I Would Die 4 U](http://www.amazon.com/gp/product/1476705496/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1476705496&amp;linkCode=as2&amp;tag=2020-20) was a great look at Prince’s place in the larger cultural canon, and I was delighted to be quoted it.
 - Why not spare an hour and a half to hear [Questlove, Toure, Danyel Smith and Alan Leeds](http://www.youtube.com/watch?v=09hT9LaOx4M) talking about their uniquely informed perspectives on Prince’s career? It’s totally worth it.

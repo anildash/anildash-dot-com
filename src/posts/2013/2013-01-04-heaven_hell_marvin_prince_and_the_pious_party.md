@@ -67,6 +67,6 @@ That soul music is grounded in heaven in hell is the basis of its power. This is
 
 These themes have been fixations here for a while; Here are some variations on the theme:
 
-- [D’Angelo and the Demons of the New Minstrel Movement](http://dashes.com/anil/2008/09/dangelo-and-the-demons-of-the-new-minstrel-movement.html)
-- [A Decade After Aaliyah](http://dashes.com/anil/2011/08/a-decade-after-aaliyah.html)
-- [Goodbye, Godfather](http://dashes.com/anil/2006/12/goodbye-godfather.html), on James Brown’s death, and [a review of the last live show of his](http://dashes.com/anil/2002/02/james-brown.html) that I got to see
+- [D’Angelo and the Demons of the New Minstrel Movement](/2008/09/dangelo-and-the-demons-of-the-new-minstrel-movement)
+- [A Decade After Aaliyah](/2011/08/a-decade-after-aaliyah)
+- [Goodbye, Godfather](/2006/12/goodbye-godfather), on James Brown’s death, and [a review of the last live show of his](/2002/02/james-brown) that I got to see
