@@ -3,6 +3,7 @@ title: The Right Wing's $7 Billion Media Subsidy
 slug: the_right_wings_7_billion_media_subsidy
 date_published: 2012-02-06T15:42:25.000Z
 date_updated: 2012-02-06T15:42:25.000Z
+tags: [media, policy]
 ---
 
 Considering how much conservatives and right-wing political personalities in the United States claim to hate the liberal media, it’s remarkable how much money they’ve been able to funnel into the coffers of the liberal media institutions they malign.

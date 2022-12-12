@@ -12,9 +12,10 @@ That is of course, not how I’m supposed to describe the idea of seceding from 
 The fact is, if even citizens who hate the United States of America (as secessionists must) find it valuable to engage in an online petition platform maintained by the White House, then that platform is working. There have been many successes for the [We The People](https://petitions.whitehouse.gov/) platform, from [stopping puppy mills](https://petitions.whitehouse.gov/petition/crack-down-puppy-mills/B9W46NCH) and [no longer using monkeys in military training](https://petitions.whitehouse.gov/response/army-no-longer-using-monkeys-part-training-aberdeen-proving-ground) to coming out [against SOPA and PIPA’s threats to the Internet](https://petitions.whitehouse.gov/response/combating-online-piracy-while-protecting-open-and-innovative-internet) to [pushing for patent reform](https://petitions.whitehouse.gov/response/promoting-innovation-and-competitive-markets-through-quality-patents). But the people involved in the neo-secessionist movement represent a unique opportunity.
 
 President Obama should sit down for a “beer summit” with representatives chosen by petitioners who’ve signed the calls for secession, and listen to the grievances which they think require the dissolution of the Union.
-![secession-map.png](http://dashes.com/anil/images/secession-map.png)
 
-### Why A Beer Summit?
+![secession-map.png](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/secession-map.png?v=1670799840699)
+
+## Why A Beer Summit?
 
 It’s pretty clear that there are a few hundred thousand people involved in signing the secession petitions, based on a [reasonable academic assessment](http://www.unc.edu/~ncaren/secessionists/) of the signatures. For perspective, that’s about the same number of people as work for CVS, or about half as many people as voted for Jill Stein as the the Green Party candidate for President. Even if we assume that the number of people participating has increased a bit as the petitions gain more press attention in the days since that study was done, this is definitely an extreme fringe of the country, and most of them aren’t from the states for which they’ve signed petitions. It isn’t an obvious choice for the President to make time to sit down with such fringe interests.
 
@@ -23,9 +24,10 @@ But the teams at the White House responsible for We The People, like the New Med
 And the ostensible secessionists would benefit from the clarity that comes with the seriousness of having this discussion at the highest levels. When ordinary Americans (or soon-to-be-former Americans) engage with matters of policy and the Constitution in a serious manner, they almost always step up to the challenge with extraordinary thoughtfulness. That’s only an option if a good leader asks them to do so, and I think our President is that good a leader.
 
 Though I disagree with their stated intentions, I also don’t resent my fellow citizens who’ve signed these petitions. I have a soft spot for extremist views in general, and an appreciation for old-fashioned approaches to questioning the way our government works. But more importantly, I think they’ll benefit most from seeing that government can work the way we all imagine that it might: People with different opinions can come together in conversation, those with unpopular or unusual views can be heard, and the contrast of perspectives can leave both parties wiser for having engaged.
-![Beer Summit I](http://www.whitehouse.gov/assets/images/afterbeers_LJ-0110.jpg)
 
-### Ascending The Summit
+![Beer Summit I](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/afterbeers_LJ-0110.jpg?v=1670799938878)
+
+## Ascending The Summit
 
 I’m not a pollyanna about this suggestion. I’m sure communications experts within the White House will say “Why on earth would we want to take a political risk like this right after an election when there are so many other problems to focus on?” And the secession sympathizers will ask “Why would we want to talk to the guy that we resent so much that we’re talking about leaving the country?”
 

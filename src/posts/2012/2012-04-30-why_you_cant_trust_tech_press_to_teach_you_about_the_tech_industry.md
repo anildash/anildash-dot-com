@@ -3,18 +3,18 @@ title: Why you can't trust tech press to teach you about the tech industry
 slug: why_you_cant_trust_tech_press_to_teach_you_about_the_tech_industry
 date_published: 2012-04-30T16:30:31.000Z
 date_updated: 2012-04-30T16:30:31.000Z
-tags: Most Popular, tech
+tags: [Most Popular, tech, media]
 ---
 
-If there were one lesson I’d want to impress upon people who are interested in succeeding in the technology industry, it would be, as I’ve said before, [know your shit](http://dashes.com/anil/2010/04/ten-years-of-twitter-ads.html). Know the discipline you’re in, know the history of those who’ve done your kind of work before, understand the lessons of their efforts, and in general look beyond the things that are making noise right now in order to understand bigger patterns of how technology works, both literally and socially.
+If there were one lesson I’d want to impress upon people who are interested in succeeding in the technology industry, it would be, as I’ve said before, [know your shit](/2010/04/ten-years-of-twitter-ads). Know the discipline you’re in, know the history of those who’ve done your kind of work before, understand the lessons of their efforts, and in general look beyond the things that are making noise right now in order to understand bigger patterns of how technology works, both literally and socially.
 
 This is a difficult challenge, because **today’s media about the technology industry will not teach entrepreneurs and creators what they need to know** about the history of the technology industry.
 
-I don’t just mean this in the obvious way — nobody thinks you can earn a PhD in computer science by reading a tech blog. But I mean the broader landscape of sites that attract attention from technology developers and startup aficionados are woefully myopic in their understanding and perspective of the disciplines they cover. [Disclaimer: This post mentions lots of sites that write about tech; I write for Wired (ostensibly a competitor) and advise Vox Media (parent of The Verge, mentioned below), as explained on [my about page](http://dashes.com/anil/about.html).]
+I don’t just mean this in the obvious way — nobody thinks you can earn a PhD in computer science by reading a tech blog. But I mean the broader landscape of sites that attract attention from technology developers and startup aficionados are woefully myopic in their understanding and perspective of the disciplines they cover. [Disclaimer: This post mentions lots of sites that write about tech; I write for Wired (ostensibly a competitor) and advise Vox Media (parent of The Verge, mentioned below), as explained on [my about page](/about).]
 
-### Open For Comment
+## Open For Comment
 
-Let’s take one example from a month ago. A blogger named Saud Alhawawi [reported](http://www.tech-wd.com/wd/2012/03/26/google-days-info/) ([judging by Google’s translation](http://translate.google.com/translate?sl=ar&amp;tl=en&amp;js=n&amp;prev=_t&amp;hl=en&amp;ie=UTF-8&amp;layout=2&amp;eotf=1&amp;u=http%3A%2F%2Fwww.tech-wd.com%2Fwd%2F2012%2F03%2F26%2Fgoogle-days-info%2F&amp;act=url)) that Google is going to introduce a blog commenting system powered by their Google+ platform. If you work at a company which makes tools for feedback on sites, or if you care about the [quality of comments on the web](http://dashes.com/anil/2011/07/if-your-websites-full-of-assholes-its-your-fault.html), this would be important news, so it’s a great thing that it got picked up by [WebProNews](http://www.webpronews.com/google-may-be-preparing-their-own-third-party-commenting-platform-2012-03) and [TheNextWeb](http://thenextweb.com/google/2012/03/27/google-to-launch-third-party-commenting-platform-to-rival-facebook/).
+Let’s take one example from a month ago. A blogger named Saud Alhawawi [reported](http://www.tech-wd.com/wd/2012/03/26/google-days-info/) ([judging by Google’s translation](http://translate.google.com/translate?sl=ar&amp;tl=en&amp;js=n&amp;prev=_t&amp;hl=en&amp;ie=UTF-8&amp;layout=2&amp;eotf=1&amp;u=http%3A%2F%2Fwww.tech-wd.com%2Fwd%2F2012%2F03%2F26%2Fgoogle-days-info%2F&amp;act=url)) that Google is going to introduce a blog commenting system powered by their Google+ platform. If you work at a company which makes tools for feedback on sites, or if you care about the [quality of comments on the web](/2011/07/20/if_your_websites_full_of_assholes_its_your_fault-2/), this would be important news, so it’s a great thing that it got picked up by [WebProNews](http://www.webpronews.com/google-may-be-preparing-their-own-third-party-commenting-platform-2012-03) and [TheNextWeb](http://thenextweb.com/google/2012/03/27/google-to-launch-third-party-commenting-platform-to-rival-facebook/).
 
 Given that Google generally refuses to comment on such pronouncements, and therefore would be unlikely to confirm or deny Alhawawi’s blog post, the burden is thus on the rest of the tech blogosphere to explain to their readers the implications and importance that such a product would have, if Google were to launch it.
 
@@ -22,9 +22,9 @@ Fortunately, we have a very good record of how the major tech blogs covered this
 
 Lots of linking with just the barest amount of original reporting, which is actually a fairly efficient way of getting a story out. But while I admire many of the smart people who work at a lot of these outlets, apparently *no one* who was linking to this story has more than the slightest bit of knowledge about the discipline they were covering.
 
-### What’s Missing?
+## What’s Missing?
 
-[![](http://3.bp.blogspot.com/_7ZYqYi4xigk/SCkt8FmvQtI/AAAAAAAAAnw/ey7GSX9JgDU/s400/1_friend_connect_image.jpg)](http://googleblog.blogspot.com/2008/05/friend-connected-web.html)
+[![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/1_friend_connect_image.jpg?v=1670723466768)](http://googleblog.blogspot.com/2008/05/friend-connected-web.html "Google Friend Conenct")
 
 As you might expect, nearly every story mentioned that Facebook has a commenting widget similar to what Google is presumably creating. Google and Facebook are competitors, so that’s a wise inclusion. Most also mentioned DIsqus, and sure, that’s relevant since they’re a big independent player. I don’t expect that these stories would be comprehensive overviews of the commenting space, so it’s fine that other minor players might get overlooked.
 
@@ -36,7 +36,7 @@ Worse, the sites themselves suffered for this omission — when everyone is cove
 
 This isn’t a case where a few lesser outlets omitted a minor point about a headline. It’s a case where a story that was interesting enough to earn a full Techmeme pile-on was lacking in coverage that would be necessary for understanding the story at even the most superficial level. As you might expect, a few of the larger outlets have big enough audiences that their commenter communities were able to add the missing salient facts to the story, but on both [The Verge](http://www.theverge.com/2012/3/27/2905517/google-blog-comment-system#96786319) and [Business Insider](http://www.businessinsider.com/google-is-launching-a-commenting-system-to-rival-facebook-2012-3?comments=all#comment-4f71b1ac69bedd707000000d), the comments which mentioned Friend Connect were buried in their respective threads and, as of a month later, not highlighted in the original posts.
 
-### Do Your Homework
+## Do Your Homework
 
 Fortunately, whether or not Google makes a commenting widget isn’t that big a deal on its own. Maybe they will or maybe they won’t, and maybe it’ll fail again or maybe it won’t. But the key lesson to take away here is that we know a few things are wrong with the trade press in the technology world:
 

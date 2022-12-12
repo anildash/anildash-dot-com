@@ -3,7 +3,7 @@ title: A Note About Panther Pride
 slug: a_note_about_panther_pride
 date_published: 2012-04-16T13:30:52.000Z
 date_updated: 2012-04-16T13:30:52.000Z
-tags: Best Of
+tags: [Best Of, culture]
 ---
 
 **Update:** The students did it! The re-vote from the board yielded a unanimous vote in favor of forming the Coexist club. I’m sincerely thankful to the students, to their advisor Christina Baker, and to Superintendent Bruce Deveney for their leadership and for making the right choice to support every student.
@@ -22,7 +22,7 @@ What’s more, I knew I didn’t conform to the traditional male gender roles as
 
 When I first moved to New York City, I saw the Pride Parade here, and I had only known the word “pride” from hearing the phrase “Panther Pride” at pep rallies back at East Pennsboro. At first, I thought this must have been two different meanings for the same word. It seems clearer than ever to me now that, actually, they were very much two uses of the same word being used to represent one important concept.
 
-### What I Learned
+## What I Learned
 
 When I say that I reckoned with my identity, I don’t just mean that I was figuring out who I am. I also mean that I had to confront other people’s biases and prejudices about every aspect of myself. Over my years going to East Pennsboro schools, I had my nose broken, my car vandalized, my parents prank-called, and had a teacher call me out during school hours for not being of her preferred religion. Worse, I struggled enough with being different that I questioned *myself*, thinking I must have been crazy or wrong or misguided, or that the things that made me unhappy must have been my fault. At my worst, I wasn’t just miserable and self-destructive towards my own life, I was mean-spirited and unkind towards other students who were probably going through similar things.
 
@@ -38,7 +38,7 @@ Let me be clear: **There is nothing more important we can learn as young people 
 
 To those who want to make this a budget issue: I’ll pay for it. Myself. Total up the most exorbitant, extravagant cost that you can imagine for the administration of the Coexist program or a Gay-Straight Alliance at East Pennsboro, and no matter what you think the price tag is, I’ll make sure it gets covered. This justification is now officially removed.
 
-### Going Forward
+## Going Forward
 
 Tonight, your school board will make a decision about your club, but also about the culture and mindset of the community going forward. Judging by the wisdom you’ve already shown, there’s not much I can teach you about the world that you haven’t already figured out in high school. But I will share one lesson that I think might not be obvious.
 

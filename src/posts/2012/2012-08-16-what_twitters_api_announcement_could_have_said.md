@@ -18,7 +18,7 @@ My goal is to communicate the exact same points, but with the clarity that would
 
 ---
 
-### Our biggest Twitter API upgrade ever
+## Our biggest Twitter API upgrade ever
 
 We have awesome news for Twitter developers: Today we’re announcing the upcoming release of the biggest new set of features and changes to the Twitter API ever, which we’re calling Twitter API version 1.1. We know change is scary, so we’ll talk about what’s new, why we’re making these changes, and when you can expect to see them. Don’t worry — it’ll be worth it!
 
@@ -30,19 +30,19 @@ The TL;DR version of what’s new:
 - A few new restrictions for people making traditional Twitter clients
 - When version 1.1 is officially released, you’ll have six months to migrate from API version 1.0
 
-### Huge increases in API call limits:
+## Huge increases in API call limits:
 
 In today’s API 1.0, we limit authenticated API requests to 350 per hour. Good news: We’re going to blow that limit away for your apps providing 60 calls per hour per endpoint – so you can literally hit every different endpoint every minute and not go over the rate limits. Endpoints that are *really* in demand, like Tweet display, profile display, user lookup and user search go all the way up to 720 calls per hour.
 
 This is a big increase for almost every kind of app, and we’ll give you the full details of the new extra-legroom limits when API 1.1 is released.
 
-### All Auth Everything
+## All Auth Everything
 
 The big new API call limits come with only a minor change in what’s required from you: You’ll have to use OAuth for *all* of your API requests. This shouldn’t be a big deal because it works the same way as the OAuth requests you’re already making. (If you are not yet using OAuth, OMG shame on you, you’ve got until March 2013 to get with the program.)
 
 An awesome side bonus of this new auth regime is that people who are abusing the Twitter ecosystem we all share by scraping or writing spammy bots or other annoying behaviors will be able to be reined in using their auth tokens, instead of the brute-force block-by-IP method we’re stuck with now. Here’s crossing our fingers for less spam!
 
-### We Love Your App!
+## We Love Your App!
 
 Sure, there’s been some hand-wringing about what direction we’re headed with our API, and whether third party developers are “safe” working on Twitter. Good news: Your app is welcome here, and we appreciate you developing on Twitter.
 
@@ -56,7 +56,7 @@ You can read [the guidelines](https://dev.twitter.com/terms/display-guidelines) 
 
 Oh, and if you need a *lot* of user tokens (like, more than 100,000), get in touch with us and we’ll take care of you personally. If you try to make that volume of calls without a special request, you might get shut off.
 
-### A Note On Traditional Twitter Clients
+## A Note On Traditional Twitter Clients
 
 The only kind of Twitter app which has real constraints under API 1.1 is traditional Twitter posting clients — ones that offer the basic reading and writing experience and little else. While we appreciate these apps (our own official Twitter clients started out as one of these!), the reality is it’s going to take more effort for third parties to maintain these apps than it has in the past, because we’re going to be very strict about requiring updates to make sure your clients are in compliance with the user experience standards we set in our own first-party apps.
 
@@ -66,6 +66,6 @@ That being said, many third-party Twitter clients have dedicated user communitie
 
 People making stats apps and analytics tools and social media marketing platforms all have absolutely nothing to worry about — the vast majority of Twitter client apps will move to the new 1.1 API with no changes expect better auth and higher API limits.
 
-### More To Come!
+## More To Come!
 
 We’re excited about the apps you’re going to build on the new APIs, and we’ll be unveiling even more powerful features for you to incorporate features like Twitter Cards which will make your apps and sites even more engaging. In the meantime, if anything in this announcement is unclear, let us know in the forums or by @replying to us on Twitter, and we’ll answer any questions you have.

@@ -7,7 +7,8 @@ tags: [tech, blogs]
 ---
 
 First, a bit of background: [Blogger](http://blogger.com), Google’s venerable and pioneering blogging service was created in 1999 by a small team at Pyra Labs, as an offshoot of the project management platform they’d originally set out to make.
-![](http://www.google-store.com/images/l/GO0064.jpg)
+
+![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/GO0064.jpg?v=1670720599077 "Blogger shirt")
 
 As one of the earliest users of Blogger, I was always amongst the service’s biggest fans (and have been duly impressed by the new features introduced on Blogger lately). Pyra went through financial struggles, had a painful breakup of the original team, got back on its feet with a new team, and then finally sold to Google. And all of *that* happened more than nine years ago. Amazing how time flies!
 

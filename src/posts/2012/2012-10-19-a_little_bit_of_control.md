@@ -3,6 +3,8 @@ title: A Little Bit of Control
 slug: a_little_bit_of_control
 date_published: 2012-10-19T21:07:42.000Z
 date_updated: 2012-10-19T21:07:42.000Z
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/virgin-america.jpg?v=1670798419785
+tags: [personal]
 ---
 
 When I used to fly a lot, people would ask me why I was such a big fan of Virgin America. Some of it is the usual stuff — they have wifi and power outlets, and travel to the cities I visit most often. But the crux of why I like their brand taught me a good bit more about the obligations companies have to their customers, and what institutions can do to be more humane in general.
@@ -11,7 +13,7 @@ The typical flying experience, especially for regular travelers, reduces adults 
 
 It’s even more egregious an affront in the more minor areas: When we fly, we can’t have a drink when we want.
 
-### Pushing Our Buttons
+## Pushing Our Buttons
 
 Virgin’s touch-screens invert that model, as the best and most empowering experiences do. I can tap on the screen, order a drink, and a few minutes later, someone shows up with my beverage. There’s no waiting for the cart, and it feels much more personal and accommodating to boot.
 

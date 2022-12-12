@@ -3,7 +3,7 @@ title: The Blue Collar Coder
 slug: the_blue_collar_coder
 date_published: 2012-10-05T21:25:01.000Z
 date_updated: 2012-10-05T21:25:01.000Z
-tags: tech
+tags: [tech, policy, Best Of]
 ---
 
 Much of the conversation about the shortage of technology talent in the United States focuses on how we can encourage more young people to go to college to become Computer Science graduates. Those programs are admirable and should be encouraged, but I suggest we need to focus on some other key areas in order to encourage the sustainability of our tech industry:
@@ -14,7 +14,7 @@ Much of the conversation about the shortage of technology talent in the United S
 
 Put another way, our industry can grow in a very meaningful way by giving lots of young people at a high school level the knowledge they need to learn jQuery straight out of high school, or teaching maintenance on a MySQL database at a trade school without having to get a graduate degree in computer science. That’s not to say that CS students aren’t *also* important — we’ll need the breakthroughs and innovations they discover. But someone has to run that intranet app at an insurance company, and somebody has to maintain the internal iOS app at a law firm, and those are solid, respectable jobs that are as key to our economy as a 22-year-old trying to pivot and iterate their way into an acqu-hire.
 
-### High Tech Vo Tech
+## High Tech Vo Tech
 
 High schools have long offered vocational education, preparing graduates for practical careers by making them proficient in valuable technical skill sets which they can put to use directly in the job market right after graduation. Vocational-technical schools (vo-tech) provide trained workers in important fields such as healthcare, construction trades, and core business functions like accounting. For a significant number of my high school peers, vo-tech was the best path to a professional job that would pay well over the duration of an entire career.
 
@@ -26,11 +26,11 @@ But in other schools in America, and outside of big cities like my own, and for 
 
 Part of our challenge is that the tech sector has to acknowledge and accept that a broad swath of jobs in the middle of our industry require skills but need not be predicated on a full liberal arts education at a high-end university. The Stanford CS grads are always going to be fine; It’s the people who can’t go into the same trade as their dad, or who are smart but not interested in the eating-ramen-and-working-100-hours-a-week startup orthodoxy who we need to bring along with us into tech.
 
-### Middle Class Jobs
+## Middle Class Jobs
 
 Though I know there are many more implications to choosing the phrase “blue collar” to describe these jobs, it’s a deliberate choice. First, there’s a broad and noble history of blue collar workers organize to strengthen workers’ rights and improve working conditions for their peers; It’s a tradition we’ll do well to maintain in the tech world.
 
-More importantly, though, we must confront the fact that our current investment infrastructure for tech companies optimizes for a distribution of opportunity and wealth that looks almost feudal. As I mentioned broadly in [To Less Efficient Startups](http://dashes.com/anil/2012/09/to-less-efficient-startups.html), venture capital today generally strives to make a handful of early founders and employees of a company enormously wealthy (alongside the investors, of course), and then to have a subset of employees profit when there’s a liquidity event.
+More importantly, though, we must confront the fact that our current investment infrastructure for tech companies optimizes for a distribution of opportunity and wealth that looks almost feudal. As I mentioned broadly in [To Less Efficient Startups](/2012/09/28/to_less_efficient_startups/), venture capital today generally strives to make a handful of early founders and employees of a company enormously wealthy (alongside the investors, of course), and then to have a subset of employees profit when there’s a liquidity event.
 
 But that’s a recipe for continued income inequality. I am proud of, and impressed by, Craigslist’s ability to serve hundreds of millions of users with a few dozen employees. But I want the next Craigslist to optimize for providing dozens of jobs in each of the towns it serves, and I want educators in those cities to prepare young people to step into those jobs.
 

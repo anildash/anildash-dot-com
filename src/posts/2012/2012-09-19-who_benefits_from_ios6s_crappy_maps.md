@@ -3,13 +3,14 @@ title: Who benefits from iOS6's crappy maps?
 slug: who_benefits_from_ios6s_crappy_maps
 date_published: 2012-09-19T13:29:13.000Z
 date_updated: 2012-09-19T13:29:13.000Z
+tags: [tech, apple]
 ---
 
 The classic criticism that thoughtless Apple haters use against the company is that it makes products that are pretty but dumb. Usually those criticisms are by people who don’t understand the value of a comprehensible user experience, frustrated by the reality that many people will eagerly trade the open-ended technologies of competitors for the simple and satisfying experience that Apple provides.
 
 But this time, they’re right: Apple’s made a new product that actually is pretty but dumb. Worse, they’ve used their platform dominance to privilege their own app over a competitor’s offering, *even though it’s a worse experience for users*. This is the new Maps in iOS 6.
 
-### Walking Alone
+## Walking Alone
 
 Apple’s used Google’s mapping features since it introduced iOS with the original iPhone and iPod touch in 2007. Google provided the actual tiled images that make up the maps, search for venues on the maps, and directions to destinations by car, transit or walking.
 
@@ -17,10 +18,11 @@ Apple started acquiring mapping companies a few years ago, pursuing their typica
 
 But with iOS 6, Apple decided it was time to rip off the band-aid and replace Google’s maps with their own. Not at all a surprise, given the company’s history of controlling critical areas of functionality on its platforms. But what *is* surprising is that the user experience got worse.
 
-### Wrong Way
+## Wrong Way
 
 I’ve been using iOS 6 for a few months, and initially chalked up the problems I’d had to likely bugs that would be worked out as the software matured. Unfortunately, now that we all have access to the release version of iOS 6, it’s evident that fundamental mapping features like venue search and directions are significantly worse than in the Google versions.
-![lexington-map.jpg](http://dashes.com/anil/images/lexington-map.jpg)
+
+![lexington-map.jpg](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/lexington-map.jpg?v=1670740533850)
 
 Here in Manhattan, where I live, basic search by building names is profoundly degraded in Apple’s maps search. “Bloomberg” doesn’t find the Bloomberg Tower; on Google Maps it’s the first result. Searching for its address “731 Lexington Avenue” yields that address on Lexington Avenue in Brooklyn. It’s fine to think that perhaps I wanted the address in Bed-Stuy, but even appending “NY, NY” or “Manhattan, NY” *still* yields the Brooklyn address. Google maps has none of these comprehension issues. I understand this is due to Apple partnering with Tom Tom, whose maps are considered to be lower in quality than other players like Nokia, but I’m not informed enough to say with certainty whether that’s the case.
 
@@ -32,7 +34,7 @@ Whatever the case, I was happy to support the [OpenPlans Kickstarter campaign](h
 
 There are other opportunities, too — iOS 6’s abysmal maps should provide a real opportunity for apps like Foursquare which have great local search; I’ve been using Foursquare for almost all of my venue search and local searching since upgrading to iOS 6 and it’s helped me out every time the native iOS 6 app let me down.
 
-### Why It Matters
+## Why It Matters
 
 Obviously, Apple’s going to fix as many of these bugs as they can. I’m not pretending they’re incompetent or somehow want to deny people access to good maps on mobile devices. But the simple fact is: When you buy an iOS 6 device, you get a worse experience for search and *no* ability to get transit directions out of the box, both of which are significant downgrades from iOS 5. Apple’s taken features away (critics would say “crippled”) from apps before, typically during major platform changes or when rethinking the fundamental architecture of an app. But in almost every one of those transitions, they’ve provided a transition period or staged upgrade path that didn’t force users to bear the brunt of the new platform’s weaknesses.
 

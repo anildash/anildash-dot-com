@@ -3,7 +3,7 @@ title: Country Clubs and Deliberate Design
 slug: country_clubs_have_a_place
 date_published: 2012-09-04T15:53:11.000Z
 date_updated: 2012-09-04T15:53:11.000Z
-tags: [tech]
+tags: [tech, media]
 ---
 
 I was very happy to see this morning that [Fred Wilson had shared his thoughts on inclusivity](http://www.avc.com/a_vc/2012/09/inclusivity.html), building off of my earlier post [You Can’t Start the Revolution From a Country Club](/2012/08/you-cant-start-the-revolution-from-the-country-club).

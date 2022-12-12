@@ -3,7 +3,7 @@ title: Readability, Instapaper, the Network and the Price we Pay
 slug: readability_instapaper_the_network_and_the_price_we_pay
 date_published: 2012-04-01T04:46:19.000Z
 date_updated: 2012-04-01T04:46:19.000Z
-tags: [tech]
+tags: [tech, software]
 ---
 
 This is a long-ass post. In summary: Readability and Instapaper are two awesome reading tools that actually aren’t in competition since Readability is mostly a network and Instapaper is mostly an app. But, foolish fanboy enthusiasm on both sides has got people choosing “sides” between the apps and turning legitimate feature debates into some sort of moral judgment of the people building the tools. Based on what I learned during a similar stage in the evolution of the blogging market, I fear these petty squabbles will hurt both tools and leave the market open only to the biggest, best-funded, most soulless competitors and that both these cool, innovative tools will lose.

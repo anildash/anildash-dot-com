@@ -3,18 +3,22 @@ title: Expert Labs Ends and ThinkUp Begins
 slug: expert_labs_ends_and_thinkup_begins
 date_published: 2012-03-26T18:14:42.000Z
 date_updated: 2012-03-26T18:14:42.000Z
+tags: [software, twitter]
 ---
 
 Back in 2009, I [founded Expert Labs](http://expertlabs.org/2009/11/the-roundup-expert-labs-launch-reactions.html) based on the idea that technology could help all of us better engage with our government and encourage policy makers to listen to us.
-[![@whitehouse infographic](http://dashes.com/anil/images/wh-infographic-thumb.jpg)](http://reports.expertlabs.org/)
 
-The idea was, frankly, a bit nebulous and hard to explain, but the ambition and optimism of the mission has attracted some of the greatest talents I’ve ever worked with. [Gina Trapani](http://ginatrapani.org/)[joined a few months later](http://dashes.com/anil/2010/02/expert-labs-thinktank-gina-trapani-and-our-grand-challenges.html), followed a few months later by [Andy Baio](http://expertlabs.org/2010/11/hello-world.html) and finally [Clay Johnson](http://expertlabs.org/2011/03/hello-expert-labs.html). Along the way, we’ve made some extraordinary progress. From our initial effort [supporting the White House’s Grand Challenges initiative](http://expertlabs.org/2010/04/tell-the-white-house-what-our-next-grand-challenge-should-be.html) to publishing [deep insights into the Twitter Town Hall](http://expertlabs.org/2011/07/lessons-learned-from-the-white-houses-twitter-town-hall.html) at the White House to [making detailed recommendations about the future of Open Government](http://expertlabs.org/2011/08/expert-labs-recommendations-for-open-gov.html) and creating a [complete overview in infographic form](http://expertlabs.org/whitehouse_year_in_review_2011.jpg) of the White House’s use of Twitter in 2011, we’ve been constantly publishing what we’ve learned about how government can use social media better to listen to regular citizens.
+[![@whitehouse infographic](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/whitehouse_year_in_review_2011-thumbnail.jpg?v=1670721505914)](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/whitehouse_year_in_review_2011.jpg?v=1670721337882)
 
-We’re also into making some serious technology. Our flagship platform [ThinkUp](http://thinkupapp.com/) has been growing by leaps and bounds (more on that below), but it’s just as importantly working to power tools like the [Federal Social Media Index](http://reports.expertlabs.org/fsmi/). The FSMI is the first tool to give a live dashboard of how federal agencies are engaging with citizens on social media, and was probably the first tool to collect all of the different agencies’ social media accounts in one place.
+The idea was, frankly, a bit nebulous and hard to explain, but the ambition and optimism of the mission has attracted some of the greatest talents I’ve ever worked with. [Gina Trapani](http://ginatrapani.org/)[joined a few months later](http://dashes.com/anil/2010/02/expert-labs-thinktank-gina-trapani-and-our-grand-challenges.html), followed a few months later by [Andy Baio](http://expertlabs.org/2010/11/hello-world.html) and finally [Clay Johnson](http://expertlabs.org/2011/03/hello-expert-labs.html). Along the way, we’ve made some extraordinary progress. From our initial effort [supporting the White House’s Grand Challenges initiative](http://expertlabs.org/2010/04/tell-the-white-house-what-our-next-grand-challenge-should-be.html) to publishing [deep insights into the Twitter Town Hall](http://expertlabs.org/2011/07/lessons-learned-from-the-white-houses-twitter-town-hall.html) at the White House to [making detailed recommendations about the future of Open Government](https://web.archive.org/web/20120413211243/http://expertlabs.org/2011/08/expert-labs-recommendations-for-open-gov.html) and creating a [complete overview in infographic form](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/whitehouse_year_in_review_2011.jpg?v=1670721337882) of the White House’s use of Twitter in 2011, we’ve been constantly publishing what we’ve learned about how government can use social media better to listen to regular citizens.
+
+We’re also into making some serious technology. Our flagship platform [ThinkUp](http://thinkupapp.com/) has been growing by leaps and bounds (more on that below), but it’s just as importantly working to power tools like the [Federal Social Media Index](https://web.archive.org/web/20120404162637/http://reports.expertlabs.org/fsmi/). The FSMI is the first tool to give a live dashboard of how federal agencies are engaging with citizens on social media, and was probably the first tool to collect all of the different agencies’ social media accounts in one place.
 
 > Interesting way to look at resonance of ideas in [#SOTU](https://twitter.com/search/%2523SOTU) from @[expertlabs](https://twitter.com/expertlabs): Twitter Reacts to the State of the Union 2012 [t.co/CD98COq2](http://t.co/CD98COq2)
 > 
 > — Macon Phillips (EOP) (@macon44) [January 25, 2012](https://twitter.com/macon44/status/162296604097908737)
+
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Interesting way to look at resonance of ideas in <a href="https://twitter.com/hashtag/SOTU?src=hash&amp;ref_src=twsrc%5Etfw">#SOTU</a> from <a href="https://twitter.com/expertlabs?ref_src=twsrc%5Etfw">@expertlabs</a>: Twitter Reacts to the State of the Union 2012 <a href="http://t.co/CD98COq2">http://t.co/CD98COq2</a></p>&mdash; IIP Coordinator (@IIPCoordinator) <a href="https://twitter.com/IIPCoordinator/status/162296604097908737?ref_src=twsrc%5Etfw">January 25, 2012</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 But Expert Labs was always conceived as an experiment, a focused project backed by the MacArthur Foundation for two years working to get the public to engage with policymaking. When we started in 2009, early in the current administration’s tenure, the idea that ordinary people would gather together on social networks in order to have their voices heard by lawmakers seemed ridiculous. Just over two years later, it’s not just reality, it’s [a proven form of engagement](http://dashes.com/anil/2012/01/the-history-and-future-of-web-protest.html) which has had profound effects.
 
@@ -32,11 +36,11 @@ We think these goals, and the values that inform them, are important. So Gina Tr
 
 We’ll talk more about the details of this in the future as things get more defined, but right now there’s one specific thing I’d personally ask you to do to help us make this possible:
 
-# [Visit our ThinkUp proposal](http://newschallenge.tumblr.com/post/18576274733/thinkup) for the Knight News Challenge.
+1. [Visit our ThinkUp proposal](http://newschallenge.tumblr.com/post/18576274733/thinkup) for the Knight News Challenge.
 
-# Like (heart) or Reblog the post on Tumblr.
+2. Like (heart) or Reblog the post on Tumblr.
 
-# Spread the word about our News Challenge entry to encourage your friends to Like it as well.
+3. Spread the word about our News Challenge entry to encourage your friends to Like it as well.
 
 If we’re able to get ThinkUp’s submission among the top 5 entries for the News Challenge, it will improve our odds of being considered for a grant from Knight. If you’ve never given the app a try and you’re a geek go [Check out ThinkUp](http://thinkupapp.com/) and I think you’ll see why we’re so excited about its potential for the future. Once you’ve done that, go [read Gina Trapani’s post](http://smarterware.org/9774/thinkup-reboot-and-a-special-request) about ThinkUp’s future, and [join us on Github](https://github.com/ginatrapani/ThinkUp) to be part of our future.
 

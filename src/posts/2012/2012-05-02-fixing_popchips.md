@@ -3,7 +3,8 @@ title: How To Fix Popchips' Racist Ad Campaign
 slug: fixing_popchips
 date_published: 2012-05-02T20:16:24.000Z
 date_updated: 2018-08-12T05:58:48.000Z
-tags: Best Of, Most Popular
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/ashton_a.jpg?v=1670723632113
+tags: [Best Of, Most Popular, culture]
 ---
 
 **Update:** I just got off the phone with Popchips founder Keith Belling, who was sincere and contrite as he offered a thoughtful, apologetic response that indicates he understood much of what I was trying to say here. I’m cautiously optimistic to see the company’s response, and willing to give them time to do it properly. Maybe we can get a good result.
@@ -19,6 +20,8 @@ I’ve always wanted to have very positive feelings about Ashton Kutcher — he�
 Don’t watch it; It’s a hackneyed, unfunny advertisement featuring Kutcher in brownface talking about his romantic options, with the *entire punchline* being that he’s doing it in a fake-Indian outfit and voice. That’s it, there’s seriously no other gag.
 
 Naturally, a bunch of us (initially mostly Indian diaspora members whom I follow on Twitter) started complaining about it, and a number of like-minded allies also registered their offense as well. I can’t imagine I have to explain this to anyone in 2012, but if you find yourself putting brown makeup on a white person in 2012 so they can do a bad “funny” accent in order to sell potato chips, **you are on the wrong course**. Make some different decisions.
+
+<iframe width="1170" height="586" src="https://www.youtube.com/embed/0I3KGj5dwSw" title="The Truth with Hasan Minhaj - Ashton Kutcher and PopChips" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### We Can Do Better
 
@@ -49,8 +52,9 @@ And the end result is, *nothing actually changes*. Nobody is made to actually un
 
 Understand, **Keith Belling and Pat Turpin and Brian Ford and Chris Raih and Alison Brod and, yes, Ashton Kutcher**: Right now you’re making the world *worse*. Not just for me, or a billion other Indian people, but for my son, who I am hoping never has to grow up with people putting on fake Indian accents in order to mock him. Maybe people won’t be familiar with that stereotype if you, yes *you personally*, can refrain from spending millions of dollars and countless hours of your time on perpetuating that stereotype in order to sell potato chips. Potato chips! You’re hurting people and demeaning them in order to sell your chips.
 
-[Tweet to @popchips](https://twitter.com/intent/tweet?screen_name=popchips)
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+[Tweet to @popchips](https://twitter.com/intent/tweet?screen_name=popchips)  
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
 Here’s the thing, Popchips: **I think you want to do the right thing.** And I believe you can. I think you can say honestly, “We made a mistake, and didn’t realize how serious it was. This is how we’re changing the way our company works, and the way we listen to people and value inclusive perspectives, so that we don’t make these mistakes in the future.” Because you have a good product! Remember that? I know it’s old-fashioned, but *sell your product on the virtues of being a good product*! I promise that’ll work, and be more sustainable long term, than hitching your brand to the public’s knowledge of the dating life of a recently-divorced celebrity who’s willing to perform in brownface.
 
 Go make things right, Popchips.

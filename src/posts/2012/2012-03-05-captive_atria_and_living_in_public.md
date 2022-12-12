@@ -3,11 +3,12 @@ title: Captive Atria and Living In Public
 slug: captive_atria_and_living_in_public
 date_published: 2012-03-05T20:06:07.000Z
 date_updated: 2018-09-07T06:40:59.000Z
+tags: [urbanism, policy, nyc, tech]
 ---
 
 The idea of “public space” used to be pretty simple; There were places that we all agreed would be maintained by, and for, the public good. But the past few decades have offered up a valuable, if troubling, experiment with the nature of public space in New York City. For any of us who care about community, whether that’s in our cities or on the web, there are some profound lessons to learn.
 
-![NYC POPS](https://cdn.glitch.com/f0e649a1-3610-45f3-885a-217df0379e77%2Fnyc-pops.jpg?1536287962536)
+![NYC POPS](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/nyc-pops.jpg?v=1670715035986 "NYC Privately Owned Public Space logo")
 
 In 1961, New York City adopted a new zoning program that allowed commercial buildings to exceed the constraints which zoning regulations required of them if they made accommodations for use as Privately-Owned Public Spaces. Fifty years later, the legacy of that decision is documented well on the [Department of City Planning website](http://www.nyc.gov/html/dcp/html/priv/priv.shtml). (On a page which has this wonderful short URL: [nyc.gov/pops](http://nyc.gov/pops)!)
 

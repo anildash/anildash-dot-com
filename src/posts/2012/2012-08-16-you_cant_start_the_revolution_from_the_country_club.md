@@ -3,19 +3,20 @@ title: You Can't Start the Revolution from the Country Club
 slug: you_cant_start_the_revolution_from_the_country_club
 date_published: 2012-08-16T05:29:58.000Z
 date_updated: 2012-08-16T05:29:58.000Z
+tags: [tech, culture, media]
 ---
 
 The current fashion amongst alpha geeks is to reinvent many of the building blocks of the social web. Given that I’ve been obsessed with that particular intersection of technology and culture for a dozen years, I should be unequivocal in my excitement. But this time it’s complicated. Because we’re shutting some people out.
 
 There are a few philosophical underpinnings that have informed the development of blogging and social media since their inception. These core values of the social web can be summed up as three simple goals. It’s important to understand them because they are what’s enabled the social web to be so radically transformative of society and culture.
 
-### The Values that Make the Social Web Revolutionary:
+## The Values that Make the Social Web Revolutionary:
 
 1. **A desire to improve and simplify the experience for writing and creating content online.** This is probably the area that’s stagnated most until the recent crop of tools like [Medium](http://medium.com/) or [Svbtle](http://svbtle.com) popped up, though there had been a few small improvements in more limited contexts where people carefully reduced the scale and scope of the messages being shared to 140 characters or a single photo or a simple, gestural “like”.
 2. **An understandable, but still geeky, desire to advance the “open web” in a decentralized architecture that mimics the early days of the Internet.** Based on the success of early open technologies like email, this technological desire is a useful way of ensuring that new systems don’t simply become completely owned by corporate interests. Frequently accompanied by a preference open source software, this area of endeavor has been characterized by a constant flow of quixotically unsuccessful efforts (Diaspora, Open Social, etc.) but is recently ascendant again with the excitement around App.net. And the fundamental value which has given blogging and social media its moral grounding and its most significant impact:
 3. **The urge to make tools for communication and community more inclusive, more participatory and more democratic.** To my surprise, this goal has been the part of the social web that has succeeded best, empowering and enriching the lives of many people who aren’t privileged by geography, wealth, inheritance, social standing, or identity. While far from perfect, it’s inarguable that people of many less privileged groups have participated in the social web from the start, and have been able to impact the world around them, and that counts for a lot.
 
-### Ladies and Gentlemen, The Revolution
+## Ladies and Gentlemen, The Revolution
 
 We are in a moment where many of the most passionate technologists in the web world are enthusiastically re-examining the challenges around the first two values of the social web’s creation, the tools and their relation to the open web. My heart is with them, as I used to be someone who helped create both. Anyone who’s still hacking on new blogging tools in 2012 is a friend of mine.
 
@@ -27,7 +28,7 @@ The answer’s simple: In today’s world, where the social web is mainstream, i
 
 Building a social tool for “just us geeks” permanently privileges the few people who get in the door first, which means you’re giving a huge leg up to those who already have a pretty good set of advantages to begin with.
 
-### Closing the Door Behind You
+## Closing the Door Behind You
 
 Much of my own success is, [as I’ve said](http://www.quora.com/Silicon-Valley/Why-is-Anil-Dash-well-known-in-Silicon-Valley), attributable largely to me having gained access to online social networks earlier than most people. Being early and loud will give you a better shot at being heard than anyone who comes after you.
 
@@ -47,7 +48,7 @@ Similarly (and perhaps closest to my heart for its uncompromising framing) is Wh
 
 Having been on the wrong side of exclusionary institutions built on ostensibly egalitarian technologies before, the evidence these articles present is simply too persuasive to ignore.
 
-### It’s Not Malice, It’s Incorrect Prioritization
+## It’s Not Malice, It’s Incorrect Prioritization
 
 Since I have the good fortune to know many of the people working on creating these tools, I can attest that their intent is not to exclude. In fact, I’d guess nearly all of them will say “as soon as we get past the beta period and open up, we want everyone to come in!”
 
@@ -55,7 +56,7 @@ But there’s an aesthetic and editorial sensibility that permeates any defined 
 
 Good social software developers are right to believe that embracing the open web or radically usable communications tools is a fundamentally revolutionary act. It’s a brave and meaningful area of technology to work on. But our reward structures in the tech industry are all built around praising technological innovations or philosophically-correct implementations. We treat social equity as an uncontrollable and indeed, inevitable result of building social tools on the web. But a website doesn’t make the world better just by existing. That’s the kind of worthwhile end result that has to be designed.
 
-### Taking It Back to the Streets
+## Taking It Back to the Streets
 
 There’s no reason we can’t get things right this time. Medium made a few interesting choices early on by featuring content about parenting or childhood memories – fairly universal topics – instead of obscure Mac design nerdery as a starting point. Content aside, any of these networks or services could make a concerted effort to seek out international voices, users of different social strata, and people from outside the narrow conventional political spectrum of their current user bases today. It’d make the products better immediately and in the future.
 

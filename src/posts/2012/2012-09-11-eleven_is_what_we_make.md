@@ -3,7 +3,7 @@ title: Eleven is What We Make
 slug: eleven_is_what_we_make
 date_published: 2012-09-11T14:10:26.000Z
 date_updated: 2018-09-11T22:44:34.000Z
-tags: nyc
+tags: [nyc]
 ---
 
 Yesterday, my son and I were coming back home to New York City, driving past the familiar skyline and its newest additions. Like a lot of toddlers, my boy’s obsessed with all kinds of vehicles, so I wasn’t surprised when he pointed at a flight that was descending towards LaGuardia and exclaimed “Plane!” His chance to see a jet moving over the skyline of lower Manhattan on a clear blue September day inspired nothing in him but sheer joy and excitement.
@@ -16,13 +16,13 @@ So today I keep just the essential parts of what I learned on September 11th ele
 
 ### Looking Back
 
-Each year, I have observed the 9/11 anniversary after having [documented my experience](http://dashes.com/anil/2001/09/thank-you.html) in NYC on the day of the attacks. I do so largely as a record of my own changing perspectives on that time and that place, since so many others do a much better job at discussing the larger political and social and cultural aspects of the day and all that’s happened since. A brief look back:
+Each year, I have observed the 9/11 anniversary after having [documented my experience](/2001/09/11/thank-you) in NYC on the day of the attacks. I do so largely as a record of my own changing perspectives on that time and that place, since so many others do a much better job at discussing the larger political and social and cultural aspects of the day and all that’s happened since. A brief look back:
 
-Last year for the 10th anniversary, [Ten is Love and Everything After](http://dashes.com/anil/2011/09/ten-is-love-and-everything-after.html):
+Last year for the 10th anniversary, [Ten is Love and Everything After](/2011/09/11/ten-is-love-and-everything-after):
 
 > I don’t have any profound insights or political commentary to offer that others haven’t already articulated first and better. All that I have is my experience of knowing what it mean to be in New York City then. And from that experience, the biggest lesson I have taken is that I have the obligation to be a kinder man, a more thoughtful man, and someone who lives with as much passion and sincerity as possible. Those are the lessons that I’ll tell my son some day in the distant future, and they’re the ones I want to remember now.
 
-In 2010, [Nine is New New York](http://dashes.com/anil/2010/09/nine-is-new-new-york.html):
+In 2010, [Nine is New New York](/2010/09/11/nine-is-new-new-york):
 
 > [T]his is, in many ways, a golden era in the entire history of New York City.
 > 
@@ -30,43 +30,43 @@ In 2010, [Nine is New New York](http://dashes.com/anil/2010/09/nine-is-new-new-y
 > 
 > And all of this happened, by choice, in the years since the attacks.
 
-In 2009, [Eight Is Starting Over](http://dashes.com/anil/2009/09/eight-is-starting-over.html):
+In 2009, [Eight Is Starting Over](/2009/09/11/eight-is-starting-over):
 
 > [T]his year, I am much more at peace. It may be that, finally, we’ve been called on by our leadership to mark this day by being of service to our communities, our country, and our fellow humans. I’ve been trying of late to do exactly that. And I’ve had a bit of a realization about how my own life was changed by that day.
 > 
 > Speaking to my mother last week, I offhandedly mentioned how almost all of my friends and acquaintances, my entire career and my accomplishments, my ambitions and hopes have all been born since September 11, 2001. If you’ll pardon the geeky reference, it’s as if my life was rebooted that day and in the short period afterwards. While I have a handful of lifelong friends with whom I’ve stayed in touch, most of the people I’m closest to are those who were with me on the day of the attacks or shortly thereafter, and the goals I have for myself are those which I formed in the next days and weeks. i don’t think it’s coincidence that I was introduced to my wife while the wreckage at the site of the towers was still smoldering, or that I resolved to have my life’s work amount to something meaningful while my beloved city was still papered with signs mourning the missing.
 
-In 2008, [Seven Is Angry](http://dashes.com/anil/2008/09/seven-is-angry.html):
+In 2008, [Seven Is Angry](/2008/09/11/seven-is-angry):
 
 > Finally getting angry myself, I realize that nobody has more right to claim authority over the legacy of the attacks than the people of New York. And yet, I don’t see survivors of the attacks downtown claiming the exclusive right to represent the noble ambition of Never Forgetting. I’m not saying that people never mention the attacks here in New York, but there’s a genuine awareness that, if you use the attacks as justification for your position, the person you’re addressing may well have lost more than you that day. As I write this, I know that parked out front is the car of a woman who works in my neighborhood. Her car has a simple but striking memorial on it, listing her mother’s name, date of birth, and the date 9/11/2001.
 
-In 2007, [Six Is Letting Go](http://dashes.com/anil/2007/09/six-is-letting-go.html):
+In 2007, [Six Is Letting Go](/2007/09/11/six-is-letting-go):
 
 > On the afternoon of September 11th, 2001, and especially on September 12th, I wasn’t only sad. I was also hopeful. I wanted to believe that we wouldn’t just Never Forget that we would also Always Remember. People were already insisting that we’d put aside our differences and come together, and maybe the part that I’m most bittersweet and wistful about was that I really believed it. I’d turned 26 years old just a few days before the attacks, and I realize in retrospect that maybe that moment, as I eased from my mid-twenties to my late twenties, was the last time I’d be unabashedly optimistic about something, even amidst all the sorrow.
 
-In 2006, [After Five Years, Failure](http://dashes.com/anil/2006/09/after-five-years-failure.html):
+In 2006, [After Five Years, Failure](/2006/09/11/after-five-years-failure):
 
 > [O]ne of the strongest feelings I came away with on the day of the attacks was a feeling of some kind of hope. Being in New York that day really showed me the best that people can be. As much as it’s become cliché now, there’s simply no other way to describe a display that profound. It was truly a case of people showing their very best nature.
 > 
 > We seem to have let the hope of that day go, though.
 
-In 2005, [Four Years](http://dashes.com/anil/2005/09/four-years.html):
+In 2005, [Four Years](/2005/09/11/four-years):
 
 > I saw people who hated New York City, or at least didn’t care very much about it, trying to act as if they were extremely invested in recovering from the attacks, or opining about the causes or effects of the attacks. And to me, my memory of the attacks and, especially, the days afterward had nothing to do with the geopolitics of the situation. They were about a real human tragedy, and about the people who were there and affected, and about everything but placing blame and pointing fingers. It felt thoughtless for everyone to offer their response in a framework that didn’t honor the people who were actually going through the event.
 
-In 2004, [Thinking Of You](http://dashes.com/anil/2004/09/thinking-of-you.html):
+In 2004, [Thinking Of You](/2004/09/11/thinking-of-you):
 
 > I don’t know if it’s distance, or just the passing of time, but I notice how muted the sorrow is. There’s a passivity, a lack of passion to the observances. I knew it would come, in the same way that a friend told me quite presciently that day back in 2001 that “this is all going to be political debates someday” and, well, someday’s already here.
 
-In 2003, [Two Years](http://dashes.com/anil/2003/09/two-years.html):
+In 2003, [Two Years](/2003/09/11/two-years):
 
 > I spent a lot of time, too much time, resenting people who were visiting our city, and especially the site of the attacks, these past two years. I’ve been so protective, I didn’t want them to come and get their picture taken like it was Cinderella’s Castle or something. I’m trying really hard not to be so angry about that these days. I found that being angry kept me from doing the productive and important things that really mattered, and kept me from living a life that I know I’m lucky to have.
 
-In 2002, I wrote [On Being An American](http://dashes.com/anil/2002/09/on-being-an-ame.html):
+In 2002, I wrote [On Being An American](/2002/09/11/on-being-an-ame):
 
 > [I]n those first weeks, I thought a lot about what it is to be American. That a lot of people outside of New York City might not even recognize their own country if they came to visit. The America that was attacked a year ago was an America where people are as likely to have been born outside the borders of the U.S. as not. Where most of the residents speak another language in addition to English. Where the soundtrack is, yes, jazz and blues and rock and roll, but also hip hop and salsa and merengue. New York has always been where the first fine threads of new cultures work their way into the fabric of America, and the city the bore the brunt of those attacks last September reflected that ideal to its fullest.
 
-In 2001, [Thank You](http://dashes.com/anil/2001/09/thank-you.html):
+In 2001, [Thank You](/2001/09/11/thank-you):
 
 > I am physically fine, as are all my family members and immediate friends. I’ve been watching the footage all morning, I can’t believe I watched the World Trade Center collapse…
 > 

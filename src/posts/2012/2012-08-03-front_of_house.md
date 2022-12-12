@@ -3,6 +3,7 @@ title: Front of House
 slug: front_of_house
 date_published: 2012-08-03T21:35:02.000Z
 date_updated: 2020-08-29T00:48:10.000Z
+tags: [nyc, food, culture]
 ---
 
 The other night, we had a wonderful dinner made by chef Tien Ho, who’s best known as the founding chef of Má Pêche (I got to join Ed Levine when he had the meal that inspired him to [write on Serious Eats](http://newyork.seriouseats.com/2009/11/momofuku-ma-peche-tien-ho-is-a-peach-of-a-chef-momofuku-midtown-west-david-chang-new-review-mezzanine.html?ref=title) that Tien was then “the best chef in New York that you’ve never heard of”). Though I fell in love with Tien’s food during his time at Momofuku Ssäm bar, it wasn’t until Má Pêche opened that I really understood why I was so enamored of this wonderful food.

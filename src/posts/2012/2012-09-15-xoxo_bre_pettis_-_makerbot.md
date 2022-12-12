@@ -3,15 +3,16 @@ title: "XOXO: Bre Pettis - Makerbot"
 slug: xoxo_bre_pettis_-_makerbot
 date_published: 2012-09-15T21:49:44.000Z
 date_updated: 2018-04-21T06:55:18.000Z
+tags: [events]
 ---
 
 Bre Pettis is the co-founder and CEO of Makerbot, the first company to bring 3D printers to the home, and Thingiverse, the online community for sharing digital designs for real-life objects.
 
-#### The Details
+## The Details
 
-#### [Bre Pettis](https://twitter.com/bre)
+## [Bre Pettis](https://twitter.com/bre)
 
-![](http://a0.twimg.com/profile_images/1431729289/bre-1_normal.jpg)
+![](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/bre-1_normal.jpg?v=1670737440610)
 
 Projects: **[MakerBot](http://www.makerbot.com/)** and **[Thingiverse](http://www.thingiverse.com/)**
 

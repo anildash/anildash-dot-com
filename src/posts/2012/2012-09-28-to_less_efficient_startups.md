@@ -3,7 +3,7 @@ title: To Less Efficient Startups
 slug: to_less_efficient_startups
 date_published: 2012-09-28T19:20:31.000Z
 date_updated: 2012-09-28T19:20:31.000Z
-tags: tech
+tags: [tech]
 ---
 
 Most of the technology world, especially the traditional venture funding infrastructure, is justifiably proud of the extreme efficiency of modern internet startups. It is a triumph for Craigslist to serve hundreds of millions of users with only a few dozen employees, or even for Facebook to serve a billion users with just a few thousand employees.
@@ -19,8 +19,10 @@ Instead of generating tens of thousands of middle-class jobs as industrial-age t
 Some of the most interesting startups (the NYC chauvinist in me must point out that these are all New York companies) are not optimizing for raw market efficiency, but instead for opportunity for a broader community. Some examples:
 
 - [Kickstarter](http://kickstarter.com/) is explicitly building an economy to support the work of artists and creators, disciplines that are often not favored by the attentions of the tech industry.
-- [20×200](http://20x200.com) has a complete structure of support for promotion and payment for artists, as [Jen Bekman outlined](http://dashes.com/anil/2012/09/xoxo-jen-bekman---20x200.html) at the XOXO festival.
-- [Etsy](http://etsy.com/) perhaps illustrates this best of all; I talked about this a bit when [recording Chad Dickerson’s talk](http://dashes.com/anil/2012/09/xoxo-chad-dickerson---etsy.html) at XOXO, but his slides from that talk outline their commitment as a B Corporation to many of these principles of helping an entire community, not just preferred shareholders:
+- [20×200](http://20x200.com) has a complete structure of support for promotion and payment for artists, as [Jen Bekman outlined](/2012/09/16/xoxo_jen_bekman_-_20x200/) at the XOXO festival.
+- [Etsy](http://etsy.com/) perhaps illustrates this best of all; I talked about this a bit when [recording Chad Dickerson’s talk](/2012/09/16/xoxo_chad_dickerson_-_etsy/) at XOXO, but his slides from that talk outline their commitment as a B Corporation to many of these principles of helping an entire community, not just preferred shareholders:
+
+<iframe allowfullscreen="" class="imgcenter" frameborder="0" height="486" marginheight="0" marginwidth="0" scrolling="no" src="https://www.slideshare.net/slideshow/embed_code/14407275?rel=0&startSlide=36" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" width="597"></iframe>
 
 I should note that I’m friends with the founders and executives of all of these companies though I’m *not* part of the community of creators who benefit directly from these platforms. And of course, Ebay has had many of these tendencies for supporting an economy of creators for years; One could argue that Google’s programs like AdSense helps publishers in a similar way. But before we go down the slippery slope of saying every small business ad on Facebook and Twitter is proof that many can benefit from efficient companies, we need to draw a line between explicit parts of a company’s internal economics and the dollars that flow through their overall ecosystem. Because the players outside the company who are subject to the economics of AdSense or ads on Facebook or Twitter are the first ones to get squeezed if the company needs to optimize its revenues, aside from the fact that they never structurally benefit from an increase in the valuation of the company which provides them with their marketing platform.
 
