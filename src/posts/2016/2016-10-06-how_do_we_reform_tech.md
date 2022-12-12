@@ -35,7 +35,7 @@ It’s important to acknowledge another perspective, people who do believe tech 
 
 ## Can we just write new laws?
 
-Today, technology is essentially the secular religion of America. Tech companies are far too large and influential to think of them as just a narrow “sector”. [There is no technology industry](https://medium.com/humane-tech/there-is-no-technology-industry-44774dfb3ed7#.tc3k8cenm).
+Today, technology is essentially the secular religion of America. Tech companies are far too large and influential to think of them as just a narrow “sector”. [There is no technology industry](/2016/08/19/there_is_no_technology_industry/).
 
 This means that conventional activism alone, while important, is not going to lead to the kind of broad-scale reform that’s necessary. When Ralph Nader decided to critique the automotive industry, there was a broad base of support amongst both policy makers and media who were willing to entertain his arguments. There was even a natural constituency for his skepticism about the excesses of the automakers. This led to the opportunity for meaningful reform of even an enormously powerful industry.
 
@@ -85,6 +85,6 @@ The answer to these challenges is the same as the answer to the shortcomings of 
 
 Ultimately, people who love technology, who are still enamored of its amazing potential, need to feel a sense of urgency about changing the culture and practices of the big tech companies. The era of being seen only as positive contributors to society is quickly coming to an end, and without a healthy culture of self-criticism, the backlash will be so strong that it takes the good tech products down with the bad.
 
-But tech has long had a wonderful tradition of accepting bug reports and trying to get those bugs fixed. As I [mentioned in Wired](https://www.wired.com/2012/08/ts_column/) a few years ago, there are examples of successful user revolts pushing back overreach or abuse from even the most powerful tech companies. And everyone at the top of the tech ecosystem, from investors to board members to CEOs is finding it increasingly impossible to ignore the reality that cultural headwinds may pose as much of a threat to their success as any technical challenges.
+But tech has long had a wonderful tradition of accepting bug reports and trying to get those bugs fixed. As I [mentioned in Wired](https://www.wired.com/2012/08/ts-column/) a few years ago, there are examples of successful user revolts pushing back overreach or abuse from even the most powerful tech companies. And everyone at the top of the tech ecosystem, from investors to board members to CEOs is finding it increasingly impossible to ignore the reality that cultural headwinds may pose as much of a threat to their success as any technical challenges.
 
 People in tech love to talk about disruption, love to talk about how we’re changing the world. In this moment where reform is necessary, we face the opportunity to prove if those intentions are truly sincere.

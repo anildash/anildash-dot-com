@@ -28,7 +28,7 @@ But Rich and the team at Arc 90 weren’t complacent with all that early success
 
 ![Readability split](https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/readability-revenues.png?v=1670801829713)
 
-These ideas are particularly exciting if you think back a few weeks ago to “[If you didn’t blog it, it didn’t happen](http://dashes.com/anil/2011/01/if-you-didnt-blog-it-it-didnt-happen.html)“. The [Clive Thompson article](http://www.wired.com/magazine/2010/12/st_thompson_short_long/) in Wired that inspired that piece, while touching on the importance of permanence in publishing, concluded with some other key points I found evocative:
+These ideas are particularly exciting if you think back a few weeks ago to “[If you didn’t blog it, it didn’t happen](/2011/01/04/if_you_didnt_blog_it_it_didnt_happen)“. The [Clive Thompson article](http://www.wired.com/magazine/2010/12/st_thompson_short_long/) in Wired that inspired that piece, while touching on the importance of permanence in publishing, concluded with some other key points I found evocative:
 
 > Even our reading tools are morphing to accommodate the rise of long takes. The design firm Arc90 released Readability, an app that renders website text as one clean, ad-free column down the center of your screen—perfect for distraction-free long-form reading—and it got so popular that Apple baked it into the current version of Safari. Or consider the iPad: It’s been criticized as “only” a consumption device, but that’s the whole point; it’s superb for consuming long takes. Instapaper, an app created by Marco Arment to time-shift online material for later reading, has racked up nearly a million users with hardly any advertising. “It’s for reading,” Arment says, “when you’re ready to be attentive.”
 
