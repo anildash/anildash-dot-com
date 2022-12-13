@@ -4,7 +4,7 @@ slug: speaking_at_the_obama_foundation_summit
 date_published: 2017-11-01T23:52:41.000Z
 date_updated: 2021-08-02T03:59:19.000Z
 heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Obama-Foundation-Summit-Closing-Session.jpg?v=1669783996732
-tags: [Best Of, tech]
+tags: [Best Of, events, policy, tech]
 ---
 
 I’ve been fortunate enough to get to speak at a lot of events over the years, in front of an amazing variety of audiences around the world. But I can honestly say I’ve never been more impressed by the reaction of an audience member than in [the panel I hosted](https://www.obama.org/summit/breakouts/#block3) earlier today.

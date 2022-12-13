@@ -1,5 +1,5 @@
 {
   "tags": ["posts"],
-  "permalink": "/{{ page.date | date: '%Y/%m/%d' }}/{{slug}}/index.html",
+  "permalink": "/{{ page.date | date: '%Y/%m' }}/{{slug}}/index.html",
   "layout": "layouts/post.njk"
 }

@@ -5,7 +5,7 @@ date_published: 2012-11-15T22:31:42.000Z
 date_updated: 2012-11-15T22:31:42.000Z
 ---
 
-Even as I was [asking the Tea Party to occupy the White House’s petition website](http://dashes.com/anil/2011/11/how-the-99-and-the-tea-party-can-occupy-whitehousegov.html) a year ago, I didn’t *actually think it would happen*. But people are smarter, and better, and bigger than we ever imagine.
+Even as I was [asking the Tea Party to occupy the White House’s petition website](/2011/11/09/how_the_99_and_the_tea_party_can_occupy_whitehousegov) a year ago, I didn’t *actually think it would happen*. But people are smarter, and better, and bigger than we ever imagine.
 
 That is of course, not how I’m supposed to describe the idea of seceding from the United States, as someone who loves his country. And to be clear: I think talk of secession is a foolish, self-defeating, petulant response to an election, in addition to being unfeasible. I’m enormously glad the conversation is happening, though.
 
