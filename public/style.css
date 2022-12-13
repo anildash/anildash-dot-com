@@ -15,6 +15,7 @@
   --text-6xl: 5rem;
 }
 
+/*
 @media (prefers-color-scheme: dark) {
   :root {
     --accent: #dd66ff;
@@ -22,6 +23,7 @@
     --color: #fefefe;
   }
 }
+*/
 
 html {
   box-sizing: border-box;

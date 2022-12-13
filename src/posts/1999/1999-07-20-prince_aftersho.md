@@ -3,7 +3,7 @@ title: Prince aftershow
 slug: prince_aftersho
 date_published: 1999-07-20T16:00:00.000Z
 date_updated: 1999-07-20T16:00:00.000Z
-tags: music
+tags: [music, Prince]
 ---
 
 Actually, it’s technically very early on 21st July, 3:45a to be exact. That bastard [Prince](http://www.prince.org/) made us wait **5 hours** until he showed up. In my opinion, of course, it was worth it. Others who were present tended to disagree…
