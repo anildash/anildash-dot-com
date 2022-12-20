@@ -3,7 +3,8 @@ title: "The Pushbutton Web: Realtime Becomes Real"
 slug: the_pushbutton_web_realtime_becomes_real
 date_published: 2009-07-24T12:34:55.000Z
 date_updated: 2009-07-24T12:34:55.000Z
-tags: Best Of, Most Popular, tech, Web/Tech, weblogs
+tags: [Best Of, Most Popular, tech, blogs]
+heroimage: https://cdn.glitch.global/0702605b-00dd-404e-8996-743dade19acb/pushbutton-delivery.png?v=1671507589941
 ---
 
 **Pushbutton** is a name for what I believe will be an upgrade for the web, where any site or application can deliver realtime messages to a web-scale audience, using free and open technologies at low cost and without relying on any single company like Twitter or Facebook. The pieces of this platform have just come together to enable a whole set of new features and applications that would have been nearly impossible for an average web developer to build in the past.
@@ -11,7 +12,8 @@ tags: Best Of, Most Popular, tech, Web/Tech, weblogs
 ## Background
 
 The most interesting area of new development on the web is the innovation happening around realtime messaging, the ability to deliver updates to a website or application in one or two seconds. While various systems like Yahoo News Alerts or feed readers like Google Reader have offered some simple ways of delivering fairly fast notifications, they are still built on an infrastructure that relies upon requesting a web page repeatedly. These systems do the equivalent of hitting the “reload” button in your web browser over and over.
-![Pushbutton Flow](http://dashes.com/anil/images/small-pushbutton-diagram.png)While those systems have been using these inefficient methods to deliver updates, newer platforms like Twitter, Facebook and FriendFeed have focused on building the infrastructure for efficient large-scale delivery of updates using their own proprietary networks. A lot of attention has been paid to Twitter’s 140-character limit, or Facebook’s News Feed, but the compelling technology that enables the user experience on these platforms is the immediacy with which updates are delivered. Earlier systems like instant messaging or chat allowed realtime messaging on a one-to-one or small group basis, but it’s been harder to deliver those realtime messages to anyone in the world who wanted to receive them unless you had a lot of money, expertise and infrastructure.
+
+While those systems have been using these inefficient methods to deliver updates, newer platforms like Twitter, Facebook and FriendFeed have focused on building the infrastructure for efficient large-scale delivery of updates using their own proprietary networks. A lot of attention has been paid to Twitter’s 140-character limit, or Facebook’s News Feed, but the compelling technology that enables the user experience on these platforms is the immediacy with which updates are delivered. Earlier systems like instant messaging or chat allowed realtime messaging on a one-to-one or small group basis, but it’s been harder to deliver those realtime messages to anyone in the world who wanted to receive them unless you had a lot of money, expertise and infrastructure.
 
 Another barrier is that, while there are many different programs and clients that let you connect to Twitter or Facebook with your own applications, there haven’t been any free and open options for delivering realtime messages to a large audience if you couldn’t, or didn’t *want to*, rely on those companies.
 
@@ -30,13 +32,14 @@ Pushbutton systems rely on the web’s fundamental HTTP protocol for communicati
 In the best case, the system we have now is analogous to a person coming by your house and saying “Hey, there’s a new edition of your favorite newspaper today. You should go get it.” And then you have to go to the newspaper’s printing plant to pick it up. In a Pushbutton web, that person is delivering each story to your house the moment it’s complete.
 
 That’s because Pushbutton-enabled applications will improve upon the current state of affairs by proactively delivering not just the notification that there’s a new message, but the content of the *message itself*. And instead of requiring all those applications to come to your site to read the update, it uses a hub server in the cloud to pass along the message directly to all the receivers that are interested in it.
-![pushbutton delivery](http://dashes.com/anil/images/pushbutton-delivery.png)
 
-# You, the Sender, create a message to be delivered via RSS or Atom
+![pushbutton delivery](https://cdn.glitch.global/0702605b-00dd-404e-8996-743dade19acb/pushbutton-delivery.png?v=1671507589539)
 
-# Your application gives the messsage to one or more PubSubHubBub or RSSCloud hubs, which reside in the Cloud
+1. You, the Sender, create a message to be delivered via RSS or Atom
 
-# The PubSubHubBub or RSSCloud hubs deliver the message to any Receivers, the applications or sites that have requested updates from you
+2. Your application gives the messsage to one or more PubSubHubBub or RSSCloud hubs, which reside in the Cloud
+
+3. The PubSubHubBub or RSSCloud hubs deliver the message to any Receivers, the applications or sites that have requested updates from you
 
 In this way, each time you create a new message, a large number of Receivers can consume that message in near realtime (usually less than a second) without a lot of complexity. This kind of messaging has been possible with custom-built or more obscure technologies in the past, but the Pushbutton ecosystem is a breakthrough for a few reasons:
 
@@ -77,7 +80,10 @@ There are a lot of existing technologies that have influenced the creation and e
 
 ## Conclusion
 
-I have tremendous excitement about the new realtime era of web applications. While I’m fundamentally an optimistic person, I have great skepticism when it comes to mindless hype about new technologies, so it’s with a bit of reluctance that I indulge in some hype myself. But I think the Pushbutton web has the opportunity to give individuals and organizations with distinct and passionate voices the ability to be even more immediate and expressive on the web, and [after ten years](http://dashes.com/anil/2009/07/ten-years.html) of publishing on the web, that’s the part I love the most.
-![wired-push-1997-sm.jpg](http://dashes.com/anil/images/wired-push-1997-sm.jpg)I have no doubt that some skeptics will say “Pushbutton is just PubSubHubBub by another name”, just like they said “Ajax is XMLHttpRequest by another name”, and if that’s what the super-geeky guys want to believe, I’m fine with that. And I’m sure there will still be some significant technical details to resolve. But I think by giving the overall concept an approachable, understandable name and (hopefully!) an explanation that can be understood by anyone with an interest, it can catalyze interest in a whole new area of innovation on the web. And to be honest, when I see folks like Brad Fitzpatrick and Dave Winer hacking on the same set of problems, I can’t help but think something interesting will come of it.
+I have tremendous excitement about the new realtime era of web applications. While I’m fundamentally an optimistic person, I have great skepticism when it comes to mindless hype about new technologies, so it’s with a bit of reluctance that I indulge in some hype myself. But I think the Pushbutton web has the opportunity to give individuals and organizations with distinct and passionate voices the ability to be even more immediate and expressive on the web, and [after ten years](/2009/07/20/ten_years.html) of publishing on the web, that’s the part I love the most.
+
+![Wired's notorious 1997 "Push" cover](https://cdn.glitch.global/0702605b-00dd-404e-8996-743dade19acb/wired-push.jpg?v=1671507816907)
+
+I have no doubt that some skeptics will say “Pushbutton is just PubSubHubBub by another name”, just like they said “Ajax is XMLHttpRequest by another name”, and if that’s what the super-geeky guys want to believe, I’m fine with that. And I’m sure there will still be some significant technical details to resolve. But I think by giving the overall concept an approachable, understandable name and (hopefully!) an explanation that can be understood by anyone with an interest, it can catalyze interest in a whole new area of innovation on the web. And to be honest, when I see folks like Brad Fitzpatrick and Dave Winer hacking on the same set of problems, I can’t help but think something interesting will come of it.
 
 Over the next few days, I’ll be outlining some of the opportunities around Pushbutton, espousing more of the philosophy that has the potential to imbue Pushbutton with a bit more meaning than most new web tech, and providing some simple explanations of how you can get started both learning about and taking advantage of these technologies. Most of all, I hope you’ll offer your pointed criticisms, thoughtful critiques, detailed corrections and even better ideas. I’ll be following the conversation here in the comments, across the blogosphere, and on Twitter using the tag #[pshb](http://search.twitter.com/search?q=pshb).
