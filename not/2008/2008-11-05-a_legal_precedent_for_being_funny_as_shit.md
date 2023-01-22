@@ -5,7 +5,7 @@ date_published: 2008-11-05T17:47:04.000Z
 date_updated: 2008-11-05T17:47:04.000Z
 ---
 
-![Gregory Garre](http://dashes.com/anil/images/gregory_g_garre_2.jpg)
+![Gregory Garre](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/gregory_g_garre_2.jpg?v=1674063853205)
 “Gollywaddles!”
 
 Solicitor General [Gregory G. Garre](http://en.wikipedia.org/wiki/Gregory_G._Garre) (no seriously, his initials are “GGG”!) aspires to the title of Most Ridiculous Person In The World today with his impressive and absurd display of intellectual dishonesty, as quoted in the [New York Times article](http://www.nytimes.com/2008/11/05/washington/05scotus.html?partner=permalink&exprod=permalink) today on the Supreme Court’s reconsideration of profanity on television:

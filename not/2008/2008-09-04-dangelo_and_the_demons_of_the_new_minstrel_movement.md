@@ -3,14 +3,13 @@ title: D'Angelo and the Demons of the New Minstrel Movement
 slug: dangelo_and_the_demons_of_the_new_minstrel_movement
 date_published: 2008-09-05T03:02:17.000Z
 date_updated: 2008-09-05T03:02:17.000Z
+heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/dangelo.jpg?v=1674097032445
 tags: Best Of, music
 ---
 
-[![D'Angelo Voodoo](http://dashes.com/anil/assets_c/2008/09/voodoo-thumb-200x202.jpg)](http://www.amazon.com/exec/obidos/ASIN/B000035X1M/2020-20)
+Spin Magazine’s piece covering the [rise and fall, and perhaps second rise](https://books.google.com/books?id=Ul7jcf4HvN4C&lpg=PP1&pg=PA64#v=onepage&q&f=false) of D’Angelo has been lingering in my mind for weeks. As you might expect, I was a fan of D’Angelo’s from the start.
 
-Spin Magazine’s piece covering the [rise and fall, and perhaps second rise](http://digital.spin.com/spin/200808/?pg=66&amp;pm=2) of D’Angelo has been lingering in my mind for weeks. As you might expect, I was a fan of D’Angelo’s from the start.
-
-And that’s true even though I was [clowning him](http://www.anildash.com/poplife/2005/01/darrested.html) when he got arrested. To tell the truth, I hadn’t quite realized just how far the man had fallen. If you look at [the comments](http://www.anildash.com/poplife/2005/01/darrested.html#comments) on my post from three years ago, you can see that even *then* people were saying they just wanted the man to get well so they could hear more of his work. ?uestlove articulates the challenge here better than anyone, though: “The new minstrel movement in hip-hop doesn’t allow the audience to believe the artist is smart.”
+And that’s true even though I was [clowning him](/2005/01/darrested) when he got arrested. To tell the truth, I hadn’t quite realized just how far the man had fallen. If you look at [the comments](/2005/01/darrested#comments) on my post from three years ago, you can see that even *then* people were saying they just wanted the man to get well so they could hear more of his work. ?uestlove articulates the challenge here better than anyone, though: “The new minstrel movement in hip-hop doesn’t allow the audience to believe the artist is smart.”
 
 It’s a particularly striking observation given that Spin’s look at D’Angelo mentions in passing how that tension between art and commerce has affected *so many* of the acts I love. The world of R&B success demands either heaven or hell — you either become a preacher and lose all of the sexiness and swagger that made you compelling in the first place. Or worse, you succumb to the demons.
 
@@ -30,3 +29,5 @@ We’ll see how it goes; I’ve got tickets to see Maxwell in concert next month
 - [Maxwell](http://www.myspace.com/maxwell) is active on MySpace.
 - [?uestlove](http://blogs.okayplayer.com/questlove/), the heart of The Roots and the standing leader of the neo-soul movement, is a born blogger.
 - And Erykah’s “Honey” is one of the best videos of the year:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SFkHylBiPyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -3,6 +3,7 @@ title: All Paper, No News
 slug: all_paper_no_news
 date_published: 2008-12-23T08:14:42.000Z
 date_updated: 2008-12-23T08:14:42.000Z
+tags: media
 ---
 
 People who are into journalism and newspapers and the web and the death of print have been all a-twitter over the [NY Times story today](http://www.nytimes.com/2008/12/22/business/media/22carr.html?partner=permalink&amp;exprod=permalink) about the [triCityNews](http://trinews.com/), a little alt-weekly in Monmouth County, New Jersey.
@@ -27,4 +28,4 @@ I do, however, invite [David Carr](http://topics.nytimes.com/top/reference/times
 
 And, as a minor side note to Mr. Jacobson, whom I suspect may read the response on the web despite his contempt for our medium: The word “plog” is currently [ the subject of a trademark application](http://tarr.uspto.gov/servlet/tarr?regser=serial&amp;entry=78201834) by [Amazon.com](http://www.amazon.com/exec/obidos/redirect-home/2020-20). They are an online concern that has apparently found a way to make money merchandising products online, even when they aren’t making use of big, beautiful full-page ads. Just as someone will succeed in doing in Asbury Park, someday soon.
 
-Related: I’ve [rambled on about alt-weeklies and incuriosity](http://www.dashes.com/anil/2006/02/san-francisco-b.html) in the past. Considering how well-known alts are for being politically liberal, it’s interesting how culturally conservative many of them are.
+Related: I’ve [rambled on about alt-weeklies and incuriosity](/2006/02/san-francisco-b) in the past. Considering how well-known alts are for being politically liberal, it’s interesting how culturally conservative many of them are.

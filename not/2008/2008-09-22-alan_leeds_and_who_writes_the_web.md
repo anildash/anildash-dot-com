@@ -3,7 +3,8 @@ title: Alan Leeds and Who Writes the Web
 slug: alan_leeds_and_who_writes_the_web
 date_published: 2008-09-22T17:39:40.000Z
 date_updated: 2021-11-03T20:39:02.000Z
-tags: music
+heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/prince-alan-leeds.jpg?v=1674070005505
+tags: music, Best Of, Prince
 ---
 
 One of the most frequent questions I get when I talk to people who are unfamiliar with social media on the web is, “Who writes all these blogs or Wikipedia? Who has the time?”

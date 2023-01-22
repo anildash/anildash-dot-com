@@ -12,29 +12,29 @@ If you could smell the smoke, I think, it was a different experience.
 
 And as a result, I never had as much of the anger that so many others, who were more distant, felt as a reaction to the attacks. “Let’s grieve first”, I thought. “There will be plenty of time for being angry.”
 
-In 2002, I wrote [On Being an American](http://dashes.com/anil/2002/09/on-being-an-ame.html):
+In 2002, I wrote [On Being an American](/2002/09/on-being-an-ame):
 
 > Get annoyed, get angry, be incensed as you are with your sister who always votes the opposite of you, as annoyed as you get with your father who never quite got where you were coming from politically. And come back, shaking your head but still smiling, and enjoy the chance to appreciate those Americans that your reflexes tell you to resent. Be thankful for the chance to have neighbors or fellow citizens who raise your ire or offend your sensibilities. Be thankful that we can sit in a quiet small town and roll our eyes at the inanities of a visitor from a big city.
 
-In 2003, [Two Years](http://dashes.com/anil/2003/09/two-years.html):
+In 2003, [Two Years](/2003/09/two-years):
 
 > There’s other people, who are consumed by their anger, unable to move forward with their lives, and determined to pick the scab and make sure it never heals. They find honor in making sure the pain never subsides, and in trying to make others hurt like they do. We have some of those, and I understand why they have to hold on to their anger. I just hope they see that it’s not the best thing for them, in the long term. I spent a lot of time, too much time, resenting people who were visiting our city, and especially the site of the attacks, these past two years. I’ve been so protective, I didn’t want them to come and get their picture taken like it was Cinderella’s Castle or something. I’m trying really hard not to be so angry about that these days. I found that being angry kept me from doing the productive and important things that really mattered, and kept me from living a life that I know I’m lucky to have.
 
-In 2004, [Thinking of You](http://dashes.com/anil/2004/09/thinking-of-you.html):
+In 2004, [Thinking of You](/2004/09/thinking-of-you):
 
 > I don’t know if it’s distance, or just the passing of time, but I notice how muted the sorrow is. There’s a passivity, a lack of passion to the observances. I knew it would come, in the same way that a friend told me quite presciently that day back in 2001 that “this is all going to be political debates someday” and, well, someday’s already here.
 
-In 2005, [Four Years](http://dashes.com/anil/2005/09/four-years.html):
+In 2005, [Four Years](/2005/09/four-years):
 
 > I was so defensive because I saw people who hated New York City, or at least didn’t care very much about it, trying to act as if they were extremely invested in recovering from the attacks, or opining about the causes or effects of the attacks. And to me, my memory of the attacks and, especially, the days afterward had nothing to do with the geopolitics of the situation. They were about a real human tragedy, and about the people who were there and affected, and about everything but placing blame and pointing fingers. It felt thoughtless for everyone to offer their response in a framework that didn’t honor the people who were actually going through the event.
 
-In 2006, I wrote [After Five Years, Failure](http://dashes.com/anil/2006/09/after-five-years-failure.html), which marked the beginning of me feeling resigned to the far more cynical remembrance this day was starting to have:
+In 2006, I wrote [After Five Years, Failure](/2006/09/after-five-years-failure), which marked the beginning of me feeling resigned to the far more cynical remembrance this day was starting to have:
 
-> [A]fter all the grief of the day, one of the strongest feelings I came away with on the day of the attacks was a feeling of some kind of *hope*. Being in New York that day really showed me the best that people can be. As much as it’s become clich� now, there’s simply no other way to describe a display that profound. It was truly a case of people showing their very best nature.
+> [A]fter all the grief of the day, one of the strongest feelings I came away with on the day of the attacks was a feeling of some kind of *hope*. Being in New York that day really showed me the best that people can be. As much as it’s become cliché now, there’s simply no other way to describe a display that profound. It was truly a case of people showing their very best nature.
 > 
 > We seem to have let the hope of that day go, though.
 
-Then finally, last year, resignation with [Six Is Letting Go](http://dashes.com/anil/2007/09/six-is-letting-go.html):
+Then finally, last year, resignation with [Six Is Letting Go](/2007/09/six-is-letting-go):
 
 > On the afternoon of September 11th, 2001, and especially on September 12th, I wasn’t only sad. I was also hopeful. I wanted to believe that we wouldn’t just Never Forget that we would also Always Remember. People were already insisting that we’d put aside our differences and come together, and maybe the part that I’m most bittersweet and wistful about was that I really believed it. I’d turned 26 years old just a few days before the attacks, and I realize in retrospect that maybe that moment, as I eased from my mid-twenties to my late twenties, was the last time I’d be unabashedly optimistic about something, even amidst all the sorrow.
 

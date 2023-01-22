@@ -6,7 +6,7 @@ date_updated: 2018-04-21T08:34:05.000Z
 tags: Best Of, Most Popular
 ---
 
-Three years and one day ago, I got married. And then shortly after that, I [wrote a post about getting married](__GHOST_URL__/2005/10/31/we_got_married/), which has become one of the most popular things I’ve ever written. If I have to be known for something, I’ll definitely take that as a good representation of my work.
+Three years and one day ago, I got married. And then shortly after that, I [wrote a post about getting married](/2005/10/31/we_got_married/), which has become one of the most popular things I’ve ever written. If I have to be known for something, I’ll definitely take that as a good representation of my work.
 
 But one of the ideas that I didn’t talk about back then was what a *terrible reputation* marriage has. Having had most of my impressions of marriage and weddings informed by popular culture and the examples of society around me growing up, I got a rather skewed vision of what married life is like. This is especially true because my marriage started in a way that was necessarily very different from that of my parents. (Theirs was, by western standards, an “arranged” marriage, though I wouldn’t describe the situation quite so glibly.)
 

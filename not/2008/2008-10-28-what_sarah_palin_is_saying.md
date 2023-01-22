@@ -3,20 +3,21 @@ title: What Sarah Palin Is Saying
 slug: what_sarah_palin_is_saying
 date_published: 2008-10-28T17:00:29.000Z
 date_updated: 2008-10-28T17:00:29.000Z
-tags: Best Of, Most Popular
+tags: Most Popular
 ---
 
 Sarah Palin has been unsurprising in her criticisms of Barack Obama’s credentials and policies, fulfilling the traditional role of the vice presidential candidate being the most aggressive and pointed rhetorical attacker in a campaign. But a closer look at her deliberate use of vernacular and language reveals that she has gone far beyond any other candidate in vice presidential history in the dangerous and irresponsible implications of her attacks. She has phrased her attacks on Obama in a way that avoids accountability to the press while specifically addressing the subset of her audience who are most likely to advocate extreme actions against Obama.
 
-digg_url = 'http://digg.com/political_opinion/What_Sarah_Palin_Is_Saying';
+I don’t usually write about politics here; I leave the ugliness to those who seem to revel in it. But I think a lot about language, usually in a more lighthearted context like talking about [yo mama jokes](/2008/10/yo-mamas-so-fat) or [lolcats](/2007/04/cats-can-has-gr). What’s striking to me this election season, though, is that Sarah Palin has chosen to abuse her command of language so obviously without suffering any serious criticism for it thus far.  
 
-I don’t usually write about politics here; I leave the ugliness to those who seem to revel in it. But I think a lot about language, usually in a more lighthearted context like talking about [yo mama jokes](http://dashes.com/anil/2008/10/yo-mamas-so-fat.html) or [lolcats](http://www.dashes.com/anil/2007/04/cats-can-has-gr.html). What’s striking to me this election season, though, is that Sarah Palin has chosen to abuse her command of language so obviously without suffering any serious criticism for it thus far.  
- The crux of the issue is simple:  
- # Sarah Palin has unequivocally associated Barack Obama with the idea of terrorism and specifically with “terrorists”.  
- # Republican President George Bush has defined in our [National Security Strategy](http://www.state.gov/documents/organization/15538.pdf), and the Republican Party’s [platform affirms](http://www.gop.com/2008Platform/NationalSecurity.htm), that we may identify and strike at terrorists *before* they have committed any defined acts of aggression against American citizens.  
- # George Bush has made clear, by [stating before a joint session of Congress](http://www.whitehouse.gov/news/releases/2001/09/20010920-8.html) that “Either you are with us, or you are with the terrorists.”  
- # Palin has used deliberate choice of language to avoid these connections being highlighted by the media, while increasing the likelihood that the target audience for her message will be incited by her statements.  
- Through these arguments, it becomes clear that Sarah Palin’s assertions are designed not to prove that Obama is unqualified for the office of the Presidency of the United States. Rather, she appears to be attempting to convince a substantial portion of her supporters that Obama *supports* terrorism against the United States and thus should be, at the very least, incarcerated as an enemy combatant (which we [are doing to American citizens already](http://www.fas.org/sgp/crs/misc/RL31724.pdf)) or at worst, assassinated for supporting terror. She has done this knowing full well that she can retain plausible deniability thanks to the ambiguity of her statements as they’ll be interpreted by the media, by her detractors, and by her more reasonable supporters.
+The crux of the issue is simple:  
+
+1. Sarah Palin has unequivocally associated Barack Obama with the idea of terrorism and specifically with “terrorists”.  
+2. Republican President George Bush has defined in our [National Security Strategy](https://web.archive.org/web/20050113033607/http://www.state.gov/documents/organization/15538.pdf), and the Republican Party’s [platform affirms](https://www.presidency.ucsb.edu/documents/2008-republican-party-platform), that we may identify and strike at terrorists *before* they have committed any defined acts of aggression against American citizens.  
+3. George Bush has made clear, by [stating before a joint session of Congress](http://www.whitehouse.gov/news/releases/2001/09/20010920-8.html) that “Either you are with us, or you are with the terrorists.”  
+4. Palin has used deliberate choice of language to avoid these connections being highlighted by the media, while increasing the likelihood that the target audience for her message will be incited by her statements.  
+
+Through these arguments, it becomes clear that Sarah Palin’s assertions are designed not to prove that Obama is unqualified for the office of the Presidency of the United States. Rather, she appears to be attempting to convince a substantial portion of her supporters that Obama *supports* terrorism against the United States and thus should be, at the very least, incarcerated as an enemy combatant (which we [are doing to American citizens already](http://www.fas.org/sgp/crs/misc/RL31724.pdf)) or at worst, assassinated for supporting terror. She has done this knowing full well that she can retain plausible deniability thanks to the ambiguity of her statements as they’ll be interpreted by the media, by her detractors, and by her more reasonable supporters.
 
 ### Code Switching, Oprah, and Straight Talk
 

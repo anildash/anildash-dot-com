@@ -11,13 +11,14 @@ First and foremost, there’s a new look to the blog. My incredibly talented cow
 
 Second, I finished something I’ve been meaning to do for ages, two new listings:
 
-- [Most Popular](http://www.dashes.com/anil/most-popular/)
-- [Best Of](http://www.dashes.com/anil/best-of/)
+- [Most Popular](/tags/Most%20Popular/)
+- [Best Of](/tags/Best%20Of)
 
-Both of these archives are exactly what you’d expect, with the Best Of featuring a number of my posts that I’ve been most proud of over the years, including some that were less popular but that I thought were worth featuring. There’s also a more extensive list of [all archives](http://dashes.com/anil/archives.html), organized into a calendar or by tag.
+Both of these archives are exactly what you’d expect, with the Best Of featuring a number of my posts that I’ve been most proud of over the years, including some that were less popular but that I thought were worth featuring. There’s also a more extensive list of [all archives](/posts/), organized into a calendar or by tag.
 
 I’ve brought back the [Action Streams](http://www.movabletype.org/2008/01/building_action_streams.html) that I had on the site earlier, and will be doing more to incorporate my various online presences into my site here. I don’t plan to just dump my Twitter updates and my bookmarks and crap into the stream of posts here unless you folks think I should. (I’m guessing not.) There’s also different ads on the site. I’ve experimented with a number of different advertising ideas over the years without much objection, so I’ll likely continue to do so. Unsurprisingly, the ads are provided by [SIx Apart Media](http://www.sixapart.com/advertising/).
-![Old Dashes.com Designs](http://dashes.com/anil/images/dashes-designs-retro.png)
+
+![Old Dashes.com Designs](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/dashes-designs-retro.png?v=1674098966021)
 
 I’ll be doing more with giving folks the chance to vote on things on the site, as well. Coming up with my own list of my best blog posts seems a little ridiculous, even for someone who’s as shameless as I am about self-promotion. I’d love to hear more from readers about what posts were interesting, or what I should write more about.
 
