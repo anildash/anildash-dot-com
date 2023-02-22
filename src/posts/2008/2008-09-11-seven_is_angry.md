@@ -3,7 +3,7 @@ title: Seven is Angry, Sadly
 slug: seven_is_angry
 date_published: 2008-09-11T17:19:00.000Z
 date_updated: 2018-09-11T23:19:57.000Z
-tags: nyc
+tags: [nyc]
 ---
 
 Each year, I try to write a memorial post on the anniversary, to remind myself, and as a record of where I am compared to where I was that day. As I read back over them, what I see nearly ever year is that I wanted to cling to the sadness of the day, the very real sense of grief and loss that I think colors the day for those of us who were in New York City then in a slightly different way than it did for people who were more distant.

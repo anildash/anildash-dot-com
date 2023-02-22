@@ -3,7 +3,7 @@ title: Actions Are The Body Language
 slug: actions_are_the_body_language
 date_published: 2008-10-16T19:00:31.000Z
 date_updated: 2008-10-16T19:00:31.000Z
-tags: tech, blogging
+tags: [tech, blogging]
 ---
 
 If the words I write in these blog posts are my acts of speech, then the trail of actions I leave around the web must be the body language that accompanies them. So I made a page to [capture what I’m doing around the web](/action-stream.html).

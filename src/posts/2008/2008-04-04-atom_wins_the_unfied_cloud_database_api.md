@@ -3,7 +3,7 @@ title: "Atom Wins: The Unified Cloud Database API"
 slug: atom_wins_the_unfied_cloud_database_api
 date_published: 2008-04-04T21:04:06.000Z
 date_updated: 2008-04-04T21:04:06.000Z
-tags: Best Of
+tags: [Best Of]
 ---
 
 Almost five years ago, I got involved in a project that would eventually become [Atom](http://en.wikipedia.org/wiki/Atom_(standard)), a pair of matching standards functioning as a syndication format and a publishing protocol. Though its contentious genesis was in the world of blogging and feeds, what’s amazing is the improbable end result of the Atom community refining and debating the standard for half a decade.

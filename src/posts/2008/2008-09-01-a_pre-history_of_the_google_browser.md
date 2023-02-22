@@ -3,7 +3,7 @@ title: A Pre-History of the Google Browser
 slug: a_pre-history_of_the_google_browser
 date_published: 2008-09-02T01:52:26.000Z
 date_updated: 2008-09-02T01:52:26.000Z
-tags: tech, google
+tags: [tech, google]
 ---
 
 Today, in a surprisingly botched announcement, Google announced Chrome, their upcoming open source web browser. The subject of a Google browser is something I’ve [opined on](/2003/07/upon-the-demise) a few times over the years, but Jason Kottke’s compiled [an even more comprehensive](http://www.kottke.org/08/09/google-chrome-google-browser) overview of the conversations a few of us have been having for almost seven years.

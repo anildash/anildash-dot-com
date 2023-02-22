@@ -3,7 +3,7 @@ title: A Red Flag Before The White Flag
 slug: a_red_flag_before_the_white_flag
 date_published: 2008-11-27T01:34:31.000Z
 date_updated: 2008-11-27T01:34:31.000Z
-tags: music
+tags: [music]
 ---
 
 > Major labels function with the assumption that 90 percent of artists they sign are going to fail — that should have been a red flag for everybody. I mean that’s a bizarre business model in any arena. But particularly in the cultural arena, the idea that the system through which culture is transmitted is dictated entirely by profit should concern us, because that’s going to narrow the types of culture that are transmitted. And then, on top of that, the alternative venues of distribution are stuck in the shadows of these major labels.

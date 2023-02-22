@@ -3,7 +3,7 @@ title: Automated Mario
 slug: automated_mario_okay_these_are
 date_published: 2008-01-16T23:43:57.000Z
 date_updated: 2008-01-16T23:43:57.000Z
-tags: gaming
+tags: [gaming]
 ---
 
 Okay, these are just fun — a series of custom-designed Mario levels that let the little plumber make his way through a whole level without the player ever having to touch a controller. A triumph of cleverly-placed blocks!

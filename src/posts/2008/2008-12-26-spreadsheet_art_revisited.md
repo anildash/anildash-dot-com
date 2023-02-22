@@ -3,7 +3,7 @@ title: Spreadsheet Art Revisited
 slug: spreadsheet_art_revisited
 date_published: 2008-12-26T21:15:05.000Z
 date_updated: 2008-12-26T21:15:05.000Z
-tags: tech, spreadsheets
+tags: [tech, spreadsheets]
 ---
 
 One of my recurring fascinations is people creating works of art using common productivity software. [Office Tools of Expression](/2007/08/office-tools-of-expression) as a review of this medium that I wrote last year, and [Excel Pile](/2004/04/excel-pile) offered an overview back in 2004.

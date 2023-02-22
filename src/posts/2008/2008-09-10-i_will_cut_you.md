@@ -3,7 +3,7 @@ title: I Will Cut You
 slug: i_will_cut_you
 date_published: 2008-09-10T01:36:20.000Z
 date_updated: 2008-09-10T01:36:20.000Z
-tags: nyc, food
+tags: [nyc, food]
 ---
 
 Last Friday was my birthday. Hooray! I have a fantastic wife, so she treated me to a [pig-butchering class](https://web.archive.org/web/20080915045306/http://www.thebrooklynkitchen.com/web-store/classes/1041-916-tuesday-pig-butchering-class/) at [The Brooklyn Kitchen](http://www.thebrooklynkitchen.com/). I like meat, and I like being educated about what I eat and respecting the animals I consume. So [Tom Mylan](https://en.wikipedia.org/wiki/Tom_Mylan) was a fantastic person to lead the evening: Knowledgeable and passionate about his work as a butcher, and (as his blog demonstrates well) able to articulate that in a way that’s approachable even to rank amateurs like me.

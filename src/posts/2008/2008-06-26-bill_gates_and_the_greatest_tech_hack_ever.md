@@ -3,7 +3,7 @@ title: Bill Gates and the Greatest Tech Hack Ever
 slug: bill_gates_and_the_greatest_tech_hack_ever
 date_published: 2008-06-26T13:46:51.000Z
 date_updated: 2008-06-26T13:46:51.000Z
-tags: Most Popular, tech
+tags: [Most Popular, tech]
 ---
 
 Bill Gates has pulled off one of the greatest hacks in technology and business history, by turning Microsoft’s success into a force for social responsibility. Imagine imposing a tax on every corporation in the developed world, collecting $100 per white-collar worker per year, and then directing one third of the proceeds to curing AIDS and malaria. That, effectively, is what Bill Gates has done.

@@ -3,7 +3,7 @@ title: "Creative Environment: Ray Ozzie's Soundtrack"
 slug: creative_environment_ray_ozzies_soundtrack
 date_published: 2008-04-16T15:33:24.000Z
 date_updated: 2008-04-16T15:33:24.000Z
-tags: Best Of, tech
+tags: [Best Of, tech]
 ---
 
 [![brothers-in-arms.jpg](https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/brothers-in-arms.jpg?v=1674630670971)](http://www.amazon.com/exec/obidos/ASIN/B00004Y6NP/2020-20)

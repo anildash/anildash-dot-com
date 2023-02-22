@@ -3,7 +3,7 @@ title: Your April Fool's Day Joke Continues to Suck
 slug: your_april_fools_day_joke_continues_to_suck
 date_published: 2008-04-01T00:30:20.000Z
 date_updated: 2008-04-01T00:30:20.000Z
-tags: Most Popular
+tags: [Most Popular]
 ---
 
 Having been blogging for a few years, I’ve developed a few annual traditions. This one’s a favorite: Warning you off of lame April Fool’s jokes on the web. Every year, I get called a curmudgeon, or lambasted for having no sense of humor. And every year, the jokes online get lamer and lamer.

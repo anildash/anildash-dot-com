@@ -3,7 +3,7 @@ title: Snoop Dogg can see the future
 slug: snoop_dogg_can_see_the_future
 date_published: 2008-02-04T07:30:08.000Z
 date_updated: 2018-04-18T06:42:07.000Z
-tags: Best Of, music, autotune, absurdity
+tags: [Best Of, music, autotune, absurdity]
 ---
 
 Now that his single Sensual Seduction (a.k.a. Sexual Eruption) is in the Top 10, it’s official: Snoop Dogg can see the future. First, let’s pause to watch the best video in the history of anything, ever. (The song is about four minutes long, so you’ll want to allot approximately half an hour so that you can watch it in its entirety at least six times.)

@@ -3,7 +3,7 @@ title: I work at the new Six Apart (in New York!)
 slug: i_work_at_six_apart_new_york
 date_published: 2008-04-23T21:09:40.000Z
 date_updated: 2008-04-23T21:09:40.000Z
-tags: Best Of
+tags: [Best Of]
 ---
 
 Five years ago, I said [I work for Six Apart](http://www.dashes.com/anil/2003/04/i-work-for-six). At the time, that sort of thing was a big deal, not because of me, but because so few of us who loved blogging could get a job doing what we loved.

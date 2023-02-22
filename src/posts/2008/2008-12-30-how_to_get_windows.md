@@ -3,7 +3,7 @@ title: How To Get Windows
 slug: how_to_get_windows
 date_published: 2008-12-30T18:39:48.000Z
 date_updated: 2008-12-30T18:39:48.000Z
-tags: tech, microsoft
+tags: [tech, microsoft]
 ---
 
 If you’d like to open up the package for your licensed copy of Microsoft Windows Vista, you only need to follow [these three helpfully-illustrated steps](https://web.archive.org/web/20080325112747/http://windowshelp.microsoft.com/Windows/en-US/help/2e680b8d-211e-41c5-a0bf-9ccc6d7e62a21033.mspx).

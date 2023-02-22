@@ -3,6 +3,7 @@ title: Nine Years, and a New Look
 slug: nine_years_and_a_new_look
 date_published: 2008-08-19T01:58:19.000Z
 date_updated: 2008-08-19T01:58:19.000Z
+tags: [blogs]
 ---
 
 Last month marked the ninth anniversary of me starting this blog, more or less continuously updating since then. As I begin my tenth year here on dashes.com, I’ve made a few changes around the site.

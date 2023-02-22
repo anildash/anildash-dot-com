@@ -3,7 +3,7 @@ title: Post-Crime NYC
 slug: postcrime_nyc
 date_published: 2008-01-17T17:57:22.000Z
 date_updated: 2008-01-17T17:57:22.000Z
-tags: nyc
+tags: [nyc]
 ---
 
 The other day, I’d been reminded about some of the most striking statistics I’d seen last year, which were from the [NYPD crime stats for 9th Precinct](https://web.archive.org/web/20080911003650/http://www.nyc.gov/html/nypd/downloads/pdf/crime_statistics/cs009pct.pdf), where I live. (That link is to a PDF with stats for last week.) Each precinct in the city files reports every week, and those reports also include comparisons of statistics for prior years.

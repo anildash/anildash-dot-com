@@ -3,7 +3,7 @@ title: Auto-Tune Goes Legit
 slug: auto-tune_goes_legit
 date_published: 2008-06-06T21:17:50.000Z
 date_updated: 2008-06-06T21:17:50.000Z
-tags: music, absurdity
+tags: [music, absurdity]
 ---
 
 Dedicated readers will recall me [obsessing over](/2008/02/when-autotune-strikes) and [over-analyzing](/2008/02/last-of-the-autotune)[Auto-Tune in pop music](/2008/02/the-death-of-analog-vocoder-edition) earlier this year. It is, then, my pleasure to report that, thanks to the inestimable [Sasha Frere-Jones](http://sashafrerejones.com/), Auto-Tune analysis has gone legit. Behold, no less an authority than [the New Yorker weighs in on Auto-Tune](http://www.newyorker.com/arts/critics/musical/2008/06/09/080609crmu_music_frerejones?currentPage=all), especially T-Pain’s (ab)use of it:

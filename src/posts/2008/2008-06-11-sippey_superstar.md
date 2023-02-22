@@ -3,7 +3,7 @@ title: Sippey, Superstar!
 slug: sippey_superstar
 date_published: 2008-06-11T15:24:21.000Z
 date_updated: 2008-06-11T15:24:21.000Z
-tags: apple, blogs
+tags: [apple, blogs, apps]
 ---
 
 One of the most satisfying and fun things I’ve ever seen in my job was the sight of my friend and coworker [Michael Sippey](http://sippey.com/) onstage with Steve Jobs and the Apple crew, showing off [TypePad for iPhone](https://web.archive.org/web/20080612034340/http://www.typepad.com/features/blog-iphone.html). In our line of business, Apple keynotes are just about the biggest shows in town, and Sippey killed it on the toughest stage around.

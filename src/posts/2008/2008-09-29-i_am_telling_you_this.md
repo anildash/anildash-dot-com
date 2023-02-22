@@ -3,7 +3,7 @@ title: I Am Telling You This
 slug: i_am_telling_you_this
 date_published: 2008-09-29T18:44:38.000Z
 date_updated: 2008-09-29T18:44:38.000Z
-tags: nyc, tech, blogs
+tags: [nyc, tech, blogs]
 ---
 
 As always, I am trying to be everywhere at once. Here’s where I’ve succeeded:
