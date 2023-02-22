@@ -3,7 +3,7 @@ title: The Retcon World
 slug: the_retcon_world
 date_published: 2008-01-28T23:11:48.000Z
 date_updated: 2008-01-28T23:11:48.000Z
-tags: language
+tags: [language]
 ---
 
 One of the most useful words that I’ve been fixated on for a while is “retcon”. A portmanteaublend of “retroactive continuity”, retcon comes from the world of comics and represents the idea of “correcting” past facts to represent a new desired reality. The word has long been in usage, as is predictably well-documented on [Double-Tongued Dictionary](http://www.doubletongued.org/index.php/dictionary/retcon/) and [Wikipedia](http://en.wikipedia.org/wiki/Retcon)

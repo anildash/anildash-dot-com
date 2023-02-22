@@ -3,7 +3,7 @@ title: In Defense of Marriage
 slug: in_defense_of_marriage
 date_published: 2008-10-31T03:48:52.000Z
 date_updated: 2018-04-21T08:34:05.000Z
-tags: Best Of, Most Popular
+tags: [Best Of, Most Popular]
 ---
 
 Three years and one day ago, I got married. And then shortly after that, I [wrote a post about getting married](/2005/10/31/we_got_married/), which has become one of the most popular things I’ve ever written. If I have to be known for something, I’ll definitely take that as a good representation of my work.

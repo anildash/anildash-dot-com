@@ -3,7 +3,7 @@ title: A Night at the Museum
 slug: a_night_at_the_museum
 date_published: 2008-12-09T18:20:42.000Z
 date_updated: 2008-12-09T18:20:42.000Z
-tags: Best Of, nyc
+tags: [Best Of, nyc]
 ---
 
 A few weeks ago, as a surprise gift for our anniversary, my wife got us a night’s stay at the [Revolving Hotel Room](https://web.archive.org/web/20081218015435/http://www.guggenheim.org/new-york/exhibitions/on-view-now/anyspace/revolving-hotel-room), part of [theanyspacewhatever](https://www.guggenheim.org/exhibition/theanyspacewhatever) exhibition (<a href="https://www.guggenheim.org/video/theanyspacewhatever">see video</a>) at the [Guggenheim](http://www.guggenheim.org/).

@@ -3,7 +3,7 @@ title: Bill Gates, Philanthropist
 slug: bill_gates_philanthropist
 date_published: 2008-12-25T04:28:10.000Z
 date_updated: 2008-12-25T04:28:10.000Z
-tags: tech
+tags: [tech]
 ---
 
 In the middle of this year, in observation of his retirement from Microsoft, I wrote [Bill Gates and the Greatest Tech Hack Ever](/2008/06/bill-gates-and-the-greatest-tech-hack-ever), one of my most popular posts and one that I’ve had a number of people personally mention to me that they appreciated.

@@ -3,7 +3,7 @@ title: All Paper, No News
 slug: all_paper_no_news
 date_published: 2008-12-23T08:14:42.000Z
 date_updated: 2008-12-23T08:14:42.000Z
-tags: media
+tags: [media]
 ---
 
 People who are into journalism and newspapers and the web and the death of print have been all a-twitter over the [NY Times story today](http://www.nytimes.com/2008/12/22/business/media/22carr.html?partner=permalink&amp;exprod=permalink) about the [triCityNews](http://trinews.com/), a little alt-weekly in Monmouth County, New Jersey.

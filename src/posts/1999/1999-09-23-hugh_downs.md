@@ -3,7 +3,7 @@ title: hugh downs
 slug: hugh_downs
 date_published: 1999-09-23T16:01:01.000Z
 date_updated: 1999-09-23T16:01:01.000Z
-tags: music
+tags: []
 ---
 
 Now, as I’ve mentioned before, I’m not much of a TV watcher, but one of my consistent faves since childhood has been **20/20**. This, despite my great contempt for Barbara Walters.

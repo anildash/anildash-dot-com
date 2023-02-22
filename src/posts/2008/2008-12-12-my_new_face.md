@@ -3,7 +3,7 @@ title: My New Face
 slug: my_new_face
 date_published: 2008-12-12T15:57:25.000Z
 date_updated: 2008-12-12T15:57:25.000Z
-tags: absurdity
+tags: [absurdity]
 ---
 
 I regularly use about a dozen different social web services, with dozens more that I have accounts on. Historically, I’ve used one of a very small number of photos of myself as my avatar or user icon on these websites.

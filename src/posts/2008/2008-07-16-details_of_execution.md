@@ -3,7 +3,7 @@ title: Details of Execution
 slug: details_of_execution
 date_published: 2008-07-16T16:35:42.000Z
 date_updated: 2008-07-16T16:35:42.000Z
-tags: Best Of, tech
+tags: [Best Of, tech]
 ---
 
 Sometimes if you do something very difficult, and you do it really well, the end result is that your achievement becomes completely invisible.

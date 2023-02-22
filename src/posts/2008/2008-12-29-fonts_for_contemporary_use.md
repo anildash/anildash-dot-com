@@ -3,7 +3,7 @@ title: Fonts for Contemporary Use
 slug: fonts_for_contemporary_use
 date_published: 2008-12-29T23:31:32.000Z
 date_updated: 2008-12-29T23:31:32.000Z
-tags: type, fonts
+tags: [type, fonts]
 ---
 
 In a [blog post that I wrote for work today](https://web.archive.org/web/20130308083132/http://www.sixapart.com/blog/2008/12/the-laws-of-motion.html), I had occasion to use an [interrobang](http://en.wikipedia.org/wiki/Interrobang) as part of a title. Hooray! A chance to exercise some pointless effort in pursuit of typographical correctness.

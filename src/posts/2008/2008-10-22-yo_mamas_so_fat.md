@@ -3,6 +3,7 @@ title: Yo Mama's So Fat...
 slug: yo_mamas_so_fat
 date_published: 2008-10-22T19:36:26.000Z
 date_updated: 2008-10-22T19:36:26.000Z
+tags: [twitter]
 ---
 
 I’ve long been a fan of [playing the dozens](http://en.wikipedia.org/wiki/The_dozens), as is to be expected from anyone who loves language. Last night, in a fit of my usual insanity, I thought it’d be fun to throw out some “Yo mama” snaps themed around this year’s election on [my Twitter account](http://twitter.com/anildash/):

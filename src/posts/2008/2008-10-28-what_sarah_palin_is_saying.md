@@ -3,7 +3,7 @@ title: What Sarah Palin Is Saying
 slug: what_sarah_palin_is_saying
 date_published: 2008-10-28T17:00:29.000Z
 date_updated: 2008-10-28T17:00:29.000Z
-tags: Most Popular
+tags: [Most Popular]
 ---
 
 Sarah Palin has been unsurprising in her criticisms of Barack Obama’s credentials and policies, fulfilling the traditional role of the vice presidential candidate being the most aggressive and pointed rhetorical attacker in a campaign. But a closer look at her deliberate use of vernacular and language reveals that she has gone far beyond any other candidate in vice presidential history in the dangerous and irresponsible implications of her attacks. She has phrased her attacks on Obama in a way that avoids accountability to the press while specifically addressing the subset of her audience who are most likely to advocate extreme actions against Obama.

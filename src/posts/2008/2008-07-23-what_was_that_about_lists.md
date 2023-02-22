@@ -3,7 +3,7 @@ title: What was that about lists?
 slug: what_was_that_about_lists
 date_published: 2008-07-24T02:35:45.000Z
 date_updated: 2008-07-24T02:35:45.000Z
-tags: absurdity
+tags: [absurdity]
 ---
 
 I forgot to mention one point when I was [blathering about lists](/2008/07/lists-and-being-on-them) earlier this week: The easiest way to get on them is by asserting, truthfully or not, that you don’t want to be on them.

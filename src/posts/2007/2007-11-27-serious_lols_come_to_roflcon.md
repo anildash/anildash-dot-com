@@ -1,0 +1,19 @@
+---
+title: "Serious LOLs: Come to ROFLCon"
+slug: serious_lols_come_to_roflcon
+date_published: 2007-11-27T09:12:03.000Z
+date_updated: 2007-11-27T09:12:03.000Z
+tags: [absurdity, tech, blogs]
+---
+
+From [lolcats](/2007/04/cats-can-has-gr) to [goatse](/2006/07/the-goatse-tshi) to the [Zidane headbutt](/2006/07/zidane-world-cu), I’ve been at least tenuously linked to some of the web’s most notable and notorious memes. Naturally, when I heard about [ROFLCon](http://roflcon.org/), a conference being organized at Harvard to celebrate online memes and celebrities, I knew I *had* to be there.
+
+The thing is, every time one of these little memes pop up and I get involved, people always ask me “Why are you wasting your time on this kind of trivial crap?” And the truth is, any one of these memes by itself is a relatively meaningless distraction. (Although you’d be surprised how many people have said “Oh, I saw your name mentioned in *The Long Tail*!”, where I’m quoted because of the Goatse T-shirt thing.)
+
+But taken together, the propagation of memes through the Internet is a new channel for creating culture. I think that’s a phenomenally important development, and one well worth taking seriously. If that can happen and we’re having fun laughing at silly cat pictures at the same time, even better. Because prior to the ascendancy of television as the creator of popular mass culture half a decade ago, the primary method of passing along and popularizing new aspects of culture was through existing social ties. We’re returning to that sort of transmission, to culture being mediated by our social networks, though obviously the existence of the Internet has radically changed the way those networks communicate today.
+
+This intersection of silly internet memes and the reinvention of pop culture has taken a lot of interesting forms over the years. Efforts like (the late, lamented) [Blogdex](http://blogdex.net/) and [The Contagious Media Project](http://web.archive.org/web/20070613031923/http://www.contagiousmedia.org/) and eventually [Buzzfeed](http://www.buzzfeed.com/) were based on the importance of this kind of cultural transmission. Some of the very best blogs, like [Waxy](http://waxy.org/) and [Fimoculous](http://fimoculous.com/) are, appropriately, both propagators and consumers of these memes.
+
+And, frankly, none of this social media stuff so many of us have been working on will have amounted to a hill of beans unless we *can* change the course of popular culture. The verdict is still out: We’ve never made a rock star — if MySpace counted, those bands wouldn’t consider getting signed to a major label with a traditional media company as a milestone of success. *Snakes on a Plane* tanked. Howard Dean is not the President. A funny YouTube video can get a couple minutes of play on a clip show on basic cable. But I think there’s a future where we really can do a lot more than just contribute 10 minutes worth of ha-ha to your workday.
+
+So, [come join me at ROFLCon](http://web.archive.org/web/20071121013220/http://www.roflcon.org:80/). I’ll be the one taking everything a little bit too seriously. But don’t worry, given the rest of the [formidable guest list](http://web.archive.org/web/20071129193505/http://roflcon.wordpress.com:80/guest-list-status/), you’ll still have fun. And in perhaps the only fitting way to end this post, please see “[Lolcat r full of win](http://www.courier-journal.com/apps/pbcs.dll/article?AID=/20071123/FEATURES/711230310/1010)“, one of a package of feature-length articles in the Louisville, Kentucky *Courier-Journal*, which has a bunch of quotes from me. I’m not positive the quotes from me are 100% accurate. Nor, for that matter, am I sure that the cat grammars described there are really accurate, either. But at least it’s a fun read, and lookit silly memes, making their way into good, old-fashioned newspapers!

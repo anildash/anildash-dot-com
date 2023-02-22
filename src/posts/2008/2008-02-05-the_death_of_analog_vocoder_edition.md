@@ -3,7 +3,7 @@ title: The Death of Analog, AutoTune Edition
 slug: the_death_of_analog_vocoder_edition
 date_published: 2008-02-05T11:05:40.000Z
 date_updated: 2008-02-05T11:05:40.000Z
-tags: Most Popular
+tags: [Most Popular, music]
 ---
 
 One of the things that makes [Snoop’s “Sensual Seduction” video](/2008/02/snoop-dogg-can-see-the-future) so compelling is his outstanding use of vocal effects. Let’s take a closer look, shall we?

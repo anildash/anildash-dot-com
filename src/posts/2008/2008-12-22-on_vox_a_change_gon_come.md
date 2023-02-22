@@ -3,6 +3,7 @@ title: "On Vox: A Change Gon' Come"
 slug: on_vox_a_change_gon_come
 date_published: 2008-12-23T04:27:39.000Z
 date_updated: 2008-12-23T04:27:39.000Z
+tags: [music]
 ---
 
 Thanks to a [nice reminder](https://web.archive.org/web/20090103044029/http://twitter.com/miz_ginevra/status/1073658911) from [Ginevra](http://ginevra.vox.com/), and a motivational [post by Ta-Nehisi Coates](https://www.theatlantic.com/entertainment/archive/2008/12/the-color-of-change/6486/), I got around to gathering up some videos I've been meaning to share. Obviously, Barack Obama's made some fairly explicit references to Sam Cooke's "A Change is Gonna Come", so I should share a few pleasing renditions of the song with you.

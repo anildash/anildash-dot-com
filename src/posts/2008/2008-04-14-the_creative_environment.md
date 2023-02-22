@@ -4,7 +4,7 @@ slug: the_creative_environment
 date_published: 2008-04-14T12:43:49.000Z
 date_updated: 2008-04-14T12:43:49.000Z
 heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/travis-isaacs-workspace.jpg?v=1674631135163
-tags: Best Of, tech
+tags: [Best Of, tech]
 ---
 
 In the world of business, and especially the world of technology, we have some archetypical stories of entrepreneurs in the garage, working to create new products and new companies. But too many of those stories seem to neglect the *creative* environment in which great ideas and inventions happen.

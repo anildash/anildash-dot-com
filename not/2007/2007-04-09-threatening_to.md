@@ -3,7 +3,7 @@ title: Threatening to Kill Blogs
 slug: threatening_to
 date_published: 2007-04-09T15:55:42.000Z
 date_updated: 2007-04-09T15:55:42.000Z
-tags: weblogs
+tags: blogs
 ---
 
 Five years ago, I got my first death threat for something I wrote on my blog. The same week, some of those readers called my boss and tried to get me fired. A number of others publicly asserted that I supported terrorism. All because they felt that’s the appropriate way to respond to one of my blog posts that they didn’t like.

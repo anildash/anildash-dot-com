@@ -3,7 +3,7 @@ title: Jeff Bezos, Ray Ozzie and Pierre Omidyar on Workspace
 slug: jeff_bezos_ray_ozzie_and_pierre_omidyar_on_workspace
 date_published: 2008-04-17T14:26:21.000Z
 date_updated: 2008-04-17T14:26:21.000Z
-tags: Best Of, tech
+tags: [Best Of, tech]
 ---
 
 Continuing from [yesterday’s look](/2008/04/creative-environment-ray-ozzies-soundtrack) at the soundtrack to the creation of Lotus Notes, we can look more at the physical space where it was created. For contrast, I also throught I’d start looking at some of the responses I’d gotten from Jeff Bezos about the [same questions](/2008/04/the-creative-environment).
