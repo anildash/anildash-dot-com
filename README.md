@@ -1,4 +1,4 @@
-# Hello Eleventy!
+# Hello Blogging! This is the source for Anil's blog.
 
 This project is a blog powered by [Eleventy](https://www.11ty.dev/), a lightweight static site generator. That means you get all the power of a server-side framework but it builds plain HTML files for fast loading by your visitors. This project includes some default posts and layouts you can use as a foundation, and you can customize how your site builds in the JavaScript code. 📚
 

@@ -8,15 +8,13 @@
   },
   "dependencies": {
     "eleventy-plugin-seo": "0.5.2",
-    "luxon": "^3.1.1",
+    "luxon": "^3.3.0",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
-    "@11ty/eleventy": "^1.0.2"
-  },
-  "devDependencies": {
-    "@11ty/eleventy": "^1.0.2"
+    "@11ty/eleventy": "^2.0.1",
+    "fast-glob": "^3.2.12"
   },
   "engines": {
-    "node": "12"
+    "node": "14"
   },
   "repository": {
     "url": "https://glitch.com/edit/#!/glitch-hello-eleventy"

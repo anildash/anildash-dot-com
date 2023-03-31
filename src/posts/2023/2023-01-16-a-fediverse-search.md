@@ -12,7 +12,7 @@ Nothing exemplifies these opportunities and challenges better than search. Searc
 
 Here's one of the most popular posts I'd ever shared on my first Mastodon account. I think it resonated so much because it articulates one of the key unspoken values of the fediverse.
 
-<iframe src="https://mastodon.cloud/@anildash/109312103250205663/embed" class="mastodon-embed" style="max-width: 100%; border: 0; min-height: 16rem;" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mastodon.cloud/@anildash/109312103250205663/embed" class="mastodon-embed" style="max-width: 100%; border: 0; min-height: 18rem;" width="400" allowfullscreen="allowfullscreen"></iframe>
 
 Given that context, it's no surprise that a less experienced fediverse user, no matter how well-intentioned, might well accidentally antagonize some people while trying to build search features for Mastodon users. I've known Jan Lehnardt online for a long time, and known him to make lots of thoughtful things, but I'd missed his initial introduction of Searchtodon, an attempt at introducing personal search (not a public search engine) for the fediverse that I think a lot of long-time fediverse users could have anticipated would cause some consternation, despite his clear intent to be consensual and considered in his implementation. It's well worth reading his <a href="https://searchtodon.social/Adventures-in-Mastoland.html">detailed retrospective</a> on the reaction to the service.
 
