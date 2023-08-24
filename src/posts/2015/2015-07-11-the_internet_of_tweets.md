@@ -3,7 +3,7 @@ title: The Internet of Tweets
 slug: the_internet_of_tweets
 date_published: 2015-07-11T16:00:00.000Z
 date_updated: 2015-07-11T16:00:00.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/twitter-too-hard.jpeg?v=1669938482262
+heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/will.i.am-twitter.jpeg?v=1669938481996
 tags: [twitter, tech, culture]
 ---
 

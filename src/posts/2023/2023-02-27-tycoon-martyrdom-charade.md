@@ -1,0 +1,21 @@
+---
+title: The tech tycoon martyrdom charade
+slug: tycoon-martyrdom-charade
+date_published: 2023-02-27T20:00:05.000Z
+heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/blindfold.jpg?v=1677543002592
+tags: [tech, twitter]
+---
+
+I've been saying this for a few years now, but it's worth recording here for the record: It's impossible to overstate the degree to which many big tech CEOs and venture capitalists are being radicalized by living within their own cultural and social bubble. Their level of paranoia and contrived self-victimization is off the charts, and is getting worse now that they increasingly only consume media that they have funded, created by their own acolytes.
+
+In a way, it's sort of like a "VC Qanon", and it colors almost everything that some of the most powerful people in the tech industry see and do — and not just in their companies or work, but in culture, politics and society overall. We're already seeing more and more irrational, extremist decision-making that can only be understood through this lens, because on its own their choices seem increasingly unfathomable.
+
+To be clear, there are still really thoughtful, smart people in positions of leadership in tech as executives, founders or investors, who aren't participating in this mass delusion, but few of these good actors feel like they have the power to speak out against the rising extremism of the big tycoons. That power is especially coercive since even very established players rely on these newly-extremist figures for funding their companies or for business deals that they are dependent upon. And we know that, once reasonable voices stop speaking, only the most extreme ideas will dominate the conversation.
+
+Even though I've worked in recent years to decrease my visibility and perceived relevance in the industry, I still have a good bit of access some of the last wave of founders and innovators, and though it's a bit self-selecting (I've only stayed in touch with the ones who have a moral compass), they're increasingly aghast at what passes for ordinary conversation amongst the cohort of tech leaders who currently dominate headlines. I've been exhorting each of them to put their money (and equity) where their mouth is on these kinds of issues, but the chilling effect is real, and pervasive.
+
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">It&#39;s impossible to overstate how much the big tech CEOs and VCs are being radicalized by living within their own bubble. The level of paranoia and contrived victimization is off the charts, and they increasingly only consume media that they have funded, created by acolytes.</p>&mdash; @anildash@me.dm and anildash.com (@anildash) <a href="https://twitter.com/anildash/status/1595108616969019393?ref_src=twsrc%5Etfw">November 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">The thing I don’t think a lot of folks realize is how the fascist/regressive cohort of tech leaders (VCs and CEOs) is getting more &amp; more extreme and are completely public with their destructive agenda. And their influence on tech is growing. <a href="https://t.co/PtTwc60n4R">https://t.co/PtTwc60n4R</a></p>&mdash; @anildash@me.dm and anildash.com (@anildash) <a href="https://twitter.com/anildash/status/1453494955046064135?ref_src=twsrc%5Etfw">October 27, 2021</a></blockquote>
+
+We'll have much more to explore about both the causes and the effects of this pattern (often times, the powerful people playing out this charade are keenly aware they are lying, but know that it's an effective way to attack their targets) but I wanted to start by capturing this reality for the many people who have intuitively felt this radicalization taking place, but may not have had it articulated concisely enough to validate their intuition. We've got some work to do.

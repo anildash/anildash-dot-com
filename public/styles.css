@@ -15,6 +15,7 @@
   --text-6xl: 5rem;
 }
 
+
 /*
 @media (prefers-color-scheme: dark) {
   :root {
@@ -41,7 +42,7 @@ body {
   color: var(--color);
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
-  font-feature-settings: "liga", "tnum", "case", "calt", "zero", "ss01", "locl", "calt";
+  font-feature-settings: "liga", "tnum", "calt", "zero", "ss01", "locl", "calt";
   font-variant-ligatures: contextual;
   -webkit-overflow-scrolling: touch;
   -webkit-text-size-adjust: 100%;
@@ -74,6 +75,11 @@ video {
   width: 100%;
   max-width: 100%;
   margin-top: 1rem;
+}
+
+.video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
 }
 
 hr {

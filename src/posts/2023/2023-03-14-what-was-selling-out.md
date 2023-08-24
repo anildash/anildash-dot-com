@@ -1,0 +1,53 @@
+---
+title: "What was selling out?"
+slug: what-was-selling-out
+date_published: 2023-04-18T20:00:05.000Z
+heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/sold-out.jpg?v=1678846434828
+tags: [music, culture]
+---
+
+Back in the latter part of the 20th century, a lot of subcultures held onto a concept called "selling out", a nebulously-defined idea based on a negative view of compromising one's values or creative expression in the pursuit of money or, sometimes, power.
+
+And the thing is, like a lot of taboos or loosely-defined cultural norms, the "selling out" meme was about enforcing a set of social values within a community, values that came to seem downright quaint by the start of the 2020s. My germinal understanding of what "selling out" meant came in the moment when Baby Booomers truly claimed their cultural dominance, and the then-young Gen X began to form its countercultural identity. In 1987, The Beatles' "Revolution" was used in a Nike advertisement. And everybody _lost their shit_. This seems like an absurd thing to say in the current environment, where most of the biggest music acts in the world have their own multifaceted clothing lines, but fans were aghast at the idea that True Art could be used in the service of mere commerce. (This was also how a lot of people found out about Michael Jackson's ownership stake in the Beatles' publishing rights.)
+
+I thought for sure I had misremembered what <em>Time</em> wrote about the event back then, but no, my childhood memory served me — the weekly newsmagazine of record <em>really did</em> <a href="https://time.com/vault/issue/1987-05-18/page/86/">compare Michael Jackson to John Lennon's murderer</a> in criticizing his role in permitting a Beatles song to be used in a sneaker ad.
+
+<img src="https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/revolution-time.png?v=1678850063731" alt="Mark David Chapman killed him. But it took a couple of record execs, one sneaker company and a soul brother to turn him into a jingle writer." />
+
+## Corporate Rock Still Sells
+
+The fundamentally anticommercial stance of sellout anxiety, especially in regard to music's role in popular culture, only got sharper over the next several years. By the time Alt Rock was designated as the only critically-acceptable music in the early 90s, you had Kurt Cobain working full time to signify in every way possible that he hadn't sold out, even when on the cover of mainstream magazines. But the boundaries of what constituted "selling out" were always fuzzy, and contingent on the larger context of how an artist operated; there was a bright-line distinction between serious artists (Dylan, Springsteen, other mostly-white dudes) and disposable pop acts, who were allowed to transgress on these grounds.
+
+The peak of the sellout reckoning was likely in 1994, when the concern expanded from theoretical debates about rock stars to what felt like a daily ongoing consideration for an entire generation. This, too, was captured in popular culture, as in films like that year's <em>Reality Bites</em>, where a central animating tension of the film is Winona Ryder having to choose between two different assholes, ultimately picking the one who hasn't sold out within the film's narrative. 
+
+In contemporary culture, the "sellout" character's framing as a villain would likely be incoherent to many. The sin that he commits is to sell his own creation to a platform that can offer it distribution. At a time when artists structure the rollout of their ancillary product offerings to coincide with the release of their ostensible creative works (music, films, shows), being savvy about getting work in front of an audience would be difficult to portray as an act of villainy.
+
+I've been ruminating on this for years in this space; almost 20 years ago, <a href="https://anildash.com/2004/04/05/great_moments_i/">Bob Dylan endorsed Victoria's Secret</a> after decades of hinting that he'd do exactly that, and his fanbase was scandalized. I was more concerned that he was inaccurately associated with a campaign called "very sexy", but clearly the implications of a stalwart of anticommercialism embracing such a nakedly opportunistic campaign <a href="https://www.thecut.com/2019/07/i-think-about-bob-dylans-victorias-secret-ad-a-lot.html">was bewildering to those who analyze such things</a>.
+
+---
+
+## Technology Wants to Sell Out, Too!
+
+By the time Beyoncé began working House of Deréon nods into her song lyrics, I realied that the sellout narrative that I had grown up being coached in was anachronistic, and disconnected from culture overall, but <em>especially</em> from the increasing diversity of mainstream American culture. As a Prince fan, I'd spent decades listening to him talk about ownership and equity of his work in the context of centuries of exploitation of Black artists: "If u don't own your masters, then your masters own u." This was primarily a narrative about control and agency, but it was _not_ an anticommercial message, even if it contained an implicit critique of capitalism. 
+
+This tension over conflating control (and commercial success) with agency and genuine empowerment got more complicated in every aspect of society over the early 2000s and into the 2010s, with the rise of girlboss-ism and LLC grindbros demonstrating the vacuous end stage of those for whom _nothing_ could ever be selling out. <a href="https://psmag.com/economics/rock-star-brought-to-you-by-huge-advertiser-4137">Bethany Klein ably documented this</a> in both her research and in interviews like the one linked here. There's been an <a href="https://anildash.com/2008/11/26/a_red_flag_before_the_white_flag/">acceleration of commercial appropriation of culture</a> as the venture capital business model takes over more and more creative industries.
+
+So it should have been no surprise, then, when the concern over selling out in the early 2000s even rose to the surface in the technology industry where I'd been working. Though I hadn't been consciously aware of it, the early social web community I came from had inherited some of the academia-adjacent norms of the early internet, where commercial interests were (rightly) seen with deep skepticism.
+
+Amongst those who built the first blogging tools and social networks, it was taken as a given that one would hate banner ads, or resist the control of the then-dominant tech giants of the day, like Microsoft and AOL. This will, again, seem quaint, but when we hamhandedly asked our customer base to pay for Movable Type (an early blogging tool that I had helped launch), the blowback from users was so swift, and so ferocious, that skimming through the responses left me sitting at my desk with tears in my eyes. Part of it was that almost no one had ever faced a social media shitstorm before (these are the perils that come with inventing the tools which allow these things to happen) and part of it was that _all we had done was ask people to buy an app_ and now we were getting death threats. Later, a lot of the most vociferous critics would embrace the "If you aren't paying for the product, you are the product" anthem of experienced internet skeptics, but in that early era of the social web, the overwhelming critique was simple: <strong>we had sold out</strong>.
+
+By just a few years later, many of people who had been most vociferous in those early, commerce-skeptical communities suddenly popped up working at these new tech titans, usually with a half-sheepish blog post ironically mentioning how they had sold out. Under their tenures, the most pervasive and destructive new tech platforms grew into giants. They stopped blogging about it after a while.
+
+---
+
+## What Is Sold?
+
+Sometime around 2016, before the election that never ended and the beginning of the tedious online battles that refuse to die, I noticed that mainstream culture had gotten back its skepticism over nakedly corporate profiteering. Whether it was the rise of a revitalized labor movement, justified fury at the ways income inequality had made the former milestones of young adulthood unattainable, watching good people die because they couldn't crowdfund healthcare, or just a simple desire for fairness, it was refreshing to see this critical view pop back up, after decades where I'd feared nobody would ever return to articulating the positive values that underpinned the "selling out" narrative.
+
+Those of us who were old enough to remember when Reagan fired the air traffic controllers, or to have had parents who were union members at a time when the default public sympathies were with workers, still find it surprising and delightful to hear young people identify as socialists, and honestly it's a joy to hear hack writers working in ham-handed swipes at capitalism into mainstream comedy bits. Thanks to parenthood, I regularly spend time around tweens, and they'll routinely (and rightly) blame capitalism for systemic problems, and sometimes absurdly use it as a punchline for more quotidian problems as well.
+
+But what these kids are telling each other, in their own way, is "Don't sell out." The humanist, principled point of view that pushed people to rein in their most avaricious impulses is now fully back in vogue amongst the people shaping culture, and it's a joy to watch. Even better, the tedious aspects of its prior incarnations, like gatekeeping and eye-rolling purity tests, have largely been left by the wayside; people are pragmatic about the compromises that we all must make to get by these days, but they still hold high standards about considering the ethical and social aspects of how we move through the world — and they expect the artists, activists, leaders and voices that they support to do the same as well.
+
+I don't know if anyone will ever _call_ it "selling out" again; it's an anachronistic term, tied to the fading days of boomer cultural dominance. But even if it played out in insufferable ways (I genuinely do not give a fuck if a Beatles song is in a sneaker commercial), I am truly glad to have formed my point of view on culture and society at a time when there was a peer-based expectation of having values, and of holding each other to them. That's what community is; that's what people do for each other.
+
+And the new, more supportive, more nuanced and informed view of that impulse is a wonderful upgrade. May you never be a sellout.

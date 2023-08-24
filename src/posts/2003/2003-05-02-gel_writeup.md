@@ -3,7 +3,7 @@ title: GEL writeup
 slug: gel_writeup
 date_published: 2003-05-03T03:37:20.000Z
 date_updated: 2003-05-03T03:37:20.000Z
-tags: weblogs
+tags: [blogs, events]
 ---
 
 Just wanted to leave myself a placeholder about the exceptional [Gel Conference](http://www.goodexperience.com/gel/) I attended today. Haven’t had a chance to write up my notes yet, (I’m so used to having wifi at conferences that I don’t even know how to take notes for myself without it.) but Mark and his crew put together something to truly be proud of. Imagine a professional conference that doesn’t just fully engage you and challenge your mind, but was even able to touch you on an emotional level. Well done.
