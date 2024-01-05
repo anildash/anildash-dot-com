@@ -1,29 +1,37 @@
 ---
-title: There is nothing to remember
-slug: there-is-nothing-to-remember
-date_published: 2022-09-12T05:25:09.000Z
-date_updated: 2022-09-12T05:25:09.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tomas-martinez-wtc.jpeg?v=1669518151801
+title: It's unrecognizable
+slug: its-unrecognizable
+date_published: 2023-09-11T16:25:09.000Z
+date_updated: 2023-09-11T16:25:09.000Z
+heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/tomas-martinez-wtc-nyc.jpg?v=1694471884095
 tags: [nyc]
 ---
 
-The only time someone remembered September 11, 2001 to me in the last year was when a stranger mentioned it as part of the reason he was [trying to assault me](/2022/07/18/i-went-to-a-coffee-shop/). So it's clear that the events of that day have fully passed into myth, useful only as rhetoric in a culture war, or as justifications for violence. Nothing epitomizes this more than the fact that, while the memory has faded in culture broadly, it's only brought to the fore in situations like those where most New Yorkers would be targeted.
+I didn't think I'd keep reflecting on this day, but somehow I can't. It's been with me for most of my lifetime that I can remember, and perhaps more importantly, the world's narrative about what happened that day is completely unrecognizable to me. I suppose I have to keep reflecting on it not just for those who tell me these reflections have value to them, but also for myself, to shake away that feeling that the popular narrative is gaslighting me, and to remember what I know to be true.
 
-I talked about this a bit last year, in noting that [Twenty is a Myth](/2021/09/11/twenty-is-myth/). I don't expect young people to understand what the moment meant cutlurally; it's only something that exists in recent history for them, processed entirely through the lens of media (and the social media that the event helped catalyze). But for those of us who *were* adults then, it's unforgiveable how we've let the meaning and the lessons be lost, or worse, twisted. 
+That morning, there were so many moments I was hopeful. First, it was just an accident. Next, that everyone could escape the towers if given the chance. Then, that only one tower would fall. Then, that these would be the only casualties. Then, worst of all, that something this profound and dramatic would soften people's hearts and make them reflect.
 
-So, I have no remembrance this year, and maybe I'll let go of this tradition. If you ever want to know what it was like to be there that day, ask those who were present. I expect their experience will be completely different from the historical narrative that's been contrived in the years since.
+I was wrong, over and over again. I don't know exactly where the line is between optimistic and naive, but these days I feel tremendous compassion and empathy towards the young man who had all those foolish beliefs. I don't regret hoping that such a horrible day could lead to something better.
+
+But I really did underestimate how power works, and how little it would take to push people from their better angels to their most vicious, vengeful selves. I did not expect that the story of this city I love so much, in a moment we all felt so vividly, would just become a bludgeon used by those who hated and resented us just as much as the perpetrators of that day's violence. 
+
+So maybe I keep coming back because I am hoping that others might still recognize the little glimpses of humanity that I saw on the day of the attacks, and that I saw in abundance, in New York City, in the days that follow. It wasn't a myth, it wasn't just wishful thinking, there really was kindness and care in this place that I love so much. I don't think those who tell the loudest stories today would even recognize it.
 
 ---
 
-Last year, "Twenty is a Myth":
+Last year, "[There Is Nothing To Remember](/2022/09/11/there-is-nothing-to-remember/)"
+
+> So it's clear that the events of that day have fully passed into myth, useful only as rhetoric in a culture war, or as justifications for violence. Nothing epitomizes this more than the fact that, while the memory has faded in culture broadly, it's only brought to the fore in situations like those where most New Yorkers would be targeted.
+
+Two years ago, "[Twenty is a Myth](/2021/09/11/twenty-is-myth/)":
 
 > I can't change how society overall sees this event. To my eternal regret, I couldn't change how we responded in any meaningful way. But I did get to make personal changes, permanently and for the better, and the loss and grief of that day does still motivate me to try to honor the moment by pushing for justice, and care, and an earnest engagement with the world.
 
-Two years ago, [Nineteen is When They Forgot](/2020/09/11/nineteen-is-when-they-forgot/)
+Three years ago, [Nineteen is When They Forgot](/2020/09/11/nineteen-is-when-they-forgot/)
 
 > I do have the experience of having seen this city bounce back from unimaginable pain before. I have seen us respond to attacks on our public life by rebuilding and reimagining public space. I have seen us grieve our losses and rally behind those who cared for those injured, and preserve space in our cultural memory for their pain and sacrifice. By no means have we done enough for all those lost, but it is absolutely true that we can rebuild. We’ve done it before.
 
-Three years ago, [Eighteen is History](/2019/09/11/eighteen-is-history/)
+Four years ago, [Eighteen is History](/2019/09/11/eighteen-is-history/)
 
 > There are ritualized remembrances, largely led by those who weren't  there, those who mostly hate the values that New York City embodies. The  sharpest memories are of the goals of those who masterminded the  attacks. It's easy enough to remember what they wanted, since they  accomplished all their objectives and we live in the world they sought  to create. The empire has been permanently diminished. Never Forget.
 
