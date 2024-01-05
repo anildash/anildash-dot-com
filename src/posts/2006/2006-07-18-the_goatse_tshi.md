@@ -6,7 +6,7 @@ date_updated: 2020-05-01T04:40:02.000Z
 tags: Best Of, Most Popular, random ha-ha
 ---
 
-A little over a year ago, I [wore a funny t-shirt](__GHOST_URL__/2005/06/02/defining_ones_i/) while posing for a photo that was published in [an article](http://www.nytimes.com/2005/06/02/fashion/thursdaystyles/02GOOGLE.html) in the New York Times. The [shirt](http://www.threadless.com/product/235/Goatse)‘s a reference to a popular (and rather offensive) internet meme, and the reaction was immediate and passionate:
+A little over a year ago, I [wore a funny t-shirt](/2005/06/02/defining_ones_i/) while posing for a photo that was published in [an article](http://www.nytimes.com/2005/06/02/fashion/thursdaystyles/02GOOGLE.html) in the New York Times. The [shirt](http://www.threadless.com/product/235/Goatse)‘s a reference to a popular (and rather offensive) internet meme, and the reaction was immediate and passionate:
 
 - “I can’t believe you slipped one over The Man.” – [Grant Barrett](http://www.grantbarrett.com/), author *The Official Dictionary of Unofficial English*
 - “Rather than the scary fragmentation of our society into a nation of disconnected people doing their own thing, I think we’re reforming into thousands of cultural tribes, connected less by geographic proximity and workplace chatter than by shared interests.” – [Chris Anderson](http://longtail.typepad.com/the_long_tail/2005/06/tribal_culture.html), Editor-in-Chief of *Wired* and author of *The Long Tail*.

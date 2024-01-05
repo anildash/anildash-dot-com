@@ -5,20 +5,20 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const NOT_FOUND_PATH = "/app/build/404.html";
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.setTemplateFormats([
-    // Templates:
-    "html",
-    "njk",
-    "md",
-    // Static Assets:
-    "css",
-    "jpeg",
-    "jpg",
-    "png",
-    "svg",
-    "woff",
-    "woff2",
-  ]);
+    eleventyConfig.setTemplateFormats([
+      // Templates:
+      "html",
+      "njk",
+      "md",
+      // Static Assets:
+      "css",
+      "jpeg",
+      "jpg",
+      "png",
+      "svg",
+      "woff",
+      "woff2",
+    ]);
   eleventyConfig.addPassthroughCopy("public");
 
   /* From: https://github.com/artstorm/eleventy-plugin-seo
@@ -29,7 +29,7 @@ module.exports = function (eleventyConfig) {
   */
   const seo = require("./src/seo.json");
   if (seo.url === "glitch-default") {
-    seo.url = `https://anildash.com`;
+    seo.url = `https://www.anildash.com`;
   }
   eleventyConfig.addPlugin(pluginSEO, seo);
   eleventyConfig.addPlugin(pluginRss);

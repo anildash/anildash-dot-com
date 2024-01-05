@@ -13,5 +13,5 @@ This is a blog about how culture is made, continuously updated since 1999. While
   </div>
 
   <figure class="feature-pic" >
-    <div class="feature-pic-image" style="background-image: url(https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anildash-2022.png?v=1669512851303);"> </div>
+    <div class="feature-pic-image" style="background-image: url(https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/headshot-2022-square.jpeg?v=1698766406592);"> </div>
   </figure>
