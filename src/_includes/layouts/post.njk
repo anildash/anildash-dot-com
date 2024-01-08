@@ -23,6 +23,10 @@ templateClass: tmpl-home
     <figure class="heroimage" style="background-image: url({{heroimage}});">
       
     </figure>
+    {% elif image %}
+    <figure class="heroimage" style="background-image: url({{image}});">
+      
+    </figure>
     {% endif %}
   </header>
 
