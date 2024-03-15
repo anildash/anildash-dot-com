@@ -3,7 +3,7 @@ title: The Web We Lost, and Other Losses
 slug: the_web_we_lost_and_other_losses
 date_published: 2013-05-07T17:17:45.000Z
 date_updated: 2013-05-07T17:17:45.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/computerkeyboard.jpg?v=1670561305453
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/computerkeyboard.jpg?v=1670561305453
 tags: [tech, podcasts, web]
 ---
 

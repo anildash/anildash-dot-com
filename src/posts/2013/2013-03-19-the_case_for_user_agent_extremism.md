@@ -3,7 +3,7 @@ title: The Case for User Agent Extremism
 slug: the_case_for_user_agent_extremism
 date_published: 2013-03-19T15:20:02.000Z
 date_updated: 2013-03-19T15:20:02.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/medium_f785c8ecc86771db3afec31e66872d55.png?v=1670477235331
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/medium_f785c8ecc86771db3afec31e66872d55.png?v=1670477235331
 tags: [web, software, tech]
 ---
 

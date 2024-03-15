@@ -3,7 +3,7 @@ title: Ten is Love and Everything After
 slug: ten_is_love_and_everything_after
 date_published: 2011-09-12T02:22:01.000Z
 date_updated: 2018-09-11T22:58:25.000Z
-heroimage: https://cdn.glitch.com/f0e649a1-3610-45f3-885a-217df0379e77%2FWTC-1992-05.png?1536691832926
+image: https://cdn.glitch.com/f0e649a1-3610-45f3-885a-217df0379e77%2FWTC-1992-05.png?1536691832926
 tags: [nyc]
 ---
 

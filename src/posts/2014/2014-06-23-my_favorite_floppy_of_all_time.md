@@ -3,7 +3,7 @@ title: My Favorite Floppy of All Time
 slug: my_favorite_floppy_of_all_time
 date_published: 2014-06-24T03:31:09.000Z
 date_updated: 2021-09-09T05:39:00.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-floppy.jpg?v=1669964516546
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-floppy.jpg?v=1669964516546
 tags: [Best Of, music, tech, Prince]
 ---
 

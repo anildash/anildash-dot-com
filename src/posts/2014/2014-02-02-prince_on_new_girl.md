@@ -3,7 +3,7 @@ title: Prince on New Girl
 slug: prince_on_new_girl
 date_published: 2014-02-03T03:52:24.000Z
 date_updated: 2014-02-03T03:52:24.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/butterfly.gif?v=1670296827319
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/butterfly.gif?v=1670296827319
 tags: [music, Prince]
 ---
 

@@ -3,7 +3,7 @@ title: Have the Hip Hop BBQ
 slug: have_the_hip_hop_bbq
 date_published: 2018-01-19T07:09:53.000Z
 date_updated: 2021-08-02T04:07:53.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/hip-hop-bbq.jpg?v=1669625651678
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/hip-hop-bbq.jpg?v=1669625651678
 tags: [music, policy]
 ---
 

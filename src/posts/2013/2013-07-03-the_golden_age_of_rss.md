@@ -3,7 +3,7 @@ title: The Golden Age of RSS
 slug: the_golden_age_of_rss
 date_published: 2013-07-03T16:31:29.000Z
 date_updated: 2013-07-03T16:31:29.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/RSS-Feed.jpg?v=1670563452624
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/RSS-Feed.jpg?v=1670563452624
 tech: [blogs, web, software]
 ---
 

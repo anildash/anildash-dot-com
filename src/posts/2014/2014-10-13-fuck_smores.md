@@ -3,7 +3,7 @@ title: Fuck Smores
 slug: fuck_smores
 date_published: 2014-10-13T20:15:28.000Z
 date_updated: 2019-11-19T09:31:07.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/regis-hari-bouchard-QzivCWSYEug-unsplash.jpg?v=1670293684609
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/regis-hari-bouchard-QzivCWSYEug-unsplash.jpg?v=1670293684609
 tags: [absurdity, food]
 ---
 

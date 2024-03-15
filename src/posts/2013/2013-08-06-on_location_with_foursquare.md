@@ -3,7 +3,7 @@ title: On Location with Foursquare
 slug: on_location_with_foursquare
 date_published: 2013-08-06T22:01:11.000Z
 date_updated: 2013-08-06T22:01:11.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/foursquare-ball.png?v=1670307069239
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/foursquare-ball.png?v=1670307069239
 tags: [tech]
 ---
 

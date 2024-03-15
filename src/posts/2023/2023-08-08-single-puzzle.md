@@ -1,8 +1,8 @@
 ---
-title: I am the answer to the Single Puzzle
+title: I am the answer to the Single Puzzle.
 slug: i-am-the-answer-to-the-single-puzzle
 date_published: 2023-08-08T20:47:25.000Z
-heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/single-puzzle.png?v=1691543857774
+image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/single-puzzle.png?v=1691543857774
 tags: [absurdity]
 ---
 

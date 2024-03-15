@@ -3,7 +3,7 @@ title: Making the Tech Industry a Force for Good in NYC
 slug: making_the_tech_industry_a_force_for_good_in_nyc
 date_published: 2013-01-22T15:15:41.000Z
 date_updated: 2013-01-22T15:15:41.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/bloomberg-nytech.jpg?v=1670475474975
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/bloomberg-nytech.jpg?v=1670475474975
 tags: [tech, nyc]
 ---
 

@@ -3,7 +3,7 @@ title: The Death Cult Stages a Coup
 slug: the-death-cult-coup
 date_published: 2021-01-07T07:11:00.000Z
 date_updated: 2021-01-07T11:52:22.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/capitol-lights.jpeg?v=1669528860078
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/capitol-lights.jpeg?v=1669528860078
 tags: [culture, policy]
 ---
 

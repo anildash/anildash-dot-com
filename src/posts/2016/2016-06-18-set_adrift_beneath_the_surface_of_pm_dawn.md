@@ -3,7 +3,7 @@ title: "Set Adrift: Beneath the Surface of P.M. Dawn"
 slug: set_adrift_beneath_the_surface_of_pm_dawn
 date_published: 2016-06-19T00:06:55.000Z
 date_updated: 2022-01-14T05:29:05.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-be-silhouette.png?v=1669868759248
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-be-silhouette.png?v=1669868759248
 tags: [music, Best Of, PM Dawn]
 ---
 

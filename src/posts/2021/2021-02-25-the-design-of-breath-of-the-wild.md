@@ -3,7 +3,7 @@ title: Design Choices of Breath of the Wild
 slug: the-design-of-breath-of-the-wild
 date_published: 2021-02-25T10:02:43.000Z
 date_updated: 2021-02-27T23:25:51.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/zelda-window.jpeg?v=1669527405633
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/zelda-window.jpeg?v=1669527405633
 tags: [gaming, culture, design]
 ---
 

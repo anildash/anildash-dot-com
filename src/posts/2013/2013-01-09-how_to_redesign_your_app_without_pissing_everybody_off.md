@@ -3,7 +3,7 @@ title: How to Redesign Your App Without Pissing Everybody Off
 slug: how_to_redesign_your_app_without_pissing_everybody_off
 date_published: 2013-01-09T18:33:44.000Z
 date_updated: 2019-07-23T07:23:49.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/user-generated-discontent.jpg?v=1670400568448
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/user-generated-discontent.jpg?v=1670400568448
 tags: [Best Of, tech, software]
 ---
 

@@ -3,7 +3,7 @@ title: A Much Faster Way to Charge your iPhone
 slug: a-much-faster-way-to-charge-your-iphone-x
 date_published: 2018-08-03T18:11:02.000Z
 date_updated: 2021-08-02T03:40:36.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/usb-c-lightning-thermal.jpg?v=1669624310335
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/usb-c-lightning-thermal.jpg?v=1669624310335
 tags: [iphone, tech, apple]
 ---
 

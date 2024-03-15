@@ -3,7 +3,7 @@ title: Cook These Two Things
 slug: cook-these-two-things
 date_published: 2022-11-15T06:00:47.000Z
 date_updated: 2022-11-15T06:09:48.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/pickled-onions.png?v=1669517076392
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/pickled-onions.png?v=1669517076392
 tags: [personal, food]
 ---
 

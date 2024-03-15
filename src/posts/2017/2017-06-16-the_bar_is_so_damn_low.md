@@ -3,7 +3,7 @@ title: The bar is so damn low.
 slug: the_bar_is_so_damn_low
 date_published: 2017-06-16T16:18:14.000Z
 date_updated: 2018-04-08T05:46:55.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/with-friends-like-these-podcast.jpeg?v=1669785592546
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/with-friends-like-these-podcast.jpeg?v=1669785592546
 tags: [podcasts, culture]
 ---
 

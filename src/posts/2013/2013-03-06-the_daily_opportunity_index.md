@@ -3,7 +3,7 @@ title: The Daily Opportunity Index
 slug: the_daily_opportunity_index
 date_published: 2013-03-06T17:30:25.000Z
 date_updated: 2013-03-06T17:30:25.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/distribution-of-us-stock-market-wealth-2007.png?v=1670477131354
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/distribution-of-us-stock-market-wealth-2007.png?v=1670477131354
 tags: [culture, media]
 ---
 

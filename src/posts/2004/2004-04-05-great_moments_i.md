@@ -3,7 +3,7 @@ title: Great Moments in Advertising
 slug: great_moments_i
 date_published: 2004-04-05T09:04:27.000Z
 date_updated: 2004-04-05T09:04:27.000Z
-heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/Dylan.jpg?v=1679884419089
+image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/Dylan.jpg?v=1679884419089
 tags: "music"
 ---
 

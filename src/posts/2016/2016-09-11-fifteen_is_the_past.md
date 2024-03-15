@@ -3,7 +3,7 @@ title: Fifteen is the past
 slug: fifteen_is_the_past
 date_published: 2016-09-11T13:55:06.000Z
 date_updated: 2018-09-11T22:32:53.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/one-wtc.jpeg?v=1669865495158
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/one-wtc.jpeg?v=1669865495158
 tags: [nyc]
 ---
 

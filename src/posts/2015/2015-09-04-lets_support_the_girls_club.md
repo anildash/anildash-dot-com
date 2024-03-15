@@ -3,7 +3,7 @@ title: Let's Support The Girls Club
 slug: lets_support_the_girls_club
 date_published: 2015-09-04T15:53:18.000Z
 date_updated: 2015-09-04T15:53:18.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Lower-East-Side-Girls-Club.jpg?v=1670032406294
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Lower-East-Side-Girls-Club.jpg?v=1670032406294
 tags: [nyc]
 ---
 

@@ -3,7 +3,7 @@ title: The KLF Burn A Million Quid
 slug: the_klf_burn_a_million
 date_published: 2008-07-22T22:21:18.000Z
 date_updated: 2008-07-22T22:21:18.000Z
-heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/klf-million-quid.jpg?v=1674352718900
+image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/klf-million-quid.jpg?v=1674352718900
 tags: [music, absurdity]
 ---
 

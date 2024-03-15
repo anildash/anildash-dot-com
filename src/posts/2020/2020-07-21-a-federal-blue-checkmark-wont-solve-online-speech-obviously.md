@@ -3,7 +3,7 @@ title: A Federal Blue Checkmark, and Not Learning Lessons
 slug: a-federal-blue-checkmark-wont-solve-online-speech-obviously
 date_published: 2020-07-21T19:51:01.000Z
 date_updated: 2020-07-21T19:51:01.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/passport.jpeg?v=1669582414085
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/passport.jpeg?v=1669582414085
 tags: [tech, culture, web, twitter]
 ---
 

@@ -3,7 +3,7 @@ title: Toward Better Conversations
 slug: toward_better_conversations
 date_published: 2013-01-14T23:00:55.000Z
 date_updated: 2013-01-14T23:00:55.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/branch-screenshot.png?v=1670475285709
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/branch-screenshot.png?v=1670475285709
 tags: [tech]
 ---
 

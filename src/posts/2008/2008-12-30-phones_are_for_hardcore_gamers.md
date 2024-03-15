@@ -3,7 +3,7 @@ title: Phones are For Hardcore Gamers
 slug: phones_are_for_hardcore_gamers
 date_published: 2008-12-30T23:14:35.000Z
 date_updated: 2008-12-30T23:14:35.000Z
-heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/wiimote.jpg?v=1674059109263
+image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/wiimote.jpg?v=1674059109263
 tags: [tech, gaming, nintendo]
 ---
 

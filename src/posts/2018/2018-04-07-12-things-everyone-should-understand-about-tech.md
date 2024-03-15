@@ -3,7 +3,7 @@ title: 12 Things Everyone Should Understand About Tech
 slug: 12-things-everyone-should-understand-about-tech
 date_published: 2018-04-07T04:19:34.000Z
 date_updated: 2021-08-02T04:06:40.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/cassette.jpeg?v=1669625301567
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/cassette.jpeg?v=1669625301567
 tags: [tech, Best Of, Most Popular]
 ---
 

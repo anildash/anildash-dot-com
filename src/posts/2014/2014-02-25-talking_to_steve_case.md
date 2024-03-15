@@ -3,7 +3,7 @@ title: Talking to Steve Case
 slug: talking_to_steve_case
 date_published: 2014-02-26T04:48:29.000Z
 date_updated: 2019-03-25T07:41:18.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/steve-case-ad.jpg?v=1670295154667
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/steve-case-ad.jpg?v=1670295154667
 tags: [tech, aol, steve case]
 ---
 

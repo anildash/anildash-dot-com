@@ -3,7 +3,7 @@ title: Masters in Business
 slug: masters_in_business
 date_published: 2017-12-28T15:27:45.000Z
 date_updated: 2021-08-02T04:08:30.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Masters-in-Business.png?v=1669781728752
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Masters-in-Business.png?v=1669781728752
 tags: [tech, podcasts]
 ---
 

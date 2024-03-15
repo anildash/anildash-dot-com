@@ -3,7 +3,7 @@ title: A Personal Digital Reset
 slug: a-personal-digital-reset
 date_published: 2020-12-31T23:32:07.000Z
 date_updated: 2021-01-01T04:50:05.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/keyboard-closeup.jpeg?v=1669581887215
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/keyboard-closeup.jpeg?v=1669581887215
 tags: [twitter, tech, culture, software, Most Popular]
 ---
 

@@ -3,7 +3,7 @@ title: Keeping Tabs on your Abstractions
 slug: keeping-tabs-on-your-abstractions
 date_published: 2021-01-03T09:48:45.000Z
 date_updated: 2021-01-03T14:20:46.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/file-folders.jpeg?v=1669529571342
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/file-folders.jpeg?v=1669529571342
 tags: [software, tech, web]
 ---
 

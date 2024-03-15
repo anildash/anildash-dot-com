@@ -3,7 +3,7 @@ title: The Power of the Audience
 slug: the_power_of_the_audience
 date_published: 2010-02-13T19:44:56.000Z
 date_updated: 2021-08-19T19:36:16.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/3272079115_2b4df52445_k.jpg?v=1670809557555
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/3272079115_2b4df52445_k.jpg?v=1670809557555
 tags: [Best Of, blogs, tech]
 ---
 

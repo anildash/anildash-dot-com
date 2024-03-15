@@ -3,7 +3,7 @@ title: Twenty Is Myth
 slug: twenty-is-myth
 date_published: 2021-09-11T21:11:27.000Z
 date_updated: 2021-09-11T21:11:27.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Austin-Scherbarth-wtc-myth.jpeg?v=1669526104727
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Austin-Scherbarth-wtc-myth.jpeg?v=1669526104727
 tags: [nyc]
 ---
 

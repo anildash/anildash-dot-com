@@ -3,7 +3,7 @@ title: "It is miraculous."
 slug: it_is_miraculous
 date_published: 2015-08-20T02:16:37.000Z
 date_updated: 2015-08-20T02:16:37.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Salieri-Amadeus.jpg?v=1670032565073
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Salieri-Amadeus.jpg?v=1670032565073
 tags: [music, absurdity]
 ---
 

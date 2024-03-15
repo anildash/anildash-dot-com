@@ -3,7 +3,7 @@ title: Unfollowing Everybody
 slug: unfollowing-everybody
 date_published: 2018-07-13T19:41:09.000Z
 date_updated: 2021-08-02T03:43:43.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anil-dash-unfollow.png?v=1669624499447
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anil-dash-unfollow.png?v=1669624499447
 tags: [twitter]
 ---
 

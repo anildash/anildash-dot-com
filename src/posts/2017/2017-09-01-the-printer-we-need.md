@@ -3,7 +3,7 @@ title: The Printer We Need
 slug: the-printer-we-need
 date_published: 2017-09-01T17:58:00.000Z
 date_updated: 2022-01-14T05:42:32.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/office-space-printer.jpeg?v=1669784248477
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/office-space-printer.jpeg?v=1669784248477
 tags: [tech]
 ---
 

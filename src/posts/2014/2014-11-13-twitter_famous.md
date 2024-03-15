@@ -3,7 +3,7 @@ title: (Twitter) Famous!
 slug: twitter_famous
 date_published: 2014-11-13T20:16:17.000Z
 date_updated: 2014-11-13T20:16:17.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anil-sxsw.jpeg?v=1670106620875
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anil-sxsw.jpeg?v=1670106620875
 tags: [twitter, absurdity]
 ---
 

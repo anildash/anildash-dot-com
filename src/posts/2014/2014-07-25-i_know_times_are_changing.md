@@ -3,7 +3,7 @@ title: I Know Times Are Changing
 slug: i_know_times_are_changing
 date_published: 2014-07-26T03:54:18.000Z
 date_updated: 2022-03-11T19:16:59.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Prince-19830803.jpeg?v=1669964649871
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Prince-19830803.jpeg?v=1669964649871
 tags: [Best Of, Most Popular, music, Prince]
 ---
 

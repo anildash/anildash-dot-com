@@ -3,7 +3,7 @@ title: Forget "Why?", it's time to get to work.
 slug: forget_why_its_time_to_get_to_work
 date_published: 2016-11-09T14:15:06.000Z
 date_updated: 2022-11-17T07:20:16.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/growth.jpeg?v=1669862931067
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/growth.jpeg?v=1669862931067
 tags: [Best Of, Most Popular, policy, culture]
 ---
 

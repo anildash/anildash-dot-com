@@ -3,7 +3,7 @@ title: Taking Flights
 slug: taking_flights
 date_published: 2013-06-18T20:05:57.000Z
 date_updated: 2020-09-15T10:11:25.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/theskies.jpg.webp?v=1670562042718
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/theskies.jpg.webp?v=1670562042718
 tags: [nyc, culture, books]
 ---
 

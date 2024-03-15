@@ -3,7 +3,7 @@ title: "20 Years of Blogging: What I’ve Learned"
 slug: 20-years-of-blogging-what-ive-learned
 date_published: 2019-07-23T07:50:35.000Z
 date_updated: 2021-08-02T03:07:23.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/pawel-czerwinski-not-jupiter.jpeg?v=1669585679659
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/pawel-czerwinski-not-jupiter.jpeg?v=1669585679659
 tags: [Best Of, blogs, culture]
 ---
 

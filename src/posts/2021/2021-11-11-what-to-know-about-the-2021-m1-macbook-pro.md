@@ -3,7 +3,7 @@ title: What to know about the 2021 M1 MacBook Pro
 slug: what-to-know-about-the-2021-m1-macbook-pro
 date_published: 2021-11-11T11:13:10.000Z
 date_updated: 2021-11-11T21:01:47.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Jeremy-Bezanger-macbook-pro.jpeg?v=1669522353112
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Jeremy-Bezanger-macbook-pro.jpeg?v=1669522353112
 tags: [tech, apple]
 ---
 

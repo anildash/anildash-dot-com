@@ -3,7 +3,7 @@ title: Burners, Pollution,  Control & Privacy By A Thousand Cuts
 slug: prying-email
 date_published: 2021-09-30T07:00:42.000Z
 date_updated: 2021-09-30T07:00:42.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Alexander%20Andrews-broken-phone.jpeg?v=1669523043836
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Alexander%20Andrews-broken-phone.jpeg?v=1669523043836
 tags: [tech, software, culture]
 ---
 

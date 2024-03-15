@@ -3,7 +3,7 @@ title: Why Pennsylvanians should vote for Tom Wolf
 slug: why_pennsylvanians_should_vote_for_tom_wolf
 date_published: 2014-11-04T12:03:58.000Z
 date_updated: 2018-10-13T18:14:45.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tom-wolf-orissa-thumb-800xauto-412.jpg?v=1670107289789
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tom-wolf-orissa-thumb-800xauto-412.jpg?v=1670107289789
 tags: [policy]
 ---
 

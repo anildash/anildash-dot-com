@@ -3,7 +3,7 @@ title: A billion dollar gift for Twitter
 slug: a-billion-dollar-gift-for-twitter
 date_published: 2016-12-30T19:21:00.000Z
 date_updated: 2022-10-31T06:25:11.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/twitter-yin-yang.png?v=1669860158356
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/twitter-yin-yang.png?v=1669860158356
 tags: [twitter, tech]
 ---
 

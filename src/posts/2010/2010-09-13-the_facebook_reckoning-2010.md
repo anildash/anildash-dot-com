@@ -3,7 +3,7 @@ title: The Facebook Reckoning
 slug: the_facebook_reckoning-2010
 date_published: 2010-09-13T13:42:26.000Z
 date_updated: 2019-04-30T21:27:05.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/zuckerberg.jpg?v=1670812944977
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/zuckerberg.jpg?v=1670812944977
 tags: [Best Of, Most Popular, tech, facebook]
 ---
 

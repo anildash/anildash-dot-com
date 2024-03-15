@@ -3,7 +3,7 @@ title: Every Day is a Follow Friday
 slug: every-day-is-a-follow-friday
 date_published: 2021-01-02T09:48:13.000Z
 date_updated: 2021-01-02T09:48:13.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/ducks-following.jpeg?v=1669529893324
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/ducks-following.jpeg?v=1669529893324
 tags: [twitter, web]
 ---
 

@@ -3,7 +3,7 @@ title: Remembering Brad L. Graham
 slug: remembering_brad_l_graham
 date_published: 2010-01-11T09:21:36.000Z
 date_updated: 2010-01-11T09:21:36.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/4201-BatmanilandRobrad.jpg?v=1670808812062
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/4201-BatmanilandRobrad.jpg?v=1670808812062
 tags: [personal, blogs]
 ---
 

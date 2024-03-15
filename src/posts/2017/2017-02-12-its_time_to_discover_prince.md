@@ -3,7 +3,7 @@ title: It's time to discover Prince
 slug: its_time_to_discover_prince
 date_published: 2017-02-12T16:53:20.000Z
 date_updated: 2021-08-09T07:00:41.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-herb-ritts.jpg?v=1669786811539
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-herb-ritts.jpg?v=1669786811539
 tags: [Most Popular, music, Best Of, Prince]
 ---
 
@@ -25,7 +25,7 @@ If you’ve never really listened to Prince’s work, there’s a reason his 80s
 
 [Spotify](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | [Apple Music](https://itun.es/us/IM5Wm) | [Amazon](https://music.amazon.com/albums/B0011Z51QG?ref=dm_sh_6f5c-316d-dmcp-c085-9cd69) | [Tidal](https://tidal.com/album/3401126)
 
-It really is that good. Half the songs on the album became hit singles, and the other half would have except they were too sexy.
+It really is that good. Half the songs on the album became hit singles, and the other half would have been except they were too sexy.
 
 ### 1999 (1982)
 
@@ -35,7 +35,7 @@ This one will surprise you. Though Purple Rain has more, bigger hits, this is th
 
 ### Sign O’ The Times (1987)
 
-[Spotify](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | [Apple Music](https://itun.es/us/-c-Rm) | [Amazon](https://music.amazon.com/albums/B001M00DN6?ref=dm_sh_e1a8-c166-dmcp-823c-d4da6) | [Tidal](https://tidal.com/album/50380401)
+[Spotify](https://open.spotify.com/album/0TQG9HCLZGushGzSwvtxC1?si=7gthrCWmTMeDNz5q9R54Yw) | [Apple Music](https://music.apple.com/us/album/sign-o-the-times-super-deluxe-edition/1544308646) | [Amazon](https://music.amazon.com/albums/B08Q8SDHRJ) | [Tidal](https://tidal.com/browse/album/155026707)
 
 If you want to hear Prince at his experimental best, this is almost every hardcore Prince fan’s favorite album.
 

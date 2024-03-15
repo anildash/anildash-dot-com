@@ -3,7 +3,7 @@ title: New York-Style Tech
 slug: new_york-style_tech
 date_published: 2016-07-15T20:00:29.000Z
 date_updated: 2018-04-08T08:23:24.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/nypl-room.jpeg?v=1669865990954
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/nypl-room.jpeg?v=1669865990954
 tags: [tech, nyc]
 ---
 

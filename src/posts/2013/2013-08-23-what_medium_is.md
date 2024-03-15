@@ -3,7 +3,7 @@ title: What Medium Is
 slug: what_medium_is
 date_published: 2013-08-23T18:59:11.000Z
 date_updated: 2013-08-23T18:59:11.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/medium-logos.webp?v=1670307728772
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/medium-logos.webp?v=1670307728772
 tags: [media, blogs, tech, software]
 ---
 

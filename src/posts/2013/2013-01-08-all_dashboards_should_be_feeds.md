@@ -3,7 +3,7 @@ title: All Dashboards Should be Feeds
 slug: all_dashboards_should_be_feeds
 date_published: 2013-01-08T23:33:12.000Z
 date_updated: 2022-10-03T21:49:56.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/whitehouse-going-viral-expanded.PNG?v=1670399889375
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/whitehouse-going-viral-expanded.PNG?v=1670399889375
 tags: [Most Popular, tech, twitter]
 ---
 

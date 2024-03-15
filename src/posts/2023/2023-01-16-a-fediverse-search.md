@@ -2,7 +2,7 @@
 title: How you could build a search that the fediverse would welcome
 slug: a-fediverse-search
 date_published: 2023-01-16T20:00:05.000Z
-heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/traffic-light.jpg?v=1673922589925
+image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/traffic-light.jpg?v=1673922589925
 tags: [tech, web, twitter, fediverse]
 ---
 

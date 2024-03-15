@@ -3,7 +3,7 @@ title: I like blogging software.
 slug: i_like_blogging_software
 date_published: 2013-04-29T18:27:22.000Z
 date_updated: 2013-04-29T18:27:22.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/ghost-kickstarter.jpg.webp?v=1670559878259
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/ghost-kickstarter.jpg.webp?v=1670559878259
 tags: [tech, web, software, blogs]
 ---
 

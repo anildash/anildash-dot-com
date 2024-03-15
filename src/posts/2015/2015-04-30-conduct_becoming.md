@@ -3,7 +3,7 @@ title: Conduct Becoming
 slug: conduct_becoming
 date_published: 2015-04-30T22:26:37.000Z
 date_updated: 2015-04-30T22:26:37.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/99u-2015.webp?v=1670104867534
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/99u-2015.webp?v=1670104867534
 tags: [tech, events]
 ---
 

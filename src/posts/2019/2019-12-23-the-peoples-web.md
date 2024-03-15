@@ -3,7 +3,7 @@ title: The People's Web
 slug: the-peoples-web
 date_published: 2019-12-24T03:21:36.000Z
 date_updated: 2019-12-24T03:22:23.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/airy-library.jpeg?v=1669584686549
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/airy-library.jpeg?v=1669584686549
 tags: [web, culture, tech]
 ---
 

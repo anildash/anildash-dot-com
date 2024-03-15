@@ -3,7 +3,7 @@ title: Star Wars Minute!
 slug: star_wars_minute
 date_published: 2017-11-20T18:20:05.000Z
 date_updated: 2022-05-03T19:52:30.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/star-wars-minute.jpg?v=1669783236961
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/star-wars-minute.jpg?v=1669783236961
 tags: [star wars, film, podcasts]
 ---
 

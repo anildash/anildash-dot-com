@@ -3,7 +3,7 @@ title: "Shushers: Wrong about movies. Wrong about the world."
 slug: shushers_wrong_about_movies_wrong_about_the_world
 date_published: 2013-08-08T05:00:27.000Z
 date_updated: 2018-09-14T16:56:41.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/shushing-theater.jpg?v=1670305836164
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/shushing-theater.jpg?v=1670305836164
 tags: [Most Popular, absurdity, film]
 ---
 

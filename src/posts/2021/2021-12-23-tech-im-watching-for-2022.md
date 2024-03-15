@@ -3,7 +3,7 @@ title: Tech I'm Watching in 2022
 slug: tech-im-watching-for-2022
 date_published: 2021-12-23T23:34:25.000Z
 date_updated: 2021-12-23T23:34:25.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Ugo-Mendes-Donelli-dice.jpeg?v=1669522133491
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Ugo-Mendes-Donelli-dice.jpeg?v=1669522133491
 tags: [tech, software]
 ---
 

@@ -6,7 +6,9 @@
   <a class="post-card-image-link" href="{{ post.url }}">
     
     {% if post.data.heroimage %}
-    <img class="post-card-image" src="{{ post.data.heroimage }}" alt="{{ post.data.title }}" loading="lazy" />
+    <img class="post-card-image heroimage" src="{{ post.data.heroimage }}" alt="{{ post.data.title }}" loading="lazy" />    
+    {% elif post.data.image %}
+    <img class="post-card-image image" src="{{ post.data.image }}" alt="{{ post.data.title }}" loading="lazy" />
     {% endif %}
   </a>
   <div class="post-card-content">

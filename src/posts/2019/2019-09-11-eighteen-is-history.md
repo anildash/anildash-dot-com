@@ -3,7 +3,7 @@ title: Eighteen is History
 slug: eighteen-is-history
 date_published: 2019-09-11T09:17:39.000Z
 date_updated: 2019-09-11T21:49:43.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/towers-of-light.jpeg?v=1669585604529
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/towers-of-light.jpeg?v=1669585604529
 tags: [nyc]
 ---
 

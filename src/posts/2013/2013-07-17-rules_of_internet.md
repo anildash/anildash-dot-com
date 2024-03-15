@@ -3,7 +3,7 @@ title: 10 Rules of Internet
 slug: rules_of_internet
 date_published: 2013-07-17T21:28:52.000Z
 date_updated: 2018-06-25T17:47:21.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/charltonhestonmoses_hdv.jpg?v=1670563705021
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/charltonhestonmoses_hdv.jpg?v=1670563705021
 tags: [Best Of, Most Popular, tech, web]
 ---
 

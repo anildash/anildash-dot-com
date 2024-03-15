@@ -3,7 +3,7 @@ title: Everything U Think Is True
 slug: everything-u-think-is-true
 date_published: 2022-05-17T01:25:36.000Z
 date_updated: 2022-05-17T01:25:36.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/trophies.jpg?v=1669518643619
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/trophies.jpg?v=1669518643619
 tags: [tech, culture, nfts, Prince]
 ---
 

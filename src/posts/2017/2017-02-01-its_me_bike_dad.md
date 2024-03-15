@@ -3,7 +3,7 @@ title: It's me, Bike Dad!
 slug: its_me_bike_dad
 date_published: 2017-02-01T16:47:52.000Z
 date_updated: 2018-04-08T06:05:18.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/E53_St_Citibike_station_loaded_jeh.jpg?v=1669786964129
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/E53_St_Citibike_station_loaded_jeh.jpg?v=1669786964129
 tags: [nyc, transit]
 ---
 

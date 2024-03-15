@@ -3,7 +3,7 @@ title: Putting the Soul in Console
 slug: putting-the-soul-in-console
 date_published: 2019-05-22T07:53:08.000Z
 date_updated: 2021-08-02T03:10:12.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/playdate-device-interior-80.jpg?v=1669585909286
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/playdate-device-interior-80.jpg?v=1669585909286
 tags: [gaming, culture, tech]
 ---
 

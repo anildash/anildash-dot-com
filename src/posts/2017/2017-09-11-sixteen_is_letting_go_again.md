@@ -3,7 +3,7 @@ title: Sixteen is Letting Go Again
 slug: sixteen_is_letting_go_again
 date_published: 2017-09-11T13:07:05.000Z
 date_updated: 2018-09-11T22:31:50.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/oculus-roof.jpeg?v=1669784171416
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/oculus-roof.jpeg?v=1669784171416
 tags: [nyc]
 ---
 

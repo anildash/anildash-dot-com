@@ -3,7 +3,7 @@ title: Getting Embedded
 slug: getting-embedded
 date_published: 2021-08-16T07:33:12.000Z
 date_updated: 2021-08-16T07:34:48.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/embedded-logo-1.png?v=1669526672667
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/embedded-logo-1.png?v=1669526672667
 tags: [tech, web, culture]
 ---
 

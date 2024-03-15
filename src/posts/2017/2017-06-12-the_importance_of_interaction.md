@@ -3,7 +3,7 @@ title: The Importance Of Interaction
 slug: the_importance_of_interaction
 date_published: 2017-06-12T16:05:19.000Z
 date_updated: 2018-04-08T05:48:34.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/community-pulse.png?v=1669785695429
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/community-pulse.png?v=1669785695429
 tags: [tech, podcasts]
 ---
 

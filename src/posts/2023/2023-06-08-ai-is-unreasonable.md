@@ -1,8 +1,8 @@
 ---
-title: "Today's AI is unreasonable"
+title: "Today's AI is unreasonable."
 slug: ai-is-unreasonable
 date_published: 2023-06-08T11:00:05.000Z
-heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/victor-3YW2jxSblE8-unsplash.jpg?v=1686235653044
+image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/victor-3YW2jxSblE8-unsplash.jpg?v=1686235653044
 tags: [tech]
 ---
 

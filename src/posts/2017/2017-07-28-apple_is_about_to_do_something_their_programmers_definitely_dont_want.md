@@ -3,7 +3,7 @@ title: Apple is about to do something their programmers definitely don't want.
 slug: apple_is_about_to_do_something_their_programmers_definitely_dont_want
 date_published: 2017-07-28T15:16:44.000Z
 date_updated: 2018-04-08T08:47:43.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/apple-park-donut.jpg?v=1669784455579
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/apple-park-donut.jpg?v=1669784455579
 tags: [tech]
 ---
 

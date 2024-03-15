@@ -3,7 +3,7 @@ title: Ten Tips Guaranteed to Improve Your Startup Success
 slug: ten_tips_guaranteed_to_improve_your_startup_success
 date_published: 2013-03-28T14:01:47.000Z
 date_updated: 2018-04-09T10:58:58.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/mountaintop.webp?v=1670477680740
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/mountaintop.webp?v=1670477680740
 tags: [Best Of, Most Popular, tech]
 aliases:
 - /anil/2013/03/ten-tips-guaranteed-to-improve-your-startup-success.html

@@ -3,7 +3,7 @@ title: Your Whole Life In One Tweet
 slug: one_line_bios
 date_published: 2010-10-04T04:48:28.000Z
 date_updated: 2021-04-22T20:00:53.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/conan-twitter-bio.png?v=1670823760124
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/conan-twitter-bio.png?v=1670823760124
 tags: [tech, media, software, twitter]
 ---
 

@@ -3,7 +3,7 @@ title: Animated GIFs Triumphant
 slug: animated_gifs_triumphant
 date_published: 2011-07-12T05:03:16.000Z
 date_updated: 2020-05-11T08:05:52.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tumblr_lo0td2lRdj1qzcq51o1_500.gif?v=1670803207299
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tumblr_lo0td2lRdj1qzcq51o1_500.gif?v=1670803207299
 tags: [tech, design, absurdity, Best Of]
 ---
 

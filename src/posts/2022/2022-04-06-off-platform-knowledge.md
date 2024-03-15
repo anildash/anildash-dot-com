@@ -3,7 +3,7 @@ title: Community Safety and Ignoring the World
 slug: off-platform-knowledge
 date_published: 2022-04-06T08:52:42.000Z
 date_updated: 2022-04-07T04:44:14.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/%20David-Taffet-dog.jpeg?v=1669519663487
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/%20David-Taffet-dog.jpeg?v=1669519663487
 tags: [twitter, tech, policy, web]
 ---
 
