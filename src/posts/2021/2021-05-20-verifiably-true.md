@@ -3,7 +3,7 @@ title: Verifiably True
 slug: verifiably-true
 date_published: 2021-05-21T01:19:51.000Z
 date_updated: 2021-08-02T01:39:01.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/verified.jpg?v=1669526964731
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/verified.jpg?v=1669526964731
 tags: [twitter, culture, tech]
 ---
 

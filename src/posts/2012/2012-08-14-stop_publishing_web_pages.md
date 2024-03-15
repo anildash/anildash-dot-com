@@ -3,7 +3,7 @@ title: Stop Publishing Web Pages
 slug: stop_publishing_web_pages
 date_published: 2012-08-14T21:03:26.000Z
 date_updated: 2018-04-21T08:20:10.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/stream-wireframes.png?v=1670729826246
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/stream-wireframes.png?v=1670729826246
 tags: [media, tech, web]
 ---
 

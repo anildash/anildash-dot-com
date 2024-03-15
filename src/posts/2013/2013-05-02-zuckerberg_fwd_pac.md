@@ -3,7 +3,7 @@ title: "Zuckerberg's FWD: Making Sure They Get It Right"
 slug: zuckerberg_fwd_pac
 date_published: 2013-05-02T18:00:32.000Z
 date_updated: 2013-05-02T18:00:32.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fwd-us-logo.jpeg.webp?v=1670560884310
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fwd-us-logo.jpeg.webp?v=1670560884310
 tags: [tech, policy]
 ---
 

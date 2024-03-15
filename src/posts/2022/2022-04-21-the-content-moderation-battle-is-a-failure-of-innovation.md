@@ -3,7 +3,7 @@ title: The content moderation battle is a failure of innovation
 slug: the-content-moderation-battle-is-a-failure-of-innovation
 date_published: 2022-04-22T00:46:42.000Z
 date_updated: 2022-04-22T00:47:33.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/light-field.jpeg?v=1669519480985
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/light-field.jpeg?v=1669519480985
 tags: [twitter, policy, tech, culture]
 ---
 

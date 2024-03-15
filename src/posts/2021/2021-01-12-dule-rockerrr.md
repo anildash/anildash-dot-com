@@ -3,7 +3,7 @@ title: Dule Rockerrr
 slug: dule-rockerrr
 date_published: 2021-01-12T08:58:19.000Z
 date_updated: 2021-08-02T02:51:18.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/dule-rocker.jpg?v=1669528611352
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/dule-rocker.jpg?v=1669528611352
 tags: [culture, music]
 ---
 

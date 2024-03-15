@@ -1,9 +1,9 @@
 ---
-title: There is nothing to remember
+title: "There is nothing to remember."
 slug: there-is-nothing-to-remember
 date_published: 2022-09-11T05:25:09.000Z
 date_updated: 2022-09-11T05:25:09.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tomas-martinez-wtc.jpeg?v=1669518151801
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tomas-martinez-wtc.jpeg?v=1669518151801
 tags: [nyc]
 ---
 

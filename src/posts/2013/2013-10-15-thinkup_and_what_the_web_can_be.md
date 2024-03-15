@@ -3,7 +3,7 @@ title: ThinkUp and What the Web Can Be
 slug: thinkup_and_what_the_web_can_be
 date_published: 2013-10-15T19:40:31.000Z
 date_updated: 2013-10-15T19:40:31.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/thinkup-logo-ss-1920.png?v=1670302781353
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/thinkup-logo-ss-1920.png?v=1670302781353
 tags: [Best Of, tech, twitter, web]
 ---
 

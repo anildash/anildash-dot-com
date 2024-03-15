@@ -3,7 +3,7 @@ title: Beyond Doing Half the Parenting
 slug: beyond_doing_half_the_parenting
 date_published: 2015-11-25T17:42:59.000Z
 date_updated: 2015-11-25T17:42:59.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/malcolm-on-drums.jpg?v=1669958367128
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/malcolm-on-drums.jpg?v=1669958367128
 tags: [Most Popular, personal]
 ---
 

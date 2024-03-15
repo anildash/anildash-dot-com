@@ -3,7 +3,7 @@ title: The Web We Lost
 slug: the_web_we_lost
 date_published: 2012-12-13T19:24:09.000Z
 date_updated: 2022-01-13T18:59:32.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anil-dash-berkman-crop.jpg?v=1670196932302
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anil-dash-berkman-crop.jpg?v=1670196932302
 tags: [Best Of, Most Popular, tech, culture, web]
 ---
 

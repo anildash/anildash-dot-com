@@ -3,7 +3,7 @@ title: "Recommended: Ted Lasso"
 slug: recommended-ted-lasso
 date_published: 2021-01-04T07:41:35.000Z
 date_updated: 2021-08-02T02:53:32.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/grass-net.jpeg?v=1670564048193
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/grass-net.jpeg?v=1670564048193
 tags: [culture]
 ---
 

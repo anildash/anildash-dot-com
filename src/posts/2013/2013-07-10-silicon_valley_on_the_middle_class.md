@@ -3,7 +3,7 @@ title: Silicon Valley on the Middle Class and Unions
 slug: silicon_valley_on_the_middle_class
 date_published: 2013-07-10T18:29:54.000Z
 date_updated: 2013-07-10T18:29:54.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/paulgraham_2202_8322705.jpeg?v=1670563534484
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/paulgraham_2202_8322705.jpeg?v=1670563534484
 tags: [tech, Best Of]
 ---
 

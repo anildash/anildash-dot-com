@@ -3,7 +3,7 @@ title: It's hard to build a good web
 slug: its_hard_to_build_a_good_web
 date_published: 2014-11-20T01:39:09.000Z
 date_updated: 2019-07-23T07:19:09.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/good-web-bundle-logo-alt.svg?v=1670105426057
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/good-web-bundle-logo-alt.svg?v=1670105426057
 tags: [web, tech]
 ---
 

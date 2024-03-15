@@ -3,7 +3,7 @@ title: What a Relief!
 slug: what_a_relief
 date_published: 2007-10-16T22:53:00.000Z
 date_updated: 2007-10-16T22:53:00.000Z
-heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/CRLA.jpg?v=1675491497214
+image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/CRLA.jpg?v=1675491497214
 tags: [absurdity]
 ---
 

@@ -3,7 +3,7 @@ title: A little less rocking with you...
 slug: a_little_less_rocking_with_you
 date_published: 2015-10-10T16:15:38.000Z
 date_updated: 2022-11-20T07:32:12.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/rock-with-you-single.jpg?v=1669920294288
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/rock-with-you-single.jpg?v=1669920294288
 tags: [Best Of, music]
 ---
 

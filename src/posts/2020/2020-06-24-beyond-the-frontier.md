@@ -3,7 +3,7 @@ title: Beyond the Frontier
 slug: beyond-the-frontier
 date_published: 2020-06-24T19:40:28.000Z
 date_updated: 2020-06-24T21:19:16.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/surveillance-camera.jpeg?v=1669582586845
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/surveillance-camera.jpeg?v=1669582586845
 tags: [EFF, tech, culture]
 ---
 

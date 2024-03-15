@@ -3,7 +3,7 @@ title: The Creative Environment
 slug: the_creative_environment
 date_published: 2008-04-14T12:43:49.000Z
 date_updated: 2008-04-14T12:43:49.000Z
-heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/travis-isaacs-workspace.jpg?v=1674631135163
+image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/travis-isaacs-workspace.jpg?v=1674631135163
 tags: [Best Of, tech]
 ---
 

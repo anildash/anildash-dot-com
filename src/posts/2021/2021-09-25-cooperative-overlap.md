@@ -3,7 +3,7 @@ title: Cooperative Overlap
 slug: cooperative-overlap
 date_published: 2021-09-26T01:35:31.000Z
 date_updated: 2021-09-26T01:35:31.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Mika-Baumeister-speech-bubbles.jpeg?v=1669524180647
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Mika-Baumeister-speech-bubbles.jpeg?v=1669524180647
 tags: [culture]
 ---
 

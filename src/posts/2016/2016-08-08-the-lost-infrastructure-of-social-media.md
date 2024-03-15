@@ -3,7 +3,7 @@ title: The lost infrastructure of social media.
 slug: the-lost-infrastructure-of-social-media
 date_published: 2016-08-08T21:51:00.000Z
 date_updated: 2022-11-17T06:43:38.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tiles.jpeg?v=1669865733893
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tiles.jpeg?v=1669865733893
 tags: [blogging, search, social media, twitter, tech]
 ---
 

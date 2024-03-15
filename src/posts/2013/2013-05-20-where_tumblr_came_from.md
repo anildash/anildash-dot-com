@@ -3,7 +3,7 @@ title: Where Tumblr Came From
 slug: where_tumblr_came_from
 date_published: 2013-05-20T16:33:32.000Z
 date_updated: 2018-04-21T11:04:27.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tumblr-oct-2007.png?v=1670561542680
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tumblr-oct-2007.png?v=1670561542680
 tags: [tech, blogs, tumblr]
 ---
 

@@ -3,7 +3,7 @@ title: Hold The Door Open
 slug: hold_the_door_open
 date_published: 2013-04-25T15:44:08.000Z
 date_updated: 2013-04-25T15:44:08.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/peter-herrmann-hT4R4jR7W2s-unsplash.jpg?v=1670559723735
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/peter-herrmann-hT4R4jR7W2s-unsplash.jpg?v=1670559723735
 tags: [tech]
 ---
 

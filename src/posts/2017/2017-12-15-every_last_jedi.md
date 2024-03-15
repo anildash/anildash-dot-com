@@ -3,7 +3,7 @@ title: Every Last Jedi
 slug: every_last_jedi
 date_published: 2017-12-16T04:34:27.000Z
 date_updated: 2021-08-02T04:08:50.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/4k-leia-star-wars-the-last-jedi-carrie-fisher-2630.jpg?v=1669781859688
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/4k-leia-star-wars-the-last-jedi-carrie-fisher-2630.jpg?v=1669781859688
 tags: [star wars, film]
 ---
 

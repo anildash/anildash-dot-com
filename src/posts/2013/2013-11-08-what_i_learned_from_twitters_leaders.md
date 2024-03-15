@@ -3,7 +3,7 @@ title: What I Learned From Twitter's Leaders
 slug: what_i_learned_from_twitters_leaders
 date_published: 2013-11-08T23:48:38.000Z
 date_updated: 2013-11-08T23:48:38.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Twitter-IPO.webp?v=1670302675172
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Twitter-IPO.webp?v=1670302675172
 tags: [Most Popular, tech, twitter]
 ---
 

@@ -3,7 +3,7 @@ title: There is no "technology industry"
 slug: there_is_no_technology_industry
 date_published: 2016-08-19T17:07:44.000Z
 date_updated: 2022-01-14T05:38:38.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/honeycomb.jpg?v=1669865590169
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/honeycomb.jpg?v=1669865590169
 tags: [Best Of, tech]
 ---
 

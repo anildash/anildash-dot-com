@@ -3,7 +3,7 @@ title: A Little Bit of Control
 slug: a_little_bit_of_control
 date_published: 2012-10-19T21:07:42.000Z
 date_updated: 2012-10-19T21:07:42.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/virgin-america.jpg?v=1670798419785
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/virgin-america.jpg?v=1670798419785
 tags: [personal]
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "The Web Renaissance Takes Off"
+title: "The Web Renaissance takes off"
 slug: human-web-renaissance
 date_published: 2024-01-03T00:10:05.000Z
 image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/markus-bluthner.jpg?v=1704264364518

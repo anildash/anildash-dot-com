@@ -3,7 +3,7 @@ title: Comedy Hack Day!
 slug: comedy_hack_day
 date_published: 2015-05-19T16:44:10.000Z
 date_updated: 2015-05-19T16:44:10.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/comedy-hack-day.png?v=1670104491951
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/comedy-hack-day.png?v=1670104491951
 tags: [absurdity]
 ---
 

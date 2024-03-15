@@ -3,7 +3,7 @@ title: Heaven, Hell, Marvin, Prince and the Party
 slug: heaven_hell_marvin_prince_and_the_pious_party
 date_published: 2013-01-04T23:12:09.000Z
 date_updated: 2018-08-12T06:22:46.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/barnes-sugarshack1.jpg?v=1670398946641
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/barnes-sugarshack1.jpg?v=1670398946641
 tags: [Best Of, music, Prince, Marvin Gaye]
 ---
 

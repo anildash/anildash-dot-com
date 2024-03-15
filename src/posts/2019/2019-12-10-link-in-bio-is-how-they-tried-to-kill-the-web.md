@@ -3,7 +3,7 @@ title: “Link In Bio” is a slow knife
 slug: link-in-bio-is-how-they-tried-to-kill-the-web
 date_published: 2019-12-10T19:29:56.000Z
 date_updated: 2020-03-21T22:43:39.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/slow-knife.jpeg?v=1669584763145
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/slow-knife.jpeg?v=1669584763145
 tags: [Best Of, Most Popular, web, culture, tech, design]
 ---
 

@@ -3,7 +3,7 @@ title: It's more than just "teach kids to code"
 slug: its_more_than_just_teach_kids_to_code
 date_published: 2016-09-14T13:32:04.000Z
 date_updated: 2022-11-20T07:17:58.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/notebook-notebook.jpeg?v=1669865122148
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/notebook-notebook.jpeg?v=1669865122148
 tags: [Best Of, tech, policy]
 ---
 

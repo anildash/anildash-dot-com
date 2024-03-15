@@ -3,7 +3,7 @@ title: Three Years Under Our Thumbs
 slug: three_years_under_our_thumbs
 date_published: 2013-11-15T22:00:38.000Z
 date_updated: 2013-11-15T22:00:38.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/malcolm-bridge.jpeg?v=1670302039375
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/malcolm-bridge.jpeg?v=1670302039375
 tags: [Best Of, tech]
 ---
 

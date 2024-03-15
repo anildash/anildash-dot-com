@@ -3,7 +3,7 @@ title: A primer on South Asians and Desis
 slug: a-primer-on-south-asians-and-desis
 date_published: 2019-11-21T11:30:03.000Z
 date_updated: 2020-11-09T20:38:00.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fort.jpeg?v=1669585048076
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fort.jpeg?v=1669585048076
 tags: [culture]
 ---
 

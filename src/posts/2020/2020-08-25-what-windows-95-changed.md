@@ -3,7 +3,7 @@ title: What Windows 95 Changed
 slug: what-windows-95-changed
 date_published: 2020-08-25T19:29:46.000Z
 date_updated: 2020-12-14T20:37:49.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/windows-95-future.jpeg?v=1669582109489
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/windows-95-future.jpeg?v=1669582109489
 tags: [tech, culture, software]
 ---
 

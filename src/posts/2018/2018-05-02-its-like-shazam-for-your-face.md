@@ -3,7 +3,7 @@ title: It's like Shazam — for your face!
 slug: its-like-shazam-for-your-face
 date_published: 2018-05-02T18:21:48.000Z
 date_updated: 2021-08-02T04:03:44.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/record-player.jpg?v=1669625212456
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/record-player.jpg?v=1669625212456
 tags: [music, glitch]
 ---
 

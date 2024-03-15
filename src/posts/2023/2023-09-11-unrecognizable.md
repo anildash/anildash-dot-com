@@ -3,7 +3,7 @@ title: It's unrecognizable
 slug: its-unrecognizable
 date_published: 2023-09-11T16:25:09.000Z
 date_updated: 2023-09-11T16:25:09.000Z
-heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/tomas-martinez-wtc-nyc.jpg?v=1694471884095
+image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/tomas-martinez-wtc-nyc.jpg?v=1694471884095
 tags: [nyc]
 ---
 

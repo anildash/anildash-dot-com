@@ -3,7 +3,7 @@ title: On "inventing NFTs" and how we don't have any good way to talk about tech
 slug: i-didnt-invent-nfts-but-we-dont-really-have-any-other-way-to-talk-about-tech
 date_published: 2021-11-15T04:56:17.000Z
 date_updated: 2021-11-15T07:32:40.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/bady-abbas-lights.jpeg?v=1669522236867
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/bady-abbas-lights.jpeg?v=1669522236867
 tags: [tech, nfts, culture]
 ---
 

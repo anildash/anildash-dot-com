@@ -3,7 +3,7 @@ title: Clouds for People, or the Consumerization of the Cloud
 slug: clouds_for_people_or_the_consumerization_of_the_cloud
 date_published: 2012-06-28T17:52:22.000Z
 date_updated: 2012-06-28T17:52:22.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/google-cloud-engine.png?v=1670724296899
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/google-cloud-engine.png?v=1670724296899
 tags: [tech, web]
 ---
 

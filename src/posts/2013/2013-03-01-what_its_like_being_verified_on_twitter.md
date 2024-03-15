@@ -3,7 +3,7 @@ title: What It's Like Being Verified on Twitter
 slug: what_its_like_being_verified_on_twitter
 date_published: 2013-03-01T19:57:07.000Z
 date_updated: 2018-07-13T19:53:41.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tverified-10-confirmation.png?v=1670476503039
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tverified-10-confirmation.png?v=1670476503039
 tags: [Best Of, Most Popular, tech, twitter]
 ---
 

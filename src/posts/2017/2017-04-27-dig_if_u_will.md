@@ -3,7 +3,7 @@ title: Dig, If U Will...
 slug: dig_if_u_will
 date_published: 2017-04-28T03:21:59.000Z
 date_updated: 2018-04-08T05:49:52.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/dig-if-u-will-podcast.jpeg?v=1669785890436
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/dig-if-u-will-podcast.jpeg?v=1669785890436
 tags: [music, Prince, podcasts]
 ---
 

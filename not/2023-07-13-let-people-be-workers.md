@@ -2,7 +2,7 @@
 title: "Let people be workers"
 slug: let-people-be-workers
 date_published: 2023-07-13T20:00:05.000Z
-heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/chairs.jpg?v=1689273453967
+heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/chairs.jpg?v=1706587846122
 tags: [tech]
 ---
 

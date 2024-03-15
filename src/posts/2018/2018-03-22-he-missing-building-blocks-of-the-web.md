@@ -3,7 +3,7 @@ title: The Missing Building Blocks of the Web
 slug: he-missing-building-blocks-of-the-web
 date_published: 2018-03-22T21:00:00.000Z
 date_updated: 2021-08-02T03:46:46.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/building-blocks-berries-01.jpeg?v=1669625487351
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/building-blocks-berries-01.jpeg?v=1669625487351
 tags: [tech, web, html, blogs]
 ---
 

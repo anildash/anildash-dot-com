@@ -3,7 +3,7 @@ title: If your website's full of assholes, it's your fault
 slug: if_your_websites_full_of_assholes_its_your_fault-2
 date_published: 2011-07-20T21:13:33.000Z
 date_updated: 2019-07-23T06:48:42.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/walking.jpg?v=1670196131056
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/walking.jpg?v=1670196131056
 tags: [Best Of, Most Popular, tech, culture, twitter]
 ---
 

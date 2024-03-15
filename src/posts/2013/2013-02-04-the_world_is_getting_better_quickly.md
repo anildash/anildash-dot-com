@@ -3,7 +3,7 @@ title: The World is Getting Better. Quickly.
 slug: the_world_is_getting_better_quickly
 date_published: 2013-02-04T21:55:40.000Z
 date_updated: 2013-02-04T21:55:40.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/un-dev-goals.png?v=1670476018247
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/un-dev-goals.png?v=1670476018247
 tags: [tech, policy, culture]
 ---
 

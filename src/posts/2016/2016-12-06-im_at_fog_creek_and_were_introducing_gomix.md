@@ -3,7 +3,7 @@ title: I'm at Fog Creek. And we're introducing Glitch!
 slug: im_at_fog_creek_and_were_introducing_gomix
 date_published: 2016-12-06T13:27:01.000Z
 date_updated: 2018-04-17T17:42:12.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fog-creek-product-history.png?v=1669862394565
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/fog-creek-product-history.png?v=1669862394565
 tags: [tech, software, glitch]
 ---
 

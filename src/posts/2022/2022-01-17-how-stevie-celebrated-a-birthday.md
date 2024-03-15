@@ -3,7 +3,7 @@ title: How Stevie Celebrates a Birthday
 slug: how-stevie-celebrated-a-birthday
 date_published: 2022-01-17T21:07:00.000Z
 date_updated: 2022-01-19T11:29:39.000Z
-heroimage: https://cdn.glitch.global/98f9ae05-a402-4da9-9cb1-88a05470f35a/Raffaele-Nicolussi-mlk-memorial.jpeg?v=1669498844228
+image: https://cdn.glitch.global/98f9ae05-a402-4da9-9cb1-88a05470f35a/Raffaele-Nicolussi-mlk-memorial.jpeg?v=1669498844228
 tags: [music, Stevie Wonder, policy]
 ---
 

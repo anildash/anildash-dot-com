@@ -3,7 +3,7 @@ title: Let's Meet! Or, How To Pursue Serendipity
 slug: lets_meet_or_how_to_pursue_serendipity
 date_published: 2013-06-24T20:40:54.000Z
 date_updated: 2013-06-24T20:40:54.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/gt-room.jpg?v=1670563355612
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/gt-room.jpg?v=1670563355612
 tags: [nyc, personal]
 ---
 

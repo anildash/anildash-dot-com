@@ -3,7 +3,7 @@ title: Another Round on me!
 slug: another_round_on_me
 date_published: 2016-10-06T16:59:00.000Z
 date_updated: 2022-11-20T07:41:15.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anotherround-012.jpg?v=1669865033780
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anotherround-012.jpg?v=1669865033780
 tags: [Best Of, podcasts]
 ---
 

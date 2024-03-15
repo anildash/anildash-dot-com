@@ -3,7 +3,7 @@ title: Questlove's Prince Tribute
 slug: questloves-prince-tribute
 date_published: 2020-04-22T06:42:00.000Z
 date_updated: 2020-05-07T08:09:37.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-mural.jpeg?v=1669583864980
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-mural.jpeg?v=1669583864980
 tags: [music, Prince, questlove]
 ---
 

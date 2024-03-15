@@ -3,7 +3,7 @@ title: "Prince & The Revolution: The COVID-19 Solidarity Response Fund Livestrea
 slug: live-prince-and-the-revolution
 date_published: 2020-05-14T03:57:00.000Z
 date_updated: 2020-05-15T04:02:40.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/purple-skies.jpeg?v=1669582695971
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/purple-skies.jpeg?v=1669582695971
 tags: [music, Prince]
 ---
 

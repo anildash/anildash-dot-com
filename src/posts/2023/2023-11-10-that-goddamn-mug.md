@@ -2,7 +2,7 @@
 title: "That goddamn mug"
 slug: that-goddamn-mug
 date_published: 2023-07-13T20:00:05.000Z
-heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/white-mug.jpg?v=1699633792846
+image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/white-mug.jpg?v=1699633792846
 tags: [absurdity]
 ---
 

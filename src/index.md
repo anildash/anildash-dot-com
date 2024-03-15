@@ -8,7 +8,7 @@ layout: layouts/home.njk
  
 I’m a tech entrepreneur and writer trying to make the technology world more thoughtful, creative and humane. You can read more [about me](/about) here.
   
-This is a blog about how culture is made, continuously updated since 1999. While you're here, check out my writing about [tech](/tags/tech), [Prince](/tags/Prince), or the [Best Of](/tags/Best%20Of) the first 23 years of this blog.
+This is a blog about how culture is made, continuously updated since 1999. While you're here, check out my writing about [tech](/tags/tech), [Prince](/tags/Prince), or the [Best Of](/tags/Best%20Of) the first 25 years of this blog.
 
   </div>
 

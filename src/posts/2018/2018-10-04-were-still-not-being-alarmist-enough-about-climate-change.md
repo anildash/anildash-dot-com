@@ -3,7 +3,7 @@ title: We’re (still) not being alarmist enough about climate change
 slug: were-still-not-being-alarmist-enough-about-climate-change
 date_published: 2018-10-04T07:56:02.000Z
 date_updated: 2021-08-02T03:16:45.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/flooding.jpeg?v=1669624048650
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/flooding.jpeg?v=1669624048650
 tags: [climate, nyc]
 ---
 

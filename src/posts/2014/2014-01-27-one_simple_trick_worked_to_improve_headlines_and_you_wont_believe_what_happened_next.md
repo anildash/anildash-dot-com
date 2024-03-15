@@ -3,7 +3,7 @@ title: One Simple Trick Worked to Improve Headlines, and You Won't Believe What 
 slug: one_simple_trick_worked_to_improve_headlines_and_you_wont_believe_what_happened_next
 date_published: 2014-01-27T16:40:10.000Z
 date_updated: 2014-01-27T16:40:10.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/upworthy.jpeg?v=1670297976672
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/upworthy.jpeg?v=1670297976672
 tags: [media, tech]
 ---
 

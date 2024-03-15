@@ -3,7 +3,7 @@ title: Nobody Famous
 slug: nobody_famous
 date_published: 2015-05-24T19:25:22.000Z
 date_updated: 2022-11-20T07:38:24.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/nobody-famous.jpeg?v=1669939074989
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/nobody-famous.jpeg?v=1669939074989
 tags: [Best Of, Most Popular, twitter]
 ---
 

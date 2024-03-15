@@ -3,7 +3,7 @@ title: XOXO and Reckoning With Nice
 slug: xoxo_and_reckoning_with_nice
 date_published: 2013-09-27T17:17:31.000Z
 date_updated: 2013-09-27T17:17:31.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/XOXO-2013-041.jpg?v=1670303614458
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/XOXO-2013-041.jpg?v=1670303614458
 tags: [tech, events]
 ---
 

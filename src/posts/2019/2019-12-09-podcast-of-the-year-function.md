@@ -3,7 +3,7 @@ title: "Podcast of the Year: Function"
 slug: podcast-of-the-year-function
 date_published: 2019-12-09T19:30:28.000Z
 date_updated: 2019-12-09T19:31:16.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/airpods.jpeg?v=1669584885063
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/airpods.jpeg?v=1669584885063
 tags: [podcasts]
 ---
 

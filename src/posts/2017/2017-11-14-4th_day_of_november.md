@@ -3,7 +3,7 @@ title: 4th Day of November...
 slug: 4th_day_of_november
 date_published: 2017-11-14T17:43:24.000Z
 date_updated: 2018-04-08T04:48:30.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-anil-1024x1024.jpg?v=1669783413614
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-anil-1024x1024.jpg?v=1669783413614
 tags: [Prince, music, podcasts, culture]
 ---
 

@@ -3,7 +3,7 @@ title: We're just trying to be non-terrible!
 slug: were_just_trying_to_be_non-terrible
 date_published: 2017-05-01T20:36:57.000Z
 date_updated: 2018-04-08T05:53:40.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/stack-overflow-podcast.jpg?v=1669785802153
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/stack-overflow-podcast.jpg?v=1669785802153
 tags: [tech, software, podcasts]
 ---
 

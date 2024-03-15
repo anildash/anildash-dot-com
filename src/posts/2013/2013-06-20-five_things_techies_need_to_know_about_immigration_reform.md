@@ -3,7 +3,7 @@ title: Five Things Techies Need To Know About Immigration Reform
 slug: five_things_techies_need_to_know_about_immigration_reform
 date_published: 2013-06-20T14:21:11.000Z
 date_updated: 2013-06-20T14:21:11.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/guide_to_s744_corker_hoeven_final_12-02-13.jpg?v=1670562328685
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/guide_to_s744_corker_hoeven_final_12-02-13.jpg?v=1670562328685
 tags: [tech, policy]
 ---
 

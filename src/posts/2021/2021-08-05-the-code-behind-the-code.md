@@ -3,7 +3,7 @@ title: The Code Behind The Code
 slug: the-code-behind-the-code
 date_published: 2021-08-05T05:28:33.000Z
 date_updated: 2021-08-05T05:28:33.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Charanjit-Chana-d-pad.jpg?v=1669526899195
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Charanjit-Chana-d-pad.jpg?v=1669526899195
 tags: [gaming, tech, software]
 ---
 

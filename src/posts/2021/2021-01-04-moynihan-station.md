@@ -3,7 +3,7 @@ title: Exploring Moynihan Station
 slug: moynihan-station
 date_published: 2021-01-05T04:37:00.000Z
 date_updated: 2021-08-02T02:52:47.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/moynihan.JPG?v=1669529079506
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/moynihan.JPG?v=1669529079506
 tags: [nyc, transit]
 ---
 

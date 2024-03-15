@@ -3,7 +3,7 @@ title: How do we reform tech?
 slug: how_do_we_reform_tech
 date_published: 2016-10-06T16:59:53.000Z
 date_updated: 2022-01-14T05:35:23.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/screen-of-code.jpeg?v=1669864782607
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/screen-of-code.jpeg?v=1669864782607
 tags: [tech, Best Of]
 ---
 

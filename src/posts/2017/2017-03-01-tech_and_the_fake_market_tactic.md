@@ -3,7 +3,7 @@ title: Tech and the Fake Market tactic
 slug: tech_and_the_fake_market_tactic
 date_published: 2017-03-01T17:33:44.000Z
 date_updated: 2021-10-25T22:23:14.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/smashed-monitor.jpeg?v=1669786278771
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/smashed-monitor.jpeg?v=1669786278771
 tags: [Best Of, Most Popular, tech]
 ---
 

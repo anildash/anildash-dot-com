@@ -3,7 +3,7 @@ title: Bringing Water to A Town Like Ours
 slug: bringing_water_to_a_town_like_ours
 date_published: 2013-08-22T17:52:53.000Z
 date_updated: 2013-08-22T17:52:53.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/charity-water.png?v=1670305303133
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/charity-water.png?v=1670305303133
 tags: [Best Of, Most Popular, water]
 ---
 

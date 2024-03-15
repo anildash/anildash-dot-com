@@ -4,7 +4,7 @@ slug: the_pushbutton_web_realtime_becomes_real
 date_published: 2009-07-24T12:34:55.000Z
 date_updated: 2009-07-24T12:34:55.000Z
 tags: [Best Of, Most Popular, tech, blogs]
-heroimage: https://cdn.glitch.global/0702605b-00dd-404e-8996-743dade19acb/pushbutton-delivery.png?v=1671507589941
+image: https://cdn.glitch.global/0702605b-00dd-404e-8996-743dade19acb/pushbutton-delivery.png?v=1671507589941
 ---
 
 **Pushbutton** is a name for what I believe will be an upgrade for the web, where any site or application can deliver realtime messages to a web-scale audience, using free and open technologies at low cost and without relying on any single company like Twitter or Facebook. The pieces of this platform have just come together to enable a whole set of new features and applications that would have been nearly impossible for an average web developer to build in the past.

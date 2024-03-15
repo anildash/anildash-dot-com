@@ -3,7 +3,7 @@ title: "\"The goal is to make you act like less of a jerk online.\""
 slug: the_goal_is_to_make_you_act_like_less_of_a_jerk_online
 date_published: 2015-01-02T17:38:18.000Z
 date_updated: 2015-01-02T17:38:18.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/01state-pic-superJumbo.jpg?v=1669942510333
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/01state-pic-superJumbo.jpg?v=1669942510333
 tags: [twitter, tech, culture]
 ---
 

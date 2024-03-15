@@ -3,7 +3,7 @@ title: Rat On The Tracks
 slug: rat_on_the_tracks
 date_published: 2014-04-08T13:13:58.000Z
 date_updated: 2014-04-08T13:13:58.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/slyfox-photography-BYtFC4Iyk0c-unsplash.jpg?v=1670294659242
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/slyfox-photography-BYtFC4Iyk0c-unsplash.jpg?v=1670294659242
 tags: [nyc, personal]
 ---
 

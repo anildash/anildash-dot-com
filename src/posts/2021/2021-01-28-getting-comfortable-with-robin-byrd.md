@@ -3,7 +3,7 @@ title: Getting Comfortable with Robin Byrd
 slug: getting-comfortable-with-robin-byrd
 date_published: 2021-01-28T09:02:08.000Z
 date_updated: 2021-08-02T02:50:52.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Robin-Byrd-show.jpeg?v=1669528407903
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Robin-Byrd-show.jpeg?v=1669528407903
 tags: [nyc, culture]
 ---
 

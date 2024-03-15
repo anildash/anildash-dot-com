@@ -2,7 +2,7 @@
 title: "What was selling out?"
 slug: what-was-selling-out
 date_published: 2023-04-18T20:00:05.000Z
-heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/sold-out.jpg?v=1678846434828
+image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/sold-out.jpg?v=1678846434828
 tags: [music, culture]
 ---
 

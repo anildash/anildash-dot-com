@@ -3,7 +3,7 @@ title: Water for Gambhariganda
 slug: water_for_gambhariganda
 date_published: 2016-03-22T03:00:55.000Z
 date_updated: 2018-04-09T20:40:35.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/gambarighanda.jpg?v=1669871137848
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/gambarighanda.jpg?v=1669871137848
 tags: [water, personal]
 ---
 

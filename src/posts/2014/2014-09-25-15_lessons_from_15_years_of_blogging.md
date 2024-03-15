@@ -3,7 +3,7 @@ title: 15 Lessons from 15 Years of Blogging
 slug: 15_lessons_from_15_years_of_blogging
 date_published: 2014-09-25T16:00:36.000Z
 date_updated: 2019-06-13T07:17:00.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg?v=1670201374535
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg?v=1670201374535
 tags: [Best Of, Most Popular, tech, blogs]
 ---
 

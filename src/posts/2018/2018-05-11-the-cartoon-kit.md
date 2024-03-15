@@ -3,7 +3,7 @@ title: The Cartoon Kit
 slug: the-cartoon-kit
 date_published: 2018-05-11T06:09:01.000Z
 date_updated: 2021-08-02T04:02:47.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tom-jerry.jpeg?v=1669624841516
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/tom-jerry.jpeg?v=1669624841516
 tags: [cartoons]
 ---
 

@@ -3,7 +3,7 @@ title: I am the answer to the Rites of Spring Puzzle
 slug: i-am-the-answer-to-the-rites-of-spring-puzzle
 date_published: 2022-06-02T06:47:25.000Z
 date_updated: 2022-06-02T07:04:50.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/boston-globe-puzzle.png?v=1669518574441
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/boston-globe-puzzle.png?v=1669518574441
 tags: [absurdity]
 ---
 

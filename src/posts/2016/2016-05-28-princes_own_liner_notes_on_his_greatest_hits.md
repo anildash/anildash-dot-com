@@ -3,7 +3,7 @@ title: Prince's Own Liner Notes On His Greatest Hits
 slug: princes_own_liner_notes_on_his_greatest_hits
 date_published: 2016-05-28T23:55:36.000Z
 date_updated: 2022-11-20T07:23:44.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-the_hits__the_b-sides_a.jpg?v=1669869988585
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/prince-the_hits__the_b-sides_a.jpg?v=1669869988585
 tags: [Best Of, music, Prince]
 ---
 

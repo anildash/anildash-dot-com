@@ -2,7 +2,7 @@
 title: "Never Do Without You: Adding the seasoning"
 slug: never-do-without-you
 date_published: 2023-03-01T20:00:05.000Z
-heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/oberheim.jpg?v=1677732192339
+image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/oberheim.jpg?v=1677732192339
 tags: [music, Janet Jackson]
 ---
 

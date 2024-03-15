@@ -3,7 +3,7 @@ title: Suggestions for LinkedIn
 slug: suggestions_for_linkedin
 date_published: 2011-04-25T20:25:06.000Z
 date_updated: 2011-04-25T20:25:06.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/linkedin-lets-get-started.png?v=1670802246389
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/linkedin-lets-get-started.png?v=1670802246389
 tags: [tech]
 ---
 

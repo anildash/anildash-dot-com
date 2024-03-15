@@ -3,7 +3,7 @@ title: D'Angelo and the Demons of the New Minstrel Movement
 slug: dangelo_and_the_demons_of_the_new_minstrel_movement
 date_published: 2008-09-05T03:02:17.000Z
 date_updated: 2008-09-05T03:02:17.000Z
-heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/dangelo.jpg?v=1674097032445
+image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/dangelo.jpg?v=1674097032445
 tags: [Best Of, music]
 ---
 

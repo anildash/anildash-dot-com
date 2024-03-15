@@ -3,7 +3,7 @@ title: Underscores, Optimization & Arms Races
 slug: underscores-optimization-arms-races
 date_published: 2017-11-29T21:29:00.000Z
 date_updated: 2021-08-02T04:12:14.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/type-curve-1.jpeg?v=1669782582770
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/type-curve-1.jpeg?v=1669782582770
 tags: [web, google, search, tech]
 ---
 

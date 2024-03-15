@@ -3,7 +3,7 @@ title: Making Things, Fast
 slug: making-things-fast
 date_published: 2021-01-06T09:51:32.000Z
 date_updated: 2021-01-06T09:51:32.000Z
-heroimage: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/workshop-drawers.jpeg?v=1669528992249
+image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/workshop-drawers.jpeg?v=1669528992249
 tags: [web, software]
 ---
 

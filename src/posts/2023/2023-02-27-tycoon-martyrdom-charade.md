@@ -2,7 +2,7 @@
 title: The tech tycoon martyrdom charade
 slug: tycoon-martyrdom-charade
 date_published: 2023-02-27T20:00:05.000Z
-heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/blindfold.jpg?v=1677543002592
+image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/blindfold.jpg?v=1677543002592
 tags: [tech, twitter]
 ---
 
