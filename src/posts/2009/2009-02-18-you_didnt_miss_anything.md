@@ -3,7 +3,7 @@ title: You Didn't Miss Anything
 slug: you_didnt_miss_anything
 date_published: 2009-02-18T20:41:03.000Z
 date_updated: 2009-02-18T20:41:03.000Z
-tags: Best Of, Most Popular, tech
+tags: [Best Of, Most Popular, tech]
 ---
 
 I was away traveling for the past few weeks, and upon my return, I asked my Twitter followers a [simple question](http://twitter.com/anildash/status/1216442267):

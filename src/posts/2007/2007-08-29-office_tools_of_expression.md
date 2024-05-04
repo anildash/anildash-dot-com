@@ -3,7 +3,7 @@ title: Office Tools of Expression
 slug: office_tools_of_expression
 date_published: 2007-08-29T23:00:49.000Z
 date_updated: 2007-08-29T23:00:49.000Z
-tags: [absurdity, tech]
+tags: [absurdity, tech, microsoft]
 ---
 
 One of my favorite posts that I’ve ever written was [Excel Pile](/2004/04/excel-pile.html), about people’s propensity for using Office tools like Microsoft Excel to track mundane parts of their lives, or even as tools of artistic expression. From that post three years ago:

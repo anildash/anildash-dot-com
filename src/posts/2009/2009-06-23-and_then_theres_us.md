@@ -3,7 +3,7 @@ title: And Then There's Us
 slug: and_then_theres_us
 date_published: 2009-06-23T06:11:50.000Z
 date_updated: 2009-06-23T06:11:50.000Z
-tags: Books, random ha-ha, tech, Web/Tech, weblogs
+tags: [Books, random ha-ha, tech, blogs]
 ---
 
 [![And Then There's This](http://dashes.com/anil/images/and-then-theres-this.jpg)](http://www.amazon.com/gp/product/0670020842?ie=UTF8&amp;tag=2020-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0670020842)

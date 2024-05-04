@@ -3,7 +3,7 @@ title: privacy through identity control
 slug: privacy_through
 date_published: 2002-12-17T09:02:11.000Z
 date_updated: 2018-05-03T17:59:13.000Z
-tags: Best Of, Most Popular, tech
+tags: [Best Of, Most Popular, tech]
 ---
 
 Every time there’s a resurgence in general-audience (non-techie) interest in Google, as after Newsweek’s recent [Google fawning](http://www.msnbc.com/news/844175.asp), the issue of privacy in a presence of a pervasive and permanent record rears its ugly head. People who aren’t technologically savvy don’t realize that statements don’t fade away or remain in confidence on the web; The things we say only get louder and more widely known, unless they’re completely trivial.

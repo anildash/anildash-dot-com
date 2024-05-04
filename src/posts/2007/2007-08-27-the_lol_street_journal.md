@@ -3,7 +3,7 @@ title: The LOL Street Journal
 slug: the_lol_street_journal
 date_published: 2007-08-27T04:13:51.000Z
 date_updated: 2007-08-27T04:13:51.000Z
-tags: random ha-ha
+tags: [random ha-ha]
 ---
 
 > What makes lolcats appealing is that it’s simultaneously obscure and accessible. It’s an inside joke told in an online lingua franca, but with a bit of effort anyone can become an insider.

@@ -3,7 +3,7 @@ title: Life on the List
 slug: life_on_the_list
 date_published: 2009-12-30T01:34:46.000Z
 date_updated: 2018-04-18T06:42:44.000Z
-tags: Best Of, Most Popular, tech
+tags: [Best Of, Most Popular, tech]
 ---
 
 In the time it takes you to read this sentence, I’ll have gained another follower or two [on Twitter](http://twitter.com/anildash). Within an hour, I’ll have added more followers than 99% of Twitter users ever have. On a typical day, I’ll have averaged 100 new followers every hour. It’s not that I’m great at writing tweets or because of any effort or merit on my part; It’s because I’m part of Twitter’s list of suggested users.

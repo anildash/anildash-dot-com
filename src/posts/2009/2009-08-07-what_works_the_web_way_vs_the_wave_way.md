@@ -3,7 +3,7 @@ title: "What Works: The Web Way vs. The Wave Way"
 slug: what_works_the_web_way_vs_the_wave_way
 date_published: 2009-08-07T17:30:24.000Z
 date_updated: 2019-11-14T05:39:06.000Z
-tags: Best Of, Most Popular, tech
+tags: [Best Of, Most Popular, tech]
 ---
 
 Google Wave is an impressive set of technologies, the kind of stunningly slick application that literally makes developers [stand up and cheer](http://smarterware.org/1955/the-google-wave-highlight-reel). I’ve played with the Google Wave test sandbox a bit, and while it’s definitely too complex to live up to the “this will replace email!” hype that greeted its launch, it certainly has some cool features. So the big question is whether Wave will succeed as overall in becoming a popular standard for communications on the web, because Google has made an admirable investment in documenting the underlying platform and making it open enough for others to build on and extend. I think the answer is no, and the reason is because the Wave way is not compatible with the Web way.

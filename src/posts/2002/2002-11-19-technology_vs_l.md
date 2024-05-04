@@ -3,7 +3,7 @@ title: technology vs. law
 slug: technology_vs_l
 date_published: 2002-11-20T00:04:56.000Z
 date_updated: 2002-11-20T00:04:56.000Z
-tags: nyc, tech
+tags: [nyc, tech]
 ---
 
 I’d been studying [Segway’s cross-country legislative efforts](http://news.com.com/2100-1040-966433.html) with interest even in advance of John Borland’s excellent CNET story, since they’ve managed to get laws changed in approximately 60% of the country already, with a total lobbying budget of under a million dollars.

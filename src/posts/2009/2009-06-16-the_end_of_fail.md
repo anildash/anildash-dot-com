@@ -3,7 +3,7 @@ title: The End of Fail
 slug: the_end_of_fail
 date_published: 2009-06-16T20:46:02.000Z
 date_updated: 2009-06-16T20:46:02.000Z
-tags: Best Of, Most Popular, tech, weblogs
+tags: [Best Of, Most Popular, tech, blogs]
 ---
 
 **FAIL is over.** Fail is dead. Because it marks a lack of human empathy, and signifies an absence of intellectual curiosity, it is an unacceptable response to creative efforts in our culture. “Fail!” is the cry of someone who doesn’t create, doesn’t ship, doesn’t launch, who doesn’t *make things*. And because these people don’t make things, they don’t understand the context of those who do. They can’t understand that nobody is more self-critical or more aware of the shortcomings of a creation than the person or people who made it.

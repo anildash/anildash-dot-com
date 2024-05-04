@@ -3,7 +3,7 @@ title: who would you trust your identity to?
 slug: who_would_you_t
 date_published: 2003-01-09T23:57:16.000Z
 date_updated: 2003-01-09T23:57:16.000Z
-tags: tech, weblogs
+tags: [tech, blogs]
 ---
 
 I mentioned earlier that the best way to protect your privacy is to [control your identity](http://www.dashes.com/anil/index.php?archives/004414.php). But, while proactive publishing of one’s identity is a necessary step, one of the other aspects to controlling identity online that’s going to become increasingly important is authentication. It’s inevitable that open, interoperable systems for authentication will become widespread.

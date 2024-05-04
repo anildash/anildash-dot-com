@@ -3,7 +3,7 @@ title: Fair Use for Fair People
 slug: fair_use_for_fair_people
 date_published: 2009-04-08T20:22:28.000Z
 date_updated: 2009-04-08T20:22:28.000Z
-tags: weblogs, tech
+tags: [blogs, tech]
 ---
 
 Worth noting: Both independent bloggers on the web and the Associated Press are in the news this week for asking for appropriate credit for their work when it’s excerpted for fair use by online news aggregators. But the web natives frame their argument in terms of respect for the reader and defending the credibility of the information being published, assuming correctly that their businesses will grow if they honor these principles. In contrast, the AP leads with its business argument first, establishing an atmosphere of legal threats and aggrieved arguments about licensing fees with no mention of what readers want, or what respect they have for the very stories they’re ostensibly fighting to present. Hijinks ensue.

@@ -3,7 +3,7 @@ title: Defining One's Identity Online
 slug: defining_ones_i
 date_published: 2005-06-02T13:02:22.000Z
 date_updated: 2020-05-01T04:37:31.000Z
-tags: Best Of, Most Popular, random ha-ha
+tags: [Best Of, Most Popular, random ha-ha]
 ---
 
 So, I’m in the New York Times today, as part of the story called [Loosing Google’s Lock on the Past](http://www.nytimes.com/2005/06/02/fashion/thursdaystyles/02GOOGLE.html). I’m not a huge fan of how the story turned out, mostly because my quotes are almost incoherent. What I was *trying* to say is that the expectation for a lot of people is that, when they meet a new person, they’ll be able to Google them up and find out all about them, just like you would do if you were researching a company.

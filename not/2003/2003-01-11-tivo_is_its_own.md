@@ -3,7 +3,7 @@ title: tivo is its own lobbyist
 slug: tivo_is_its_own
 date_published: 2003-01-11T07:21:15.000Z
 date_updated: 2003-01-11T07:21:15.000Z
-tags: weblogs
+tags: blogs, tech
 ---
 
 It may not be too late for TiVo to learn a lesson from [Segway](http://www.dashes.com/anil/index.php?archives/004108.php)‘s success in lobbying legislators through the use of technology that’s compelling enough to sell itself. FCC Chairman Michael "Colin’s Son" Powell pronounced the TiVo he received for Christmas "[God’s machine](http://apnews.myway.com/article/20030110/D7OFL0J80.html)" which is twice as impressive coming from a man who was nominated by conservative born-again republicans.

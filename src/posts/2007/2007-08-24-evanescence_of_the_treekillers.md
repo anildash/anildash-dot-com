@@ -3,7 +3,7 @@ title: Evanescence of the Treekillers
 slug: evanescence_of_the_treekillers
 date_published: 2007-08-24T07:55:20.000Z
 date_updated: 2007-08-24T07:55:20.000Z
-tags: tech
+tags: [tech]
 ---
 
 I like PC Magazine, and I’ve been reading it for pretty much my whole life, but I still can’t help but think that the [homepage for opinion columns](http://www.pcmag.com/category2/0,1874,30,00.asp) contains *two different* Editors-in-Chief’s “goodbye” articles. I’m the kind of nerd who still enjoys reading computer magazines, and as often as not I’ll grab a PC Mag or PC World or something like that before I hop on a plane, just as a reminder of how interesting it can be to see technology in that context. (Any news or reviews covered by the print issue have almost always been discussed to death online by the time the magazine comes out.)

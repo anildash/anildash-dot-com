@@ -3,7 +3,7 @@ title: All Over the Web
 slug: all-over-the-web
 date_published: 2007-08-20T15:48:21.000Z
 date_updated: 2007-08-20T15:48:21.000Z
-tags: random ha-ha, weblogs, tech
+tags: [random ha-ha, blogs, tech]
 ---
 
 I’ve found some nice responses to conversations I’ve had recently that are probably worth checking out.

@@ -3,7 +3,7 @@ title: Supporting Our Artists
 slug: supporting_our_artists
 date_published: 2009-06-01T23:00:44.000Z
 date_updated: 2009-06-01T23:00:44.000Z
-tags: nyc, tech
+tags: [nyc, tech]
 ---
 
 Last week’s issue of The New Yorker attracted a lot of attention for its cover art, which was [created on an iPhone](http://www.newyorker.com/online/blogs/tny/2009/05/jorge-colombo-iphone-cover.html) by artist [Jorge Colombo](http://www.jorgecolombo.com/).
