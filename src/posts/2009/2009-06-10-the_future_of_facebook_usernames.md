@@ -3,12 +3,10 @@ title: "Exclusive: The Future of Facebook Usernames"
 slug: the_future_of_facebook_usernames
 date_published: 2009-06-10T16:54:43.000Z
 date_updated: 2020-06-14T01:40:26.000Z
-tags: Best Of, Web/Tech, weblogs, Most Popular, tech
+tags: [Best Of, blogs, Most Popular, tech, facebook]
 ---
 
-The whole worldA small number of super-geeky obsessives is abuzz over the upcoming launch of [Facebook Usernames](http://blog.facebook.com/blog.php?post=90316352130), an exciting new feature that will let you put some parts of your name into a web address.
-
-digg_url = 'http://digg.com/tech_news/Exclusive_The_Future_of_Facebook_Usernames';
+<strike>The whole world</strike>A small number of super-geeky obsessives is abuzz over the upcoming launch of [Facebook Usernames](http://blog.facebook.com/blog.php?post=90316352130), an exciting new feature that will let you put some parts of your name into a web address.
 
 Since its announcement yesterday, there’s been a lot of excited discussion of the feature, but in a **dashes.com exclusive** I can exclusively report this exclusive look at the future of the feature. We’ll also cover how the feature’s rollout will be covered by the technology trade press and the mainstream press.  
 

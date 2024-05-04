@@ -3,17 +3,16 @@ title: Free Criticism, Science After Data, and Airport Books
 slug: free_criticism_and_science_without_data
 date_published: 2009-07-01T22:17:18.000Z
 date_updated: 2009-07-01T22:17:18.000Z
-tags: Books, Most Popular, weblogs
+tags: [Books, Most Popular, blogs]
 ---
 
 When I saw [Malcolm Gladwell doggedly dissecting](http://www.newyorker.com/arts/critics/books/2009/07/06/090706crbo_books_gladwell?currentPage=all) Chris Anderson’s upcoming “*[Free: The Future of a Radical Price](http://www.amazon.com/gp/product/1401322905?ie=UTF8&amp;tag=2020-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1401322905)*” (see Chris’ [response here](http://www.longtail.com/the_long_tail/2009/06/dear-malcolm-why-so-threatened.html)) my first reaction was: Brilliant! Chris Anderson is editor-in-chief of *Wired*, and Malcolm Gladwell is a top brand name at *The New Yorker*, and as corporate cousins, clearly Condé Nast’s publicity machine must have engineered this beef, trying to boost sales of both their titles through a completely manufactured rivalry.
-[![Chris Anderson Free](http://dashes.com/anil/images/chris-anderson-free.jpg)](http://www.amazon.com/gp/product/1401322905?ie=UTF8&amp;tag=2020-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1401322905)
 
 Their past titles have been champions of what I call the “Airport Books” genre: The elite class of business titles that I see sold in airport newsstands next to the magazines and crappy romance novels. (I might have unknowingly stolen “airport books” from someone else, but I can’t find a citation.)
 
 Alas, I’m assured that this particular contretemps isn’t a planned corporate PR stunt. (Though I know lots of nice folks at Condé, they don’t seem to mimic street-level hip hop marketing as often as one might hope.) Instead, it seems the criticism and counter-argument are sincere.
 
-The core of Gladwell’s argument is simple: “Free” fails to provide data to support its claims about the future of pricing, using anecdote and confident assertion in place of actual evidence. In his objection to this methodology, Gladwell seems uncharacteristically strident, compared to his usual measured tones. Whenever I see somebody getting their dander up, I think of one of the first things I ever blogged [about ten years ago](http://dashes.com/anil/1999/07/a-minor-revelat.html): **We hate most in others that which we fail to see in ourselves**. Ah hah!
+The core of Gladwell’s argument is simple: “Free” fails to provide data to support its claims about the future of pricing, using anecdote and confident assertion in place of actual evidence. In his objection to this methodology, Gladwell seems uncharacteristically strident, compared to his usual measured tones. Whenever I see somebody getting their dander up, I think of one of the first things I ever blogged [about ten years ago](https://www.anildash.com/1999/07/30/a_minor_revelat/): **We hate most in others that which we fail to see in ourselves**. Ah hah!
 
 Let’s see what criticisms have been leveled at Malcolm Gladwell’s *[The Tipping Point](http://www.amazon.com/gp/product/0316346624?ie=UTF8&amp;tag=2020-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0316346624)*, *[Blink](http://www.amazon.com/gp/product/B000PAAH3K?ie=UTF8&amp;tag=2020-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B000PAAH3K)* and *[Outliers](http://www.amazon.com/gp/product/0316017922?ie=UTF8&amp;tag=2020-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0316017922)*, the juggernauts of the airport book genre:
 

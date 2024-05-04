@@ -3,7 +3,7 @@ title: DRM and Friends
 slug: drm_and_friends
 date_published: 2009-01-19T07:16:34.000Z
 date_updated: 2018-05-04T20:31:14.000Z
-tags: Best Of, tech
+tags: [Best Of, tech]
 ---
 
 This one’s been kicking around in my head for a while, and maybe you can all help me understand it. With any contemporary social networking site, I can control who has access to the things I share, and I can update or change or revoke the relationships that enable that access at any time.

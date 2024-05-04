@@ -3,7 +3,7 @@ title: The Web is Full of Riches
 slug: the_web_is_full_of_riches
 date_published: 2009-04-29T04:52:25.000Z
 date_updated: 2009-04-29T04:52:25.000Z
-tags: nyc, random ha-ha, tech
+tags: [nyc, random ha-ha, tech]
 ---
 
 I have some things to share with you.

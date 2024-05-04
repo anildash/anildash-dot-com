@@ -3,10 +3,10 @@ title: Groupware Still Sucks
 slug: groupware_still_sucks
 date_published: 2007-08-21T08:34:20.000Z
 date_updated: 2007-08-21T08:34:20.000Z
-tags: tech, weblogs
+tags: [tech, blogs]
 ---
 
-Rule #1 in nerd blogging: [jwz](http://www.jwz.org/) said it first. If you enjoyed [The Enterprise, Apple, and Insufficient Ambition](http://www.dashes.com/anil/2007/08/the-enterprise-apple-and-insufficient-ambition.html) last week, you’ll want to read [Jamie Zawinski’s essay](http://www.jwz.org/doc/groupware.html) that was so burned into my subconscious that I forgot it influenced me.
+Rule #1 in nerd blogging: [jwz](http://www.jwz.org/) said it first. If you enjoyed [The Enterprise, Apple, and Insufficient Ambition](/2007/08/the-enterprise-apple-and-insufficient-ambition.html) last week, you’ll want to read [Jamie Zawinski’s essay](http://www.jwz.org/doc/groupware.html) that was so burned into my subconscious that I forgot it influenced me.
 
 > If you want to do something that’s going to change the world, build software that people want to use instead of software that managers want to buy.
 > 

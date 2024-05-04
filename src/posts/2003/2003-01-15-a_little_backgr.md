@@ -3,7 +3,7 @@ title: a little background on me and weblogs
 slug: a_little_backgr
 date_published: 2003-01-15T22:17:52.000Z
 date_updated: 2003-01-15T22:17:52.000Z
-tags: tech, weblogs
+tags: [tech, blogs]
 ---
 
 Since I’ve already started to get a good number of people emailing and asking questions in regards to the [Media Matters](http://www.pbs.org/wnet/mediamatters/303/) segment on weblogs, I thought I should take some time to give some background about me, this website, and weblogs in general.

@@ -3,7 +3,7 @@ title: EXCLUSIVE UNBOXING FOOTAGE
 slug: exclusive_unboxing_footage
 date_published: 2009-03-11T03:40:24.000Z
 date_updated: 2009-03-11T03:40:24.000Z
-tags: random ha-ha, tech
+tags: [random ha-ha, tech]
 ---
 
 I have to admit, I was a little bit gobsmacked when I saw that our little nerd world is becoming so mainstream that [Jimmy Fallon had a gadget blogger featured on his show](https://web.archive.org/web/20090522013432/http://www.latenightwithjimmyfallon.com/blogs/2009/03/get-a-look-at-the-palm-pre/) the other night — and it wasn’t even for an iPhone launch! Now, I believe Mr. Fallon is genuinely a geek (and I *know* Questlove is), but it still seems a little bit… off.

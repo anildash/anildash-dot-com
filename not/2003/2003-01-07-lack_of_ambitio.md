@@ -3,7 +3,7 @@ title: lack of ambition
 slug: lack_of_ambitio
 date_published: 2003-01-07T20:03:59.000Z
 date_updated: 2003-01-07T20:03:59.000Z
-tags: nyc, tech
+tags: apple, tech
 ---
 
 I’ve always been pretty platform-neutral, so Apple’s little announcements are only of marginal interest to me. But the idea of developing a digital communications platform is one that’s close to my heart, so I’m always interested in hearing Apple’s message, because of their insistence that they’re innovating.

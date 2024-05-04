@@ -3,7 +3,7 @@ title: The goatse t-shirt, a year later
 slug: the_goatse_tshi
 date_published: 2006-07-18T16:49:27.000Z
 date_updated: 2020-05-01T04:40:02.000Z
-tags: Best Of, Most Popular, random ha-ha
+tags: [Best Of, Most Popular, random ha-ha]
 ---
 
 A little over a year ago, I [wore a funny t-shirt](/2005/06/02/defining_ones_i/) while posing for a photo that was published in [an article](http://www.nytimes.com/2005/06/02/fashion/thursdaystyles/02GOOGLE.html) in the New York Times. The [shirt](http://www.threadless.com/product/235/Goatse)‘s a reference to a popular (and rather offensive) internet meme, and the reaction was immediate and passionate:

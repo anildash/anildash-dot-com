@@ -3,7 +3,7 @@ title: Google's Microsoft Moment
 slug: googles_microsoft_moment
 date_published: 2009-07-09T14:31:53.000Z
 date_updated: 2019-11-14T05:21:45.000Z
-tags: Best Of, Most Popular, tech
+tags: [Best Of, Most Popular, tech]
 ---
 
 I’m not sure Google’s new [Chrome OS announcement](http://googleblog.blogspot.com/2009/07/introducing-google-chrome-os.html) is that big a deal, or that the eventual product that gets released will actually have that much impact, but it’s a useful milestone in marking Google’s evolution towards becoming an older company with a distinctly different culture than they used to have.

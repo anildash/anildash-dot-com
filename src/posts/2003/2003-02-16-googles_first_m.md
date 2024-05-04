@@ -3,10 +3,10 @@ title: google's first mistake
 slug: googles_first_m
 date_published: 2003-02-16T06:12:03.000Z
 date_updated: 2003-02-16T06:12:03.000Z
-tags: Best Of, Most Popular, weblogs
+tags: [Best Of, Most Popular, blogs, tech]
 ---
 
-So, yeah, everybody’s gonna be buzzing about [Google buying Pyra](http://weblog.siliconvalley.com/column/dangillmor/archives/000802.shtml#000802), but my take is that it’s not really that great a fit.
+So, yeah, everybody’s gonna be buzzing about [Google buying Pyra](https://web.archive.org/web/20030603163437/http://weblog.siliconvalley.com/column/dangillmor/archives/000802.shtml#000802), but my take is that it’s not really that great a fit.
 
 Of course, Google bought Deja, which is the closest parallel as far as their acquisitions go. But Deja archived *everything* in Usenet, and Blogger only encompasses a part of the blogosphere. Granted, it’s probably close to half, but relegating the incredibly intricate network of LiveJournal users and the aggregator-powered Radio users and the thought leaders who use Movable Type (including, amusingly, Gillmor himself, who broke the story) to second-class citizens seems like a critical misstep for Google’s path so far.
 

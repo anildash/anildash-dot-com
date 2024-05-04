@@ -3,7 +3,7 @@ title: The Dream of Being Discoverable
 slug: the_dream_of_being_discoverable
 date_published: 2009-03-23T18:18:22.000Z
 date_updated: 2009-03-23T18:18:22.000Z
-tags: music, tech
+tags: [music, tech]
 ---
 
 I’m a fan of [The-Dream](http://en.wikipedia.org/wiki/The-Dream), the producer-turned-singer who was born Terius Nash and is responsible for pop gems ranging from Rihanna’s “Umbrella” to Mariah’s “Touch My Body”. His solo albums have been genuinely entertaining and well-produced, a fact that is particularly fortunate given that nearly all of the catchiest choruses to his songs contain expletives that can’t be sung on the radio. The-Dream’s excellent debut [Love/Hate](http://www.amazon.com/gp/product/B000VS6P1O?ie=UTF8&amp;tag=2020-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B000VS6P1O), in particular, demonstrates this trait. (Listen to the samples to hear for yourself!)

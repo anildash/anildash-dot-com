@@ -588,6 +588,7 @@ header.post__header h1 {
 
 .post-card-title {
   font-size: var(--text-2xl);
+  margin-top: 0;
 }
 
 .post-card-excerpt p {
