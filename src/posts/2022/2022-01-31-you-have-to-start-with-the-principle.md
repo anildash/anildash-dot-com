@@ -4,7 +4,7 @@ slug: you-have-to-start-with-the-principle
 date_published: 2022-01-31T12:01:55.000Z
 date_updated: 2022-03-23T17:49:11.000Z
 image: https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/Nick-Fewings-arrow.jpeg?v=1669519763737
-tags: [culture, policy]
+tags: [culture, policy, systems]
 ---
 
 ## You can't win unless you know what you're fighting for.
@@ -38,7 +38,7 @@ Change is always incremental, though. So it can be hard to know if the increment
 
 It's worth reflecting on the other goals and movements in our lives, and to evaluate them on the basis of whether they've met all the traits of successful movements. In my own personal journey of trying to challenge the consensus dogma of the last century under which I was raised, I had a chance to reflect on this as I looked at this in my personal life and in very local focus that I try to have for issues. But it's easier to understand in the more universal, mainstream narratives that we've all discussed to death.
 
-For Hillary Clinton's campaign in 2016, I often found myself asking advocates and surrogates, "What is she really *for*?" While I have no doubt that she was a thoughtful and experienced leader whose heart was in the right place, when I'd hear things like "healthcare" in response, I couldn't get clear, believable answers about healthcare *for whom*, and *when*, and *at what cost*? It was obviously a goal grounded in humanist principles, and in fact was *more *frustrating because everyone could understand the potential benefits. I just couldn't get a strong sense of what winning looked like. And if an empathetic supporter can't articulate what the goal is, a movement is going to struggle mightily to win over more adherents.
+For Hillary Clinton's campaign in 2016, I often found myself asking advocates and surrogates, "What is she really *for*?" While I have no doubt that she was a thoughtful and experienced leader whose heart was in the right place, when I'd hear things like "healthcare" in response, I couldn't get clear, believable answers about healthcare *for whom*, and *when*, and *at what cost*? It was obviously a goal grounded in humanist principles, and in fact was *more* frustrating because everyone could understand the potential benefits. I just couldn't get a strong sense of what winning looked like. And if an empathetic supporter can't articulate what the goal is, a movement is going to struggle mightily to win over more adherents.
 
 By contrast, one of the most inspiring parts of Barack Obama's first presidential campaign (which, after a decade and a half, seems oddly almost forgotten) was his principled stance on the Iraq War. Though his public persona has, due to his great efforts to make it so, solidified into an almost frustrating insistence on bipartisanship, the truth is that his ascent to national leadership was galvanized by taking an *unpopular*, values-based view that was clear and easy to articulate. When we withdrew from the damnable, broken war in Iraq, amidst all the grief, it was at least clear that we were headed toward the goal that all supporters had believed in.
 

@@ -1,0 +1,19 @@
+---
+title: "How Oprah will screw up the AI story"
+slug: oprah-wrong-ai
+date_published: 2024-08-31T20:00:05.000Z
+heroimage: https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/3273911092_5e4cba68dc_k.jpg?v=1725152457994
+image: https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/3273911092_5e4cba68dc_k.jpg?v=1725152457994
+tags: [Oprah, AI]
+---
+
+As I write this, we’ve just heard news that Oprah is planning to do a big broadcast special about AI and society. Despite the fact that it hasn’t aired, and I haven’t seen it or talked to anyone who’s seen it, we can reliably predict many of the shortcomings that this show will have. And it didn’t even take an AI chatbot to come up with this list.
+
+* The only tools and technologies that will be described as “AI” will be recent, commercial, large-scale generative AI systems built around LLMs, mostly those where Sam Altman and Bill Gates have a direct financial interest. There will be little to no mention of the decades of learning systems that come before, no discussion of public models of ownership or control of AI technologies, and the only state-led efforts to create AI that will be mentioned will be framed as an arms race against China, even though the vast majority of historical AI research in the U.S. has relied on public dollars through either academia, the military, or both.
+* Threats and risks around AI will be discussed in terms of “replacing” people in creative jobs, or contrived future scenarios like AGI. Even the discussion of AGI will rely entirely on definitions set by commercial interests like Altman and OpenAI. There will be no mention of the repeated attacks on labor that have been systematically funded as “tech innovation” in recent years, including the gig economy, blockchain and crypto hype, and attempts to push the metaverse and thoughtless return to work. Despite the fact that nearly every movie and TV set that Oprah has ever worked on being a union shop, not one voice representing labor will be quoted, and there will be zero mention of the fact that young workers are adopting labor organizing faster than they’re adopting AI.
+* The word “consent” will never be mentioned, let alone the concept, when it comes to training data and surveillance data used to build large-scale models. No mention will be made of large tech companies violating the law to access data sets without permission to train LLMs, nor will there be any discussion of the unilateral changing of policies and terms of service to force billions of users into contributing to LLM models without consent.
+* Errors, confabulations, and intentional lies and distortions produced by generative AI products will not be described as bugs or defects, but by the false marketing term of “hallucinations”, with no mention of any legal or moral obligation to make commercial software that functions in reliable ways.
+* There will be no mention of the fact that large learning models are being used as a method of determining who gets killed in military (and militarized policing) engagements today, or how “the AI makes the decision” is a tool for avoiding accountability for violence that these systems help incite. Not one person who has had a loved one targeted for sentencing, violence or death will be quoted or spoken to in any context.
+* The intentional blurring of lines around the definition of “AI” — encompassing everything from improving lighting in camera phone photos to drone targeting for missile strikes — will be ignored as if it’s an unimportant consideration.
+
+In short, Oprah is making a commercial for some AI vendors, without disclosing whether she has any financial interest, and will close by wrapping it in the same kind of feel-good woo-woo bullshit she used to platform some of the most murderously dangerous anti-vaxxers of the modern era. We can do better. She should feel obligated to do better.

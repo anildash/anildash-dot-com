@@ -50,7 +50,7 @@ Importantly, too, the lyrics to Best of You speak directly to Prince’s decades
 
 And then, finally, comes Purple Rain. This was a crowning achievement in a career of unbelievable moments. Yes, Prince really did ask, “Can u make it rain harder?”
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7NN3gsSf-Ys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YzDYAj7XeEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This is one of the best-ever performances of Purple Rain not because of the audience size, or any technical aspects (it’s not the best solo he ever played), but because it connects to decades of Prince’s place in culture. When Prince knocks over the mic stand at the height of his guitar solo (it's at 7:19 in the clip above, though the camera angle isn't great), it echoes his performance at the 1985 American Music Awards (see him tear up the stage at [6:00 into this clip](https://youtu.be/i3LHatq2u4k?t=358)) and we see that elder statesman update and revisit a milestone of his ascendance as an artist in his 20s. Even after becoming a legend, we see evidence of the genius he's shown all along, reminding us that Purple Rain is a song [born of a live performance](/2014/07/25/i_know_times_are_changing/), after all.
 
@@ -71,4 +71,4 @@ That tribute to the halftime performance was planned by Prince himself; he had w
 - Back in 2007, I wrote up a "[Pre-Super Bowl Prince Primer](/2007/02/02/prince-superbowl-primer/)" for casual fans ahead of the big game, anticipating that the performance might be a good one. 
 - I have, uh, written [other stuff about Prince](/tag/prince/), too.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fprincepartyuk%2Fvideos%2F1684909648222402%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-WYYlRArn3g?si=qyycqbK-LqUcsdeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
