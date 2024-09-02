@@ -213,7 +213,9 @@ p {
 }
 dt {
   font-weight: 600;
-  text-align: right;
+  text-align: left;
+  margin-top: 1.2rem;
+  margin-bottom: .5rem;
 }
 
 blockquote {
@@ -294,6 +296,13 @@ main ul li {
   margin-right: auto;
 }
 
+@media (max-width: 700px) {
+  .main {
+    padding-inline: 1rem;
+  }
+}
+
+
 .layout-wrapper {
   display: grid;
   grid-template-rows: auto minmax(0, 1fr) auto;
@@ -361,7 +370,14 @@ figure.heroimage {
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
-  height: 70vh;
+  height: 50vh;
+  height: clamp(8rem, 40vh, 40rem);
+}
+
+@media (min-width: 700px) {
+  figure.heroimage {
+    height: clamp(8rem, 60vh, 40rem);
+  }
 }
 
 #share-link {
@@ -401,15 +417,6 @@ figure.heroimage {
   max-width: 80vw;
 }
 
-@media (max-width: 1000px) {
-  .post-feed {
-  }
-}
-
-@media (max-width: 700px) {
-  .post-feed {
-  }
-}
 
 .bull {
   padding-left: 0.5rem;
@@ -445,11 +452,14 @@ header.post__header h1 {
   text-align: center;
   margin: 2rem 5% 2rem 5%;
   letter-spacing: -0.01em;
+  line-height: 125%;
 }
 
 @media (max-width: 700px) {
   header.post__header h1 {
     font-size: var(--text-4xl);
+    margin: 1rem 0;
+    line-height: 110%;
   }
 }
 
@@ -612,12 +622,19 @@ header.post__header h1 {
   margin-left: auto;
   margin-right: auto;
   max-width: 60rem;
-  padding: 0 2.5rem 0 2.5rem;
+  padding: 0 2.5rem;
   margin-top: 1rem;
   /*
   border-bottom: 1px solid #e6e6e6;
   */
 }
+
+@media (max-width: 700px) {
+  .header__content {
+    padding: 0 1rem;
+  }
+}
+
 
 .header__content h1 {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,

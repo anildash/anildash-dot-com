@@ -28,8 +28,9 @@
     <meta name="generator" content="{{ eleventy.generator }}">
 
     {% if site.author.twitterHandle %}
-      <meta name="twitter:creator" content="@{{ site.author.twitterHandle | replace('@', '') }}"/>
+    <meta name="twitter:creator" content="@{{ site.author.twitterHandle | replace('@', '') }}"/>
     {% endif %}
+    <meta name="fediverse:creator" content="@anildash@me.dm" />
 
   </head>
   <body>
@@ -45,10 +46,16 @@
           <nav class="nav">
             <ul class="nav__list">
                 <li class="nav-item">
-                  <a href="https://anildash.com/about">About</a>
+                    <a rel="me" href="https://me.dm/@anildash">mastodon</a>
                 </li>
                 <li class="nav-item">
-                    <a rel="me" href="https://me.dm/@anildash">anildash@me.dm</a>
+                    <a rel="me" href="https://bsky.app/profile/anildash.com">bluesky</a>
+                </li>
+                <li class="nav-item">
+                    <a rel="me" href="https://www.threads.net/@anildash">threads</a>
+                </li>
+                <li class="nav-item">
+                  <a href="https://anildash.com/about">about</a>
                 </li>
             </ul>
           </nav>

@@ -4,7 +4,7 @@ slug: make-better-documents
 date_published: 2024-03-10T18:00:05.000Z
 heroimage: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/documents-ink.jpeg?v=1710433195212
 image: https://cdn.glitch.global/d45aff89-36ba-46db-8c7c-3da7c8a93931/documents-ink.jpeg?v=1710433195212
-tags: [tech]
+tags: [tech, systems]
 ---
 
 Whether it's resumes or reports, budgets or broadsides, I'm pretty regularly sent working documents from a wide range of people, and over the years I've noticed some consistent patterns that lead those documents to be less effective than they should be. Even very smart, capable communicators routinely send important documents that distract from, or even undermine, their goals. 

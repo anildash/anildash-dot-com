@@ -11,6 +11,8 @@ There are going to be endless think-pieces and armchair analyses about why Ameri
 
 Don’t waste a single moment listening to the hand-wringing of the pundit class about Why This Happened, or people on TV talking about What This Means. The most important thing is that we focus on the work that needs to be done now. While so many have been doing what it takes to protect the marginalized and to make society more just, we must increase our urgency on those efforts, even while we grieve over this formidable defeat.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I am not moving to Canada, not surprised by white supremacists &amp; misogynists, and not afraid of Donald Trump. We have got to get to work.</p>&mdash; anildash.com (@anildash) <a href="https://twitter.com/anildash/status/796210779569737730?ref_src=twsrc%5Etfw">November 9, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 It is completely understandable, and completely human, to be depressed, demoralized or overwhelmed by the enormity of this broad embrace of hateful rhetoric and divisive policy. These are battles that have always taken decades to fight, and progress has never been smooth and steady — we’ve always faced devastating setbacks. If you need to take time to mourn, then do. But it’s imperative that we use our anger, our despair, our disbelief to fuel an intense, focused and effective campaign to protect and support the marginalized.
 
 And it has to start now.

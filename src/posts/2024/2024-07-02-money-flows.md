@@ -1,0 +1,26 @@
+---
+title: "Systems: How the Ultra-Wealthy Think About Money"
+slug: money-flows
+date_published: 2024-07-02T12:00:05.000Z
+heroimage: https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/joshua-hoehne-ouPTL4-f_mg-unsplash.jpg?v=1719933428151
+image: https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/joshua-hoehne-ouPTL4-f_mg-unsplash.jpg?v=1719933428151
+tags: [systems]
+---
+
+A lot of the ways that the ultra-wealthy think about, and act about, money seem almost incomprehensible to those outside of their orbit. Having had a chance to get some visibility into how a number of billionaires and centimillionaires think and work, I thought it might be useful to share a key insight that explains so many behaviors that might otherwise be inexplicable.
+
+First, a disclaimer: I am, by any conventional measure, very well-off myself; I can afford to live in New York City with a family. Compared to the prior generation of my family, who were raised in a very poor rural village without running water, electricity, vaccines, or other fundamentals of a stable life, I am aware that I'm incredibly fortunate. But, like you, I have to think about how much something costs when I buy it, and am aware of a budget when making plans, and worry about sending a kid to college someday. For the purposes of this piece, I'm talking about the people who don't have any of the concerns that we do.
+
+It's important to understand in this context, **nobody ever becomes a billionaire by mistake**. They have to have really, really wanted it. Generally, they have to have wanted it more than they wanted to preserve any relationship in their lives, more than they've wanted to be happy or at peace. (Or, they inherited it and it didn't even occur to them to give it away.) You don't have to take my word for this; just look at the family relationships and friendships of the richest people in the world, and ask yourself how many of them resemble the most stable, fulfilling, rewarding relationships in your life. If you say to yourself, "I would easily give up a billion dollars to make sure my kid knows that I love them and want the best for them", then you are different than, say, the richest person in the world.
+
+## The Water Flows
+
+So why do they pursue this life-destroying amount of wealth? The analogy I always come back to when discussing the ways that the ultra-wealthy use money is to think about a firefighter. Their job is to point the water (for the purposes of this analogy, we're assuming it's not a grease fire) at the flames until they go out. The task at hand is aiming at the flames, _not_ determining how much water is left; indeed, it's explicitly someone else's job to build the fire hydrants and ensure they have sufficient water supply. And after the fire is out, virtually no one will ask them how many gallons of water they used, as that's irrelevant to the thing they were brought in to do.
+
+For the ultra-wealthy, money is effectivey _not finite_. It's just a resource to be pointed at any burning thing. I know you're looking at your banking app saying <code>$broke</code> and wondering, "how can this be?" and yet: it is true. The most counterintutive thing is that, not only is the money faucet boundless for them, but in fact, most of the money coming out of the faucet is _not their own_. People who control large pools of money are very, very eager to let billionaires use their money. 
+
+Once we understand this fundamental difference, everything becomes clear. Having access to a nearly limitless flow of funds lets you exert power over things that can be controlled by money. And that's a _lot_ of things. In economics, there's even terminology for the different ways of looking at resources: <a href="https://en.wikipedia.org/wiki/Stock_and_flow">stock and flow</a>. For you, money is a stock, a bucket of dollars you can carry, and that you try to make sure isn't empty. For the ultra-wealthy, money is a _flow_, it's just a hose of dollars that you can point at anything that isn't suiting your preferences.
+
+With that context in mind, revisit your assumptions about how the ultra-wealthy influence things like policymaking and social norms. Even in the most positive, charitable case, you may wonder, "If this person has a bilion dollars, why don't they just pay for [good things for people in need]?" But in many cases, even if they were inclined to help with that particular cause or need, dropping a large sum of money at a particular moment would require them to treat their money on hand as a stock instead of a flow, and that reduces their economic power over time. In a nice framing, this is about ensuring they're leveraging other people's money over time to sustain their ability to give to that cause. Put more cynically, you can't exert control over something if you've already stopped paying for it.
+
+The next time you're trying to understand the decisions that the ultra-wealthy make when they are attempting to shape our world, challenge yourself to rethink the assumptions you may have about the way that they use money. It is a fundamentally different tool for them than it is for anyone who only has a limited bucket of bucks.
