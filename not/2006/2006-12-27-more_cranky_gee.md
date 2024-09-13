@@ -3,7 +3,7 @@ title: More Cranky Geeks!
 slug: more_cranky_gee
 date_published: 2006-12-27T22:18:50.000Z
 date_updated: 2006-12-27T22:18:50.000Z
-tags: tech
+tags: [tech, appearances]
 ---
 
 I’m on [Cranky Geeks again](http://www.crankygeeks.com/2006/12/cranky_geeks_episode_42_best_t.html) tomorrow.

@@ -3,6 +3,7 @@ title: Monoculture Mania!
 slug: monoculture-mania
 date_published: 2006-12-21T19:39:02.000Z
 date_updated: 2006-12-21T19:39:02.000Z
+tags: [monoculture]
 ---
 
 Okay, I’ve been [mumbling about the threat of monoculture](http://www.dashes.com/admin/mt/mt-search.cgi?tag=monoculture&amp;blog_id=1) for months now, but what’s really gratifying is how much attention the idea has gotten in many of the year-end roundups that are saturating the press. Even better, the people who’ve been thinking about this a lot longer than me are doing a great job of explaining the ideas.

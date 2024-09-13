@@ -3,7 +3,7 @@ title: Goodbye, Godfather
 slug: goodbye-godfather
 date_published: 2006-12-25T13:04:04.000Z
 date_updated: 2006-12-25T13:04:04.000Z
-tags: Best Of, Most Popular, music
+tags: [Best Of, Most Popular, music, james brown]
 ---
 
 To those of us who grew up after his artistic heyday, James Brown is some combination of legend, influence, icon, and inevitably, caricature. So on the day we find out about his passing, I thought I’d point out some examples of what an amazing cultural force he was, in the hopes this will help overshadow the endless broadcasts of “Living in America” or other trifles that might otherwise be the most prominent examples of his legacy.

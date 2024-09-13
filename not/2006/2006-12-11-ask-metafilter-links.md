@@ -3,10 +3,10 @@ title: Ask MetaFilter Links
 slug: ask-metafilter-links
 date_published: 2006-12-12T03:39:09.000Z
 date_updated: 2006-12-12T03:39:09.000Z
-tags: tech
+tags: [tech]
 ---
 
-If you were interested in [How Matt Haughey beat Google](http://dashes.com/anil/2006/12/matt-haughey-beat-google.html) with Ask MetaFilter, you might enjoy some more information about the site.
+If you were interested in [How Matt Haughey beat Google](/2006/12/matt-haughey-beat-google.html) with Ask MetaFilter, you might enjoy some more information about the site.
 
 - The Chicago Tribune’s Steve Johnson offered an [astute look](http://www.chicagotribune.com/technology/columnists/chi-0612080092dec08,1,1344118.column?coll=chi-techtopheds-hed&amp;ctrack=1&amp;cset=true) at Google Answers, as well as a nice plug for Ask MetaFilter, last week. The site requires an exasperating login, but the good news is you can also find the piece without a registration [Hypertext blog](http://featuresblogs.chicagotribune.com/technology_internetcritic/2006/12/google_answers_.html). (Yay, it’s a TypePad blog!)
 

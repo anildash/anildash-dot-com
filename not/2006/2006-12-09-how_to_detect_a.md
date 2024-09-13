@@ -3,7 +3,7 @@ title: How to detect a sociopath
 slug: how_to_detect_a
 date_published: 2006-12-10T00:38:01.000Z
 date_updated: 2006-12-10T00:38:01.000Z
-tags: random ha-ha
+tags: [random ha-ha]
 ---
 
 I’ve learned some great insights into human nature from spending a lot of time interacting with people on the web. You know how, whenever they interview a serial killer’s neighbor on TV, they always say “He seemed so normal!”? Well, online you can tell these people are crazy if you picture the back-story for the things they write.

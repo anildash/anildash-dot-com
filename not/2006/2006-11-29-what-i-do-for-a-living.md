@@ -3,11 +3,12 @@ title: What I do for a living
 slug: what-i-do-for-a-living
 date_published: 2006-11-29T21:21:00.000Z
 date_updated: 2006-11-29T21:21:00.000Z
-tags: weblogs
+tags: [blogs]
 ---
 
 One of the most common questions I get from people who know about [Six Apart](http://www.sixapart.com/) is “What the hell do you actually *do* there?” These days, that question’s easier than ever to answer, but it involves explaining one of the goofiest parts of my job: My title.
-![Evangelist Boy](http://www.dashes.com/anil/images/evangelist-boy.jpg)
+
+![Evangelist Boy](https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/evangelist.jpg?v=1725321114734)
 
 You see, these days my business cards describe me as “Chief Evangelist”. On the plus side, it’s the first time in the history of the company that I’ve basically only had one job (though I still help out with as much stuff as I can), but on the downside, the title is fucking ridiculous. I hate the word “evangelist” as a description for people who advocate technology not merely because of its religious connotations, but also because it implies a degree of proselytization that I’d like to think I don’t participate in. Most of the time, my job is really just simple education.
 
