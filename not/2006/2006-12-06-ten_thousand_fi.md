@@ -3,7 +3,7 @@ title: "Ten Thousand Fingers: Little Things Count"
 slug: ten_thousand_fi
 date_published: 2006-12-06T15:30:13.000Z
 date_updated: 2006-12-06T15:30:13.000Z
-tags: Best Of, tech
+tags: [Best Of, tech]
 ---
 
 When we were unpacking the [delightful Nintendo Wii](http://www.dashes.com/anil/2006/11/28/its_the_help_ca) a few weeks ago, I was marvelling at how well-thought-out the process was. Beautiful, pleasant, and of course full of anticipation at the great machine we were about to be enjoying.

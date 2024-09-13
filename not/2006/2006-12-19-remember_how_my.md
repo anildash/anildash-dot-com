@@ -3,7 +3,7 @@ title: New New York
 slug: remember_how_my
 date_published: 2006-12-19T21:00:28.000Z
 date_updated: 2006-12-19T21:00:28.000Z
-tags: Most Popular, nyc, Best Of
+tags: [Most Popular, nyc, Best Of]
 ---
 
 Remember a few years ago I mentioned that I was [moving to San Francisco](http://www.dashes.com/anil/2004/05/19/moving_forward)?

@@ -1,0 +1,20 @@
+---
+title: The Internet Is Where The Truth Is
+slug: the_internet_is
+date_published: 2007-03-15T16:09:46.000Z
+date_updated: 2007-03-15T16:09:46.000Z
+tags: [blogs, links]
+---
+
+The exact thing you are looking for is out there on the Internet, if you just know where to look. So here are some hints.
+
+- [Making the connection between Girl Talk and DJ Drama](http://463.blogs.com/the_463/2007/03/perhaps_the_coo.html), Congressman Mike Doyle (Pittsburgh represent!) breaks down remix culture and the obsolescence of a lot of current IP law for the Congress. Check out [the video](http://splashcastmedia.com/us-rep-defends-mixtapes-and-mashups-on-floor-of-congress), or refer back to [hodling a gun to Dick Clark’s head](http://www.dashes.com/anil/2007/02/20/holding_a_gun_t).
+- [Diversity in Open Source Communities](http://osc.gigavox.com/shows/detail1746.html): Lynne breaks it down. I don’t need to explain this one to you folks, right?
+- The Wall Street Journal [alludes to Google’s biggest weakness](http://online.wsj.com/public/article/SB117375265591935029-IKQUyS_3o8u4cUtPCqiCO2oV5OE_20080311.html) — the lack of transparency around the AdWords/AdSense/PageRank market. It works like this: Sites can’t predict how they’ll rank in search results, but some sites depend on that traffic for their business to grow. To scale up a business requires managing risk and volatility, and having a key factor to growth be largely opaque increases risk greatly, limiting investment and confidence and making it impossible to plan. So sites that aren’t can’t reach scale without relying on search traffic have a limit on the maximum growth they can achieve in a PageRank-based economy.
+- That WSJ story also reminded me that [Rich Skrenta’s blog](http://www.skrenta.com/) is as consistently compelling as Dick Costolo’s “[Ask The Wizard](http://www.burningdoor.com/askthewizard/)“, which I raved about the other day.
+- Of *course* Wikipedia has **a list of fictional bears**. What’s even better is the *[discussion about the list of fictional bears](http://en.wikipedia.org/wiki/Talk:List_of_fictional_bears)*.
+- [Fuck Garrison Keillor](http://www.thestranger.com/blog/2007/03/fuck_garrison_keillor). Yes, really.
+- [Nelson Minar looks at distributed computing startups](http://www.somebits.com/weblog/tech/distributedComputing.html?seemore=y) that used to be competitors for his startup. The writeup is honest, smart, and geeky — all the things that make Nelson so charming. And whatever happened to [Google Compute](http://en.wikipedia.org/wiki/Google_Toolbar#Google_Compute)? I used to be [somewhat less critical](http://www.dashes.com/anil/2002/02/28/google_compute) in my analysis of new technologies.
+- Todd Levin [acerbically points out](http://www.themorningnews.org/archives/letters_from_austin/south_by_southbest.php) what’s wrong with SXSW. He alludes to many of the reasons I didn’t go this year, but I am pretty conflicted about getting easy laughs by tearing down something that other people enjoy. Would be a lot more impressive to get laughs by praising the conference for what it does well.
+- Susan Rogers was [getting her PhD](http://www.mcgill.ca/reporter/39/02/rogers/) to understand “whether the human mind is specialized for music [and] how musical training shapes your auditory memory and cognitive abilities”. But I just love her for being Prince’s long-suffering engineer during the best and most productive years of his career. I kind of have an affinity for her because [her story stuck with me](http://www.dashes.com/anil/2001/03/11/so_yeah_i_broke) during a much more emo period in my life.
+- And if you were still thinking about [blogging technology evangelists](http://www.dashes.com/anil/2007/02/16/about_hiring_bl), you might want to note an interesting trend. Recent Microsoft hires in evangelism lasted [nine and a half weeks](http://cravingideas.blogs.com/backinskinnyjeans/2007/03/912_weeks_leavi_1.html#more) and [three weeks](http://news.com.com/2061-10805_3-6165381.html). Quitting Microsoft evangelism is the new evangelism! Your mileage may vary.

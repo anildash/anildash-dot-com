@@ -3,7 +3,7 @@ title: Microsoft Says, "Steal This UI"
 slug: steal_this_ui
 date_published: 2006-12-20T15:00:23.000Z
 date_updated: 2006-12-20T15:00:23.000Z
-tags: tech
+tags: [tech, microsoft]
 ---
 
 Summary: Earlier this year, I said that [Office 2007](http://www.dashes.com/anil/2006/06/19/office_2007_is_) is the bravest upgrade ever, and the reason was simple: The audacity of introducing a radical new user interface was as surprising as the vast improvements it yielded in productivity. Now, Microsoft has decided to [license that user interface to other developers](http://msdn2.microsoft.com/en-us/office/aa973809.aspx), being surprisingly open in the license terms and potentially improving the user experience for dozens of other applications.

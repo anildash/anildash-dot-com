@@ -3,7 +3,7 @@ title: It's the Help Cat!
 slug: wii-help-cat
 date_published: 2006-11-28T18:21:24.000Z
 date_updated: 2006-11-28T18:21:24.000Z
-tags: random ha-ha
+tags: [nintendo]
 ---
 
 The [Nintendo Wii](http://www.amazon.com/exec/obidos/ASIN/B0009VXBAQ/2020-20) is an amazing and magical device that, for the last week, has left my heart full of joy and my sad geeky arm sore and full of pain. But perhaps the most charming thing about this wee electronic device is [the Help Cat](http://www.cabel.name/2006/11/tragedii.html).

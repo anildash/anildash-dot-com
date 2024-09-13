@@ -3,6 +3,7 @@ title: Just Saying No
 slug: just_saying_no
 date_published: 2006-12-04T15:11:10.000Z
 date_updated: 2006-12-04T15:11:10.000Z
+tags: []
 ---
 
 I don’t ever know how to respond politely when declining a drink without sounding like either a religious teetotaler or a recovering alcoholic (I’m neither) so I could definitely relate to [Alison’s lament](http://www.bluishorange.com/#116469544325287154) about how to tell her neighbor she, like, *doesn’t do that*:

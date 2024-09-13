@@ -3,7 +3,7 @@ title: The Problem Is, The Zune Is Brown
 slug: brown-zune
 date_published: 2006-11-14T06:30:40.000Z
 date_updated: 2018-04-09T16:14:59.000Z
-tags: Best Of, tech
+tags: [Best Of, tech, microsoft, music]
 ---
 
 [![brown-zune.jpg](https://web.archive.org/web/20061202191740if_/http://www.dashes.com:80/anil/images/brown-zune.jpg)

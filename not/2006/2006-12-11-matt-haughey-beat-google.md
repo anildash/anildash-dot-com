@@ -3,7 +3,7 @@ title: How Matt Haughey Beat Google
 slug: matt-haughey-beat-google
 date_published: 2006-12-11T15:21:31.000Z
 date_updated: 2006-12-11T15:21:31.000Z
-tags: Best Of, tech, Most Popular
+tags: [Best Of, tech, Most Popular, google, seo, content moderation]
 ---
 
 **Summary:** In 2002, Google launched one of their few pay services, [Google Answers](http://answers.google.com/answers/). The service attracted only 800 responders in the past 4 years, and was [shut down](http://googleblog.blogspot.com/2006/11/adieu-to-google-answers.html) a few weeks ago. [Three years ago](http://metatalk.metafilter.com/mefi/3703), Matt Haughey created [Ask MetaFilter](http://ask.metafilter.com/), pays no money to those who answer questions, and has turned the site into a successful part of his business using, in part, Google AdSense to support the site.

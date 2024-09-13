@@ -3,7 +3,7 @@ title: Blood Diamonds
 slug: blood-diamonds
 date_published: 2006-12-01T15:05:32.000Z
 date_updated: 2006-12-01T15:05:32.000Z
-tags: Best Of
+tags: [Best Of, diamonds]
 ---
 
 Four years ago, I didn’t know anything about diamonds. Then I posted one ill-tempered rant about how annoying and even offensive I found the advertising for the diamond industry. And I’m not easily offended.
@@ -14,7 +14,7 @@ And now it seems like we’ve reached a moment in popular culture where the sour
 
 So, a few links to various resources I found useful:
 
-- [Diamonds are for never](http://www.dashes.com/anil/2003/01/20/diamonds_are_fo): The first post I ever wrote about diamonds, it’s still one of the most popular posts I’ve ever written and regularly gets random new people coming in from Google to join the debate.
+- [Diamonds are for never](/2003/01/20/diamonds_are_fo): The first post I ever wrote about diamonds, it’s still one of the most popular posts I’ve ever written and regularly gets random new people coming in from Google to join the debate.
 
 > I know what you’re thinking. “It’s not that bad.” It’s just a joke, and I’m taking it too seriously. But how can you look at a list on the industry’s own marketing website and see “Of course there’s a return on your investment. We just can’t print it here.” and not be aware that they’re selling, along with war and market dominance, dysfunction.
 

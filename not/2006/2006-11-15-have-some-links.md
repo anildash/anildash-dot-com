@@ -3,7 +3,7 @@ title: This is what you should read on the web
 slug: have-some-links
 date_published: 2006-11-16T04:13:40.000Z
 date_updated: 2006-11-16T04:13:40.000Z
-tags: random ha-ha
+tags: [links]
 ---
 
 ![Jay-Z, The CEO of Hip Hop](http://www.dashes.com/anil/images/jay-z-ceo.jpg)

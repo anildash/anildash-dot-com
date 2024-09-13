@@ -3,6 +3,7 @@ title: More Sociopathic Writing
 slug: more_sociopathi
 date_published: 2006-12-15T17:19:27.000Z
 date_updated: 2006-12-15T17:19:27.000Z
+tags: [blogs, content moderation]
 ---
 
 Jason describes [the blog commentor’s gaze](http://www.kottke.org/06/12/the-blog-commentors-gaze), a rumination on how [people who act unreasonably on the web](http://www.dashes.com/anil/2006/12/09/how_to_detect_a) fit some parts of the scientific definition of a psychopath.

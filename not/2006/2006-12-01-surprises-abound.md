@@ -3,7 +3,7 @@ title: Surprises Abound
 slug: surprises-abound
 date_published: 2006-12-02T03:56:14.000Z
 date_updated: 2006-12-02T03:56:14.000Z
-tags: tech
+tags: [tech, media, microsoft]
 ---
 
 I don’t know exactly what the significance of this realization is to me, but I thought I’d share. The [debate between Robert Scoble and Dave Winer](http://online.wsj.com/public/article/SB116490323676636989-HnHPKLzkyy9xKy2wnokbd2bc_bE_20071130.html?mod=blogs) about Microsoft and innovation, on the Wall Street Journal’s website, is the best thing I think I’ve seen either of them write.
