@@ -1,9 +1,10 @@
 ---
 title: "How I got pitched by Anna Delvey"
 slug: anna-delvey-pitch
-date_published: 2024-09-06T12:00:05.000Z
-heroimage:
-tags: [absurdity]
+date_published: 2024-09-15T12:00:05.000Z
+heroimage: https://cdn.glitch.global/f03d6739-980b-47cc-938b-9f609e337e14/chili-pepper.jpg?v=1726469796258
+image: https://cdn.glitch.global/f03d6739-980b-47cc-938b-9f609e337e14/chili-pepper.jpg?v=1726469796258
+tags: [absurdity, nyc, tech]
 ---
 
 Many people will be familiar with Anna Sorokin, also known as Anna Delvey, who was one of the most high-profile of the wave of hipster grifters during the 2010s. Today, she's beginning to pivot into some kind of reality TV/competition game show participant, playing on her celebrity, but back in 2016, she was just a person pitching strangers for her big idea that she was trying to get funded.
@@ -52,53 +53,12 @@ But really, I don't know exactly how she found me. Staying true to my character,
 
 This message is the source of the <a href="https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/DECK%20COAI.pdf?v=1725635335907">original PDF of her pitch deck</a> that you can use to follow along with her story. (Side note: she signed her emails below her name with her initials, which are the same as mine, and it still throws me off because it felt like I had somehow sent these messages to myself.)
 
+<object data="https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/DECK%20COAI.pdf?v=1725635335907" type="application/pdf" width="100%" height="600px" style="margin-top: 1rem;"></object>
+      
+One of the more striking and remarkable things about Delvey's pitch deck is how simple and text-heavy it is. Many other similar pitches I've seen are very graphics-rich, with lots of (usually contrived) charts and graphs showing industry trends or the like. By contrast, there's a self-assured tone to the stark, simple text of this deck, and of course the fact that she's only asking for roughly a million dollars seems quaint at a time when AI startups are raising a billion dollars solely on the basis of an idea.
 
-<script type="module">
- import pdfjs-dist from https://cdn.jsdelivr.net/npm/pdfjs-dist@4.6.82/+esm 
-// If absolute URL from the remote server is provided, configure the CORS
-// header on that server.
-var url = 'https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/DECK%20COAI.pdf?v=1725635335907';
+I have to assume that at least some of the names she drops in the deck are also folks whose reputations were being used unwittingly or nonconsensually, but I do admire that she felt some of us would be persuaded to back her because she got a great architect to design her workspace..
 
-// Loaded via <script> tag, create shortcut to access PDF.js exports.
-var { pdfjsLib } = globalThis;
+In all, a lot of brilliant grifter energy was dedicated to this effort, and it's most telling how this pitch would be completely unremarkable today, except that it was presented by a young woman instead of a young dude. Honestly, if she's able to parlay that background into getting to dance on a game show, at this point we should probably just accept this as her next act.
 
-// The workerSrc property shall be specified.
-pdfjsLib.GlobalWorkerOptions.workerSrc = '//mozilla.github.io/pdf.js/build/pdf.worker.mjs';
-
-// Asynchronous download of PDF
-var loadingTask = pdfjsLib.getDocument(url);
-loadingTask.promise.then(function(pdf) {
-  console.log('PDF loaded');
-
-  // Fetch the first page
-  var pageNumber = 1;
-  pdf.getPage(pageNumber).then(function(page) {
-    console.log('Page loaded');
-
-    var scale = 1.5;
-    var viewport = page.getViewport({scale: scale});
-
-    // Prepare canvas using PDF page dimensions
-    var canvas = document.getElementById('the-canvas');
-    var context = canvas.getContext('2d');
-    canvas.height = viewport.height;
-    canvas.width = viewport.width;
-
-    // Render PDF page into canvas context
-    var renderContext = {
-      canvasContext: context,
-      viewport: viewport
-    };
-    var renderTask = page.render(renderContext);
-    renderTask.promise.then(function () {
-      console.log('Page rendered');
-    });
-  });
-}, function (reason) {
-  // PDF loading error
-  console.error(reason);
-});
-</script>
-
-
-<canvas id="the-canvas"></canvas>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UDh4m08OQws?si=gdIOSRjP93QIhH3v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
