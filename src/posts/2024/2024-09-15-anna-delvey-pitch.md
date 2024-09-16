@@ -61,4 +61,4 @@ I have to assume that at least some of the names she drops in the deck are also 
 
 In all, a lot of brilliant grifter energy was dedicated to this effort, and it's most telling how this pitch would be completely unremarkable today, except that it was presented by a young woman instead of a young dude. Honestly, if she's able to parlay that background into getting to dance on a game show, at this point we should probably just accept this as her next act.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UDh4m08OQws?si=gdIOSRjP93QIhH3v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="600px" src="https://www.youtube-nocookie.com/embed/UDh4m08OQws?si=gdIOSRjP93QIhH3v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
