@@ -53,7 +53,7 @@ But really, I don't know exactly how she found me. Staying true to my character,
 
 This message is the source of the <a href="https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/DECK%20COAI.pdf?v=1725635335907">original PDF of her pitch deck</a> that you can use to follow along with her story. (Side note: she signed her emails below her name with her initials, which are the same as mine, and it still throws me off because it felt like I had somehow sent these messages to myself.)
 
-<object data="https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/DECK%20COAI.pdf?v=1725635335907" type="application/pdf" width="100%" height="6rem" style="margin-top: 1rem;"></object>
+<object data="https://cdn.glitch.global/034ff067-8128-4744-8807-d19cee4142e7/DECK%20COAI.pdf?v=1725635335907" type="application/pdf" width="100%" height="600px" style="margin-top: 1rem;"></object>
       
 One of the more striking and remarkable things about Delvey's pitch deck is how simple and text-heavy it is. Many other similar pitches I've seen are very graphics-rich, with lots of (usually contrived) charts and graphs showing industry trends or the like. By contrast, there's a self-assured tone to the stark, simple text of this deck, and of course the fact that she's only asking for roughly a million dollars seems quaint at a time when AI startups are raising a billion dollars solely on the basis of an idea.
 
