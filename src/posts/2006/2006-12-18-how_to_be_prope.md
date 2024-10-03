@@ -3,7 +3,7 @@ title: How to Be (Properly) Offensive
 slug: how_to_be_prope
 date_published: 2006-12-18T05:42:46.000Z
 date_updated: 2006-12-18T05:42:46.000Z
-tags: [random ha-ha]
+tags: [random ha-ha, memes]
 ---
 
 **Background:** I once [wore a funny t-shirt](/2005/06/02/defining_ones_i) for a photo that appeared in the New York Times, and [a bunch of people](/2006/07/18/the_goatse_tshi) thought it was kind of amusing, albeit juvenile. It’s a reference to [Goatse.cx](http://en.wikipedia.org/wiki/Goatse.cx), an extremely offensive shock site. As a result, I get sent virtually *all* Goatse-related news by my friends, colleagues, and readers.

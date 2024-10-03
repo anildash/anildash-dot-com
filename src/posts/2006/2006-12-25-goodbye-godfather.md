@@ -7,7 +7,10 @@ tags: [Best Of, Most Popular, music, james brown]
 ---
 
 To those of us who grew up after his artistic heyday, James Brown is some combination of legend, influence, icon, and inevitably, caricature. So on the day we find out about his passing, I thought I’d point out some examples of what an amazing cultural force he was, in the hopes this will help overshadow the endless broadcasts of “Living in America” or other trifles that might otherwise be the most prominent examples of his legacy.
-![James Brown](http://www.dashes.com/anil/images/james-brown.jpg)Though one of his best known sobriquets is “The Godfather of Soul”, a more accurate title would have been “The Father of Funk”. James didn’t just popularize the term, he defined the genre as a unique combination of sex, sweat, and social awareness. And it worked, at every level.
+
+![James Brown](https://cdn.glitch.global/404b3890-f989-441b-8d84-a05be36ed386/james-brown.jpg?v=1727918214127)
+
+Though one of his best known sobriquets is “The Godfather of Soul”, a more accurate title would have been “The Father of Funk”. James didn’t just popularize the term, he defined the genre as a unique combination of sex, sweat, and social awareness. And it worked, at every level.
 
 How profound was the change? Well, when Martin Luther King was assassinated, cities across the country threatened to explode into riots — New York, Los Angeles and Chicago all had outbreaks of violence. James Brown was in Boston, and convinced the mayor to let him play his scheduled show at the Boston Garden. The show was broadcast on local TV and continued for hours, and is credited with quelling the threat of violence in the city. **James Brown stops riots.**
 
@@ -16,7 +19,10 @@ Just a short while later, when [Richard Nixon was inaugurated](http://www.time.c
 James Brown was an innovator in the music industry as well. He was the first black artist to own his own master recordings for some of his work, was the first to create side acts and spinoff artists to help capitalize on his success, and was one of the first popular artists to actively court a bidding war between record labels while at the height of his popularity. It’s unlikely we’d have black artists today owning record labels, clothing lines, and producing thier own acts without his influence.
 
 Of course, James Brown’s legacy is a complex one. He was an abuser, of the women in his life as well as himself through various addictions over the years. By contemporary standards, it’s likely that other artists in his act would be credited with songwriting or production, especially given that James didn’t usually play any instruments on his compositions. The breadth of his cultural presence is such that “James Brown is Dead” became a hit song for L.A. Style in 1991, the same year that the career-spanning box set *Star Time* was released. And the Tom Tom Club single “Genius of Love” is about James Brown. That’s right — you can make a hit song by making a song *about* James Brown.
-[![20 All-Time Greatest Hits](http://www.dashes.com/anil/images/james-brown-20greatest.jpg)](http://www.amazon.com/exec/obidos/ASIN/B000001DUP/2020-20/) So when looking at his legacy, it makes sense to look to the music itself. It’s not an overstatement to say that without James Brown popular music as we know it tonight might well not exist. Besides being a founding father of funk and shepherding many of the best musicians in the genre through his band at various points in his career, his songs and the songs of his side projects formed the first and most widely-used samples for hip hop artists from the very beginning.
+
+[![20 All-Time Greatest Hits](https://cdn.glitch.global/404b3890-f989-441b-8d84-a05be36ed386/james-brown-20greatest.jpg?v=1727918274086)](http://www.amazon.com/exec/obidos/ASIN/B000001DUP/2020-20/)
+
+So when looking at his legacy, it makes sense to look to the music itself. It’s not an overstatement to say that without James Brown popular music as we know it tonight might well not exist. Besides being a founding father of funk and shepherding many of the best musicians in the genre through his band at various points in his career, his songs and the songs of his side projects formed the first and most widely-used samples for hip hop artists from the very beginning.
 
 (As I write this, [The Breaks](http://www.the-breaks.com/), the definitive database of music samples, is down, replaced with a simple, appropriate page in memoriam.)
 

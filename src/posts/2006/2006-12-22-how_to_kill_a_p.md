@@ -16,7 +16,7 @@ Here we have a chain of perfectly reasonable behaviors leading to a result that�
 
 And some Seagate employees in Minnesota reasonably thought, “Hey, my work is more important than just letting somebody store porn.”
 
-![Hard Drive](http://www.dashes.com/anil/images/seagate.jpg)
+![Hard Drive](https://cdn.glitch.global/404b3890-f989-441b-8d84-a05be36ed386/seagate.jpg?v=1727918326710)
 
 But the net result is that Seagate’s CEO is going to work extra hard to never show any personality or have a sense of humor again when he’s on the record. Jeff O’Brien will be a little more reluctant to include the killer line in a story. Jim Ledbetter is going to be more sensitive to charges he’s being sensational in his headlines. And Seagate employees are going to spend more time worrying about whether their CEO represents them accurately, or if their work is meaningful.
 
