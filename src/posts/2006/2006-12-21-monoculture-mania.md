@@ -6,7 +6,7 @@ date_updated: 2006-12-21T19:39:02.000Z
 tags: [monoculture]
 ---
 
-Okay, I’ve been [mumbling about the threat of monoculture](http://www.dashes.com/admin/mt/mt-search.cgi?tag=monoculture&amp;blog_id=1) for months now, but what’s really gratifying is how much attention the idea has gotten in many of the year-end roundups that are saturating the press. Even better, the people who’ve been thinking about this a lot longer than me are doing a great job of explaining the ideas.
+Okay, I’ve been [mumbling about the threat of monoculture](/tags/monoculture/) for months now, but what’s really gratifying is how much attention the idea has gotten in many of the year-end roundups that are saturating the press. Even better, the people who’ve been thinking about this a lot longer than me are doing a great job of explaining the ideas.
 
 The New York Times Magazine’s “Year In Ideas” issue had a few nods to the importance of cultural diversity online; [Homophily](http://www.nytimes.com/2006/12/10/magazine/10Section2a.t-4.html?ei=5090&amp;en=61191386c1b8c92a&amp;ex=1323406800&amp;adxnnl=1&amp;partner=rssuserland&amp;emc=rss&amp;adxnnlx=1166740540-oL2am68NSh9tI2g0Gj2wiw) is a great piece from Aaron Retica, pegged to [Nat’s post on O’Reilly Radar](http://radar.oreilly.com/archives/2006/10/homophily_in_so.html) from back in October.
 

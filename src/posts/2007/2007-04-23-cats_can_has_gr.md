@@ -3,6 +3,8 @@ title: Cats Can Has Grammar
 slug: cats_can_has_gr
 date_published: 2007-04-23T17:24:39.000Z
 date_updated: 2021-08-07T04:02:06.000Z
+heroimage: https://cdn.glitch.global/404b3890-f989-441b-8d84-a05be36ed386/lolcats-kitty-pidgin.jpg?v=1726840961256
+image: https://cdn.glitch.global/404b3890-f989-441b-8d84-a05be36ed386/lolcats-kitty-pidgin.jpg?v=1726840961256
 tags: [Best Of, Most Popular, random ha-ha, language, memes]
 ---
 
@@ -17,8 +19,10 @@ The core behavior has existed for some time; “[Image macro](http://en.wikipedi
 The rise of these new subspecies of lolcats are particularly interesting to me because “I can has cheezeburger?” has a fairly consistent grammar. I wasn’t sure this was true until I realized that **it’s possible to get cat-speak *wrong***.
 
 Incorrect kitty pidgin jumped to my attention the first time I saw [a reference to Dune](https://web.archive.org/web/20090201184317/http://icanhascheezburger.com:80/2007/02/07/the-spice-must-flow/) being used with a lolcat image. The caption on the linked version of the image, “The spice must flow.” is fine, if not particularly cat-like. But the caption on the version I saw first was [much more verbose](http://rev-jo.livejournal.com/132404.html): “I are dunecat. I controls the spice, I controls the universe.” Besides being an awkward attempt at overexplaining the punchline (I’ve never read *Dune* or seen the film, but the joke is obvious) this was just *all wrong*. The fact that we can tell no cat would talk like this shows that kitty pidgin is actually *quite consistent*.
-![](__GHOST_URL__/content/images/2021/08/D527EF07-4234-4F76-BD7D-E6C12E86D54A.jpeg)
-I was having a conversation with [Ben](http://en.wikipedia.org/wiki/Ben_Cerveny) and [Ben](http://btrott.vox.com/) a few weeks ago where I suggested this consistent grammar for lolcats could be a “cweeole”. Knowing a [bit more](http://www.dashes.com/anil/2007/04/22/pidgins_and_cre) about such things now, I realize this isn’t a creole but more likely a [pidgin](http://en.wikipedia.org/wiki/Pidgin) language, used to help cats talk to humans. And since “pidgin” is already a cutesy spelling of a mispronunciation, there doesn’t seem to be any really cute way to rename it to reflect its uniqueness. “Kitty pidgin” might be the closest thing we have to a name for this new language.
+
+![](https://cdn.glitch.global/404b3890-f989-441b-8d84-a05be36ed386/lolcats-kitty-pidgin.jpg?v=1726840961256)
+
+I was having a conversation with [Ben](http://en.wikipedia.org/wiki/Ben_Cerveny) and [Ben](http://btrott.vox.com/) a few weeks ago where I suggested this consistent grammar for lolcats could be a “cweeole”. Knowing a [bit more](/2007/04/22/pidgins_and_cre) about such things now, I realize this isn’t a creole but more likely a [pidgin](http://en.wikipedia.org/wiki/Pidgin) language, used to help cats talk to humans. And since “pidgin” is already a cutesy spelling of a mispronunciation, there doesn’t seem to be any really cute way to rename it to reflect its uniqueness. “Kitty pidgin” might be the closest thing we have to a name for this new language.
 
 There’s a consistent visual vocabulary to the construct, as well. If it ain’t Impact or Arial Black or some other nondescript sans serif font, it ain’t lolcat. White letters with a black outline are a must. But codifying a design guide for lolcats is well beyond my abilities.
 
@@ -35,9 +39,9 @@ Okay, go out and look at some of the finest kitty-related content:
 - [Cute Overload](http://www.cuteoverload.com/) is likely the seminal site for taking the “cute culture” aspect of online behavior seriously. Meg Frost always has fun with the content, but I haven’t seen any high-profile definitive collections of these genres that predate Cute Overload.
 - Choire Sicha is a genius, but if you needed more proof, you can now just head to [lolgays.com](http://www.lolgays.com/) to be redirected to [his Gawker post](http://gawker.com/news/lolgays/lolgays-winning-in-yur-internets-254052.php) on lolgays. It’s exactly what you *think* it is.
 
-**Update:** This post has gotten an amazing reaction, and inspired a number of follow-up posts, including a look at [MeowChat and PetSpeak](__GHOST_URL__/2007/04/25/meowchat_and_pe/) and my thoughts on [Cats, Comics and Closure](__GHOST_URL__/2007/04/30/cats_comics_and/). I’ve also collected responses to the popularity of lolcats in a few posts:
+**Update:** This post has gotten an amazing reaction, and inspired a number of follow-up posts, including a look at [MeowChat and PetSpeak](/2007/04/25/meowchat_and_pe/) and my thoughts on [Cats, Comics and Closure](/2007/04/30/cats_comics_and/). I’ve also collected responses to the popularity of lolcats in a few posts:
 
-- [Inadvertent Lazymeme Clearinghouse Lamentations](__GHOST_URL__/2007/05/21/inadvertent_lazymeme_clearinghouse_lamentations/) shows some of the best early responses to the meme
-- [Pidginholed](http://www.dashes.com/anil/2007/07/pidginholed.html) shows lolcats gaining popularity in mainstream media, including a Houston Chronicle cover story
-- And perhaps most amusingly, [The LOL Street Journal](__GHOST_URL__/2007/08/26/the_lol_street_journal/) marks the milestone of lolcats making their way, yes, into the Wall Street Journal.
-- If you enjoy this sort of stuff, you’ll want to [join me at ROFLCon](__GHOST_URL__/2007/11/26/serious_lols_come_to_roflcon/), an event being held at Harvard just to celebrate silly online memes like lolcats.
+- [Inadvertent Lazymeme Clearinghouse Lamentations](/2007/05/21/inadvertent_lazymeme_clearinghouse_lamentations/) shows some of the best early responses to the meme
+- [Pidginholed](/2007/07/pidginholed.html) shows lolcats gaining popularity in mainstream media, including a Houston Chronicle cover story
+- And perhaps most amusingly, [The LOL Street Journal](/2007/08/26/the_lol_street_journal/) marks the milestone of lolcats making their way, yes, into the Wall Street Journal.
+- If you enjoy this sort of stuff, you’ll want to [join me at ROFLCon](/2007/11/26/serious_lols_come_to_roflcon/), an event being held at Harvard just to celebrate silly online memes like lolcats.

@@ -9,7 +9,8 @@ tags: [Best Of, tech, Most Popular, google, seo, content moderation]
 **Summary:** In 2002, Google launched one of their few pay services, [Google Answers](http://answers.google.com/answers/). The service attracted only 800 responders in the past 4 years, and was [shut down](http://googleblog.blogspot.com/2006/11/adieu-to-google-answers.html) a few weeks ago. [Three years ago](http://metatalk.metafilter.com/mefi/3703), Matt Haughey created [Ask MetaFilter](http://ask.metafilter.com/), pays no money to those who answer questions, and has turned the site into a successful part of his business using, in part, Google AdSense to support the site.
 
 Why was Matt successful where Google was not? Let’s take a look.
-![Ask MetaFilter](http://www.dashes.com/anil/images/ask-metafilter.jpg)
+
+![Ask MetaFilter](https://cdn.glitch.global/404b3890-f989-441b-8d84-a05be36ed386/ask-metafilter.jpg?v=1727918679781)
 
 ### A Motivated Community
 
@@ -58,11 +59,12 @@ And as Jesse notes, though the site has a “best answer” option for askers to
 
 I’d add one final unique trait about the site: **I love answering questions**. I’m proud of my “best answers” on Ask MetaFilter, because they feel as if they were *earned*.
 
-I’ve [written before](http://www.dashes.com/anil/2006/11/12/borat_blogs_boo) about having provided best answers, and even [reveled](http://anil.vox.com/library/post/best-answer-again.html) in [them](http://anil.vox.com/library/post/best-answers.html) when they’ve happened. It’s a few lines of text on a single website, but clearly the reward is more [meaningful](http://www.dashes.com/anil/2006/07/05/making_somethin) to me than five bucks could ever be.
+I’ve [written before](/2006/11/12/borat_blogs_boo) about having provided best answers, and even [reveled](http://anil.vox.com/library/post/best-answer-again.html) in [them](http://anil.vox.com/library/post/best-answers.html) when they’ve happened. It’s a few lines of text on a single website, but clearly the reward is more [meaningful](/2006/07/05/making_somethin) to me than five bucks could ever be.
 
 ### Some Answers
 
 So what can we learn? It’s possible to launch a site *after* Google enters a category, develop the technological underpinnings yourself in your free time, provide fewer features than Google does, make use of Google’s own advertising system, and provide contributors with fewer financial rewards than Google does and *still make your site a success*.
 
 How do you do it? By honoring your community, making reasonable and transparent rules, getting experts to help you, and encouraging positive, thoughtful behavior from your site’s members. Kudos to Google for recognizing where they are and aren’t succeeding by their own standards. And congratulations to Matt Haughey for making one of the best sites on the web.
-**Update**: If you’re interested in some further reading, I’ve collected some [related links](http://www.dashes.com/anil/2006/12/ask-metafilter-links.html) about Ask MetaFilter that might be of interest.
+
+**Update**: If you’re interested in some further reading, I’ve collected some [related links](/2006/12/ask-metafilter-links.html) about Ask MetaFilter that might be of interest.
